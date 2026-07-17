@@ -22,6 +22,7 @@
 - **Obsidian install:** `.deb` ready at `~/Downloads/obsidian.deb`
 - Payment system needs real wallet address plugged in
 - Landing page/backend need deployment
+- **🎬 Beeks & Larry's Food Tour** — Animated food review series. Research open-source animation pipeline. Prototype after Vegas.
 
 ## Business Continuity
 - 4 Sight ops manual written → `vault/references/4sight-operations-manual.md`

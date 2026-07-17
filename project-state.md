@@ -35,6 +35,14 @@
 - **Greenville/Simpsonville/Clemson area, FHA 3.5% down
 - **Need:** Confirm voucher type with the person
 
+## Beeks & Larry's Food Tour 🎬
+- **Status:** 🟡 IDEATION — Animated food review series, Family Guy-style cutaway format
+- **Concept:** Cartoon Larry and Beeks review restaurants, with flashback cutaways
+- **Approach:** Open-source pipeline preferred, Vyond as backup
+- **Components needed:** Script AI, character creation, voice cloning (ElevenLabs), animation/lip-sync, editing
+- **IP concern:** Showrunner owns all rights to output — ruled out
+- **Next:** Research open-source tools, build pipeline prototype
+
 ## Memory System 🧠
 - **Status:** 🟢 LIVE — Phase 1 (Hindsight tuning) complete, Phase 2 (Obsidian vault) being set up
 - **Phase 1:** enableKnowledgeTools, recallMaxTokens=4096, recallBudget=high, recallTypes + missions set
