@@ -1,17 +1,19 @@
 # Working Context
 
-## Current State — Idle (2026-07-20 20:01 EDT)
+## Current State — Claude Feature Merge Complete (2026-07-22 00:15 EDT)
 
-Larry crushed 7/10 visits today. Two remaining.
+### What just happened
+- Full feature merge from Claude: player engine fix, VOD/Series detail screens, EPG guide rewrite, login with server field + remember-me
+- Session singleton system for runtime credential management
+- Config refactored to use --dart-define (no hardcoded secrets)
+- Pushed to GitHub, build running on Actions
 
-## Completed Today
-- Auto-save cron (Phase 3) set up ✅
-- Alesha Blakley Service Plan auto-filled ✅
-- Visit Planner map: due dates, drag-drop route, home base, touch support, all bug fixes ✅
-- **7 visits done:** Ida Shelton, James Thompson, William McGee, Robert Richardson, Linda Sullivan, Betty Johnson, Dorothy Thomas
-- OmniRoute evaluated and tabled ✅
+### Active
+- Waiting for GitHub Actions build to complete
+- Need to test APK on phone once build finishes
+- Hindsight + Obsidian vault + Graphify all healthy
 
-## Remaining
-- **Curtis Dunlap (REV)** — due 08/04
-- **Annie Gray (QV)** — due 07/31
-- **UVR remote access** — tabled
+### Notes
+- Credentials in local env.json (gitignored): primep2.tv / larryg / iSup27wVvd
+- GitHub tokens need refreshing (both expired)
+- APK rebrand attempt (x24 → 4 Sight) was abandoned — Flutter route is the focus now
