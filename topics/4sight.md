@@ -23,6 +23,7 @@ Premium IPTV reselling brand. Larry's primary side business project.
 - **Admin:** React/Vite (4Sight-Admin + single-file HTML admin panel)
 - **Payments:** Custom fiat-to-crypto gateway (no KYC)
 - **Landing page:** Single-file HTML
+- **Design tool:** pen.dev (formerly pencil.dev) — TJ recommended this as Android Studio companion. Agent-driven MCP design canvas inside IDE (VS Code/Cursor). `.pen` files live in repo, Git-versioned. Can paste from Figma. Free at pen.dev.
 - **Source:** Strong 8K (wholesale ~$2/mo via Alibaba), Prime IPTV (current test server)
 
 ## App Files

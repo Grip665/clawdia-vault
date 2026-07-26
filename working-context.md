@@ -1,6 +1,8 @@
 # Working Context
 
-## Current State — Build #51 Running (2026-07-22 22:57 EDT)
+## Current
+- Researched Usenet as media backup for IPTV — saved ref to topics/usenet.md
+- Logged pen.dev (from TJ) as Android Studio companion for 4Sight UI design — added to topics/4sight.md + daily note 2026-07-25 State — Build #51 Running (2026-07-22 22:57 EDT)
 
 ### What happened this session
 - **Build #48** — Fixed channel freeze: bypass GuideScreen, go directly to PlayerScreen. SUCCESS. Channels play.
