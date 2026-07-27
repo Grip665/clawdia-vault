@@ -1,40 +1,36 @@
 # Working Context
 
 ## Current
-- Researched Usenet as media backup for IPTV — saved ref to topics/usenet.md
-- Logged pen.dev (from TJ) as Android Studio companion for 4Sight UI design — added to topics/4sight.md + daily note 2026-07-25 State — Build #51 Running (2026-07-22 22:57 EDT)
+- **3060 Dev Setup (Tonight):** VS Code installed, Android Studio 2026.1.2 installed, Flutter SDK at C:\flutter (v3.29.2), pen.dev extension installed on VS Code. Needs Flutter first-run setup + Android SDK config.
+- **Laptop shell replacement research:** Complete in ~/Desktop/HP-Laptop-Shell-Replacement/README.md
+- **Week plan:** Finish 4Sight app → Rebuild Visual Therapy → Portfolio/game plan
 
 ### What happened this session
-- **Build #48** — Fixed channel freeze: bypass GuideScreen, go directly to PlayerScreen. SUCCESS. Channels play.
-- **Back button behavior** — non-home tabs go to Home, Home tab has double-tap to exit with toast
-- **Server auto-fill** — baked-in server defaults now pre-fill on login
-- **Dashboard overflow fixed** — removed Spacer(), responsive LayoutBuilder tiles scale down in landscape
-- **Player control row** — wrapped in FittedBox to prevent overflow
-- **Build #49** failed (clipBehavior not available on CI Flutter version)
-- **Build #50** succeeded (back button + server fix + clipBehavior removed)
-- **Build #51** running (responsive LayoutBuilder tiles)
+- **July 26, late night:** 
+  - 3060 setup: installed VS Code, Android Studio (via winget), Flutter SDK (v3.29.2 at C:\flutter), pen.dev VS Code extension (highagency.pencildev v0.6.62)
+  - HP laptop shell replacement research — saved to Desktop folder
+  - Larry going to sleep — will tackle 4Sight + VT + portfolio this week
 
 ### Active
-- **Build #51** is running on GitHub Actions — responsive tile fix for landscape overflow
-- Larry is designing a new home page mockup to replace the current dashboard
-- Video live feed on panels is wanted but will be added with the new design
+- Need to check Build #51 status on GitHub Actions
+- Larry will share a home page mockup
+- New dev pipeline: design in pen.dev → code syncs → Android Studio for hot reload → push
 
 ### What's been accomplished
 - Flutter app works: login, channel grid, video playback, player overlay
 - 7-tab bottom nav: Home, Live TV, Guide, Movies, Series, Account, Settings
-- Channels play when tapped (hero preview + grid)
-- Back button navigates correctly
-- Server address auto-fills
+- 3060 dev tools installed (VS Code, Android Studio, Flutter, pen.dev)
+- HP laptop shell replacement options researched
 
 ### Next
-- Larry will share a home page mockup
-- Implement new design + add video preview to Live TV tile
-- Add VOD/Series browsing (Movies & Series tabs)
-- Polish: EPG guide, favorites, settings
+- [ ] Check Build #51 result
+- [ ] Install Android Studio plugins (Flutter/Dart) on 3060
+- [ ] Run Flutter doctor on 3060, fix any issues
+- [ ] Larry's home page mockup → implement
+- [ ] Finish 4Sight (VOD, EPG, landing page, payments)
+- [ ] Rebuild Visual Therapy
 
 ### Notes
 - Credentials: primep2.tv / larryg / iSup27wVvd
-- APK builds via GitHub Actions (no local Flutter SDK)
-- Decompiled x24 APK at /tmp/4sight-repackage/ (abandoned route)
+- APK builds via GitHub Actions (will also build locally on 3060 now)
 - Working APK link: https://litter.catbox.moe/89krsb.apk (Build #50)
-- Build #51 link when ready: needs download from GitHub artifacts
