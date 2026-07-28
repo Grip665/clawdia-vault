@@ -1,15 +1,26 @@
 # Project State
 
-**Last Updated:** 2026-07-13
+**Last Updated:** 2026-07-27
 
 ## 4 Sight IPTV 🔴🟡🟢
-- **Status:** 🟢 BUILDING — App installed on phone, landing page + payment system + admin panel + Lite app + CAROL dashboard all built by Fable
+- **Status:** 🟡 LOCAL DEV — App installed on phone, dev environment now fully set up on 3060 laptop
 - **App:** Flutter, installed on Larry's Android, Xtream Codes login via Prime IPTV
 - **Pricing:** $20/mo US Basic, $25/mo Global Premium, $10/mo VOD, +$5 Adult Add-on
 - **Payment:** Building custom fiat-to-crypto gateway (no KYC)
-- **Next:** Landing page deploy, payment system live, admin panel deployment
+- **Next:** Check Build #51, implement home page mockup, local builds instead of GitHub Actions
 - **Source:** Strong 8K via Alibaba (~$2/mo wholesale), Prime IPTV as current test server
-- **Repo:** `~/Desktop/4Sight/`
+- **Repo:** `C:\Users\User\Desktop\4Sight\` on 3060
+- **Dev tools:** VS Code, Android Studio 2026.1.2, Flutter 3.29.2, pen.dev all installed
+
+## 3060 Dev Environment 🖥️
+- **Status:** 🟢 SET UP — All tools installed, ViewComfy + ComfyUI ready
+- **Tools installed:** VS Code 1.129.0, Android Studio 2026.1.2 (Quail2), Flutter 3.29.2 (C:\flutter), pen.dev extension
+- **Node.js:** Upgraded to v26.5.0 (was v18.17.1)
+- **Flutter doctor:** All green (Flutter ✅, Android SDK 36.0.0 ✅, Android Studio ✅, VS Code ✅)
+- **ComfyUI:** Desktop app running, API server on 127.0.0.1:8001 (Qwen models installed)
+- **ViewComfy:** Cloned, configured, running on http://localhost:3000
+- **Antivirus:** Bitdefender Free installed (found 1 threat)
+- **Disk cleanup:** Removed 17 language packs each for M365 and OneNote, freed ~105GB free
 
 ## CAROL (Case Management Automation) 🟡
 - **Status:** 🟡 WORKING — Auto-fills MC/QV/REV narratives on phoenix.scdhhs.gov

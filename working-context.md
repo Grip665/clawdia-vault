@@ -1,36 +1,36 @@
 # Working Context
 
 ## Current
-- **3060 Dev Setup (Tonight):** VS Code installed, Android Studio 2026.1.2 installed, Flutter SDK at C:\flutter (v3.29.2), pen.dev extension installed on VS Code. Needs Flutter first-run setup + Android SDK config.
-- **Laptop shell replacement research:** Complete in ~/Desktop/HP-Laptop-Shell-Replacement/README.md
-- **Week plan:** Finish 4Sight app → Rebuild Visual Therapy → Portfolio/game plan
+- **ViewComfy + ComfyUI setup (July 26-27):** 
+  - Node.js upgraded to v26.5.0 on 3060
+  - ViewComfy cloned to Desktop, npm install done, configured for ComfyUI port 8001
+  - ViewComfy running on http://localhost:3000 (detached via wmic)
+  - Need a text-to-image workflow JSON exported from ComfyUI for ViewComfy to use
 
-### What happened this session
-- **July 26, late night:** 
-  - 3060 setup: installed VS Code, Android Studio (via winget), Flutter SDK (v3.29.2 at C:\flutter), pen.dev VS Code extension (highagency.pencildev v0.6.62)
-  - HP laptop shell replacement research — saved to Desktop folder
-  - Larry going to sleep — will tackle 4Sight + VT + portfolio this week
+## Active
+- ViewComfy setup needs workflow JSON
+- Flutter doctor still needs to run on 3060
+- 4Sight home page mockup pending from Larry
 
-### Active
-- Need to check Build #51 status on GitHub Actions
-- Larry will share a home page mockup
-- New dev pipeline: design in pen.dev → code syncs → Android Studio for hot reload → push
-
-### What's been accomplished
-- Flutter app works: login, channel grid, video playback, player overlay
-- 7-tab bottom nav: Home, Live TV, Guide, Movies, Series, Account, Settings
-- 3060 dev tools installed (VS Code, Android Studio, Flutter, pen.dev)
+## What's been accomplished
+- Flutter app works: login, channel grid, video playback, player overlay, 7-tab bottom nav
+- 3060 dev tools installed: VS Code, Android Studio, Flutter SDK v3.29.2, pen.dev, ViewComfy
+- Node.js upgraded to v26.5.0
+- Disk cleanup: removed language packs, portable ComfyUI (1.94GB + extracted)
 - HP laptop shell replacement options researched
 
-### Next
-- [ ] Check Build #51 result
-- [ ] Install Android Studio plugins (Flutter/Dart) on 3060
+## Next
+- [ ] Check Build #51 result on GitHub Actions
 - [ ] Run Flutter doctor on 3060, fix any issues
+- [ ] Create/export text-to-image workflow JSON for ViewComfy (from ComfyUI Desktop)
 - [ ] Larry's home page mockup → implement
 - [ ] Finish 4Sight (VOD, EPG, landing page, payments)
 - [ ] Rebuild Visual Therapy
 
-### Notes
+## Notes
 - Credentials: primep2.tv / larryg / iSup27wVvd
 - APK builds via GitHub Actions (will also build locally on 3060 now)
 - Working APK link: https://litter.catbox.moe/89krsb.apk (Build #50)
+- ComfyUI Desktop API running on 127.0.0.1:8001 (--listen --port 8001 --enable-manager)
+- ViewComfy at http://localhost:3000, configured with COMFYUI_API_URL=127.0.0.1:8001
+- WMIC process call create is the only reliable way to start detached background processes via SSH on Windows
