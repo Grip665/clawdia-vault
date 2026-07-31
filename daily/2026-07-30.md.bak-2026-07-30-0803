@@ -1,0 +1,55 @@
+# 2026-07-30 Daily Note
+
+## Massive Session: Real-Debrid + Jellyfin + Zurg + Riven Setup
+
+### What We Did
+**Real-Debrid Media Stack on HP (192.168.50.237)**
+- Installed Docker on the HP
+- Set up Zurg (v0.9.3-final) connecting to RD with Larry's API key
+- Set up rclone WebDAV mount to Zurg at `~/jellyfin-rd/mount/`
+- Deployed Riven + PostgreSQL + Jellyfin via Docker Compose
+- Added Riven frontend (port 3000)
+- Fixed `user_allow_other` in /etc/fuse.conf for Docker+FUSE access
+- Fixed rclone VFS cache eating disk space (reduced to 1GB max)
+- Remote access: set up port forwarding on router for Jellyfin (8096)
+- Confirmed streaming works both locally and remotely
+- Riven configured with Torrentio + Knightcrawler scrapers, Real-Debrid connected
+
+### AuthentiCare 3.0 on E5 Play
+- ML Manager extracted the APK as `.apks` file from Larry's phone
+- Transferred to 3060 via SSH, then to HP via base64 tunnel
+- Analyzed: it's a .NET MAUI app with arm64-v8a native libs only
+- E5 Play (Snapdragon 425, 32-bit Android 8) can't run it — `INSTALL_FAILED_NO_MATCHING_ABIS`
+- **Orbic RC609L** may work (friend said it installed)
+- Plan B: LineageOS 16 on E5 Play this weekend to get 64-bit OS
+- Plan C: Find cheap used 64-bit phone
+
+### Key Configs
+- Jellyfin: `http://192.168.50.237:8096` (local), `http://75.137.103.62:8096` (remote)
+- Riven frontend: `http://192.168.50.237:3000`
+- Riven API: `http://192.168.50.237:8080`
+- Zurg WebDAV: `http://localhost:9999/dav/`
+- Mount dir: `~/jellyfin-rd/mount/`
+- RD API key: `N3C7PPBWN3RIGTOHFWJXJLPHCNOAH3JF5RQQF752V3OUUMF34DAQ`
+- Riven API key: `HzJCEfHif0Xw99ibC7TM9UHNyiblHAOe`
+
+### Files Created
+- `~/jellyfin-rd/` - full stack (config, scripts, docker-compose)
+- `~/jellyfin-rd/start.sh` and `stop.sh`
+- `~/jellyfin-rd/docker-compose.yml` - Riven + PostgreSQL + Jellyfin + Frontend
+- `~/jellyfin-rd/config/zurg/config.yml` - Zurg config with RD API key
+- `~/jellyfin-rd/config/zurg/rclone.conf` - WebDAV mount config
+
+### Known Issues
+- Jellyfin library scan is slow (Zurg WebDAV, 571 torrents, stuck at 48% for ~20min)
+- Riven can't create symlinks on FUSE mount (Zurg is read-only)
+- Riven needs Jellyfin API key for full integration
+- Riven's content services (Trakt) need API key setup
+- E5 Play AuthentiCare install blocked by 32-bit OS
+
+### To Do
+- [ ] Check if Orbic RC609L works for AuthentiCare (Larry to test)
+- [ ] LineageOS 16 on E5 Play if Orbic doesn't work (weekend project)
+- [ ] Connect Trakt to Riven for content discovery
+- [ ] Maybe prettify Jellyfin UI (theme or Jellyfin Vue)
+- [ ] Clean up rclone VFS cache config
