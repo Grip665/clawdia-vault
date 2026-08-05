@@ -4,6 +4,10 @@
 - 10 PM auto-save: daily note current (big day), vault/daily synced, graphify updated, Desktop backup done. Monday — no git push.
 - **Big day:** Day 1 Home Health admin training ✅ (scope: + Senator Transportation), PLUS MPN mystery solved ✅, 2 REV narratives filled (Curtis 9731846, Fred 9752688 — both SAVED by Larry at 18:55), Fred REV assessment 1811145 completed through review, Curtis assessment 1811152 manual (subs 1-20 saved, Sub 21 Source of Info pending).
 
+## Current Session (2026-08-04 02:00 EDT)
+- 2 AM auto-save: quiet night, no new activity. Daily notes written (memory + vault/daily), graphify updated, Desktop CAROL map backed up. Tuesday — no git push.
+- Idle. Carryover tasks unchanged (see Active Tasks below).
+
 ## Active Tasks
 1. **Open (carryover):** Riven URL → Jellyfin, Trakt connect, LineageOS flash on E5 Play, AuthentiCare 3.0 test
 2. **REV wrap-up:** Curtis 1811152 Sub 21 Source of Info (Larry) → Sub 22 Review save → email Area Office (both Curtis & Fred). Fred assessment: Sub 22 Source of Info + Area Office email.
@@ -13,3 +17,6 @@
 6. **Watch:** Ayva laptop deals (Dell G15 5515 $460.99 laptop_guru — verify feedback), Real-Debrid expires 2026-08-29, Strong 8K sub expires Aug 10, GV 864 number (Larry mid-pick)
 7. **AI Tools Watchlist:** ~/Desktop/Life-Improvements/AI-Tools-Watchlist.md (ReDesign, VTracer, MiniMax H3, local DeepSeek plan)
 8. **Mistakes to remember:** never `docker rm -f` a live container (killed Jellyfin 08-02); do NOT change carol_fill_assessment.js to Save-only (subs 1-20 need Save & Complete); no browser automation during Larry's manual work without telling him first
+## Current Session (2026-08-04 22:00 EDT)
+- 10 PM auto-save: daily note current (huge day — Fred SP done, 4 QTs, 3060 setup, Clemson bill finalized), vault/daily synced, graphify updated (22,676 nodes), Desktop CAROL map backed up. Tuesday — no git push.
+- CAROL now runs against the 3060 Chrome (Larry prefers it) via tunnel_3060.sh — watch for silent tunnel death.
