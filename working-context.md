@@ -20,3 +20,20 @@
 ## Current Session (2026-08-04 22:00 EDT)
 - 10 PM auto-save: daily note current (huge day — Fred SP done, 4 QTs, 3060 setup, Clemson bill finalized), vault/daily synced, graphify updated (22,676 nodes), Desktop CAROL map backed up. Tuesday — no git push.
 - CAROL now runs against the 3060 Chrome (Larry prefers it) via tunnel_3060.sh — watch for silent tunnel death.
+
+## Current Session (2026-08-05 23:10 EDT)
+- 10 PM auto-save cron FAILED at model-call phase (timeout) — file writes + graphify completed; working-context was the gap. Manually updated now.
+- **Big day — 3 wins:**
+  1. **James McGirt SP** (884397, mirror of 1762551) filled + Larry saved & signed
+  2. **Timothy Evatt SP** (884400, mirror of 1762552) filled + Larry saved & signed
+  3. **Canonical SP Mirror Fill workflow** documented in FORM_MAP.md (both) + Desktop backup — includes the split-row over-match note (Larry-approved: leave extras)
+  4. **10 MCs filled & verified** (Ida Shelton, James Jones 8/10, Willie Bunkley, Julia Cash 8/17, Kamelle Watson, Willie Johnson 8/24, Shirley Watson, Ronald Lyles, Roger Bagwell, Rhonda Green) — left open for Larry review on 3060
+- **Tomorrow (08-06):** Shaneka Logan SP — assessment 1811441 done, SP NOT yet created. Need old plan IDs from her row (client 9922210). HEARTBEAT reminder set.
+- CAROL still running on 3060 Chrome via tunnel_3060.sh.
+
+## Active Tasks (updated 2026-08-05)
+1. **Shaneka Logan SP (TOMORROW 08-06):** assessment 1811441; mirror fill via canonical SP workflow; need old plan assessment ID from her row (client 9922210)
+2. **Open (carryover):** Riven URL → Jellyfin, Trakt connect, LineageOS flash on E5 Play, AuthentiCare 3.0 test
+3. **Clemson PLUS:** modify to full year (ref #76743065); **Aug 12**: check bill → Two Payment Plan before Aug 13 if PLUS not applied (HEARTBEAT already set)
+4. **Watch:** Ayva laptop deals, Real-Debrid expires 08-29, Strong 8K sub expires Aug 10, GV 864 number
+5. **Billing training:** transcripts 2-3 pending (Trip Care, Complicore, Modivcare/TP portal); payroll = every other Wed, call payroll Thurs before 3 PM; workflow.md updated
