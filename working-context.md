@@ -37,3 +37,20 @@
 3. **Clemson PLUS:** modify to full year (ref #76743065); **Aug 12**: check bill → Two Payment Plan before Aug 13 if PLUS not applied (HEARTBEAT already set)
 4. **Watch:** Ayva laptop deals, Real-Debrid expires 08-29, Strong 8K sub expires Aug 10, GV 864 number
 5. **Billing training:** transcripts 2-3 pending (Trip Care, Complicore, Modivcare/TP portal); payroll = every other Wed, call payroll Thurs before 3 PM; workflow.md updated
+## Current Session (2026-08-06 02:00 EDT)
+- 2 AM auto-save: quiet night, no new activity. Daily notes written (memory + vault/daily), graphify updated, Desktop CAROL map backed up. Thursday — no git push.
+- Idle. Today's priority: Shaneka Logan SP (assessment 1811441, client 9922210, SP not yet created).
+- 2026-08-06: New job (payroll). Transcript from today coming. Workflows = READ-ONLY pulls of numbers, Larry submits himself. Topic: vault/topics/payroll-workflows.md
+## Current Session (2026-08-06 22:00 EDT)
+- 10 PM auto-save: daily note current (huge day), vault/daily synced with afternoon/evening entries, graphify update running, Desktop CAROL map backup. Thursday — no git push.
+- **Big day:** Shaneka Logan SP done (disciplines+strengths+goals, verified; Larry: Service Request/sign), CAROL version confusion resolved (both folders now identical SP chain script), James Long REV narrative + assessment 1811820 done (all 21 subs; Larry: Source of Info + Review), sub 2 treatments mirror rule + sub 17 no-comment rule canonized into scripts.
+- **NEW JOB (payroll):** details TBD, transcript coming. READ-ONLY HARD RULE — never submit; dropdowns OK for nav/filter only.
+
+## Active Tasks (updated 2026-08-06 22:00)
+1. **Payroll new job (NEW):** transcript from Larry → workflows once login info arrives (READ-ONLY pulls; Larry submits himself)
+2. **James Long 1811820:** Larry → Source of Info (sub 22/Review) closeout
+3. **Open (carryover):** Riven URL → Jellyfin, Trakt connect, LineageOS flash on E5 Play, AuthentiCare 3.0 test, Trip Care & Complicore billing topics
+4. **Clemson PLUS:** modify to full year (ref #76743065); **Aug 12**: check bill → Two Payment Plan before Aug 13 if PLUS not applied
+5. **Watch:** Ayva laptop deals (MSI Sword 15 $449 ebay 407122934184 messaged), Real-Debrid expires 08-29, Strong 8K sub expires Aug 10, GV 864 number
+6. **Billing:** WellRide + TP portal workflows documented (transcript #2 folded into workflow.md); payment schedule 8/14 & 8/28
+7. **CAROL:** both repos synced (SP chain disc 1-7 + strengths + goals; sub 2 mirror; sub 17 no comment)
