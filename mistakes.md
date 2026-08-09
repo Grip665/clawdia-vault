@@ -24,3 +24,6 @@
 ## 2026-06-19
 - **Service Plan save** — Almost saved the Complete/Sign page which would've locked everything without Area Office review.
   → **Fix:** Never save Complete/Sign page unless explicitly told to.
+## 2026-08-08
+- **Recent-conversation memory miss** — Larry messaged "Yo" and asked if I remembered what we'd just been talking about; I had no trace of the conversation between the 2 PM auto-save and 18:09 because context pruning trimmed it before it was logged.
+  → **Lesson:** The gap is between *last file save* and *now*. Fix: log conversations to `memory/2026-08-08.md` + working-context more aggressively during active chats (not just at scheduled saves), or set a mid-session save cron/heartbeat while chatting. Existing vault/heartbeat system saves 2 AM/8 AM/2 PM/10 PM — not enough for active evening sessions.
