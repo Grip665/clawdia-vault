@@ -1,0 +1,122 @@
+                              Guidelines for Prior Approval of Waivered Services
+
+      •      Prior approval of authorizations is required for all CLTC programs
+              o      Community Choice Waiver                 o Medically Complex Children’s Waiver
+              o      HIV Waiver                              o Children’s PCA
+              o      Ventilator Waiver                       o Children’s PDN
+      •      When creating a new service plan, the assessor needs to indicate the requested service
+             level for EACH service identified in the service plan.
+      •      When reviewing a new service plan, the reviewer needs to enter an approval level for
+             each service prior to signing off of the service plan.
+      •      Waivered services should not be requested until all other community resources have been
+             explored and documented.
+      •      The case manager must critically examine a participant’s needs.
+      •      The case manager needs to explore a case mix of services to meet the participant’s need.
+
+                                                    Examples
+
+                     Current Service Level                      Case Mix of Services
+             PC2 for 20 hours                          PC2 for 10 hours and PC1 for 10 hours
+             PC2 for 15 hours and PC1 for 5 hours      PC2 for 10 hours and PC1 for 10 hours
+             PC2 for 25 hours                          PC 2 for 5 hours and ADHC for 5 days
+
+      •      Only services and service levels the case manger thinks are necessary should be requested in
+             the approval process.
+      •      If the participant insists on receiving a service that the case manager thinks is not necessary,
+             current policy should be followed. This requested service should not show up on the prior
+             approval section, since there should not be an intervention to trigger it.
+      •      The reviewer needs to review the assessment and service plan to determine participant’s level
+             of assistance required. This should be compared to the justification for services on the screen.
+      •      The reviewer will give approval of service levels based on this information and discussion with
+             the case manager.
+
+
+
+Prior Approval Points related to Phoenix
+
+      •      For service plans that were created prior to October 15, 2010, Phoenix auto generated a service
+             request level and approval level based on what was currently authorized.
+                 o If the participant need changes and service is needed beyond what is currently
+                     authorized, a new request will have to be submitted and approved.
+      •      For service plans that were created on or after October 15, 2010, no prior approval was created.
+                 o In order to create an authorization for any service, that service will have to be requested
+                     and approved.
+                 o This is for an authorization that will be created at the same level, for less, or for more
+                     units than currently authorized.
+      •      When creating a new service plan, the assessor needs to indicate the requested service
+             level for EACH service identified in the service plan.
+
+April	  12,	  2011	  
+	  
+      •      When reviewing a new service plan, the reviewer needs to enter an approval level for
+             each service prior to signing off of the service plan.
+      •      Only services identified on the service plan can be requested and approved.
+      •      Only services that have been approved can be referred to a provider and authorized.
+      •      Services can only be referred for the current approval level or less.
+      •      Services can only be authorized, ongoing, for the current approval level or less.
+      •      If there is an open authorization, the case manager can make a referral to a new provider. The
+             authorization cannot be completed for the new provider until the current provider is terminated.
+      •      If more than one provider is providing any service, then the total authorized units of both
+             providers must be within approved limits. For example, if two providers are authorized to
+             provide, personal care II and the approved limit is 15 hours per week, then the two
+             authorizations combined can add up to no more than 15 hours per week total.
+      •      Temporary increase in services
+                  o The case manager can do an authorization for up to 10 units above the current approved
+                      level for an authorization that is not longer than one week. The authorization must have
+                      a start and end date. For example, if the approved level for Personal Care II is 10 hours
+                      per week, the case manager can authorize 20 hours of Personal Care II as long as the
+                      end date is on the authorization and is no more than seven days after the start date.
+                      This is being done so short term, temporary increases do not have to be approved.
+                  o If an increase is needed for longer than one week for units greater than the current
+                      approved level, a new service level must be approved.
+      •      If the reviewer denies a service request, zero (0) needs to be entered for the approval level.
+                  o Services that have been approved at a service level of 0 cannot be referred or
+                      authorized to providers.
+      •      If a service is requested, but has not been reviewed and approved and if the service plan is
+             amended to no longer include that service, the service will be removed from the prior approval
+             screen. However, if the service has been approved, it will stay on the prior approval screen.
+      •      There is a new nurse role – “State Nurse and Service Plan Approver”. Nurses in your office
+             who will approve service levels need to have their role changed.
+      •      The following people in the CLTC offices are allowed to approve service levels: area
+             administrator, lead team nurse, lead team case manager, case manager level 2, and nurse
+             consultants with approval authority.
+      •      People who have the right to approve services will have a prior approval tab on their dashboard
+             indicating participants with approval requests.
+      •      Once all services are approved, the participant will be removed from everyone’s dashboard ho
+             has approval authority.
+      •      If some but not all services are approved or denied, the notification will remain on the dashboard
+             of approvers until all services have been approved or denied.	  
+      •       When a service(s) has been approved or denied, a notification will be on the case manager’s
+             dashboard for 14 days.	  
+
+Guidelines For Authorizing services
+
+      1. Any service level that would have required Central Office approval in the past will continue to do
+         so.
+
+
+April	  12,	  2011	  
+	  
+                    Until phoenix is able to automatically send these to Central Office, you will need to send
+                    •
+                    an e-mail request to Susie Boykin with the CLTC#.
+                 • The “Rational for Increased Service Units” need to be completed by the case manager
+                    and approved by the area administrator prior to contacting Susie.
+                 • The guidelines for what requires Central Office approval is located in Phoenix in the
+                    “Help” section.
+      2.     The policy on incontinence supply authorizations need to be followed.
+      3.     Consider a mix of PC1/PC2/Agency Companion and/or Attendant/Companion Individual. In
+             many cases the higher cost of hand-on service is not required for the entire time the worker is in
+             the home.
+      4.     Use the nutritional supplement guideline in making authorizations for this service.
+      5.     For persons authorized for Adult Day Health Care, attendance at Adult Day Health Care should
+             be considered when authorizing in-home hours.
+      6.     The “Guidelines For Determining In-Home Hours” should be used in determining total hours of
+             in-home service authorized per week.
+
+
+
+
+April	  12,	  2011	  
+	  
+

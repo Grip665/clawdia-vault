@@ -24,6 +24,12 @@
 ## 2026-06-19
 - **Service Plan save** — Almost saved the Complete/Sign page which would've locked everything without Area Office review.
   → **Fix:** Never save Complete/Sign page unless explicitly told to.
+## 2026-08-10 — 📖 Mistaken Identity Chapter 1
+- **Routing bug** — agents.list had only `carol` with no bindings, so ALL DMs silently routed to Carol's engine. Carol loaded the shared identity files (IDENTITY.md=Clawdia), so she answered as Clawdia. Larry chatted for a long stretch thinking he was talking to me; he felt something was off ("you didn't sound like yourself").
+  → **Fix:** Added `main` (Clawdia, general) as default + explicit telegram binding to `main`; kept `carol` as Phoenix-only with strict allowlist. Routing now explicit. Gateway restarted.
+  → **Lesson:** (1) Every bound agent needs its OWN explicit identity block — never rely on shared identity files to disambiguate. (2) If a user says "you don't sound like yourself," check routing/identity FIRST — their gut is usually right. (3) Capabilities follow the engine, not the name tag — general tasks were hitting Carol's restricted toolset.
+  → **Action item:** Give Carol her own unique interface/persona/panel so she's visibly Carol (Larry's suggestion). Low priority, quiet-slot task.
+
 ## 2026-08-08
 - **Recent-conversation memory miss** — Larry messaged "Yo" and asked if I remembered what we'd just been talking about; I had no trace of the conversation between the 2 PM auto-save and 18:09 because context pruning trimmed it before it was logged.
   → **Lesson:** The gap is between *last file save* and *now*. Fix: log conversations to `memory/2026-08-08.md` + working-context more aggressively during active chats (not just at scheduled saves), or set a mid-session save cron/heartbeat while chatting. Existing vault/heartbeat system saves 2 AM/8 AM/2 PM/10 PM — not enough for active evening sessions.

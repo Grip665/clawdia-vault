@@ -1,0 +1,40 @@
+                   Medicaid Eligibility by Payment Category
+PCAT           PAYMENT CATEGORY                    MAJOR GROUP           Benefit Type
+ 10             MAO (Nursing Home)                 Elderly/Disabled          Full
+ 11        MAO (Extended/Transitional)           Low Income Families         Full
+ 12                 OCWI (Infants)            Pregnant Women and Infants     Full
+ 13        MAO (Foster Care/Adoption)            Low Income Families         Full
+ 14            MAO (General Hospital)              Elderly/Disabled          Full
+ 15     MAO (Waivers - Home & Community)           Elderly/Disabled          Full
+ 16              Pass Along Eligibles              Elderly/Disabled          Full
+ 17            Early Widows/Widowers               Elderly/Disabled          Full
+ 18         Disabled Widows/Widowers               Elderly/Disabled          Full
+ 19            Disabled Adult Children             Elderly/Disabled          Full
+ 20              Pass Along Children               Elderly/Disabled          Full
+ 31             Title IV-E Foster Care           Low Income Families         Full
+ 32         Aged, Blind, Disabled (ABD)            Elderly/Disabled          Full
+ 33              ABD Nursing Home                  Elderly/Disabled          Full
+ 40                Working Disabled                Elderly/Disabled          Full
+ 48           Qualifying Individuals (QI)          Elderly/Disabled        Limited
+ 50     Qualified Disabled Working Individual      Elderly/Disabled        Limited
+ 51        Title IV-E Adoption Assistance        Low Income Families         Full
+ 52                      SLMB                      Elderly/Disabled        Limited
+ 54               SSI Nursing Home                 Elderly/Disabled          Full
+ 55                 Family Planning              Low Income Families       Limited
+ 57             Katie Beckett/TEFRA                Elderly/Disabled          Full
+ 59             Low Income Families              Low Income Families         Full
+ 60              Regular Foster Care             Low Income Families         Full
+ 61              Former Foster Care              Low Income Families         Full
+ 71         Breast and Cervical Cancer             Elderly/Disabled          Full
+ 80                       SSI                      Elderly/Disabled          Full
+ 81          SSI With Essential Spouse             Elderly/Disabled          Full
+ 85             Optional Supplement                Elderly/Disabled          Full
+ 86         Optional Supplement & SSI              Elderly/Disabled          Full
+ 87       OCWI Pregnant Women/Infants         Pregnant Women and Infants     Full
+ 88        Partners For Healthy Children               Children              Full
+
+    Full benefits may receive waiver services.
+     A look-back may need to be completed before services are authorized.
+    Limited benefits may not receive waiver services.
+     A separate eligibility determination is required.
+

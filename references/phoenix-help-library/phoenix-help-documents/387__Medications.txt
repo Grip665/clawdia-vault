@@ -1,0 +1,72 @@
+Medications
+                Adding Medications
+
+• On the carousel, click “Medications”
+• Click “Add medication”
+
+
+
+
+                                         2
+                      Adding Medications
+• Enter the Medication in the “Search” field. Note: Keying the letters of the
+  medication will generate a search result of medications beginning with the same
+  letters
+• Select Medication
+• Select frequency from drop down box
+• Add any comments in the comment section then click “Add medication”
+
+
+
+
+                                                                               3
+                      Adding Medications
+• Selected medication(s) and information will be displayed
+• Additional medication (s) can be added by clicking the “Add medication” button
+• Medication(s) can be removed by clicking the “Remove Medication”
+• Additional comments can be made in the comment section
+
+
+
+
+                                                                                   4
+                      Flagged Medications
+• Medications that requires monitoring can be flagged by clicking the flag icon
+• Flagged medication(s) will be highlighted
+• Flagged medication(s) can be undone by clicking the “Flag” button
+• Additional comments can be made in the comment section
+
+
+
+
+                                                                                  5
+                Discontinued Medications
+• Medication can be discontinued clicking the “DC” button
+• Enter date in the “Discontinued on” section
+• Click the “Discontinue” button
+• Additional comments can be made in the comment section
+
+
+
+
+                                                            6
+                  Medications
+             Creating an FFA Application
+• “Active Medications” tab will display all active medications
+• “All Medications” tab will display all active or discontinued medications
+
+
+
+
+                                                                              7
+                  Medications
+             Creating an FFA Application
+• “Discontinued Medications” tab will display all discontinued medications
+• Additional comments can be made in the comment section
+
+
+
+
+                                                                             8
+9
+

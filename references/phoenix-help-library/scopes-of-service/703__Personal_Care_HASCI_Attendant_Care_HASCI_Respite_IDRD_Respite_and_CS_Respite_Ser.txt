@@ -1,0 +1,916 @@
+HCBS Provider Manual                                                         July 1, 2024
+Scopes of Services                 Personal Care Services, CPCA, HASCI Attendant, Respite
+
+      MEDICAID HOME AND COMMUNITY-BASED WAIVER SCOPE OF SERVICES
+
+                                             FOR
+
+ PERSONAL CARE, CHILDREN’S PERSONAL CARE,
+HASCI AGENCY ATTENDANT CARE, HASCI AGENCY
+  RESPITE, ID/RD AGENCY RESPITE, CS AGENCY
+   RESPITE SERVICES, PCSC RESPITE and MCC
+              UNSKILLED RESPITE
+      A. Objectives
+      The objectives of the Personal Care, Children’s Personal Care (CPCA), HASCI Agency
+      Attendant Care, HASCI Agency Respite, ID/RD Agency Respite, CS Agency Respite,
+      PCSC Respite, and MCC Respite services are to restore, maintain, and promote the
+      health status and preserve a safe and sanitary home environment of Medicaid Home
+      and Community- Based waiver participants through home support, medical monitoring,
+      escort/transportation services, and assistance with activities of daily living and
+      instrumental activities of daily living.
+
+      B. Conditions of Participation
+         1. Agencies desiring to be a provider of Personal Care, HASCI Agency
+            Attendant Care, HASCI Agency Respite, ID/RD Agency Respite, or CS
+            Agency Respite services must have an owner and/or administrator that
+            has demonstrated experience in In-Home personal care services or a
+            similar service. The owner or administrator of the agency must have at
+            least three (3) years of administrative experience in the health care field.
+            If the owner is also the administrator, he or she is required to have at
+            least three (3) years of administrative experience in the health care field.
+
+         2. Pursuant to S.C. § Code 44-70-10 all providers of personal care services
+            require a license to provide personal care services. Providers are
+            required to renew their license annually. Providers who do not maintain
+            their in- home care provider license must be terminated. Providers who
+            are not licensed by the South Carolina Department of Public Health
+            (SCDPH) will not be allowed to enroll as a Medicaid provider for these
+            services. If the provider loses their SCDPH in-home care license for any
+            reason, the provider must voluntarily terminate their contract with SCDHHS
+            immediately. With voluntary termination, the provider will be able to
+            recontract once required documentation is obtained and provided to
+            SCDHHS. If there is an involuntary termination due to lack of licensing,
+            the provider must wait 6 months prior to reapplying for the SCDHHS
+            Contract.
+
+         3. Provider agencies must be housed in an office that is in a commercially
+            zoned or unzoned area.
+
+         4. Agencies requesting prior approval must submit the following
+
+                                  South Carolina Department of Health and Human Services 1
+HCBS Provider Manual                                                         July 1, 2024
+Scopes of Services                 Personal Care Services, CPCA, HASCI Attendant, Respite
+
+            documents/evidence:
+
+            a.   County/municipal zoning permit to operate a business
+
+            b. Business licenses as required
+
+            c. Evidence agency meets applicable county/municipal, mixed-use zoning
+               guidelines
+
+            d. Pictures exhibiting:
+
+                   i.          Business entrance door
+
+                  ii.          Office space devoted entirely for the business; space
+                               must be enclosed and have a locking door
+
+                  iii.         Outside business sign conforming to county/municipal
+                               sign and zoning codes
+
+         5. The provider must ensure that, when serving participants, its aide and
+            supervisors display a photo identification badge identifying the provider
+            and the employee.
+
+         6. Agencies must utilize the automated systems mandated by the South
+            Carolina Department of Health and Human Services (SCDHHS) to
+            document and bill for the provision of services. Providers must log into
+            the Phoenix Provider Portal (SCDHHS) or Therapy (SCDDSN) daily.
+
+         7. Providers must accept or decline referrals from SCDHHS or South
+            Carolina Department of Disabilities and Special Needs (SCDDSN) within
+            two (2) working days. Failure to respond will result in the loss of the
+            referral.
+
+         8. The provider must verify the participant’s Medicaid eligibility when it
+            accepts an authorization and monthly thereafter to ensure continued
+            eligibility. Agencies can verify Medicaid eligibility for SCDHHS participants
+            in the Phoenix Provider Portal on their dashboard or by utilizing the
+            Medicaid Web Tool. Providers must also refer to the Administrative and
+            Billing Manual for additional information on eligibility determination.
+
+         9. Providers may use paperless filing systems. Electronic records must be
+            made available upon request, and providers must have a reliable back-up
+            system in the event their computer system shuts down. Electronic records
+            must meet all scope requirements and requirements outlined in the
+            Administrative and Billing Manual
+
+         10. The provider must agree to use any competency evaluation provided by
+             SCDHHS.
+
+      C. Description of Services to be Provided
+         1. For SCDHHS, the unit of service is one (1) hour of direct Personal Care,
+
+                                  South Carolina Department of Health and Human Services 2
+HCBS Provider Manual                                                           July 1, 2024
+Scopes of Services                   Personal Care Services, CPCA, HASCI Attendant, Respite
+
+            CPCA and PCSC Respite services provided in the participant's place of
+            residence and/or natural environment. For SCDDSN, the unit of service is
+            fifteen (15) minutes for Personal Care, HASCI Agency Attendant Care,
+            HASCI Agency Respite, ID/RD Agency Respite, CS Agency Respite
+
+         2. Personal Care, CPCA, HASCI Agency Attendant Care, HASCI Agency
+            Respite, ID/RD Agency Respite, CS Agency Respite, and PCSC Respite
+            services may be provided in other locations when the participant’s record
+            documents the need and when prior approved by the case manager/care
+            coordinator (CM/CC). Services are not allowed when the participant is in
+            an institutional setting, Adult Day Health Care (ADHC) and/or Pediatric
+            Medical Day Care setting. The amount of time authorized does not
+            include provider transportation time to and from the participant. Services
+            provided without a current, valid authorization are not reimbursable.
+
+         3. The number of units and services provided to each participant are
+            dependent upon the individual participant's needs as set forth in the
+            participant's Service Plan/Authorization. If it is determined that a
+            participant requires more than one aide for lifting, transfers, etc., this must
+            be prior approved by SCDHHS/ SCDDSN.
+
+         4. When services are authorized for more than one SCDHHS/SCDDSN
+            participant in the same home, the provider must document and deliver the
+            total amount of hours authorized for each participant. For example, if both
+            participants are authorized for two (2) hours of Personal Care per day; the
+            aide must provide a total of four (4) hours per day in the home or natural
+            environment.
+
+         5. Under no circumstances will any type of skilled medical service be
+            performed by an aide. HASCI Agency Attendants or HASCI Respite
+            caregivers may provide skilled services as authorized by the Service
+            Coordinator. All skilled needs for HASCI services are determined by RN
+            delegation. All skilled needs for MCC services must be determined by a
+            physician, nurse practitioner or physician’s assistant.
+
+         6. Services to be provided include:
+
+            a. Support for activities of daily living, e.g.,
+
+                        •   eating
+                        •   bathing (bed bath, bench shower, sink bath)
+                        •   personal grooming including dressing
+                        •   personal hygiene
+                        •   providing skin care (applying lotion, oil, etc.)
+                        •   meal planning and preparation
+                        •   assisting participants in and out of bed
+
+                        •   repositioning participants as necessary
+
+
+                                   South Carolina Department of Health and Human Services 3
+HCBS Provider Manual                                                         July 1, 2024
+Scopes of Services                 Personal Care Services, CPCA, HASCI Attendant, Respite
+
+                        •   assisting with ambulation
+
+                     • toileting and maintaining continence
+            b. Home support, e.g.,
+
+                            •   cleaning
+
+                            •   laundry
+
+                            •   shopping
+
+                            •   home safety
+
+                           • errands
+            c. Monitoring of the participant’s condition such as but not limited to the
+               type of monitoring that would be done by a family member such as
+               monitoring temperature, checking pulse rate and observation of
+               respiratory rate.
+
+            d. Monitoring medication (for example, informing the participant that it is
+               time to take medication as prescribed by his, or her, physician and as
+               written directions on the box, or bottle, indicate). The aide cannot
+               administer the medicine; however, this does not preclude the aide
+               from handing the medicine container to the participant. HASCI Agency
+               Attendants or HASCI Respite caregivers may give medication as
+               authorized by the Service Coordinator. All skilled needs for HASCI
+               services are determined by RN delegation.
+
+            e. Escort services when necessary. Transportation may be provided
+               when necessary and included in the participant’s Service
+               Plan/Authorization. The provision of transportation is optional and will
+               depend on the provider’s policy.
+
+            f.   Strength and balance training.
+
+            g. Limited assistance with financial matters such as, but not limited to,
+               delivering payments to designated recipients on behalf of the
+               participant. Receipts for payment must be returned to the participant.
+
+            h. Assistance with communication which includes, but is not limited to,
+               placing the phone within participant’s reach and physically assisting
+               participant with use of the phone, and orientation to daily events.
+
+      D. Staffing
+         1. The provider must provide all the following staff members:
+
+                        Note: Supervisory nurses may be provided through
+                        subcontracting arrangements:
+
+            a. A registered nurse(s) (RN) or licensed practical nurse(s) (LPN) who
+               meets the following requirements:
+
+
+                                  South Carolina Department of Health and Human Services 4
+HCBS Provider Manual                                                            July 1, 2024
+Scopes of Services                    Personal Care Services, CPCA, HASCI Attendant, Respite
+
+                  i.    Currently licensed by the S.C. Board of Nursing
+
+                         ii.      Capable of evaluating the aide’s competency in terms
+                                  of his or her ability to carry out assigned duties and
+                                  his/her ability to relate to the participant
+
+                        iii.      Able to assume responsibility for in-service training for
+                                  aides by individual instruction, group meetings or
+                                  workshops
+
+                        iv.       The provider must verify nurse licensure at time of
+                                  employment and must ensure that the license always
+                                  remains active and in good standing during
+                                  employment. The provider must maintain a copy of the
+                                  current license verification in the employee’s personnel
+                                  file. Nurse licensure can be verified at the State Board
+                                  of nursing website:
+
+                               https://verify.llronline.com/LicLookup/Nurse/Nurse.aspx?di
+                               v=17
+
+            b. Aides who meet the following minimum qualifications:
+
+                  i.    Able to read, write, and communicate effectively with
+                        participant and supervisor
+
+                 ii.              Able to use the Electronic Visit Verification (EVV)
+                                  System
+
+                 iii.             Capable of assisting with the activities of daily living
+
+                 iv.              Capable of following a care plan with minimal
+                                  supervision.
+
+                 v.               Have a valid driver’s license if transporting participants.
+                                  The provider must ensure the employee’s license is
+                                  valid while transporting any participants by verifying the
+                                  official highway department driving record of the
+                                  employed individual initially and every two (2) years
+                                  during employment. Copies of the initial and
+                                  subsequent driving records must be maintained in the
+                                  employee’s personnel file.
+
+                 vi.              Are at least 18 years of age
+
+                vii.              Have passed competency testing or successfully
+                                  completed a competency training and evaluation
+                                  program performed by a RN or LPN prior to providing
+                                  services to Home and Community-Based waiver
+                                  participants. The competency evaluation must contain
+                                  all elements of the PC services in the Description of
+                                  Services listed above. The competency training must
+
+                                     South Carolina Department of Health and Human Services 5
+HCBS Provider Manual                                                 July 1, 2024
+Scopes of Services         Personal Care Services, CPCA, HASCI Attendant, Respite
+
+                        also include training on the following required training
+                        topics:
+
+
+                                   •   Confidentiality, accountability and
+                                       prevention of abuse and neglect
+
+                                   •   Fire safety/disaster preparedness related
+                                       to the specific location of services
+
+                                   •   First   aid    for   emergencies,
+                                       monitoring medications, and basic
+                                       recognition of medical problems
+
+                                   •   Documentation and record keeping
+
+                                   •   Ethics and interpersonal relationships
+
+                                   •   Orientation to traumatic brain
+                                       injury, spinal cord injury,
+                                       dementia,      and      similar
+                                       disability
+
+                                   •   Training in lifting and transfers
+
+
+                        If an LPN performs the competency evaluation, the LPN
+                        must be supervised by a RN and report all competency
+                        evaluation results to the RN supervisor. The LPN and
+                        the supervising RN, as a confirmation of the delegation
+                        of this responsibility, must sign and date the form. All
+                        signatures must be original, signature stamps are not
+                        acceptable.
+
+                        Proof of the competency evaluation must be recorded
+                        and filed in the personnel record prior to the aide
+                        providing care to waiver participants. Community
+                        Options has developed a form called Competency
+                        Documentation Form which must be used to document
+                        the competency evaluation results.
+
+                        All aides, including those who are Certified Nursing
+                        Assistants (CNA), are required to complete the
+                        competency testing or training and evaluation outlined
+                        above.
+
+                viii.   Have a minimum of ten (10) hours of relevant in-
+                        service training per calendar year to include mandatory
+                        annual training topics. The annual 10-hour requirement
+                        will be pro-rated based on the month of hire for the first
+                        calendar year of employment. Training must be
+                        conducted under the supervision of the nurse
+
+                          South Carolina Department of Health and Human Services 6
+HCBS Provider Manual                                                        July 1, 2024
+Scopes of Services                Personal Care Services, CPCA, HASCI Attendant, Respite
+
+                              supervisor. Documentation shall include topic, name
+                              and title of trainer, training objectives, outline of
+                              content, length of training, list of trainees, and location.
+                              This documentation must be maintained in an annual
+                              in-service manual for all employees. In addition, each
+                              staff member’s personnel file must contain a summary
+                              of their in-service training for the year.
+
+                              Providers are to maintain a summary including the date
+                              of the training, the subject or title of the training,
+                              signature and title of the trainer, signature of employee,
+                              and the total number of in- service hours earned.
+                              SCDHHS has developed a form called In-Service
+                              Documentation Form which must be used to document
+                              in-service training. Topics for specific in-service training
+                              may be mandated by SCDHHS. In-service training may
+                              be furnished by the nurse supervisor while the aide is
+                              furnishing care to the participant. Additional training
+                              may be provided as deemed necessary by the
+                              Provider. All instructor-led and self-study training
+                              programs, not on the prior approved list must be
+                              approved for content and credit hours by SCDHHS
+                              prior to being offered. Self-study training hours may
+                              not exceed six (6) of the ten (10) in-service annual
+                              training hours. The Provider shall submit proposed
+                              programs not on the prior approved list to the SCDHHS
+                              Community Options Central Office at least forty-five
+                              (45) days prior to the planned implementation. All
+                              approved training topics are at the SCDHHS agency
+                              website:
+
+                              Approved In-Service Training Topics
+
+         2. Agency staff may be related to participants served by the agency within
+            limits allowed by the South Carolina Family Caregiver Policy. The
+            following family members cannot be a paid caregiver:
+
+            a. The spouse of a Medicaid participant (including married but
+               separated);
+
+            b. A parent of a minor Medicaid participant;
+
+            c. A stepparent of a minor Medicaid participant;
+
+            d. A foster parent of a minor Medicaid participant;
+
+            e. Any other legally responsible adult or legal guardian of a Medicaid
+               participant
+
+
+                Family members who are primary caregivers will not be reimbursed for
+                HASCI Attendant Care, HASCI Agency Respite, ID/RD Agency
+
+                                 South Carolina Department of Health and Human Services 7
+HCBS Provider Manual                                                         July 1, 2024
+Scopes of Services                 Personal Care Services, CPCA, HASCI Attendant, Respite
+
+                 Respite, CS Agency Respite, and PCSC Respite, and MCC Respite.
+                 All other qualified family members can be reimbursed for their
+                 provision of Personal Care, CPCA, HASCI Attendant Care, HASCI
+                 Agency Respite, ID/RD Agency Respite, CS Agency Respite, PCSC
+                 Respite, and MCC Respite.
+
+
+         3. PPD Tuberculin Test
+
+         Please refer to the Department of Public Health (DPH) website for PPD
+         Tuberculin test requirements.
+
+         https://scdhec.gov/sites/default/files/media/document/R.61-122.pdf
+
+         For additional information, providers must contact the Tuberculosis Control
+         Division, Department of Public Health, 1751 Calhoun Street, Columbia, SC
+         29201, phone (803) 898-0558.
+
+         4. Individual records must be maintained that document that each staff
+            member has met all staffing requirements. Required documentation must
+            be filed in the personnel file within fifteen (15) days of employment or of
+            receipt. Employee records must contain at minimum
+
+            a. the employee application/resume,
+
+            b. background checks,
+
+            c. CNA registry check,
+
+            d. OIG report,
+
+            e. SCDHHS competency evaluation documentation form,
+
+            f.   and in-service training documentation for the employee.
+
+            Other documents must be maintained in the file as applicable: PPD
+            testing, driver’s license and driving record, and nurse’s license validation.
+
+         5. A State Law Enforcement Division (SLED) criminal background check is
+            required for all employees prior to hire and at least every two years
+            thereafter to include employees who will provide direct care to
+            SCDHHS/SCDDSN participants and all administrative/office employees
+            (office employees required to have SLED background checks include:
+            administrator, office manager, nurse supervisor, and persons named on
+            organizational chart in management positions). All SLED criminal
+            background checks must include all data for the individual with no less
+            than a ten (10) year timeframe being searched. The SLED criminal
+            background check must include statewide data. The statewide data must
+            include South Carolina and any other state or states the worker has
+            resided in within the prior (10) ten years. Potential employees with felony
+            convictions within the last ten (10) years cannot provide services to
+            SCDHHS/SCDDSN participants or work in an administrative/office
+
+                                  South Carolina Department of Health and Human Services 8
+HCBS Provider Manual                                                         July 1, 2024
+Scopes of Services                 Personal Care Services, CPCA, HASCI Attendant, Respite
+
+             position. Potential employees with non-violent felonies dating back ten
+             (10) or more years can provide services to SCDHHS/SCDDSN
+             participants under the following circumstances:
+
+                       •   Participant/responsible party must be notified of the aide’s
+                           SLED criminal background, i.e., felony conviction, and year
+                           of conviction;
+                       •   The provider must obtain a written statement, signed by the
+                           participant/responsible party acknowledging awareness of
+                           the aide’s SLED criminal background and agreement to have
+                           the aide provide care; this statement must be placed in the
+                           participant record.
+         Potential administrative/office employees with non-violent felony convictions
+         dating back ten (10) or more years can work in the agency at the provider’s
+         discretion.
+
+         Hiring employees with misdemeanor convictions will be at the provider’s
+         discretion. Employees hired prior to July 1, 2007, and continuously employed
+         since then will not be required to have a SLED criminal background check.
+
+         6. The provider must check the CNA registry for all staff prior to hire then at
+            least every two years thereafter. A copy of the search results page must
+            be maintained in each employee’s personnel file. Anyone on the CNA
+            Registry with a revoked license is not allowed to provide services to
+            waiver participants or participate in any Medicaid funded programs. The
+            website addresses are listed below:
+
+         CNA Registry: https://cna365.examroom.ai/registry/?StateCode=SC
+
+         7. The provider must check the OIG exclusions lists for all staff prior to hire
+            then at least every two years thereafter. A copy of the search results page
+            must be maintained in each employee’s personnel file. Anyone on the
+            OIG Registry is not allowed to provide services to waiver participants or
+            participate in any Medicaid funded programs. The website addresses are
+            listed below:
+
+         OIG Exclusions List: https://exclusions.oig.hhs.gov/
+
+      E. Conduct of Service
+      The provider must maintain documentation showing that it has complied with the
+      requirements of this section.
+
+         1. The provider must obtain a Service Provision Form or Authorization for
+            Personal Care, CPCA, HASCI Attendant Care, HASCI Agency Respite,
+            ID/RD Agency Respite, CS Agency Respite, PCSC Respite, or MCC
+            Respite from the CM or CC. The authorization will designate the amount,
+            frequency, and duration of service for participants in accordance with the
+            participant's Service Plan/Authorization. The provider will receive new
+            authorizations only when there is a change to the authorized service
+            amount, frequency, or duration. The current and past Service
+
+                                  South Carolina Department of Health and Human Services 9
+HCBS Provider Manual                                                         July 1, 2024
+Scopes of Services                 Personal Care Services, CPCA, HASCI Attendant, Respite
+
+            Authorizations must be printed and placed in the participant’s record.
+            Services must not begin prior to the authorized start date.
+
+         2. For SCHHS participants, the provider must obtain an updated SCDHHS
+            Service Plan from the case manager prior to the start of services.
+            SCDHHS Service plans are updated in Phoenix annually and available on
+            the provider’s dashboard. The provider must maintain the current and
+            annual service plans in the participant’s record. The provider must adhere
+            to those duties which are specified in the SCDHHS Service Plan in
+            developing the provider task list. This provider task list must be developed
+            by an RN or LPN Supervisor. Provider task lists for CPCA services must
+            be completed by an RN Supervisor as CPCA services must be supervised
+            by an RN. If additional tasks are identified that would be beneficial for the
+            participant that are not outlined in the SCDHHS Service Plan, the provider
+            must contact CM to discuss the possibility of having these duties included
+            in the SCDHHS Service Plan. Please note that for DDSN participants, no
+            Service Plan will be provided.
+
+         3. As part of the conduct of service, Personal Care, HASCI Agency
+            Attendant Care, HASCI Agency Respite, ID/RD Agency Respite, CS
+            Agency Respite, and PCSC Respite services must be provided under the
+            supervision of a RN or LPN who meets the requirements as stated in this
+            Scope and who will:
+
+            a. Visit the participant’s home prior to the start of Personal Care, CPCA
+               HASCI Agency Attendant Care, HASCI Agency Respite, ID/RD
+               Agency Respite, CS Agency Respite, and PCSC Respite services.
+               This visit by the provider’s nurse must be recorded in the Electronic
+               Visit Verification (EVV) System from the participant’s home at the time
+               of the visit (for SCDHHS participants) and documented in the record.
+               If the participant has already been receiving another similar service
+               a new initial visit is required prior to the start date of personal care
+               services. For SCDDSN participants, the provider must adhere to
+               those duties which are specified in the service plan authorization in
+               developing the provider task list. This provider task list must be
+               developed by a RN or LPN. If there are additional tasks not outlined in
+               the Service Authorization for SCDDSN participants, the provider must
+               contact the CC to discuss the possibility of adding the additional duties
+               to the service authorization. The purpose of this visit is to:
+
+
+                   i.    Develop the list of required tasks to be performed by the aide
+                         based on the needs outlined on the Service
+                         Plan/Authorization for the participant. (This list must be
+                         developed prior to the provision of PCS/CPCA/HASCI Agency
+                         Attendant Care, HASCI Agency Respite, ID/RD Agency
+                         Respite, CS Respite services, PCSC Respite, and MCCW
+                         Respite.) Documentation must be maintained in the
+                         participant’s record
+
+                  ii.   Give the participant written information regarding advanced
+
+
+                                 South Carolina Department of Health and Human Services 10
+HCBS Provider Manual                                                           July 1, 2024
+Scopes of Services                   Personal Care Services, CPCA, HASCI Attendant, Respite
+
+                         directives; the participant is required to sign and date a
+                         statement that they have received this information; the nurse
+                         supervisor is also required to sign and date the statement.
+
+                  iii.   Inform participants of their right to complain about the quality of
+                         PCS/CPCA/HASCI Attendant Care, HASCI Respite, ID/RD
+                         Respite, and CS Respite services provided; the participant is
+                         required to sign and date a statement that they have received
+                         this information; the nurse supervisor is also required to sign and
+                         date the statement. The complaint information must contain at a
+                         minimum, the name of the person(s) to whom the complaint
+                         must be made, that persons’ telephone number(s) and
+                         address(es). The first point of contact must be a person
+                         employed by the provider. The second point of contact must be
+                         any related licensing agency (DPH, LLR, etc.)
+
+                  iv.    The nurse supervisor must give participants information about
+                         how to register a complaint. Complaints against aides must be
+                         investigated by the provider and appropriate action taken.
+                         Documentation must be maintained in the participant and aide’s
+                         file.
+
+            b. Nurse supervisors and/or aides may not discuss services authorized by
+               SCDHHS or SCDDSN with the participant. If participants of any
+               waiver ask about either the level of service they are receiving or the
+               different services offered in one of the waivers the nurse supervisor
+               and/or aide must refer that participant back to their case manager for
+               additional information.
+
+            c. Be accessible by phone during any hours services are provided under
+               this contract. If the nurse supervisor position becomes vacant,
+               SCDHHS must be notified no later than the next business day by
+               emailing provider-distribution@scdhhs.gov.
+
+            d. Provide and document supervision of, training for, and evaluation of
+               aides.
+
+            e. Make a supervisory visit to the participant’s place of residence within
+               thirty (30) days after the PCS/CPCA/HASCI Attendant Care service is
+               initiated.
+
+            f.   After the thirty (30) day supervisory visit, make a supervisory visit to
+                 the participant’s place of residence at least once every four (4)
+                 months for each participant. Four (4) month supervisory visits must be
+                 conducted by the end of the fourth month. The aide must be present
+                 during at least one (1) of the supervisory visits during each twelve (12)
+                 month period. For SCDHHS/SCDDSN participants, supervisory visits,
+                 including the initial visit, must be documented in the participant record
+                 and recorded in the Electronic Visit Verification (EVV) System, for
+                 SCDHHS only, from the participant’s home at the time of the visit. In
+                 the event the participant is inaccessible during the time the
+                 supervisory visit would have normally been made, the visit must be
+
+                                  South Carolina Department of Health and Human Services 11
+HCBS Provider Manual                                                         July 1, 2024
+Scopes of Services                 Personal Care Services, CPCA, HASCI Attendant, Respite
+
+                completed within five (5) working days of the resumption of Personal
+                Care/HASCI Attendant Care services. The supervisor's report of the
+                on-site visits must include, at a minimum:
+
+                   i.    Documentation that services are being delivered consistent
+                         with the Service Plan/Authorization.
+
+                  ii.           Documentation that the participant's needs are being
+                                met.
+
+                  iii.          Reference to any complaints which the participant
+                                or family member/responsible party has lodged.
+
+                  iv.           A brief statement regarding any changes in the
+                                participant's service needs; and,
+
+                  v.            Supervisor’s original signature and date. Signature
+                                stamps are not acceptable.
+
+            g. Assist aides as necessary as they provide individual personal care
+               services as outlined by the Service Plan Authorization. Any
+               supervision given must be documented in the individual participant's
+               record.
+
+         4. Documentation of all supervisory visits must be filed in the participant’s
+            record within thirty (30) days of the date of visit.
+
+         5. Supervisory visits must be conducted as necessary if there are
+            indications of substandard performance by the aide.
+
+         6. If there is a break in service which lasts more than sixty (60) days, the
+            supervisor must complete a new initial visit when services are resumed. If
+            the participant’s condition changes enough to warrant a new service plan,
+            the supervisor must update the task sheet to reflect the new duties.
+
+         7. The provider must maintain an individual participant record which
+            documents the following:
+
+            a. The provider must initiate Personal Care, CPCA, HASCI Attendant
+               Care, HASCI Agency Respite, ID/RD Agency Respite, CS Agency
+               Respite, PCSC Respite, and MCC Respite services on the date
+               agreed upon by the CM, provider, and participant indicated on the
+               Medicaid authorization. Services must not be provided prior to the
+               authorized start date and must be provided according to the schedule
+               as indicated on the Service Plan/Authorization.
+
+                For CPCA, Service Provision Forms must be dated with a start date of
+                Sunday. Services must begin the first week of authorization based on
+                participant’s requested schedule.
+
+            b. If the provider identifies Personal Care, CPCA, HASCI Attendant
+               Care, HASCI Agency Respite, ID/RD Agency Respite, CS Agency
+
+
+                                 South Carolina Department of Health and Human Services 12
+HCBS Provider Manual                                                          July 1, 2024
+Scopes of Services                  Personal Care Services, CPCA, HASCI Attendant, Respite
+
+               Respite, PCSC Respite, and MCC Respite service duties that would
+               be beneficial to the participant's care but are not specified in the
+               SCDHHS Service plan for SCDHHS participants or Service
+               Authorization for SCDDSN participants, the provider must contact the
+               CM or CC to discuss the possibility of having these duties included in
+               the Service Plan/Authorization. The CM or CC will make the decision
+               as to whether the Service Plan/Authorization should be amended to
+               include the additional service duty.
+
+            c. For SCDHHS participants, no skilled services may be performed by
+               the aide. For SCDDSN HASCI participants, skilled services may be
+               performed by an aide only as allowed by the Nurse Practice Act. For
+               HASCI participants, skilled service must be ordered by a licensed
+               physician and authorized by the Case Manager. The aide must be
+               trained by an RN and the RN must delegate skilled care to the aide.
+               Documentation of the training and delegation must be maintained in
+               both the participant’s file and the aide’s personnel file. The physician’s
+               order, authorization and RN training/delegation must be obtained prior
+               to the aide rendering the service.
+
+            d. The provider must notify the CM or CC within two (2) working days of the
+               following:
+
+                  i.    Participant's condition has changed, and the Service Plan no
+                        longer meets participant's needs or the participant no longer
+                        appears to need PCS/CPCA/HASCI Attendant Care, HASCI
+                        Agency Respite, ID/RD Agency Respite, CS Agency Respite,
+                        PCSC Respite, and MCCW Respite services.
+
+                  ii.   Participant is institutionalized, dies or moves out of the service
+                        area.
+
+                 iii.   Participant no longer wishes to receive PCS/CPCA/HASCI
+                        Attendant Care, HASCI Agency Respite, ID/RD Agency
+                        Respite, CS Agency Respite, PCSC Respite, and MCC
+                        Respite services.
+
+                 iv.    Knowledge of the participant's Medicaid ineligibility or potential
+                        ineligibility.
+
+                 v.     Report regarding abuse, neglect, or exploitation has been
+                        made to the appropriate authorities.
+
+
+            e. The provider must maintain a record keeping system which
+               documents:
+
+                  i.    The delivery of services in accordance with the SCDHHS
+                        Service Plan. The provider shall not ask the
+                        participant/responsible party to sign any log or task sheet. The
+                        task sheet must be reviewed, signed, with original signature
+                        (signature stamps are not acceptable), and dated every two
+
+                                 South Carolina Department of Health and Human Services 13
+HCBS Provider Manual                                                          July 1, 2024
+Scopes of Services                  Personal Care Services, CPCA, HASCI Attendant, Respite
+
+                         weeks by the supervisor. Task sheets must be filed in the
+                         participant’s record within 30 days of service delivery.
+
+                   ii.   Services provided by the personal care aide must also be
+                         documented in the Electronic Visit Verification (EVV) System
+                         at check out.
+
+                  iii.   NOTE: For SCDHHS participants, the Participant Activity Task
+                         Sheet report can be accessed in Phoenix Provider Portal may
+                         be utilized as the documentation of the delivery of services if
+                         the previously stated criteria is met. However, if a resolution is
+                         submitted for a date of service, a task sheet listing services
+                         provided must be maintained in the participant’s file.
+
+                  iv.    Task sheets/Daily logs can include multiple services on the
+                         same sheet if the services can be easily identified, and tasks
+                         performed can be distinguished. For example, if a participant
+                         receives PCS and Companion services, both can be
+                         documented on the same sheet if each service can be easily
+                         identified.
+
+                  v.     All active participant records must contain at least two (2)
+                         years of documentation to include task sheets, service plans,
+                         supervisory visit documentation, any complaints, etc. Per
+                         Medicaid policy all records must be retained for at least five (5)
+                         years. Active records must contain all service authorizations,
+                         SCDHHS Service Plans (for SCDHHS participants), Right to
+                         Complain documentation, Advanced Directives
+                         documentation, Task Sheets and Supervisory Visit
+                         Documentation.
+
+            f.   For SCDHHS participants: For all instances in which a participant
+                 did not receive an authorized daily service, providers must indicate on
+                 the Electronic Visit Verification (EVV) System website the reason why
+                 the service was not delivered. The provider must do this both when
+                 the provider was unable to complete the visit and when the participant
+                 was not available to receive the visit. For each week in which there
+                 are missed visits, the provider must indicate the reason on the
+                 website by the close of business the following week. A missed visit
+                 report is not required for CPCA/SCDDSN/HASCI/IDRD/CS/PCSC
+                 participants.
+
+            g. Whenever two (2) consecutive attempted or missed visits occur, the
+               local SCDHHS/SCDDSN office must be notified. An attempted visit is
+               when the aide arrives at the home and is unable to provide the
+               assigned tasks because the participant is not at home or refuses
+               services. A missed visit is when the provider is unable to provide the
+               authorized service. These instances must be documented in the
+               participant’s record as well as the Phoenix Provider Portal for
+               SCDHHS participants.
+
+         8. Providers must adhere to all Electronic Visit Verification (EVV) System
+
+                                  South Carolina Department of Health and Human Services 14
+HCBS Provider Manual                                                           July 1, 2024
+Scopes of Services                   Personal Care Services, CPCA, HASCI Attendant, Respite
+
+             and Phoenix policies and procedures as indicated in the Phoenix EVV
+             Provider User Guidelines, which can be obtained from the Phoenix
+             Provider portal (https://providers.phoenix.scdhhs.gov/) in the Help
+             section.
+
+      F. Children’s Personal Care Requirements
+      The requirements listed in this section are in addition to the requirements listed in this
+      scope for PCS/CPCA services. Children’s PC services are reimbursable when the
+      following conditions are met:
+
+         1. Child is under age 21
+
+         2. Provided in the participant’s place of residence/and or in the community
+
+         3. Authorized by SCDHHS/SCDDSN
+
+      The CM must determine the need for personal care services and develop a service plan
+      that outlines the child’s needs. This service plan will only be updated as needed.
+
+      Children’s Personal Care services must be supervised by a Registered Nurse (RN).
+
+
+      G. Administrative Requirements
+         1. The provider must inform SCDHHS of the provider’s organizational
+            structure including the Provider personnel with authority and responsibility
+            for employing qualified personnel, ensuring adequate staff education, in-
+            service training and employee evaluations. The provider agency shall
+            notify SCDHHS within three (3) working days in the event of a change in
+            the agency administrator, address, phone number or an extended
+            absence of the agency administrator.
+
+         2. The provider must provide SCDHHS with a written document showing the
+            organization, administrative control and lines of authority for the
+            delegation of responsibility down to the hands-on participant care level
+            staff at contract implementation. The document must include an
+            organizational chart including names of those currently in the positions.
+            Revisions or modifications to this organizational document must be
+            provided to SCDHHS. It is recommended that this document be readily
+            accessible to all staff.
+
+         3. Administrative and supervisory functions shall not be delegated to
+            another agency or organization.
+
+         4. The provider agency shall acquire and maintain for the duration of the
+            contract liability insurance and worker’s compensation insurance as
+            provided in Article IX, Section D of the Contract. The provider is required
+            to list SCDHHS as a Certificate Holder for informational purposes only on
+            all insurance policies using the following address: Post Office Box 8206,
+            Columbia, SC 29202-8206.
+
+
+                                  South Carolina Department of Health and Human Services 15
+HCBS Provider Manual                                                         July 1, 2024
+Scopes of Services                 Personal Care Services, CPCA, HASCI Attendant, Respite
+
+            Failure to maintain the required insurance will result in termination of your
+            contract with SCDHHS
+
+         5. The provider must develop and maintain a Policy and Procedure Manual
+            that describes how activities will be performed in accordance with the
+            terms of the requirements of the contract. The Policy and Procedure
+            Manual shall be available during office hours for the guidance of the
+            governing body and personnel and must be made available to SCDHHS
+            upon request.
+
+         6. The provider must comply with Article IX, Section Z of the Contract
+            regarding safety precautions. The provider must also have an on-going
+            infectious disease program to prevent the spread of infectious diseases
+            among its employees. At minimum, the infectious disease program must
+            include the following
+
+            a. Definition of infectious disease
+
+            b. How an infectious disease is spread
+
+            c. How to provide services in a way that prevents the spread of an
+               infectious disease
+
+         7. The provider shall ensure that key agency staff are accessible in person
+            or by phone during compliance review audits conducted by SCDHHS
+            and/or its agents. Providers are required to keep documentation records,
+            including medical records, in chronological order.
+
+         8. The provider must ensure that its office is open and staffed by qualified
+            personnel during the hours of 10:00 a.m. to 4:00 p.m., Monday through
+            Friday. Outside of these hours, the Provider agency must be available by
+            telephone during normal business hours, 8:30 a.m. to 5:00 p.m., Monday
+            through Friday. Failure to maintain an open and staffed office as
+            indicated will result in sanctions as outlined in section G, last paragraph.
+            The provider must also have a number for emergencies outside of normal
+            business hours. Participant and personnel records must be maintained at
+            the address indicated in the contract and must be made available, upon
+            request, for review by SCDHHS.
+
+         9. The provider must have an effective written back-up plan in place to ensure
+            that the participant receives the PCS/CPCA, CPCA, HASCI Attendant
+            Care, HASCI Agency Respite, ID/RD Agency Respite, CS Agency
+            Respite, PCSC Respite, and MCCW Respite services as authorized.
+            Whenever the provider determines that services cannot be provided as
+            authorized, the Case Manager must be notified by telephone for
+            SCDDSN or Phoenix conversation for SCDHHS participants immediately.
+            Telephone calls must be documented in the participant’s record. The
+            provider must maintain documentation of the use of the backup plan in the
+            participant’s file.
+
+         10. The provider shall update holidays in Phoenix; the provider is not required
+             to furnish services on those days. PCS/CPCA/HASCI Attendant Care,
+
+                                South Carolina Department of Health and Human Services 16
+HCBS Provider Manual                                                         July 1, 2024
+Scopes of Services                 Personal Care Services, CPCA, HASCI Attendant, Respite
+
+            HASCI Agency Respite, ID/RD Agency Respite, CS Agency Respite,
+            PCSC Respite, and MCCW Respite provider agency must not be closed
+            for more than two (2) consecutive days at a time, except when a holiday
+            falls in conjunction with a weekend. If a holiday falls in conjunction with a
+            weekend, a PCS/CPCA/HASCI Attendant Care, HASCI Agency Respite,
+            ID/RD Agency Respite, CS Agency Respite, PCSC Respite, and MCCW
+            Respite provider agency may be closed for not more than four (4)
+            consecutive days.
+
+
+
+
+                                South Carolina Department of Health and Human Services 17
+

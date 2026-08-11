@@ -1,0 +1,5 @@
+            Transferring Cases
+ From Participant’s Dashboard, click “Transfer”
+ Select area from “Participant Transfer Area” drop
+ box then click “Save”
+

@@ -1,0 +1,263 @@
+Division of Long Term Living
+Documentation Policy and Procedure                                                  March 2019
+
+                                           Documentation Policy
+
+             This policy applies to all Community Long Term Care waivers and programs.
+
+             The accountability of the CLTC Representative/Worker and the program must be
+             assured through appropriate documentation and data collection. Documentation is
+             an integral part of effective pre-admission screening activity and case management.
+             Documentation should adhere to professional standards. Documentation is required
+             to record any case activity in accordance to policy and procedures. Appropriate
+             documentation is mandatory.
+
+             Documentation provides an accurate record of all case activities and actions. All
+             documentation is a legal record that may be used as evidence in court.
+             Documentation is also required to ensure organizational and worker compliance.
+
+                 •   Documentation should be related to the participant and should reflect
+                     factual information recorded in a professional manner.
+
+                 •   Use only agency approved abbreviations. Refer to the Approved
+                     Abbreviation List Appendix II.
+
+                 •   Correct spelling and proper grammar must be used.
+
+                 •   Extraneous comments unrelated to the participant’s situation are not
+                     appropriate for inclusion in the case record.
+
+                 •   Personal opinions and judgmental statements are not appropriate for the
+                     participant record.
+
+                 •   Emails are not appropriate for the participant record.
+
+                 •   Quality assurance reviews/forms must not be filed in the participant record.
+
+
+             These standards for documentation apply to all correspondence and to ALL
+             documentation in the Phoenix system. Narrative checklists and Conversations are
+             part of the narrative record.
+
+             If participant information is documented somewhere in the participant record, it
+             does not have to be repeated.
+
+             When reporting a complaint in Phoenix, the report must include, if appropriate, the
+
+
+
+
+                                                     Appendix I - Documentation             Page 1
+Division of Long Term Living
+Documentation Policy and Procedure                                                    March 2019
+
+             CLTC number, name of provider, name of provider worker, and provider worker
+             ID.
+
+             The Conversation Tab feature may be used rather than contacting the provider by
+             telephone. Examples of appropriate uses of Conversation are informing the provider
+             of a schedule change, hospitalization, etc. However, when informing the provider
+             of information that requires immediate attention such as an immediate termination,
+             a telephone call for verbal communication is necessary. All documentation policies
+             apply to the Conversation Tab feature in Phoenix. Correct spelling, proper grammar
+             and approved abbreviations must be utilized.
+
+             It is extremely important to document any data regarding participant problems or
+             needs. Follow up documentation is to be included, as appropriate. If a need is
+             identified in the narrative, any subsequent actions taken on the participant’s behalf
+             are to be included in the narrative. All contacts made with the participant or on the
+             participant’s behalf must be narrated. Documentation must be kept current. All
+             contacts and actions must be narrated within 3 business days of the activity unless
+             a shorter period of time is otherwise specified in policy and procedures, contracts,
+             or other official SCDHHS communications.
+
+             The date noted in the “Date of Contact” field in the narrative must be the date the
+             activity or contact was completed. The date of the contact may also be entered in
+             the text of the narrative. However, this is not mandatory since the “Date of Contact”
+             field denotes the date that the contact was made. The date the documentation is
+             entered will automatically be recorded by Phoenix.
+
+             Narrative documentation indicating activities completed over several days are not
+             appropriate. Activities completed on a specific date should be documented
+             indicating the appropriate date of contact. For example, if case activity was
+             completed on July 6th and July 7th, and is being narrated on July 7th, the worker will
+             enter one narrative with a date of contact of July 6th and a separate narrative with a
+             date of contact of July 7th.
+
+             All waiver documentation for the month must be keyed, entered and uploaded to
+             the network by 11:59 pm of the last day of each month. This supersedes any
+             documentation timeliness and policy guidelines. For example, documentation
+             related to re-evaluations completed the last week of the month but not due until the
+             first week of the following month, must be completed by 11:59 pm of the month
+             the visit was completed.
+
+             When counting days for timeliness standard issues, the first day is determined to be
+             the next business or calendar day depending on the standard. For example, the
+             timeliness standard for documentation is three business days. For an activity that
+
+
+
+
+                                                     Appendix I - Documentation             Page 2
+Division of Long Term Living
+Documentation Policy and Procedure                                                    March 2019
+
+             occurred on a business day Monday, Day One (1) would be Tuesday. Day Two (2)
+             would be Wednesday. Day Three (3) would be Thursday. Therefore, the activity
+             must be documented by 11:59 pm on Day Three (3), Thursday. For an activity that
+             occurred on a business day Friday, Day One (1) would be Monday. Day Two (2)
+             would be Tuesday. Day Three (3) would be Wednesday. Therefore, the activity
+             must be documented by 11:59 pm on Day Three (3), Wednesday. However, all
+             documentation for the month must be keyed, entered and uploaded to the network
+             by 11:59 pm of the last day of each month regardless of timeliness standards.
+
+             Any item requiring prior approval must be documented in the individual’s Phoenix
+             record.
+
+             The first and last name and title, if applicable, of any person from whom
+             information is received must be documented in the narrative. The primary contact
+             and the physician are to be identified by first and last name in the narrative, as the
+             individuals assuming these roles may change over time.
+
+             A fax copy of a document may be accepted and suffice for documentation in the
+             record if legible. The original must be scanned into Phoenix Scans. If a document
+             is faxed to someone, there is no need to follow-up with an original by mail. Routing
+             methods such as mail or fax should be used when Phoenix is not an option.
+
+             All documents that are not available in Phoenix are to be scanned to the participant’s
+             Phoenix file. All scanned documents are to be stored under the appropriate scan tag
+             in Phoenix Scans. Refer to the “Scan Tag Descriptions” document in Phoenix HELP
+             to determine the appropriate scan tag for document placement.
+
+             All documents received from outside sources, such as Physician’s orders, Nursing
+             Facility supporting documentation packets, etc., are to be scanned in the
+             participant’s Phoenix file by 11:59 pm on the last day of each month unless the
+             document is received within the last three business days of the month. In this
+             situation, the document should be scanned in the participant’s Phoenix file by the
+             5th day of the following month.
+
+             Packets of supporting medical records and documentation received in conjunction
+             with a level of care request from a hospital, nursing home or TEFRA coordinator
+             may be scanned as one packet in Phoenix scans under the appropriate scan tag. The
+             Consent Form and Participant Service Choice Form will be separated from the
+             packet and scanned under the designated scan tags.
+
+             If hard copy Consent Forms or Participant Service Choice Forms are obtained for
+             any reason, these forms must be scanned into the appropriate tag in Phoenix scans
+             within three business days.
+
+
+
+
+                                                     Appendix I - Documentation             Page 3
+Division of Long Term Living
+Documentation Policy and Procedure                                                  March 2019
+
+
+             For the enrolled waiver participant, the hard copy form will be retained until the
+             next quarterly visit at which time the scanned document is confirmed to be present
+             and readable in Phoenix Scans under the appropriate scan tag. For all other types of
+             applications, the hard copy form will be disposed of when the scanned document is
+             confirmed to be present and readable in Phoenix Scans under the appropriate scan
+             tag.
+
+             SCDHHS employees must properly dispose of all participant related hard copy
+             forms in the locked bins located in each Area Office. All providers must follow
+             their agency’s HIPAA record disposal policy.
+
+             When paper forms are necessary, black ink should be used.
+
+             All communication between CLTC Representatives/workers and participants,
+             primary contacts, providers and other related agencies must be through verbal
+             information exchange during face-to-face visits or by phone, mail or by fax.
+             Electronic methods such as texting, emailing, tweeting, etc. are not permitted.
+
+
+
+
+                                                    Appendix I - Documentation            Page 4
+Division of Long Term Living
+Documentation Policy and Procedure                                                      March 2019
+
+  Documentation Retention Policy
+
+
+
+  1.0    Purpose
+
+         The purpose of this policy is to provide a system for complying with document retention
+         laws to ensure that necessary records and documents are adequately protected and
+         maintained as well as to ensure that records that are no longer needed or are of no value
+         are discarded appropriately.
+
+
+  2.0    Policy Details
+
+         The South Carolina Department of Health and Human Services (SCDHHS) has the
+         following requirements related to record retention. “Medical records shall be retained
+         for a period of five (5) years after the last payment was made for services rendered,
+         except that hospitals and nursing homes are required to retain such records for six (6)
+         years after the last payment was made for services rendered.” Additionally, “if litigation,
+         claim, audit, or other action involving the records has been initiated prior to the expiration
+         of the appropriate retention period, the records shall be retained until completion of the
+         action and resolution of all issues which arise from it or until the end of the appropriate
+         retention period, whichever is later.”
+
+         The Division of Long-Term Living (DLTL) maintains compliance with this policy by the
+         maintenance of participants’ records in our case management system known as Phoenix.
+
+         Therefore, this policy is intended to assist area offices in the retention of any hard copy
+         files located onsite. This policy is applicable to records of any applicant or participant in
+         a CLTC waiver, Children’s Personal Care program, TEFRA, or Nursing Home
+         (preadmission or conversion).
+
+
+                     Documents that Should be Maintained in Hard Copy
+         •   Any document that is within the five (5) year retention period or six (6) years if it is
+             nursing home documentation AND is not located in Phoenix. Some examples include
+             but are not limited to:
+                 o Participant correspondences
+                 o Doctor correspondences
+                 o DDSN Service Plans
+                 o Other documents received from an external source that is not located in
+                     Phoenix.
+
+         •   Any document in which the retention period has expired but there is a litigation,
+             claim, audit, or other action involving the record. In this case, the record must be
+             maintained until completion of the action and resolution of all issues which arise from
+             it.
+                                                      Appendix I - Documentation              Page 5
+Division of Long Term Living
+Documentation Policy and Procedure                                                  March 2019
+
+  Maintenance of Hard Copy Records/Documentation
+
+  In an effort to go paperless, any documents/records that must be maintained should be scanned
+  into Phoenix using the appropriate scan tags. The hard copy documentation should be shredded.
+  If an appropriate scan tag is not available, scan the document under “Other forms/Documents.”
+
+  Note: Staff members should verify that a legible copy of the document is in Phoenix prior to the
+  shredding of the documentation.
+
+  Documents that May be Shredded
+         •   Any document in which the retention period has expired and there is no litigation,
+             claim, audit, or other action involving the record.
+
+         •   Any document within the retention period and the staff member can verify that a
+             legible copy of the documentation is located in Phoenix. Some examples include but
+             are not limited to:
+
+                 o   Authorizations
+                 o   Provider Choice Forms
+                 o   CLTC Notification Forms
+                 o   Consent and Rights and Responsibilities Forms
+                 o   CLTC Assessments
+                 o   CLTC Service Plans
+                 o   PASRR
+                 o   Certification Letters
+
+
+
+
+                                                    Appendix I - Documentation            Page 6
+

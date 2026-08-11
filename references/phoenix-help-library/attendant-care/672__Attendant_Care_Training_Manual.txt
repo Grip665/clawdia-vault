@@ -1,0 +1,1186 @@
+CLTC Standardized
+ Attendant Care
+     Manual
+
+
+
+    August 1, 2022
+                     1
+Table of Contents
+Attendant Care Training Manual User’s Guide .................................................................................................. 3
+EVV & Mobile App Training Environment .......................................................................................................... 6
+Mobile App ........................................................................................................................................................ 9
+Attendant/Employer of Record Care Call User Manual ................................................................................... 10
+Individual/Attendant Companion Billing ........................................................................................................ 20
+Attendant/Companion Resolution Log (Sample) ............................................................................................. 24
+Resolution Reason Codes ................................................................................................................................ 25
+Observation and Activity Codes....................................................................................................................... 26
+Pay Stub Sample .............................................................................................................................................. 27
+Twelve Strike Policy ......................................................................................................................................... 29
+Forms............................................................................................................................................................... 31
+   Attendant/Companion (Individual Provider) & Employer of Record (EOR) Training Check List. .................. 31
+   Attendant/Companion (Individual Provider) Care Services Acknowledgement of Understanding .............. 32
+   Attendant Information Sheet ....................................................................................................................... 33
+   Mobile Phone Device Requirements ........................................................................................................... 34
+   Attendant/Companion Resolution Log Blank ............................................................................................... 35
+   Sample Attendant Care Daily Log ................................................................................................................. 36
+   CLTC Attendant Care Daily Log Blank ........................................................................................................... 37
+                    Attendant Care Training Manual User’s Guide
+All Area Office Attendant Care Trainers will use the Standardized Attendant Care Training
+Manual located in Phoenix HELP to ensure consistent and thorough attendant care training
+across all CLTC Area Offices.
+Prior to scheduling attendant care training
+
+   � UAP will notify the Case Manager when the match visit has been completed by approving
+     the match in Phoenix.
+   � Case Manager will review the notification for any comments made by UAP at thematch
+     visit.
+    Case Manager will review the resource directory to verify the Attendant has been
+     enrolled. The Case Manager will review Phoenix to determine if the “OK to Authorize”
+     light is green in Phoenix.
+
+             If enrolled and the appropriate lights are green in Phoenix, the Area Office
+             Attendant Care Trainer views the provider in Phoenix to determine if training has
+             previously been completed.
+
+             Note: If Electronic Visit Verification (EVV) training has been attended by the
+             chosen provider within the past 6 months or if the provider is currently authorized
+             and serving as an attendant/companion, it is not necessary to repeat the training
+             unless a refresher session is requested. Electronic Visit Verification training will
+             need to be repeated if the Attendant has not provided services in 6 months.
+
+                ▪    When the provider has been enrolled, the Area Office Attendant Care
+                     Trainer must send an e-mail to the Case Manager to notify of the
+                     Attendant’s enrollment.
+                ▪    UAP will instruct the Attendant to contact the Case Manager to schedule
+                     Attendant Care Training after the Attendant receives a provider number.
+                        • UAP instructs the Attendant to contact the Case Manager on the
+                           fourth business day after the matchvisit.
+                ▪    An enrollment notification will be sent from State Office when theprovider
+                     has been enrolled and is in the Phoenix Resource Directory.
+
+
+      If Phoenix shows the red stop light under “ok to authorize” Attendant services, Phoenix
+       will not allow the service to be authorized. View status screen to determine the
+       enrollment information that is missing.
+
+
+
+
+                                                                                                    3
+Scheduling an Appointment for Attendant Care Training
+
+      Case Manager will review the specific attendant information in the Participant’s
+       Phoenix record under the Attendant Care Requesttab.
+   �   The training will take place at the time appointed by the Area Office Attendant Care
+       Trainer.
+   �   The Case Manager will instruct the Attendant/ Employer of Record to contact the Area
+       Office Attendant Care Trainer to schedule an appointment.
+      Prior to scheduling the Attendant Care Training, the Case Manager will verify
+       whether there is a landline phone in the participant’s home for use of Electronic
+       Visit Verification or if the Attendant has a suitable cell phone for use of the Mobile
+       App.
+   �   The prospective Attendant must attendtraining.
+   �   The Case Manager should encourage the designated Employer of Record to
+       attend, especially if the participant is the Employer of Record, but attendance is
+       not mandatory.
+   �   The Case Manager will instruct the Attendant to avoid bringing anyone to training who
+       will not be participating in training.
+   �   UAP will notify Attendants of the CLTC Area Office No Smoking and Fragrance - Free
+       Policies.
+
+
+   Registering a Mobile Device
+
+   � The Attendant will contact the Area Office when a Device ID needs to be registered.
+   � The Area Office will register the ID in Phoenix and create a password.
+   � The Area Office will notify the Attendant provider of the new password and instruct
+     the Attendant to change the password.
+   � Area Office will provide the Mobile App Help phone number to the Attendant.
+
+   During training
+   � The Area Office Attendant Care Trainer will introduce him/herself and state the purpose of
+      the training.
+
+   � The Area Office Attendant Care Trainer will review and explain thefollowing
+     documents with the Attendant(s) / Companion/ Employer of Record:
+
+              EVV and Mobile App Training Environment Mobile
+              App Guide
+              SCDHHS Attendant/ Employer of Record Care Call User Manual
+
+
+
+
+                                                                                                4
+              Resolution Log- Sample
+              Resolution Reason Codes
+              Observation and Activity Codes
+              Pay Stub- Sample
+              Attendant Care Daily Log- Sample
+              Strike Policy for Personal Care I and II, Attendant, Companion and Nursing and
+              include examples of strikes
+
+
+   � The Area Office Attendant Care Trainer will review/ complete the followingforms
+     with the Attendant/ Companion:
+
+              Attendant/ Companion and Employer of Record Training Check List
+              Attendant/ Companion Acknowledgement of Understanding
+              Attendant Information Sheet
+              Resolution Log- Blank (Instruct Attendant/ Companion to make copies as
+              needed.)
+
+   � The UAP Nurse will provide a copy of training materials during the match visit.
+
+   � The Case Manager will review the Service Provision Form and provide the Attendant with
+     a copy.
+
+   � The Case Manager will review the Service Plan and provide the Attendant with a copy.
+
+   � The Case Manager will answer any questions from the Attendant.
+
+
+Following Training
+
+   � The Area Office Attendant Trainer will complete the Local Information Tab in
+     Phoenix Provider Portal.
+
+       From Dashboard- click Home- click Providers- click Provider Info- click Local
+       Information Tab.
+
+    If the participant’s Case Manager will be changing, the newly assigned Case Manager
+       will inform the Attendant by phone or Notification Form. This notification will include
+       the new Case Manager’s name and phone number.
+
+
+
+
+                                                                                                 5
+                    EVV & Mobile App Training Environment
+                                       South Carolina Care Call
+
+
+  Training EVV Access
+  Training EVV toll free number-- 1-866-388-2371
+
+  Telephone Training Environment Operation -- EVV (Electronic Visit Verification)
+  The South Carolina Care Call Training Environment provides an EVV environment with standard training
+  scenarios to allow workers to practice use of the EVV in situations they are likely to encounter in normal
+  operation. The training environment has been expanded to include scenarios for six Provider types, plus
+  Nurse Supervisors, and EVV scenarios have been provided for both English and Spanish. However, the same
+  training scenarios are shared by all Providers, so it is possible occasionally on checkout that a worker will
+  hear their own check in, plus check in(s) from other worker(s) using the system. To make this less likely to
+  become an issue, the environment includes two features:
+
+    • Multiple sets of common scenarios – There are multiple copies of frequently used scenarios – e.g. 10
+      copies of the In-Home Agency services scenarios. This means that if a collision with another trainer
+      occurs on checkout, the trainer can simply pick a different worker id to use a different set of scenarios.
+
+    • 30 Minute training checkout window – In the training environment, the checkout process only looks
+      back 30 minutes to find matching check ins. This means that if a trainer checks in but does not check
+      out, the orphan check in is ignored for training purposes after 30 minutes.
+
+Both features make it less likely that trainers will conflict with each other and make it easy to adjust if they
+do.
+
+  Training Scenarios
+  The Training Scenarios in the Training Environment are set up by provider type to mimic how workers for
+  specific providers will use the Care Call system. Each scenario is selected by logging into the EVV with a
+  corresponding worker id attached to the scenario. Scenarios have been set up as follows:
+
+    • For EVV, the trainee dials the EVV phone number and logs in with the worker id for a training scenario.
+
+    • The first four digits of the worker id select a Training provider record – For HIPAA compliance, these
+      Training providers are all “made up” and not real providers. For common scenarios, like in-home
+      agency care, the system provides up to ten providers, each with their own complete set of training
+      scenarios. Since these are all equivalent, users can pick any one of the providers for each type and get
+      the same training.
+
+    • The last four digits of the worker id select a Training scenario for that provider -- For example, logging
+      in with worker id 00101111 selects the first scenario in the table below for in-home agency training
+      provider EN0010. In this example, seven scenarios are provided for each of ten in-home agency
+      training providers (EN0010 – EN0019).
+
+    • For some scenarios the worker must enter a CLTC number to identify a client – For these scenarios, the
+      client CLTC numbers and names for the scenarios are given in the table on the next page.
+
+
+
+
+                                                                                                                   6
+The following scenarios for each provider type are available in the training environment:
+Please note the Provider’s name will be “Jane Ready” in the practice, not your name.
+Training EEV toll free number—1-866-388-2371
+Training set up code is: SCTRAINPRD        MOBILE TRAINING APP PASSWORD IS: Pass22!!
+
+FMS Attendant and Companion Services
+
+First Four Digits   Last Four   Sample        Training Scenario       Client Names, CLTC Numbers,
+of                  Digits of   Worker                                and Authorized Services
+0030 - 0035         1111 –      00321111      One client with         Mary Brown Attendant
+                    English                   authorized              Care 1111011
+                    2111 –                    service in the
+0030 - 0035         1112 –      00321112      Two clients with        Mary Brown Attendant
+                    English                   an authorized           Care 1112011
+                    2112 –                    service in the
+                    Spanish                   home.                   Joe Brown Attendant
+0030 - 0035         1113 –      00321113      Three clients with      Mary Brown Attendant
+                    English                   multiple authorized     Care 1113011 Companion
+                    2113 –                    services in the                      Individual
+                    Spanish                   home. Worker can
+                                              select up to three      Joe Brown    Attendant Care
+                                              authorized services     1113012      Companion -
+                                              for up to three                       Individual
+                                              clients on a single
+                                              visit, and have time    Linda Brown Attendant
+                                              allocated               Care 1113013 Companion -
+                                              proportionally to the                Individual
+                                              authorized times.
+
+
+
+
+0030 - 0035         1114 –      00321114      More than three         Mary         Attendant Care
+                    English                   clients in the home     Brown
+                    2114 –                    or assisted living      1114111
+                    Spanish                   with authorized                      Attendant
+                                              services. Worker        Joe          Care
+                                              must enter Client       Brown        Companion -
+                                              CLTC number(s) to       111411       Individual
+                                              select client(s).       2
+                                                                                   Attendant
+                                                                                   Care
+                                                                      Linda        Companion -
+                                                                      Brown        Individual
+                                                                      1114113
+                                                                                   Attendant Care
+
+
+                                                                                                    7
+0030 - 0035   1115 – English   00321115 No clients match         Mary      Attendant Care
+              2115 – Spanish            the phone number         Brown
+                                        or location (e.g. a      1115111
+                                        worker calling the                 Attendant
+                                        IVR from their cell      Joe       Care
+                                        phone because the        Brown     Companion -
+                                        client phone is not      111511    Individual
+                                        working). Worker         2
+                                        must enter Client                  Attendant
+                                        CLTC number(s) to                  Care
+                                        select client(s).        Linda     Companion -
+                                                                 Brown     Individual
+                                         Mary Brown, Joe         1115113
+                                         Brown, and Linda                  Attendant Care
+                                         Brown share a
+                                         registered phone        Sally
+                                         number and location.    Murphy    Companion -
+                                         The other clients all   1115114   Individual
+                                         have different phone
+                                         numbers and             John      Attendant Care
+                                         locations               Smith
+                                                                 111511
+                                                                 5
+
+                                                                 Patrick
+                                                                 Horton
+                                                                 1115116
+0030 - 0035   1116 – English   00321116 Worker Id is             --
+              2116 – Spanish            registered but
+                                        not active.
+                                        (Worker is not
+                                        allowed to use
+                                        the system.)
+
+
+
+
+                                                                                            8
+Mobile App
+For Android, the user can go to their Google Playstore on their mobile phone to download
+Authenticare 2.0 instead of trying to access it on the website.
+
+
+
+
+                                                                                           9
+SC Department of Health and Human Services
+        Community Long Term Care
+
+
+
+
+  Attendant / Employer of Record
+      Care Call User Manual
+                                         10
+INTRODUCTION
+THE PURPOSE OF THE CLTC CARE CALL INDIVIDUAL ATTENDANT/COMPANION MANUAL IS TO Instruct
+individual attendants and companions how to use the CARE CALL system.
+
+The purpose of the CLTC Care Call Individual Attendant/ Companion Manual is to instruct individual
+attendants and companions on how to use the Care Call system.
+
+This easy-to-use system is for South Carolina Medicaid CLTC attendants and companions to use for logging
+their participant visits. Care Call is a toll-free phone number that attendants/companions dial when
+providing care to CLTC participants. The toll-free number is available anytime day or night, and allows the
+attendant/companion to:
+
+    •   Check In and Check Out when providing care at a participant’s home
+
+    •   Enter their Worker ID, identify the Participant and identify Services during Check In/Out
+
+ IT IS FAST!
+ Your check in and check out will take about two minutes to complete.
+
+ IT IS EASY TO USE!
+ You will need access to the participant’s touch-tone landline phone, or you will use the EVV mobile app on
+ your cell phoneforcheckingin/out. You will need to know your Worker ID number when using the EVV. If you
+ have any problems, you should call your local CLTC area office representative as soon as possible.
+
+
+
+
+                                                                                                          11
+HOW TO Access Care Call
+
+
+When you dial the Care Call toll-free number 1-888-978-CARE (2273) you then select from 3 options.
+Care Call allows you to press 1 to check in or press 2 to check out. Care Call will use the language
+preference indicated on the worker record in Phoenix. If the language needs to be changed, the area
+office needs to be contacted to correct the worker record. Care Call is available in English and
+Spanish.
+
+CLTC Care Call Quick Reference
+What you need to check in/out: Worker ID, CLTC # and Service
+ CHECK IN                                                   CHECK OUT
+ 1. Arrive at Participant Care location. Dial 1-888-978-    AFTER YOU PERFORM PARTICIPANT CARE
+ 2273
+ 2. Press 1 to CHECK IN.                                    1. When finished providing participant care, dial
+                                                            1-888-978-2273.
+ 3. Enter your 8-digit WORKER ID Number.                    2. Press 2 to CHECK OUT.
+    Press 1 to confirm you name is correct.
+ 4. Confirm your participant’s name. If needed,             3 Confirm the participant’s and services information. If
+ enter 7-digit CLTC#.                                       needed, follow instructions to enter WORKER ID, CLTC
+                                                            # or SERVICE(S).
+
+                                                            Observations and tasks are entered at checkout.
+ 5. Confirm your SERVICE for this visit (Companion or       4. Press 1 to confirm check out information.
+ Attendant). If you are there to provide 2 services for
+ your participant, be sure to put in both services during
+ this call.
+ 6. When you are finished, you will be asked to confirm     5. Be sure you hear “CHECK OUT Successful”! Hang up.
+ everything is correct.
+ 7. Be sure you hear “CHECK IN Successful”! Hang up.
+
+
+
+
+                                                                                                                   12
+SC Department of Health and Human Services
+Community Long Term Care (CLTC)
+
+HOW TO Check In
+                              CARE CALL INSTRUCTIONS – CHECK IN
+
+1.    Dial the Care Call toll-free number 1-888-978-CARE (2273)
+
+ 2.   Press 1 for check in.
+
+      Enter your 8-digit Worker ID number. You will then hear your name. When asked to do so, press
+      1 to confirm this is correct.
+3.
+         •    If you enter the wrong ID number, Care Call will give you a chance to change it. Follow the
+              instructions and enter it again. You have three tries to enter your worker ID number
+              correctly.
+      If you call from a phone number that Care Call recognizes, Care Call will give the participant’s
+      name and ask you if it is correct. Press 1 to indicate it is correct.
+
+         •   If two or three participants are at the same number, you will hear all their names and be
+ 4.          asked to select which one you are there to care for.
+
+         •   If you are there to care for more than one person, you will need to check in and check out
+             for each person on the call.
+
+         •   If there are more than three participants at the same phone number, you will have to put
+             in the CLTC participant number for the participant you are there to serve.
+
+      If you are calling from a number that Care Call does not recognize, like a drug store or a doctor’s
+5.    office, you will have to put in the CLTC participant number for the participant you are serving.
+
+
+      When Care Call knows which participant you are serving, it will ask you the services you are
+      providing. Follow the instructions to make sure Care Call records the right service for your visit to
+6.    the participant.
+
+         •   If you are providing more than one service during your visit to the participant, Care Call
+             will give you a chance to put in both services. Follow the Care Call instructions todo
+
+
+
+
+                                                                                                              13
+SC Department of Health and Human Services
+Community Long Term Care (CLTC)
+      After the participant and service are identified, you will hear the check in summary. Care Call will
+      repeat back your name, the participant’s name, and the service to be provided. If this is all
+      correct, press 1 when asked to do so.
+7.
+         •   If anything is not correct, Care Call will give you a chance to correct it before you finish
+             your call. Follow the instructions to fix whatever was not correct. Be sure you hear “Check
+             in was successful” before you hang up.
+
+
+HOW TO Check Out
+                           CARE CALL INSTRUCTIONS - CHECK OUT
+
+1.    Dial the Care Call toll-free number 1-888-978-CARE (2273)
+
+      Press 2 for check out.
+
+         •   If you are checking out from the same participant number you used to check in, Care Call
+             will read back your name, your participant’s name, and the service you provided. If all of
+ 2.          this is correct, press 1 to confirm theinformation.
+         • If Care Call does not read back all this information, you will be prompted to enter your
+             worker ID, service, and participant information in to Care Call so you can check out. Follow
+             the instructions until all the information is in Care Call correctly.
+         • Tasks and observations are entered.
+         • Follow the instructions until all the information is in Care Call correctly.
+      Once your check out is complete, Care Call will read back the information you put in and the
+3.    time of check out. When this happens, your check out has been successfully completed. Be
+      sure you hear “Check out was successful” before you hang up.
+
+
+
+
+                                                                       Report technical
+                                                                      difficulties to your
+                                                                    local CLTC Area office
+                                                                        representative
+
+
+
+
+                                                                                                             14
+SC Department of Health and Human Services
+Community Long Term Care (CLTC)
+ 1. What is the EVV phone number?
+    1-888-978-2273
+
+ 2. How does it work?
+    As soon as you arrive at the participant’s home, you will call to check- in. You will
+    provide the care to the participant and then call to check out.
+
+ 3. What information do I need to make the call to checkin?
+        • The toll-free phonenumber
+        • Your 8-digit worker ID number
+        • The services being provided
+        • The participant’s CLTC number
+
+ 4. What should I do if I do not hear my name when I call in?
+    If you do not hear your name, hang up and try again. If you do not hear your name on the
+    second call and you’re sure you put in the right number, still provide the care, and then
+    submit a resolution log to the CLTC office.
+
+ 5. What if I’m providing two services (i.e., Attendant and Companion) to aparticipant?
+    You check in for one service (i.e. Attendant), complete that service and check out. Then,
+    check-in for the other service (i.e. Companion), complete the service and check-out.
+    For example, if checking in for Attendant Care at 1:00 pm and checking out at 3:00 pm.
+    Then, check in at 3:05 pm for Companion and check out at 4:05 pm.
+
+ 6. What if I’m serving two participants in the same home or two participants living in the
+    same apartment complex or nearby?
+    You must check in and out for both participants on separate calls.
+
+ 7. What should I do if my participant refuses to let me use the land-line telephone?
+    Explain why you need to use the land-line telephone and that it is a toll-free call so they
+    will not be charged. If the participant continues to refuse, provide care then notify the
+    EOR and Case Manager the same day and submit a resolution log to the CLTC Office for
+    corrections. You must use the Mobile App to check in/out for future visits, if you want to
+    continue to serve this participant. A cell phone must be obtained, and you must start
+    using the Mobile App forty-five (45) days from submission of the first resolution for this
+    participant.
+
+ 8. What happens if I get to the participant’s home and the land-line phone is turned off?
+    Provide the care, notify the EOR and submit a resolution log to the CLTC Office for
+    corrections. You will report this issue to the Case Manager and use the Mobile App if
+    available. If the land-line phone is not in operation within forty-five (45) days, you must
+    start using the mobile app.
+                                                                                                  15
+SC Department of Health and Human Services
+Community Long Term Care (CLTC)
+ 9. What if I was able to check in but when I get ready to check out thephone has been
+    turned off?
+    Notify the EOR and Case Manager by the end of the workday and submit a resolution log
+    to the CLTC Office for corrections. In order for services to continue to be authorized
+    when no available phone can be identified or approved, the attendant must use the
+    mobile app.
+
+ 10. What happens if I forget to checkin?
+     Once you have completed providing services, you can check out. Then submit a
+     resolution log to the CLTC office for corrections.
+
+ 11. What happens if I forgot to check out?
+     Submit a resolution log to the CLTC office for corrections.
+
+ 12. What happens if I forget to check in and check out?
+     Submit a resolution log to the CLTC office for corrections.
+
+
+
+
+ 13. What happens if I make a mistake while checking in or checking out?
+     Hang up and call again. Your call will not be recorded until you hear “Your claim has
+     been successfully recorded”.
+
+ 14. What happens if I’m still not sure my check in or check out phone call went through
+     properly?
+     Submit a resolution log to the CLTC office for verification and/or correction.
+
+ 15. If my participant goes to the hospital, can I go to the hospital and provide services?
+     NO. Service can only be provided in the participant’s home, or another HOME approved
+     and specified by the case manager. Service cannot be provided in places such as the
+     hospital, nursing home, adult day care facility or rehabilitation facility.
+
+ 16. What happens if I go to my participant’s home and she’s not there? Can I still check into
+     EVV?
+     Since the participant is not home, you CANNOT check in or out of EVV. Notify the
+     EOR.
+
+
+
+
+                                                                                                 16
+SC Department of Health and Human Services
+Community Long Term Care (CLTC)
+ 17. If I cannot provide services to my participant, can I share my worker ID with
+     someone else so they can provide the services?
+     NO. You are not to share your worker ID number with anyone, including the
+     participant and EOR. Only the worker assigned a number is allowed to check in and
+     check out of Care Call. Failure to comply can result in termination of the services.
+
+ 18. What should I do if I cannot serve myparticipant?
+     Notify the participant and Case Manager. The participant can then refer another
+     person to assume the attendant care services, after completing the appropriate
+     process.
+
+
+
+
+Helpful Instructions listed on the next page
+
+
+
+
+                                                                                            17
+SC Department of Health and Human Services
+Community Long Term Care (CLTC)
+
+What do I do if…
+                                   Call the CLTC office where both numbers are on file.
+…I forget my worker ID or
+my participant’s CLTC#?
+
+…I forgot to check in, forgot to   Submit a Resolution Log to the CLTC office for corrections.
+check out or forgot tocheck-in
+and check-out?
+…I am in the process of            Care Call will not record the phone call until you hear “check in
+checking in and realize I have     has been successful”. You can hang up and check in again.
+made a mistake?
+…I have already checked in         Finish providing services to the participant and check out then
+                                   submit a Resolution Log to the CLTC office for corrections.
+and realized I made a mistake?
+…the participant does not have     Notify the EOR and the Case Manager of the phone issue and
+a touch-tone landline phone,       submit a Resolution Log to the CLTC office for corrections.
+refuses to let me use the phone,   Begin using Mobile App by the 3rd visit after issue discovered.
+                                   *Remember services will not continue if no available phone is
+or the phone is out of order?
+                                   identified and approved.
+*See Mobile App information
+…the EVV is not working when I     Submit a Resolution Log to the CLTC office for corrections. Call
+try to check-in or check-out?      the Authenticare Help Desk for assistance. They usually can
+                                   resolve problem while attendant is in the home.
+
+…I’m just not sure the phone       Submit a Resolution Log to the CLTC office for
+                                   corrections/verification.
+call went through properly?
+…I reviewed my paystub and see
+exception code of C1 or C2 or I1   Submit a Resolution Log to the CLTC office for corrections.
+or I2?
+                                   You may check in for up to 3 participants in the same home,
+…I’m serving more than             provide the care, and check out for all participants on the same
+one participant?                   call.
+
+                                   You cannot check in and out for a participant while they are in
+                                   the hospital, you must also notify the Case Manager when the
+…my participant goes to
+                                   participants enter the hospital and discharges from the
+the hospital?
+                                   hospital.
+
+
+
+
+                                                                                                       18
+SC Department of Health and Human Services
+Community Long Term Care (CLTC)
+
+What do I do if…
+                                 Your time can start when the errand begins. This is an occasion
+                                 when you will check in from an unauthorized phone number.
+…my participant asks me to       You can check in at the grocery store or pharmacy. Make a
+stop and pick up medication on   note in your records you checked in from an unauthorized
+my way to the home?              phone and why. Remember, errands should be essential to the
+                                 participant’s basic needs.
+
+
+
+
+                                                                                                   19
+SC Department of Health and Human Services
+Community Long Term Care
+
+                     II. Billing
+
+
+
+
+Individual Attendant/Companion
+                       Billing
+
+
+
+
+                                             20
+    SC Department of Health and Human Services
+    Community Long Term Care (CLTC)
+
+Care Call and Morning Sun
+Morning Sun
+Morning Sun provides Fiscal Management Services (FMS) to attendants and is second level to
+Customer Services for SC Care Call.
+
+              Phone Number: 1-855-222-6772                           Fax Number: 1-844-450-3343
+
+You can call Morning Sun when you have questions about taxes or deductions (think your
+deductions are set up incorrectly, for instance).
+
+Examples of call that can be handled by the CLTC regional office c and should not be referred to
+Morning Sun:
+       • You want to know why you didn’t get paid for certain hours
+       • You did not call in or call out when providing services for a participant and that needs
+           to be corrected and/or added to Care Call. This can only be done by completing a
+           Resolution Log.
+
+Billing Procedures
+Billing is done automatically for all visits made by CLTC providers to participants, as long as the visit
+is provided as authorized. Checks will be issued by Morning Sun.
+
+    Billing Procedures:
+         ➢ Sunday through Saturday is considered a work week.
+         ➢ Morning Sun issues checks with Friday’s date. Payment is twice amonth.
+        ➢ All funds are direct deposited or placed on a money card. New workers will receive a
+            paper check until this service is set up.
+
+
+
+
+                                                                                                            21
+ SC Department of Health and Human Services
+ Community Long Term Care (CLTC)
+   Example:
+      ▪ Attendant works from August 2nd to August 15th.
+      ▪ Care Call transmits to MMIS daily for thosedates.
+      ▪ MMIS transmits amounts to Morning Sun on August 21st.
+      ▪   Morning Sun check date should be August 21st.
+
+
+
+
+Did I get paid?
+To be sure you got paid properly, follow these directions.
+(Remember, this is only a suggestion, however, it has helped other attendants to follow these
+directions).
+     1. Use a calendar to record the dates, times, and services (Attendant or
+         Companion) that you worked with your participant.
+     2. When Morning Sun sends you the paycheck or a pay stub, listed on either the
+         paycheck or pay stub will be the dates, hours, and services that you have been paid
+         for. Compare these dates with the dates you worked.
+     3. If you were paid for the date, then cross it off your calendar.
+     4. If you were not paid for a date, you worked and you checked in/out of EVV
+         properly, please contact the CLTC Area Office for assistance.
+     5. Remember—the pay period is twice a month and runs from Sunday to Saturday.
+         Please note that a State Holiday may impact the payment schedule.
+ Remember:      It is YOUR responsibility to keep track
+ of your own time!
+
+                                                                                                22
+                      Notes
+
+Individual Attendant/Companion Notes
+
+
+
+
+                                       23
+ SC Department of Health and Human Services
+ Community Long Term Care
+ Attendant/Companion Resolution Log (Sample)
+You need to complete a resolution log anytime you forget to check in or check out, when you made a mistake or think you made a mistake and would like to
+have your time reviewed. Enter all information as requested. Failure to do so will result in the form being returned for corrections.
+
+Reason codes:
+   1.   EVV not functioning (only to be used when CLTC can verify                       4.   Emergency with the participant at beginning or end of visit (Must
+                                                                                             also report to CM and EOR).
+        EVV was down).
+                                                                                        5.   Participant not in EVV
+   2.   Participant’s phone not available. (Must also report to the CM and
+                                                                                        6.   Worker error- wrong participant, wrong service,forgot.
+        EOR).
+                                                                                        7.   Authorization not updated by Case Manager.
+   3.   Participant’s phone not functioning. (Must also report to CM and
+                                                                                        8.   Mobile App not functioning (only to be used when CLTC can
+        EOR).
+                                                                                             verify the Mobile App is unavailable).
+
+Attendant Name: Mary Smith                                        Worker ID number: 12345678                   Date mailed: August 19,2020
+                                                                           (Must include all 8 digits)
+
+   Date of      Participant CLTC #                      Participant Name                      Service ATT or       Check in     Check out    Reason code from
+   Service                                                                                        COM               time          time          list above:
+ 8/5/20         0123457              Daisy Jones                                              ATT/COM            8:02 AM      11:30 AM       5
+
+
+
+
+Attendant Signature:                                                       Phone Number:                                        Date:
+
+Employer of RecordSignature (Required):                                                                        Date:
+My signature hereby states that the above information is correct to the best ofmy knowledge.
+
+
+
+
+                                                                                                                                                                 24
+                                             Resolution Reason Codes
+                                                                        Provider Activity
+
+Exception Code
+A1    No authorization to match servicedelivery
+A2    Service notperformed
+A3    Client is authorized for a differentservice
+B     Non-authorized service period
+C1    No check-in but check-out exists
+C2    No check-out but check-in exists
+F     Weekly hours worked more than hoursauthorized
+F2    Weekly hours worked less than hoursauthorized
+G1    Check-in and check-out phone numbers do not match authorized
+G2    Check-out phone number does not matchauthorized
+G3    Check-in phone number does not matchauthorized
+G4    Check-in and check-out phones match other clientor provider
+G5    Check-out phone number matches different clientor provider
+G6    Check-in phone number matches different clientor provider
+G7    Check-in and check-out phones not flagged for Care Call
+G8    Check-out phone number not flagged for CareCall
+G9    Check-in phone number not flagged for Care Call
+I1    Worker entered is not registered to performservice
+I2    Worker is not registered
+I3    Provider entered is not listed to performservice
+I4    Provider entered is not allowed to submitclaims
+L1    Check-in and check-out locations do not match authorized
+L2    Check-out location does not matchauthorized
+L3    Check-in location does not matchauthorized
+L4    Check-in and check-out locations match other client or provider
+L5    Check-out location matches different clientor provider
+L6    Check-in location matches different clientor provider
+R1    Claim rejected by payer
+
+
+Claim Status Codes
+P     Paid
+R     Rejected
+S     Suspended
+
+
+
+                                                                                            25
+                                  Observation and Activity Codes
+
+  REMEMBER to always keep your clock in & clock out times.
+
+
+
+
+                                                                     Client Observation
+  1-888-978-CARE (2273)                                              70—No Observations to report                           84—Weight gain or swelling of legsor feet 71—
+
+                                                                     Plan of care does not meet client needs                85—Difficulty speaking clearly or being understood
+Personal Care Activities
+20—Bathing and Grooming             28—Medication Reminder           72—Difficulty with walking, balance, or transferring   86—Difficulty using thetelephone
+
+21—Dressing or Undressing           29—Feeding                       73—Difficulty getting in or out of bed                 87—Increased level of pain
+22—Toileting                        30—Transfer                      74—Difficulty with grooming or bathing                 88—Increased anxiety levels
+23—Ambulation and Mobility          31—Housekeeping
+                                                                     75—Difficulty with dressing                            89—Behavioral problem such as yelling, spitting, or
+24— Meal Preparation and Set up     32—Incontinence Care
+25—Shopping and Errands             33—Transportation to Medical     76—Difficulty with managing toileting hygiene              getting lost
+26—Accompany to Medical Appt.          Appointment or Service        77—Difficulty with feeding                             90—Difficulty sleeping 78—
+27— Laundry                         34—Report Changes in Condition   Difficulty with fixing or reheating meals or snacks 91—New problems withvision
+Nursing                                                              79—Difficulty with taking medication by mouth          92—New problems with forgetfulness
+35—Administer Medication            39—Tracheostomy Care
+                                                                     80—Recent emergency treatment due to improper          93—Recent falls
+36—Skin/Decubitus Care              40—Wound Care
+37—Tube Feeding                     41—Ventilator Care                   Medication administration orside effects           94—Recently admitted to hospital
+38—Catheter Care                                                      81—Shortness of breathwhen walking                    95—Recently inemergency room
+
+                                                                      82—Skin breakdown, open areas, bedsores or rash       96—Upcoming surgeries 83—
+
+                                                                      Weight loss or decreasedappetite
+
+
+
+
+                                                                                                                                                                                  26
+                               Twelve Strike Policy
+                    Personal Care I and II, Children’s Personal Care,
+                     Attendant, Companion and Nursing Services
+One strike will be given to a worker for each incident where a resolution must be done, and no
+valid reason is given. After the twelfth strike, resolutions will no longer be accepted if no valid
+and verified reason is given.
+
+   •   The Electronic Visit Verification System includes Care Call and the mobile app. Workers
+       who are new to the Electronic Visit Verification system (EVVS) will have a one-month
+       grace period to learn the system before strikes begin to be issued. However, workers
+       rehired or returning to work who will be using Care Call will not get this grace period
+       since they should already know how to use CareCall.
+
+   •   Workers will be given one strike per incident. For example, if worker is providing
+       Personal Care I & II services for a participant and checks in for both services but fails to
+       check out, only one strike will be given to correct both the PCI & PCII claims. If the
+       worker checks in for multiple participants on the same call, only one strike will be given.
+
+   •   After one year, each worker begins a new strike period. This means that the twelve-
+       strike policy is an annual policy rather than a lifetime policy. For new workers, the
+       annual date begins on the worker start date keyed in the worker registration section of
+       Phoenix. The worker start date should always be the first day the worker will serve a
+       participant to receive the full 30-day graceperiod.
+
+   •   Each resolution not submitted timely will receive a strike. Providers must submit the
+       resolution within 10 days from the Sunday following the Date of Service to be timely.
+       Any resolutions submitted after that date will have strikes issued. These strikes will be
+       assigned to the worker on the claim(s) although it is the responsibility of the provider
+       agency to submit the resolutions timely.
+
+   •   The Division of Long Term Living’s CLTC Area Office will have 14 days to respond to the
+       provider agency resolutions that were submitted timely.
+
+   •   Providers must use the participant’s landline phone or the mobile app to document
+       services in the Electronic Visit Verification System. Any problems using the
+       participant’s landline phone, or the mobile app should be reported immediately (by
+       the next business day). The best way to notify the case manager is by sending a
+       conversation in Phoenix. Attendants must notify the Case Managers by phone. The
+       Employer of Record will be able to provide the Case Managers contact information. If
+       the landline phone is disconnected or not working when the provider arrives, a
+       resolution may be done. The provider must be prepared to have a mobile app available
+       to serve the participant by the third visit when the landline phone is out of service. If
+       the provider cannot/ will not begin using the mobile app, the provider must notify the
+                                                                                                      29
+         case manager by the third visit that they will no longer be able to provide services to
+         the participant. The provider may continue to serve the participant, at the case
+         manager’s request, until a new provider can be set up. No strikes will be given if this
+         arrangement is made and documented.
+
+ •       Providers may run the Infractions by Worker report on the Phoenix Provider Portal
+         website to monitor the worker strikes.
+
+Examples of strikes
+
+     •    Attendant forgets to check in but does check out
+     •    Attendant forgets to check out but does check in
+     •    Attendant forgets to check in and worker forgets to check out
+     •    Resolutions submitted late
+
+                              Non Strikes
+
+                              • Attendant makes a mistake during the grace period
+                              • EVV or mobile app not working and central office has said
+                              not to issue strikes
+                              • Local telephone provider problems that have been
+                              verified by the area office
+                              • CM has been notified and verified participant’s phone is
+                              not functioning
+                              • CM was notified and verified participant’s phone was not
+                              available
+                              • Attendant checks in with incorrect worker ID
+                              • Attendant checks in for the incorrect service
+
+
+
+
+                                                                                                   30
+                                                                     Attendant Name:
+ Attendant/Companion (Individual Provider) & Employer of Record (EOR) Training Check List.
+ [ ] USE Mobile App (App must be installed on Attendant’s Android or iPhone and no other phone can be
+ used.)
+ [ ] USE Landline (Explain to the EOR the importance of phone availability in the client’s home).
+ 1. Explain to the Attendant/EOR what EVV (Electronic Visit Verification) is and provide all worksheets.
+ 2. Make sure the Attendant knows their WorkerID#.
+Attendant/EOR understand that the Worker ID # is for use only by the Attendant and should not requested or shared
+with the EOR, participant or anyone other than Community Long Term Care (CLTC) or Attendant Care (UAP).
+ 3. Explain the check in and check out process with the Attendant.
+ 4. Explain that the service schedule will be set by the EOR to best meet the needs of the participant.
+ 5. Explain the Strike Policy to the Attendant/EOR.
+ 6. Watch the EVV Video and/or sample phone call and/or practice the EVV/Mobile App.
+ 7. Explain to the Attendant the procedures for filling out Attendant Daily logs and that they must be received, and date
+      stamped by the local CLTC office no later than the 15th of the following month or services will be terminated after a
+      10-day notice by the Case Manager. The Attendant is also reminded to report any significant health care changes
+      including hospitalizations to the case manager within 2-3 days.
+ 8. Explain procedures for filling out the Attendant Resolution Log. Remind Attendant that Resolution Logs must be
+      reviewed, signed, and received in the CLTC Office for any corrections or verification of properly checking in and
+      checking out. The CLTC Office cannot make corrections to a check in/ check out over the phone, nor will verifications
+      be completed with just a phone call to the office. A resolution log must be received in the CLTC Office.
+      a. CLTC will review and correct the Resolution Log within 10 days of business after it is received.
+      b. Strikes will be assigned for dates of service when a valid reason is not provided on the resolution logs.
+ 9. Explain to the Attendant that they are responsible for keeping track of their hours, dates and services worked and it
+      could take up to 45 days from the date that Medicaid Claims Processing receives the Resolution Log claim to be paid.
+ 10. Explain to the Attendant that they are not guaranteed payment in every single pay period.
+ 11. Attendant/EOR understand:
+      a. To notify CM if participant is not available forservices.
+      b. Services cannot be provided, nor can you check in or check out if the participant enters the hospital, nursing home,
+           outpatient surgery center, rehabilitation facility, incarceration facility or if the participant enrolls in Hospice.
+           Attendants cannot transportparticipants.
+      c. Errands and escorts should be grouped together and limited as much as possible and are to be essential to the
+           needs of the participant.
+      d. The check in and check out process must be completed on a regular, consistent manner to meet participant’s
+           needs as outlined by the service plan. You must check in and check out for authorized amount only.
+      e. Notification of address and/or phone number changes of the Attendant, participant or EOR must be submitted
+           to the local CLTC office within 2-3 days.
+      f. Attendants are not employed by SCDHHS, CLTC, UAP, EVV/Mobile App or the payroll agent. Any request for work
+           references must be through the Provider’s EOR. Any request for income information must be requested from the
+           payroll agent. CLTC and UAP cannot provide any of this information.
+      g. Attendants and EORs must notify CLTC if they are longer able or willing to complete their responsibilities.
+      h. Payment will only be made for actual time worked and confirmed by EOR.
+      i. Attendants understand their responsibility to abide by HIPAA regulations and ensure safe and secure storage of all
+           records (Daily logs, payment info Resolution Logs, Service Plans and Service Authorization. Records must be stored
+           for 5 years.)
+ 12. Complete the Local Training Tab in the Phoenix Provider Portal to include the training date.
+ Area Office Representative Signature:                                                     Date:
+ Attendant Signature:                                                                      Date:
+ EOR Signature (if present):                                                               Date:
+
+
+
+
+                                                                                                                              31
+                                                                        Attendant Name:
+                           South Carolina Department of Health and Human Services
+                                    Division of Community Long Term Care
+                         Attendant Care/Companion (Individual Provider) Care Services
+
+You will be authorized to serve CLTC #                            at an approximate rate of $16.20(beforetaxes) for
+Attendant Care Services and an approximate rate of $12.80(before taxes) for Companion Care Services.
+
+Due to Federal Regulations, you cannot provide service to participants while they are in the hospital, nursing home,
+outpatient surgery center, rehabilitation facility, incarceration, or Hospice. If you check into Care Call EVV after the
+participant enters the hospital, nursing home, outpatient surgery center, rehabilitation facility, or is incarcerated or if the
+participant enrolls in Hospice; you will be required to repay any money you receive. You are to serve the participant in his
+or her home. If you need to provide services to the participant in another location, you will need the prior approval of the
+Case Manager.
+
+The payroll agent will be taking out taxes per the W-4; you completed at the match visit.
+
+                                              Acknowledgement of Understanding
+
+        I understand that my approximate rate of pay for Attendant Care is $16.20 per hour(before taxes).
+
+        I understand that my approximate rate of pay for Companion Care is $12.80 per hour (before taxes).
+
+        I understand that I am required to pay taxes on my actual rate of pay.
+
+        I understand that I cannot serve the participant in the hospital, nursing home, outpatient surgery center,
+        rehabilitation facility, or if incarcerated or if the participant enrolls in Hospice. If I check in to EVV/Mobile App
+        during these times I will be required to pay back any money I have received.
+
+        I understand that I am to serve the participant where he or she lives or another location with prior approval
+        by the Case Manager.
+
+        I understand that the participant must be present when I check in and provide services.
+
+        I understand that I cannot ask for additional compensation from the participant or the EOR during the time I am
+        checked in serving as anAttendant/Companion.
+
+        I understand that I do not work for SCDHHS, CLTC, UAP, EVV/Mobile App or the payroll agent.
+
+        I understand that I am employed by the employer of record (EOR) who is either the Participant or their
+           Representative.
+
+        I understand that I do not receive benefits such as vacation, sick leave, or insurance.
+
+        I understand it may take up to 45 days from the date that Medicaid Claims Processing receives the
+          Resolution Log claim to be paid. Payment maybe delayed further if a submitted resolution requires
+          investigation.
+
+       I understand that if I reach the strike limit and continue to submit resolutions due to my own errors
+         or inability to correctly use the mobile app, those resolutions will be denied, and my services may be
+         terminated. Additionally, the denies claims submitted through resolutions will result in non-
+         payment.
+Area Office Representative Signature:                                                        Date:
+
+Attendant Signature:                                                                           Date:
+
+EOR Signature (if present):                                                                    Date:
+                                                                                                                                  32
+Attendant Information Sheet                                                    Attendant Name:
+
+EVV Number:                                                         1-888-978-2273
+Attendant ID Number:
+This number must be keptconfidential and                            (All 8 digits must be correct or Care Call will not pay)
+should not be shared with anyone.
+
+
+Participant’s CLTC Number:
+
+Employer of Record (EOR):
+Phone Number (EOR):
+
+Participant’s Case Manager (CM):
+Phone Number (CM):
+(Daily Logs must be received by CLTC office by 5 pm on the 15th of each month.)
+
+
+Billing Contact:
+Phone Number:
+(Resolution Logs mailed or faxed when corrections or verification are requested.)
+
+
+CLTC Address:
+For Daily and Resolution Logs
+
+
+CLTC FAX Number:
+
+Payroll Agent Phone Number:
+Payroll Agent FAX Number:
+(Only Call for question on taxes, wage verification or direct deposit.)
+Payroll Agent Address:
+
+
+
+Attendant Care Program                                              Attendant Care Program
+Address:                                                            Center for Disability Resources
+                                                                    USC School of Medicine
+                                                                    Columbia, SC 29208
+Phone number:                                                       1-803-935-5297
+Fax number:                                                         1-803-935-5250
+
+
+
+
+                                                                                                                               33
+Mobile Phone Device Requirements
+• Only iPhone and Android phones are supported
+
+• 10 MB of storage for AuthentiCare; up to 300 MB of storage for Google Play services
+
+• Data consumption: Less than 5MB/Mo. (3 visits/day, 5 days per week)
+
+• Q/R code reader app installed (usually standard)
+
+• Android phone must be version 5.0 or higher
+
+• Android must have Google Play Services installed, enabled, and fully up to date (Settings -> Apps) –
+should come with phone
+
+• iPhone must be iOS 8.0 or greater (Latest version recommended.)
+
+
+
+
+                                                                                                         34
+SC Department of Health and Human Services
+Community Long Term Care
+                                         Attendant/Companion Resolution Log Blank
+You need to complete a resolution log anytime you forget to check in or check out, when you made a mistake or think you made a mistake and would like to
+have your time reviewed. Enter all information as requested, failure to do so will result in the form being returned for corrections.
+Reason codes:
+    1.   EVV not functioning (only to be used when CLTC canverify                       4.   Emergency with the participant at beginning or end of visit (Must
+         Care Call was down).                                                                also report to CM and EOR).
+    2.   Participant’s phone not available. (Must also report to the CM and             5.   Client not in (EVV).
+         EOR).                                                                          6.   Worker error‐ wrong participant, wrong service, forgot.
+    3.   Participant’s phone not functioning. (Must also report to CM and               7.   Authorization not updated by Case Manager.
+         EOR).                                                                          8.   Mobile App not functioning (only to be used when CLTC can verify
+                                                                                             the Mobile App is unavailable)
+Attendant Name:                                                  Worker ID number:                               Date mailed:
+                                                                  (Must include all 8 digits)
+   Date of      Participant CLTC #                       Participant Name                       Service ATT or       Check in     Check out time   Reason code from
+   Service                                                                                          COM                time                           list above:
+
+
+
+
+Attendant Signature:                                                 Phone Number:                                              Date:
+
+Employer of Record Signature (Required):                                                                   Date:
+My signature hereby states that the above information is correct to the best of my knowledge.
+
+
+
+
+                                                                                                                                                                      35
+                           Sample
+
+ATTENDANT CARE DAILY LOG
+
+
+
+
+                                    36
+                                    36
+                       ATTENDANT CARE DAILY LOG                                                             ATTENDANT CARE DAILY LOG
+Participant Name:                                                                    Participant Name:
+C L T C = L=· --------
+At te n d an t:                                       _                              CLTCL ·=---------
+                                                                                     Attendant:                                         _
+Attendant's Phone number<_ _,,)                       _                              Attendant's Phone number< -- )
+Case Manager:                                      _                                 Case Manager:
+Daily Log of attendant care services for week ending:                                Daily Log of attendant care services for week ending:
+                DAILY TASK                    s   M       T    w     TH     F   ST                    DAILY TASK                   s      M      T     w    TH       F    ST
+            Write in Dates                                                                       \Vrite in Dates
+PROVIDE/ASSIST WITH ADL'S                                                            PROVIDE/ASSIST WITH ADL'S
+•• Bathin.2                                                                          •• Bathin.2
+•• Dressing                                                                          •• Dressing
+•• Groomine                                                                          •• Groomine
+•• Personal H.,•;ene                                                                 •• Personal H.,•;ene
+•• Transferrin• and !lfobilitv                                                       •• Transferrin• and Mobilitv
+•• Assist with Commode/UrinallBMnan                                                  •• Assist with CommodelUrinallBMnan
+PREPARE AND SERVE MEAL/SNACK                                                         PREPARE AND SERVE MEAL/SNACK
+GENERAL HOUSEKEEPING                                                                 GENERAL HOUSEKEEPING
+•• □  Vacuum    □   Moo   □    Dust                                                  •• □  Vacuum     □  Moo   □   Dust
+••  D Sween     □  Trash                                                             •• □  Swe_,,    □  Trash
+•• □  Clean Kitchen   □  Clean Oven/Stove                                            •• □  Clean Kitchen   □ Clean Oven/Stove
+•• □  Defrost/Clean Refri,erator                                                     •• □ Defrost/Clean Refri,erator
+•• □  La"•"~•   □  CleanBathroom                                                     •• □  La"•"~•   □  Clean Bathroom
+•• CleanParticioant's Immediate Livine Area                                          •• CleanParticioant's Immediate Livine Area
+SHOPPING ASSISTANCE                                                                  SHOPPING ASSISTANCE
+•• □ Errands □ Escort                                                                •• □ Errands □ Escort
+ASSISTANCE WITH COMMUNICATION                                                        ASSISTANCE WITH COMMUNICATION
+MONITORING OF PARTICIPANT'S                                                          MONITORING OF PARTICIPANT'S
+•• □   Vital Si•••     □
+                      SkinCondition                                                  •• □   Vital Si•n.     □
+                                                                                                           SkinCondition
+•• □   Fluid Intake    □
+                      Loss of Aooetite                                               •• □   Fluid Intake    □
+                                                                                                           Loss of Annetite
+REMIND TOT AKE MEDICATION                                                            REMIND TOT AKE MEDICATION
+Other:                                                                               Other:
+Other:                                                                               Other:
+                \VEEKLY S U M M• .\RY OF PARTICIPANT'S CONDITION                                     \VEEKLY SUMM..\RY OF PARTICIPANT'S CONDITION
+
+
+
+
+Attendant Signature:                          REP./Participant Signature:            Attendant Signature:                              REPJ Participant Signature:
+
+
+
+                                                                                                                                                                     37
+

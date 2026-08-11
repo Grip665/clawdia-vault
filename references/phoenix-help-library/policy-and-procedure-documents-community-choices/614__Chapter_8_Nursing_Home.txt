@@ -1,0 +1,1613 @@
+     SCDHHS
+     Community Choices Policy and Procedure Manual
+     Chapter 8 – Nursing Home Procedures                                                                                                          November 1, 2022
+
+
+
+
+                                                                       Table of Contents
+08.10       Introduction .....................................................................................................................................................3
+
+08.20       Nursing Home Certification ............................................................................................................................4
+
+08.30 When CLTC Certification is Necessary ............................................................................................................5
+
+            08.31 Certification of Medicare Eligible Applicants .....................................................................................6
+
+            08.32 Skilled Nursing Facility Co-payment ..................................................................................................7
+
+            08.33          Time-Limited Certifications............................................................................................................7
+
+            08.34 Medicaid Managed Care Organization Plan Members ........................................................................8
+
+08.40 Certification Validity .........................................................................................................................................9
+
+            08.41 Facilities Under Denial of Payment for New Admissions ................................................................. 10
+
+08.50 Pre-Admission Review for Nursing Home Placement..................................................................................... 11
+
+            08.51 Certification of Applicant in the Community (non-waiver) .............................................................. 11
+
+                      08.51.10 Choice of Location for Care .............................................................................................. 12
+
+                      08.51.20         Re-Certification of Non-Waiver Applicant....................................................................... 12
+
+            08.52 Certification of a Non-Waiver Hospital Based Applicant ................................................................. 13
+
+            08.53          Certification of a Waiver Participant ............................................................................................ 15
+
+            08.54 Certification for a participant of the Program for All Inclusive Care for the .................................... 16
+
+            Elderly (PACE) ............................................................................................................................................. 16
+
+            08.55 Certification of Out-of-State Applicants ........................................................................................... 16
+
+                      08.55.10 Applicant Residing in Out-of-State Nursing Home or Hospital ........................................ 17
+
+                      08.55.20 Applicant Residing in Out-of-State Residence .................................................................. 19
+
+                      08.55.30         Out-of-State Applicant Who Does Not Appear To Meet Level of Care ........................... 20
+
+            08.56          Conversion from Private Pay, Medicare, Other Payment Sources to Medicaid ............................ 21
+
+                      08.56.10          Re-Certification of Nursing Home Cases Pending Medicaid                                        Approval ...................... 23
+
+            08.57          Retroactive Certifications ............................................................................................................. 25
+
+            08.58       Corrected Level of Care Certification For Non-Phoenix Nursing Facilities .................................... 27
+
+            08.59 Corrected Level of Care for Phoenix Nursing Facilities ................................................................... 28
+
+
+Chapter 8-Nursing Home                                                                                                                                              Page 1
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                                                                                  November 1, 2022
+
+
+08.60   Other Institutional Nursing Care Programs ................................................................................................... 30
+
+        08.61 Administrative Days .......................................................................................................................... 30
+
+                 08.61.11         Waiver Participant Entering Administrative Days............................................................ 31
+
+                 08.61.12 Re-Certification for Nursing Home Admission ................................................................. 31
+
+                 08.61.13         Special Situations in Dealing with Administrative Days .................................................. 33
+
+        08.62 Subacute Care .................................................................................................................................... 33
+
+        08.63 Swing Bed ......................................................................................................................................... 34
+
+        08.64 Hospice Enrolled Applicants Seeking Nursing Home Certification .................................................. 35
+
+
+
+
+Chapter 8-Nursing Home                                                                                                                                   Page 2
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                           November 1, 2022
+
+
+08.10 Introduction
+
+       Individuals who will enter or remain in a nursing home under primary Medicaid payment
+       must meet the South Carolina Medicaid Nursing Facility Level of Care criteria. This level of
+       care (LOC) determination is made through pre-admission review by a Community Long
+       Term Care, (CLTC), SCDHHS worker. The Level of Care Certification, SCDHHS Form
+       185, certifies medical necessity.
+
+       (See Chapter 9 for other necessary actions relative to PASRR.)
+
+       This policy applies to all ages.
+
+
+
+
+Chapter 8-Nursing Home                                                                     Page 3
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                           November 1, 2022
+
+
+08.20 Nursing Home Certification
+
+       CLTC has been designated to perform pre-admission review of all applicants for Medicaid-
+       sponsored nursing home care. This function must occur prior to admission to a long term
+       care facility and before the date for which Medicaid vendor payment can begin. This
+       certification includes the designation of an appropriate level of care. Level of care
+       certification is necessary only when an applicant is determined to be at a skilled or
+       intermediate level of care and will enter or remain in a nursing home with Medicaid as the
+       primary payment source. Level of care certification is accomplished by completing a
+       Certification Letter, SCDHHS Form 185.
+
+
+
+
+Chapter 8-Nursing Home                                                                     Page 4
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                             November 1, 2022
+
+
+08.30 When CLTC Certification is Necessary
+
+       Any application for Medicaid-sponsored nursing home care requires two eligibility
+       determinations: financial and medical. Financial eligibility is determined by Medicaid
+       Eligibility. The authorization of medical necessity, or pre-admission review, is a function
+       of CLTC.
+
+       CLTC certification is required in the following situations:
+
+              1. Prior to any Medicaid-sponsored admission to a long term care facility from
+                 any location;
+
+                  Note: The only exception to this is if the admission is a transfer of a current
+                         Medicaid recipient from another long term care facility at the same
+                         level of care.
+
+                          When an applicant is transferring from a Phoenix nursing facility to
+                          a non-Phoenix nursing facility, the transferring nursing facility will
+                          provide the Level of Care Certification Letter to the accepting non-
+                          Phoenix nursing facility.
+
+                          When the applicant is transferring from a non-Phoenix nursing
+                          facility to a Phoenix nursing facility, The Phoenix nursing facility
+                          that is accepting the applicant will make an electronic nursing home
+                          referral. The nursing facility will use the data field on the referral to
+                          indicate this case is a transfer from a non-Phoenix nursing facility.
+
+                           Phoenix will create an application and will create an Eligibility
+                           Workflow.
+
+                          The accepting nursing facility will report a problem in Phoenix and
+                          request the applicant’s level of care and recurring income be entered
+                          into Phoenix.
+
+                          A copy of the Level of Care Certification letter will be provided by the
+                          transferring nursing facility if the applicant is still under the original
+                          Level of Care Certification.
+
+
+              2. Prior to re-admission to a long term care facility from any location once
+                 Medicaid vendor payment has been terminated.
+
+                  a. Re-admission from the hospital if the stay has exceeded a Medicaid ten (10)
+                     calendar day bed hold period. (A patient may be in the hospital 10 full
+                     calendar days, returning on the 11th calendar day, without need for re-
+                     certification.)
+
+Chapter 8-Nursing Home                                                                       Page 5
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                             November 1, 2022
+
+
+
+
+                  b. Re-admission to a nursing facility when a patient exceeds nine (9) calendar
+                     days of the yearly allowable eighteen (18) calendar days of therapeutic leave
+                     or de-institutionalization leave of absence; the calendar day the applicant
+                     leaves is counted as Day 1 and the calendar day of return does not count. If
+                     the applicant returns after the tenth (10th) calendar day, a new certification
+                     is needed.
+
+                  c. Re-admission to a nursing facility when a patient exceeds the approved
+                     thirty (30) consecutive calendar days for the purpose of participation in an
+                     approved rehabilitation program.
+
+                      Note: If a long term care facility formally discharges a patient, the bed hold
+                             policy does not apply. In such cases, an assessment must be
+                             completed and a CLTC Level of Care Certification obtained prior to
+                             re-admission to a long term care facility.
+
+              3. Prior to the date Medicaid vendor payment may begin, when a patient's care in
+                 a long term care facility is being paid for privately or by Medicare or any other
+                 source, and Medicaid sponsorship is being requested.
+
+              4. If a time-limited certification has expired and Medicaid vendor payment is to
+                 continue.
+
+              5. Prior to the admission of a patient from a facility administered by the
+                 Department of Mental Health (DMH) to a non-DMH administered long term
+                 care facility.
+
+              6. Prior to the admission of an Intermediate Care Facility patient from a facility
+                 administered by the Department of Disabilities and Special Needs (DDSN) to a
+                 non-DDSN long term care facility.
+
+              7. As requested by the Medicaid Eligibility for income trust and transfer penalty
+                 case.
+
+
+       08.31 Certification of Medicare Eligible Applicants
+
+              Prior to nursing home admission, applicants who appear potentially eligible for
+              extended care benefits through Medicare should be identified. The facility (hospital
+              or nursing home) should be instructed to pursue Medicare reimbursement. A level
+              of care is not required, and a Level of Care Certification is not issued for these
+              cases.
+
+              If a Nursing Home Application is made by a hospital for an applicant but the
+              applicant enters a Phoenix nursing facility under primary Medicare payment, the
+
+Chapter 8-Nursing Home                                                                       Page 6
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                              November 1, 2022
+
+
+              CLTC area office will document this in the applicant’s narrative and take no further
+              action on the application. The CLTC SCDHHS worker may remove his/her name
+              from the application.
+
+              The Phoenix nursing facility will attach themselves to the applicant’s nursing home
+              application and the status will change to Participating. The nursing facility will
+              create a request for LOC from CLTC in Phoenix if or when Medicaid conversion
+              is needed.
+
+              If a nursing home application is made by a hospital for an applicant but the
+              applicant enters a non- Phoenix nursing facility under primary Medicare payment,
+              the CLTC area office will document this in the applicant’s narrative, terminate the
+              application as “Terminated to Medicare” and send a CLTC Notification Form to
+              the participant/ personal contact, PC, and referral source, as appropriate.
+
+
+       08.32 Skilled Nursing Facility Co-payment
+
+              If an applicant is eligible for Medicare and Medicaid and is under Medicare
+              sponsorship in a nursing facility, a certification letter is not required for a hospital
+              bed hold period. When Medicare benefits are terminated, the applicant may be
+              referred to CLTC for evaluation of Medicaid sponsorship.
+
+              Phoenix Nursing Facilities
+              When a nursing home resident receiving Medicaid Skilled Nursing Facility Co-
+              Payment is added to a Phoenix nursing facilities roster, the application will appear
+              in the CLTC Area Office’s unassigned workflows. The CLTC Area Office must
+              determine whether a nursing facility LOC certification is needed at the time of
+              referral or if the applicant is receiving Medicaid co-pay only. When making
+              referrals, the nursing facility should indicate if the person is receiving Skilled
+              Nursing Facility Medicaid co-payment (SNF co-pay). When the facility indicates
+              this, the Centralized Intake worker will notate this in the narrative. If the applicant
+              is receiving Skilled Nursing Facility Medicaid co-payment (SNF co-pay) only and
+              a Nursing Home Conversion is not needed at this time, the case must be assigned
+              to a worker and then unassigned for the case to be removed from the “Unassigned
+              Centralized Intake Workflows”. If a Skilled Nursing Facility Medicaid co-payment
+              (SNF co-pay) case is assigned in error, the SCDHHS worker may remove his/er
+              name from the application and document the reason in the narrative.
+
+                   Note: For an applicant receiving Skilled Nursing Facility Medicaid co-
+                         payment (SNF co-pay), the Phoenix nursing facilities should enter
+                         the anticipated date of conversion to Medicaid primary payment in
+                         the participant’s record, even if that date is two-three months away.
+       08.33 Time-Limited Certifications
+
+
+
+Chapter 8-Nursing Home                                                                         Page 7
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                              November 1, 2022
+
+
+              An applicant's medical condition or other functional factors may sometimes warrant
+              certification and nursing facility admission for a specific time period. In these
+              situations, CLTC has determined that the applicant can benefit from temporary
+              placement in a long term care facility. The Level of Care Certification will indicate
+              the certification is time limited and will specify the certification period.
+              If there is a need for continued nursing facility placement at the end of the
+              certification period, the nursing facility must submit a South Carolina Long Term
+              Care Assessment Form 1718, signed CLTC Consent Form, and 14 calendar days
+              of supporting medical documentation to the CLTC Area Office for level of care
+              evaluation at least seven (7) business days before the certification expiration date.
+
+              If the CLTC SCDHHS worker determines that an applicant meets the skilled or
+              intermediate level of care, a Level of Care Certification Letter, SCDHHS Form 185,
+              will be issued with no time limit.
+
+              When certifying an applicant who will not immediately enter a nursing facility but
+              will receive a time-limited certification, the normal thirty (30) calendar day
+              expiration date on the Level of Care Certification, DHHS Form 185, should be
+              indicated and marked along with the time-limited certification block. At the time
+              of admission to the nursing facility, a new Level of Care Certification, DHHS
+              Form 185, should be issued indicating the actual time period covered by the time-
+              limited certification.
+
+              If there is a need for a change in level of care during a time-limited certification
+              period, the nursing facility must forward a South Carolina Long Term Care
+              Assessment Form 1718 and a signed CLTC Consent Form to the CLTC Area
+              Office.
+
+
+       08.34 Medicaid Managed Care Organization Plan Members
+
+              For a Medicaid Managed Care Organization (MCO) plan member, the Medicaid
+              requirements of participation for nursing facilities apply, including level of care
+              certification, preadmission screening resident review (PASRR), resident
+              assessment, patient’s rights, etc.
+
+              The MCO must obtain a level of care certification from CLTC for a Medicaid
+              MCO program plan member prior to admission to the facility under primary
+              Medicaid payment.
+
+              CLTC certification is not required for Medicaid Skilled Nursing Facility Co-
+              payment (SNF-Co) admissions.
+
+              The Level of Care Certification will have an effective period of forty-five (45)
+              calendar days.
+
+
+Chapter 8-Nursing Home                                                                        Page 8
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                         November 1, 2022
+
+
+
+
+08.40 Certification Validity
+
+       Certification for a person awaiting nursing facility placement is valid for thirty (30)
+       calendar days. The thirty (30) calendar day period begins with the effective date on the
+
+Chapter 8-Nursing Home                                                                   Page 9
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                              November 1, 2022
+
+
+       Level of Care Certification, SCDHHS Form 185, and ends with the expiration date.
+
+       Note: A Level of Care Certification for a Medicaid MCO enrollee has an effective period
+             of forty-five (45) calendar days.
+
+       The expiration date is a valid date of certification for the applicant to enter the nursing
+       facility. If the applicant has not entered the nursing facility by the expiration date on the
+       Level of Care Certification, the applicant's condition must be re-evaluated. (08.51.20 Re-
+       Certification of Non-Waiver Applicant) Upon admission to a long term care facility,
+       certification is valid indefinitely unless:
+
+          1.   Medicaid benefits are terminated for any reason;
+               Exception: A Medicaid recipient's benefits are terminated for thirty-one (31)
+               calendar days or less for financial eligibility reasons (e.g., excess resources).
+
+          2.   CLTC has specified that the certification is time-limited (See Section 08.33 Time-
+               Limited Certifications).
+
+          3.   Applicant enters a nursing facility with a payment source other than Medicaid; the
+               applicant must again be certified before a Medicaid conversion will be allowed.
+
+          4.   The applicant's condition or location from where the applicant was initially certified
+               changes (e.g., home to hospital or long term care facility to home); the only
+               exception to this rule would be the nursing home's option to hold a bed for up to
+               ten (10) calendar days for an applicant who has been transferred to a hospital. If the
+               applicant returns to the nursing home on the eleventh (11th) calendar day or
+               before, certification by CLTC is not necessary.
+
+       A Level of Care Certification, SCDHHS Form 185, must not be altered by anyone. In
+       cases where an error has been made, the Level of Care Certification must be destroyed in
+       accordance with HIPAA regulations and a corrected Level of Certification letter issued.
+       The new corrected Level of Care Certification letter must have “Corrected Copy” written
+       in red ink. Any Level of Care Certification Letter which has been altered is invalid.
+
+       08.41 Facilities Under Denial of Payment for New Admissions
+
+               CLTC will be notified when a nursing facility is placed under Denial of Payment
+               for New Admissions (DPNA).
+
+               New admissions on or after the DPNA date will not be certified.
+
+                      •   If the applicant, previously certified in the community, wishes to enter
+                          a nursing facility that is under denial of payment, the SCDHHS worker
+                          will advise the applicant to speak with the nursing facility.
+
+
+
+Chapter 8-Nursing Home                                                                       Page 10
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                           November 1, 2022
+
+
+              Applicants who entered that facility prior to the DPNA date can be certified for the
+              purpose of converting to Medicaid sponsorship.
+
+                      •   If an applicant, admitted prior to the DPNA date, is admitted to the
+                          hospital and exceeds the ten (10) calendar day bed hold, Central Office
+                          approval must be obtained prior to issuance of a Level of Care
+                          Certification.
+
+                      •   The CLTC Area Office handling the request will email the Nursing
+                          Facility Program Area Designee to request approval to complete the
+                          certification.
+
+                      Note: If an applicant is receiving primary Medicare payment with Medicaid
+                      co-payment for the nursing facility and exceeds the ten (10) calendar day
+                      bed hold, a Level of Care Certification is not required. Nursing facilities
+                      should contact the Nursing Facility Program Area Designee prior to re-
+                      admission.
+
+
+
+
+08.50 Pre-Admission Review for Nursing Home Placement
+
+       08.51 Certification of Applicant in the Community (non-waiver)
+
+              Upon assignment of an Application for Pre-admission Review for Nursing Home
+
+Chapter 8-Nursing Home                                                                     Page 11
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                              November 1, 2022
+
+
+              Placement for an applicant located in the community, who is not a waiver
+              participant, the SCDHHS worker will:
+
+              •       Arrange for assessment completion by telephone or visit.
+
+              •       Obtain signed CLTC Consent Form.
+
+           08.51.10 Choice of Location for Care
+
+                  The Participant Service Choice SCDHHS Form 164 is no longer required for
+                  entering a Nursing Home.
+
+           08.51.20   Re-Certification of Non-Waiver Applicant
+
+                  When nursing home placement is imminent, an applicant who was previously
+                  certified and closed with an expired certification letter can be re-certified within
+                  a one hundred eighty (180) calendar day period from the original date of
+                  certification.
+
+                  Upon notification that nursing home placement is imminent, the SCDHHS
+                  worker will:
+
+                  •       Create an electronic referral via Centralized Intake for nursing home
+                          placement. Review the CLTC Consent Form on file. (This form remains
+                          valid for the one hundred eighty (180) calendar day period.)
+
+                  •       Complete assessment through a visit or telephone contact with the
+                          applicant and/or Authorized Representative and/or other permitted
+                          caregiver supports as appropriate. SCDHHS worker can complete
+                          nursing home preadmission assessment by telephone for applicants
+                          residing in the community. If the level of care (LOC) is questionable or
+                          the applicant requests a face-to-face assessment, then a visit must be
+                          made.
+
+                  •       Team conference with another SCDHHS worker to determine level of
+                          care.
+
+
+
+                  Note: If the applicant appears to be medically ineligible, a visit must be made
+                         prior to the final level of care determination. (Refer to 02.60.10 for
+                         Medically Ineligible.)
+
+
+Chapter 8-Nursing Home                                                                        Page 12
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                            November 1, 2022
+
+
+                   •       Create and send the Level of Care Certification Letter to the applicant/
+                           primary contact Authorized Representative, Medicaid Eligibility and
+                           the admitting nursing facility.
+
+                   •       For non-Phoenix Nursing Facility admissions, terminate the application
+                           as “Entered Nursing Home.” For Phoenix Nursing Facility admissions,
+                           the SCDHHS worker will document the admission in the narrative and
+                           remove his/her name from the application. The application will not be
+                           terminated.
+
+                   Note: If an applicant continues to await placement beyond one hundred
+                          eighty (180) calendar days and the nursing facility placement is
+                          imminent, the SCDHHS worker must visit the applicant and follow
+                          policies and procedure for intake, assessment, and level of care
+                          (including obtaining a new CLTC Consent Form)
+
+       08.52 Certification of a Non-Waiver Hospital Based Applicant
+
+              Upon assignment of an application for pre-admission review for nursing home
+              placement for a hospital-based applicant, the SCDHHS worker will:
+
+              •        Complete the assessment with the applicant and/or primary contact
+                       Authorized Representative and other knowledgeable individuals, as needed,
+                       to obtain accurate information through a visit or by telephone OR review
+                       completed assessment and medical records provided. If the level of care
+                       (LOC) is questionable or the applicant requests a face-to-face assessment,
+                       then a visit must be made. (The 1718 assessment may be completed by the
+                       hospital under Memorandum of Agreement between CLTC and the facility.
+                       The facility must provide two weeks of supporting documentation, if
+                       available. These documents should be uploaded electronically in Phoenix.)
+
+              •        Review signed CLTC Consent Form obtained by the facility.
+
+              •        Complete/ review PASRR (PASRR Policy and Procedure in Chapter 9 must
+                       be followed. PASRR may be completed by the facility under Memorandum
+                       of Agreement between CLTC and the facility.)
+
+               •         Team conference with another SCDHHS worker to determine tentative
+                           level of care.
+
+
+
+Chapter 8-Nursing Home                                                                      Page 13
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                            November 1, 2022
+
+
+               •         Document the team conference and tentative level of care in the narrative
+                         record.
+
+               •         Create and send a CLTC Notification Form to the applicant and/or primary
+                         contact Authorized Representative and the facility to communicate the
+                         tentative level of care and need to obtain final level of care prior to
+                         discharge when nursing home placement is imminent.
+
+              Upon notification that nursing home placement is imminent, the SCDHHS worker
+              will:
+
+               •         Review/ update the assessment information with the applicant/ primary
+                         contact Authorized Representative and/ or hospital staff.
+
+               •      Team conference with another SCDHHS worker to determine the final
+                      level of care.
+
+               •      Document the assessment review, team conference and final level of care
+                      in Phoenix.
+
+                      Note: Date of Final Level of Care should be the same date that the applicant
+                      enters the nursing facility.
+
+               •      Create and send a Level of Care Certification Letter to the applicant/
+                      Authorized Representative, the Medicaid Eligibility Unit and the admitting
+                      nursing facility.
+
+               •      Terminate application as “Entered Nursing Home” for non-Phoenix nursing
+                      facilities.
+
+               •      Note: For Phoenix nursing facilities, the SCDHHS worker will not
+                      change the application status. He/she will remove his/her name from the
+                      application and document case actions in the narrative record.
+
+              If a hospital fails to update a tentative nursing facility level of care (LOC)
+              certification and obtain a final level of care certification at the time of hospital
+              discharge to a Phoenix nursing facility, the admitting Nursing Facility will attach
+              to the open CLTC application and contact the CLTC Area Office. The Nursing
+              Facility will not create a new referral. The CLTC Area Office will not terminate
+              the nursing home placement application. The admitting facility will submit a 1718
+
+
+Chapter 8-Nursing Home                                                                     Page 14
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                           November 1, 2022
+
+
+              assessment along with medical records and make a Request for LOC from CLTC
+              via Phoenix.
+
+              If a non-Phoenix nursing facility admits a participant without a final level of care
+              certification, the nursing facility will make an electronic referral via Centralized
+              Intake for a Nursing Home Conversion. As part of the electronic referral, the
+              facility will upload the signed Consent Form, 1718 assessment, and supporting
+              documentation to Phoenix.
+
+              NOTE: Pre-admission review for nursing home placement is a time limited
+              application. These cases can only be left open for 30 days or closed as tentative
+              greater than 30 days.
+
+
+       08.53 Certification of a Waiver Participant
+
+              If a waiver participant changes the service choice to nursing home and nursing
+              home placement is imminent, the Case Manager will:
+
+              •       Complete an electronic referral via Centralized Intake for Pre-admission
+                      Screening for Nursing Home Placement.
+
+              •       Continue case management, waiver services and monitoring as required by
+                      the waiver.
+
+
+              When the application is assigned for assessment, the SCDHHS worker will:
+
+               •      Complete a new assessment with the applicant or primary contact
+                      Authorized Representative by phone or visit.
+
+               •      Review signed CLTC Consent Form on file.
+
+               •      Complete/ PASRR (PASRR Policy and Procedure in Chapter 9 must be
+                      followed.)
+
+               •      Team conference with another SCDHHS worker to determine level of
+                      care. The level of care and the justification for the level of care
+                      determination must be properly documented by the SCDHHS worker in the
+                      Phoenix narrative.
+
+
+
+Chapter 8-Nursing Home                                                                    Page 15
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                           November 1, 2022
+
+
+               •      Document assessment completion, team conference and level of care in
+                      Phoenix.
+
+               •      Create and send a Level of Care Certification Letter to the applicant/
+                      primary contact Authorized Representative, Medicaid Eligibility and the
+                      admitting nursing facility.
+
+              When the participant enters the nursing facility, the Case Manager will:
+
+               •      Confirm permanent placement decision with participant/Authorized
+                      Representative prior to closure.
+
+               •      Terminate all waiver services effective the day of nursing home admission.
+
+               •      Notify all providers by phone or phoenix conversation of termination.
+
+               •      Terminate the waiver application as “Entered Nursing Home.”
+
+               •      Notify Support Staff to update MMIS RSP to reflect waiver termination.
+
+               •      Support Staff must update the MMIS RSP within four (4) calendar days.
+
+       08.54 Certification for a participant of the Program for All Inclusive Care for the
+             Elderly (PACE)
+
+              A referral is not needed for nursing facility level of care certification for PACE
+              participants. If a new referral for nursing facility level of care (LOC)
+              certification is received for a PACE participant, the application would be
+              terminated by Centralized Intake as “Inappropriate After Intake.” If Centralized
+              Intake releases the case to the CLTC Area Office, the CLTC Area Office may
+              terminate the application.
+
+
+
+       08.55 Certification of Out-of-State Applicants
+
+              The receiving CLTC Area Office will arrange for evaluation of an applicant who is
+              residing outside of South Carolina but is seeking South Carolina Medicaid
+              sponsored nursing home placement.
+
+              Note: The applicant and/or primary contact Authorized Representative must be
+              informed to make financial application with the Medicaid Eligibility Unit.
+
+
+Chapter 8-Nursing Home                                                                     Page 16
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                             November 1, 2022
+
+
+
+
+           08.55.10 Applicant Residing in Out-of-State Nursing Home or Hospital
+
+                          In response to a referral for nursing home placement for an applicant
+                          residing in an out-of-state nursing home or hospital, the SCDHHS
+                          worker will:
+
+                          •      Send the hard copy South Carolina Long Term Care Assessment
+                                 Form 1718, the hard copy CLTC Consent Form and the hard
+                                 copy PASRR form to the facility to complete and return to the
+                                 CLTC Area Office.
+
+                          •      PASRR Policy and Procedure in Chapter 9 must be followed for
+                                 out-of-state applications.
+
+                          •      Instruct a professional staff member of the transferring facility
+                                 to obtain written consent and to complete and return the forms
+                                 to CLTC for review.
+
+                          •      Contact the out-of-state facility by telephone upon receipt of the
+                                 completed forms to validate the information.
+
+                          •      Team conference with another SCDHHS worker to determine
+                                 the tentative level of care.
+
+                          •      Document the team conference and tentative level of care in the
+                                 narrative record.
+
+                          •      Create and send a CLTC Notification Form to the applicant
+                                 and/or primary contact Authorized Representative out-of-state
+                                 facility, and the admitting facility to communicate the tentative
+                                 level of care.
+
+                          Note: Do not include the Appeal Notice with this Notification because
+                          this is a tentative level of care.
+
+                          The case must be reviewed in sixty (60) calendar days to determine case
+                          resolution. If upon review, the applicant does not plan to enter a nursing
+                          facility in the immediate future, the case may be terminated as “Did Not
+                          Relocate to South Carolina.” If the case is closed for this reason, a
+                          CLTC Notification Form is sent.
+
+
+Chapter 8-Nursing Home                                                                      Page 17
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                          November 1, 2022
+
+
+                          Upon the applicant’s relocation to a non-Phoenix South Carolina
+                          nursing facility, the SCDHHS worker will:
+
+                          •       Complete a phone call to the admitting nursing facility within
+                                  ten (10) business days to determine the final level of care.
+
+                          •       If the applicant appears Medically Ineligible by phone
+                                  assessment, a visit must be made.
+
+                          •       Issue a Level of Care Certification Letter, SCDHHS Form 185,
+                                  to the applicant/ primary contact Authorized Representative,
+                                  the admitting nursing facility, and Medicaid Eligibility Unit.
+
+                          •       Close the Nursing Home application as "Entered Nursing
+                                  Home" if the applicant meets skilled or intermediate level of
+                                  care.
+
+                      Upon the applicant’s relocation to a Phoenix South Carolina nursing
+                      facility, the SCDHHS worker will:
+
+                          •       Complete a phone call to the admitting nursing facility within
+                                  ten (10) business days to determine the final level of care.
+
+                          •        Make a visit if the applicant appears Medically Ineligible by
+                                  phone assessment.
+
+                          •       Issue a Level of Care Certification Letter, SCDHHS Form 185,
+                                  to the applicant/ primary contact Authorized Representative,
+                                  the admitting nursing facility, and Medicaid Eligibility Unit.
+
+                          •        Not change the status of the Nursing Home Application.
+
+                          •       Will remove his/ her name from the Nursing Home Application
+                                  once the certification has been issued.
+
+
+                      If the applicant does not meet level of care, the application will be
+                      terminated in Phoenix as "Medically Ineligible" as outlined in Chapter 3,
+                      section 3.22. The final level of care determination is appealable, and the
+                      appeals notice is to be included with the notification.
+
+
+
+Chapter 8-Nursing Home                                                                   Page 18
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                             November 1, 2022
+
+
+             08.55.20 Applicant Residing in Out-of-State Residence
+
+                      Upon referral for Nursing Home Placement of an out of state resident
+                      in the community, the SCDHHS worker will:
+
+                           •       Mail the CLTC Consent Form, SCDHHS Form 121 to the
+                                   applicant/ primary contact Authorized Representative
+
+                           •       Instruct the applicant/ primary contact Authorized
+                                   Representative to sign and return the form to CLTC.
+
+                      Upon receipt of the signed CLTC Consent Form, the SCDHHS worker
+                      will:
+
+                           •       Complete the Assessment by phone with the applicant and/or
+                                   Authorized Representative and any knowledgeable others, as
+                                   needed, to obtain accurate information.
+
+                           •       Complete PASRR (PASRR Policy and Procedure in Chapter 9
+                                   must be followed.)
+
+                           •       Team conference with another SCDHHS worker to determine
+                                   tentative level of care.
+
+                           •       Document the team conference and tentative level of care in
+                                   the narrative record.
+
+                           •       Create and send a CLTC Notification Form to the applicant
+                                   and/or primary contact Authorized Representative and the
+                                   admitting facility to communicate the tentative level of care.
+
+                           Note: Do not include the Appeals Notice with this notification because
+                           this is a tentative level of care.
+
+                         The case must be reviewed in sixty (60) calendar days to determine case
+                         resolution. Upon review, if the applicant does not plan to enter a nursing
+                         facility in the immediate future, the case may be terminated as “Did Not
+                         Relocate to South Carolina” and the CLTC Notification is sent.
+
+                           •       The Appeals Notice should not be included as the level of care
+                                   is tentative.
+
+
+Chapter 8-Nursing Home                                                                      Page 19
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                             November 1, 2022
+
+
+                      Upon the applicant’s relocation to a non-Phoenix South Carolina
+                      nursing facility, the SCDHHS worker will:
+
+                          •      Visit the applicant within ten (10) business days to determine the
+                                 final level of care;
+
+                          •      Issue a Level of Care Certification Letter, SCDHHS Form 185,
+                                 to the applicant/ primary contact Authorized Representative, the
+                                 admitting nursing facility and the Medicaid Eligibility Unit.
+
+                          •       Close the Nursing Home application as "Entered Nursing
+                                 Home" if the applicant meets skilled or intermediate level of
+                                 care.
+
+                      Upon the applicant’s relocation to a Phoenix South Carolina nursing
+                      facility, the SCDHHS worker will:
+
+
+                          •      Complete the assessment and team conference with another
+                                 SCDHHS worker.
+
+                          •      Not change the status of the Nursing Home Application; and
+
+                          •      Remove his/ her name from the Nursing Home Application once
+                                 the certification has been issued.
+
+
+                      If the applicant does not meet level of care, the application will be
+                      terminated in Phoenix as "Medically Ineligible" as outlined in Chapter 3,
+                      section 3.22. The final level of care determination is appealable, and the
+                      appeals notice is to be included with the notification.
+
+
+           08.55.30   Out-of-State Applicant Who Does Not Appear To Meet Level of Care
+
+                      Upon receiving the completed Assessment from the Out-of-State
+                      facility or residence, if the applicant does not appear to meet criteria
+                      for level of care, the SCDHHS worker will:
+
+                          •      Contact the applicant/ primary contact Authorized
+                                 Representative and/ or facility staff to discuss the level of care.
+
+
+
+Chapter 8-Nursing Home                                                                      Page 20
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                          November 1, 2022
+
+
+                          •      Contact the physician or physician’s office staff to discuss the
+                                 medical information OR mail the Physician's Input Letter:
+                                 Community Choices and Nursing Home located in Phoenix
+                                 HELP.
+
+                          •      Create and send the CLTC Notification Form to the applicant
+                                 and/or primary contact Authorized Representative, facility, and
+                                 others, as appropriate, to communicate that based on the
+                                 information obtained, the applicant does not appear to meet the
+                                 level of care for South Carolina Medicaid nursing home
+                                 placement.
+
+
+                                  Note: The Appeals Notice is not included because this is a
+                                 tentative level of care.
+
+                      The Nursing Home Application will be closed as "Medically Ineligible".
+
+
+
+       08.56 Conversion from Private Pay, Medicare, Other Payment Sources to
+             Medicaid
+
+              When a resident exhausts Medicare, private pay or other resources, the resident
+              may be eligible for Medicaid sponsorship.
+
+              Medicare remains the primary payment source until one of the following situations
+              occurs:
+
+              1.   Medicare benefits are exhausted: or
+
+              2. An applicant is no longer receiving Medicare reimbursed skilled service(s).
+
+              The resident and/or family Authorized Representative must make an application for
+              financial eligibility determination through the SCDHHS Medicaid Eligibility Unit.
+
+              When evaluation for a change in payment source to Medicaid primary nursing
+              home payment is needed, the nursing home staff will:
+
+              •       Create an electronic referral via Centralized Intake (non- Phoenix
+                      facilities)
+
+
+              Note: For Phoenix nursing facilities, the facility will create a Request for CLTC
+
+Chapter 8-Nursing Home                                                                    Page 21
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                            November 1, 2022
+
+
+              LOC from the applicant’s record in the nursing home roster.
+
+              •       Submit a completed South Carolina Long Term Care Assessment Form
+                      1718.
+
+              •       Submit two weeks of medical documentation reflecting the participant’s
+                      status for the conversion date requested.
+
+              •       Submit a signed and witnessed CLTC Consent Form.
+
+              •       Documents should be uploaded electronically to Phoenix within ten (10)
+                      business days before or after the requested conversion date.
+
+              Note: If Form 1718 and medical records are not provided after the SCDHHS
+              worker makes three (3) attempts in obtaining information then the application
+              can be closed.
+
+              Note: The Area Office Designee will see new uploads from Phoenix nursing
+              facilities under Notifications on the Phoenix dashboard.
+
+              •       This will show nursing facility level of care (LOC) requests from Phoenix
+                      nursing facilities and Non-Phoenix nursing facilities.
+
+              •       Documents uploaded to Phoenix by the nursing facility will be located
+                      under Phoenix Scans- “nursing facility upload.”
+
+              Following assignment of the application, the SCDHHS worker will:
+
+              •       Review the completed assessment and medical documentation provided by
+                      the facility. If the determination can be made with information provided
+                      proceed with the process. If the determination cannot be made with
+                      information provided by a phone call, then a visit to the facility to clarify
+                      information will be necessary.
+
+              •       Review signed CLTC Consent Form obtained by the facility.
+
+              •       Determine Level of Care. SCDHHS worker may sign as the assessor and
+                      reviewer for conversion only.
+
+
+
+
+Chapter 8-Nursing Home                                                                     Page 22
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                            November 1, 2022
+
+
+              •       Document the assessment review, team conference and final level of care
+                      in Phoenix.
+
+              •       Create and send a Level of Care Certification Letter to the applicant/
+                      Authorized Representative, the Medicaid Eligibility Unit, and the admitting
+                      nursing facility.
+
+              •       For non-Phoenix facilities, terminate application as “Entered Nursing
+                      Home.”
+
+              Note: For Phoenix nursing facilities, the SCDHHS worker will not change the
+                    application status but remove his or her name from the application.
+
+              •       Route the correspondence file to designated Support Staff for processing,
+                      as appropriate.
+
+           08.56.10   Re-Certification of Nursing Home Cases Pending Medicaid
+                      Approval
+
+                      This section pertains to the applicant that is certified but determined to be
+                      financially ineligible and then re-applies for nursing home conversion when
+                      he/she becomes financially eligible within one hundred and eighty (180)
+                      calendar days of the original certification date.
+
+                      When the applicant has been determined financially eligible, the nursing
+                      facility will:
+
+                      •      Create an electronic referral via Centralized Intake (non- Phoenix
+                             facilities)
+
+                      Note: For Phoenix nursing facilities, the facility will create a Request for
+                            CLTC LOC from the applicant’s record in the nursing home roster.
+
+                      •      Submit a new 1718 assessment
+
+                      •      Submit two weeks of medical documentation supporting the
+                             applicant’s status for the certification date requested.
+
+                      (These documents should be uploaded electronically in Phoenix.)
+
+                      The referral is processed and released to the CLTC Area Office following
+                      normal Intake Policy and Procedure.
+
+
+Chapter 8-Nursing Home                                                                     Page 23
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                             November 1, 2022
+
+
+                      Application is assigned to the same SCDHHS worker who completed the
+                      previous certification, if possible.
+
+                      Following assignment, the SCDHHS worker will:
+
+                      •       Review completed assessment and medical records provided,
+                              through visit or by telephone. If the level of care (LOC) is
+                              questionable or the applicant requests a face-to-face assessment,
+                              then a visit must be made.
+
+                      •       Review signed CLTC Consent Form obtained by the facility.
+
+                      •       Team conference with another SCDHHS worker to determine level
+                              of care.
+
+                      •       Document the assessment review, team conference and final level
+                              of care in Phoenix.
+
+                      •       Create and send a Level of Care Certification Letter to the applicant/
+                              primary contact Authorized Representative, Medicaid Eligibility
+                              Unit, and the admitting nursing facility.
+
+                      Note:   For Phoenix nursing facilities, Medicaid Eligibility and the
+                              admitting nursing facility have access to the Level of Care
+                              Certification Letter in Phoenix.
+
+                      •       Terminate application as “Entered Nursing Home.”
+
+                      Note: For Phoenix nursing facilities, the SCDHHS worker will not
+                            change the application status. He/ she will remove name from the
+                            application in Phoenix to remove from the dashboard.
+
+                      Note: If the applicant continues to await financial eligibility past the one
+                            hundred eighty (180) calendar day period, all policies and
+                            procedures must be followed regarding Intake, Assessment, and
+                            Level of Care. (Including obtaining a new CLTC Consent Form,
+                            SCDHHS Form 121).
+
+                      If the applicant appears to be medically ineligible or if there are any
+                      questions concerning the information obtained, a visit must be made to the
+                      applicant before the level of care is determined.
+
+
+
+
+Chapter 8-Nursing Home                                                                      Page 24
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                               November 1, 2022
+
+
+       08.57 Retroactive Certifications
+
+              The nursing facility, the Medicaid Eligibility Unit, and the SCDHHS worker
+              should coordinate carefully to assure certifications are issued as close as possible
+              to the date of financial eligibility.
+
+              Retroactive level of care certification will not be routinely authorized by the
+              SCDHHS worker for more than one (1) year prior to the date of receipt of the
+              referral.
+
+              Retroactive certification requests beyond one (1) year, must be approved using the
+              following process:
+
+              •       The SCDHHS worker will inquire as to the delay in submission of
+                      certification request.
+
+              •       The SCDHHS worker assigned must discuss/ review the application with
+                      the CLTC Area Office Administrator or designee in the Area
+                      Administrator’s absence prior to completing the assessment in Phoenix.
+
+              •       When documents have been uploaded electronically, the SCDHHS
+                      worker will seek verbal approval from the area administrator and
+                      document the approval in the applicant’s narrative record.
+
+              •       The CLTC Area Office Administrator will confer with Central Office as
+                      needed and prior to denying any retroactive certification requests.
+
+              •       All requests for retroactive certifications less than one year are to be
+                      approved by the Area Office Administrator.
+
+              •       All requests for retroactive certifications beyond one year require CLTC
+                      Upstate or Lowcountry Director approval. In cases where an applicant is
+                      dually eligible for Medicare and Medicaid, and Medicare denies benefits, the
+                      CLTC Area Office may complete a certification retroactive to the applicant's date
+                      of admission or the date Medicare benefits terminate provided the applicant is
+                      medically and financially eligible.
+
+
+              For these cases, the nursing facility will:
+
+              •       Create an electronic referral via Centralized Intake. (non- Phoenix
+                      facilities)
+
+
+Chapter 8-Nursing Home                                                                         Page 25
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                           November 1, 2022
+
+
+              Note: For Phoenix nursing facilities, the facility will create a Request for CLTC
+                    LOC from the applicant’s record in the nursing home roster.
+
+              •       Submit a new 1718 assessment
+
+              •       Submit two weeks of medical documentation supporting the applicant’s
+                      status for the certification date requested. (These documents should be
+                      uploaded electronically in Phoenix.)
+
+              •       Submit a cover letter explaining why the retroactive request is being made.
+
+              •       Submit a copy of the Medicare Denial Letter, if applicable.
+
+              The referral is processed and released to the CLTC Area Office following normal
+              Intake Policy and Procedure.
+
+              Application is assigned to the same SCDHHS worker who completed the previous
+              certification, if possible.
+
+              Following assignment, the SCDHHS worker will:
+
+              •       Review completed assessment and medical records provided. This review
+                      may be a paper review of the submitted medical documentation if all
+                      needed information is available and the level of care decision is
+                      definitive. The assessment may be completed by telephone or visit if
+                      additional information is needed. If the applicant requests a face-to-face
+                      assessment, then a visit must be made.
+
+              •       Review signed CLTC Consent Form obtained by the facility.
+
+              •       Team conference with another SCDHHS worker to determine level of
+                      care.
+
+              •       Document the assessment review, team conference and final level of care
+                      in Phoenix.
+
+              •       Create and send a Level of Care Certification Letter to the applicant/
+                      primary contact Authorized Representative, the Medicaid Eligibility Unit,
+                      and the admitting nursing facility. The effective date will be the date
+                      requested by the facility.
+
+
+
+Chapter 8-Nursing Home                                                                    Page 26
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                           November 1, 2022
+
+
+               •      Terminate application as “Entered Nursing Home.”
+
+               Note: For Phoenix nursing facilities, the SCDHHS worker will not change the
+                     application status. SCDHHS worker will remove name from the
+                     application.
+
+               Note: If the applicant’s level of care has changed between the retroactive date and
+                      the current date, the SCDHHS worker will advise the facility to make an
+                      internal level of care change.
+
+       08.58   Corrected Level of Care Certification For Non-Phoenix Nursing Facilities
+
+               When a Nursing Facility reports an incorrect Nursing Home Conversion date was
+               requested, a new South Carolina Long Term Care Assessment Form 1718 for the
+               corrected date may be needed.
+
+               If the corrected requested date is prior to the SCDHHS worker’s assessment
+               review period, defined as two (2) weeks prior to the review date/level of care
+               date, a new referral for Pre-admission Screening for Nursing Home Placement
+               must be made via Centralized Intake. A new South Carolina Long Term Care
+               Assessment Form 1718, new CLTC Consent Form, and two weeks of medical
+               documentation reflecting the applicant’s status on the corrected certification date
+               should be uploaded with the referral.
+
+               If the corrected requested certification date is within the review period of the
+               last assessment completed by the SCDHHS worker and the assessment was
+               completed by the SCDHHS worker within 180 calendar days, a new South
+               Carolina Long Term Care Assessment Form 1718 is not required. The SCDHHS
+               worker will create a new corrected Level of Care Certification in Phoenix and
+               document this action in the narrative record.
+
+               If the corrected requested certification date is after the previously requested
+               certification date and included in the thirty (30) calendar day time frame of
+               the Level of Care Certification, the only action needed by the SCDHHS worker
+               is documentation in the Narrative.
+
+               If the corrected certification date is prior to the previously requested Level of
+               Care Certification date and included in the SCDHHS worker’s review period
+               but the assessment is greater than one hundred-eighty (180) calendar days, a
+               Phoenix problem will be reported, and the correction will be made.
+
+               If the corrected Level of Care Certification date is later than the previously
+               requested certification date and was not included in the thirty (30) calendar
+               day time frame of the original certification, the facility will be required to make
+               a new referral, submit a new South Carolina Long Term Care Assessment 1718
+               Form, a new CLTC Consent Form and two weeks of medical documentation
+
+Chapter 8-Nursing Home                                                                     Page 27
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                                 November 1, 2022
+
+
+             reflecting the applicant’s status for the corrected certification date.
+       08.59 Corrected Level of Care for Phoenix Nursing Facilities
+
+        The nursing facility needs to request a         •   The nursing facility will create a letter
+        second LOC Request from CLTC for a                  requesting the Level of Care and will
+        different date.                                     upload the letter, assessment and
+                                                            supporting documentation to Phoenix.
+                                                        •    This will create a notification to the area
+                                                            office dashboard.
+                                                        •   The case will be assigned to a SCDHHS
+                                                            worker to create a new assessment and
+                                                            team staff a new level of care.
+                                                        •   Once the new level of care has been
+                                                            determined, the nursing facility will
+                                                            receive a Phoenix notification.
+        The nursing facility reports an incorrect       •   The nursing facility will submit a new
+        certification date was previously                   1718 assessment and supporting
+        requested. The previously requested date            documentation reflecting the applicant’s
+        is prior to the corrected certification date.       condition for the new date.
+        CLTC has already completed an
+                                                        •   This will create a notification on the
+        assessment for the incorrect date. The
+                                                            CLTC area office dashboard.
+        corrected date was not included in the
+        SCDHHS worker’s review.                         •   The case will be assigned to a SCDHHS
+                                                            worker to create a new assessment and
+                                                            team staff a new level of care (LOC)
+                                                        •   The nursing facility will receive a
+                                                            Phoenix notification when the Level of
+                                                            Care has been determined
+
+        The nursing facility reports an incorrect       •    A new 1718 and supporting
+        certification date was previously                   documentation reflecting the applicant’s
+        requested. The corrected certification date         condition for the time of the new
+        is later than the date previously requested.        requested date are needed.
+        CLTC has already completed the
+                                                        •   When the nursing facility uploads the
+        assessment and certification for the
+                                                            documents in Phoenix, a notification is
+        incorrect date. The corrected date was not
+        included in the level of care certification         created. The assigned SCDHHS worker
+        period.                                             will create a new assessment in Phoenix
+                                                            and team staff a new level of care (LOC)
+                                                            with another SCDHHS
+                                                            worker.
+                                                        •   The nursing facility will receive a
+                                                            Phoenix notification when the Level of
+                                                            Care has been determined.
+
+
+
+
+Chapter 8-Nursing Home                                                                           Page 28
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                                 November 1, 2022
+
+
+        The nursing facility reports they have          •   The nursing facility will contact the
+        requested an incorrect level of care                SCDHHS worker to provide the correct
+        certification date after the SCDHHS                 date.
+        worker has completed the level of care          •   The SCDHHS worker will document this
+        certification. The corrected level of care
+                                                            request in the participant’s narrative and
+        request date is prior to the original request
+                                                            review the record to determine whether
+        date and included the SCDHHS worker’s
+        review period.                                      the new requested date was included in
+                                                            the original level of care review.
+                                                        •   If the SCDHHS worker approves the
+                                                            level of care certification date change, the
+                                                            SCDHHS worker will Report a Problem
+                                                            in Phoenix including the participant’s
+                                                            CLTC number, the corrected level of care
+                                                            certification date and the level of care.
+        A Phoenix nursing facility reports they         •   . The nursing facility will contact the
+        have requested an incorrect level of care           CLTC Area Office to inform of the error.
+        certification date after the SCDHHS             •   The SCDHHS worker will document in
+        worker has completed the level of care              the narrative.
+        certification. The corrected level of care
+                                                        •   No further action is needed by CLTC if
+        request date is after the original request
+        date and included in the 30-calendar day            the corrected Level of Care is within the
+        certification period of the current level of        30 calendar days included on the Level of
+        care certification.                                 Care Certification Letter.
+                                                        •   The nursing facility will enter the correct
+                                                            admission date in Phoenix which will
+                                                            prevent any billing issues.
+
+
+
+
+Chapter 8-Nursing Home                                                                           Page 29
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                            November 1, 2022
+
+
+
+
+08.60 Other Institutional Nursing Care Programs
+
+       08.61 Administrative Days
+
+              An applicant may be eligible for Administrative Days if the following criteria is
+              met:
+
+              •       Is Medicaid eligible (regardless of age),
+
+              •       Is residing in an acute care hospital,
+
+              •       Has received acute care services,
+
+              •       Is no longer requiring acute care,
+
+              •       Has exhausted other payment sources,
+
+              •       Meets (or tentatively meets) the South Carolina Medicaid nursing facility
+                      Level of Care Criteria as determined by CLTC and
+
+              •       Has a nursing home location choice.
+
+
+              The SCDHHS worker will relay the tentative level of care using the CLTC
+              Notification Form.
+
+              This Notification Form will be used by the hospital for billing Administrative Days.
+
+              The use of the tentative level of care is reserved for those applicants who are
+              expected to be admitted to a nursing facility within fourteen (14) calendar days.
+              The application will remain open pending hospital discharge.
+
+              If the stay exceeds fourteen (14) calendar days, the final level of care will be
+              determined by the SCDHHS worker and a Level of Care Certification, DHHS
+              Form 185, will be issued.
+
+              The effective date and expiration date on the Level of Care Certification should not
+              be completed for Administration Days certification.
+
+              Once a Level of Care Certification Letter is issued, the application is terminated as
+              "Entered Administrative Days."
+
+Chapter 8-Nursing Home                                                                     Page 30
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                             November 1, 2022
+
+
+
+
+              If the applicant is determined to be medically ineligible, the SCDHHS worker
+              closes the application as “Medically Ineligible,” and completes the Level of Care
+              Certification, DHHS Form 185.
+
+              This certification or CLTC Notification Form is valid indefinitely unless CLTC is
+              notified by the hospital that the applicant is to be admitted into a nursing facility.
+
+              The nursing home re-certification policy may be followed when/ if the applicant
+              enters a nursing facility.
+
+              The SCDHHS worker will route the applicant’s correspondence file to the
+              designated Area Office Support Staff for mailing and processing, as appropriate.
+
+
+           08.61.11   Waiver Participant Entering Administrative Days
+
+                      If a waiver participant chooses to enter Administrative Days, the Case
+                      Manager and/ or hospital staff member will create an electronic Pre-
+                      Admission Review for Nursing Home Placement Application via
+                      Centralized Intake.
+
+                      The application will be released to the area office and assigned to a
+                      SCDHHS worker.
+
+                      The level of care certification effective date and expiration date should not
+                      be completed for Administrative Day certification.
+
+                      The Case Manager must terminate the participant’s waiver application
+                      as “Entered Administrative Days” when the participant meets level of
+                      care and enters Administrative Days.
+
+                      If the participant is determined to be medically ineligible, the applicant and
+                      case must be closed as “Medically Ineligible.” The CLTC Notification
+                      Form, including the Appeals Notice, must be issued.
+
+                      The Case Manager is responsible for terminating the participant’s waiver
+                      services and application per normal policy and procedure.
+
+                      When/ if the participant enters a nursing home, the recertification policy
+                      may be followed.
+
+           08.61.12 Re-Certification for Nursing Home Admission
+
+                      An individual in the Administrative Days program can be re-certified within
+
+
+Chapter 8-Nursing Home                                                                      Page 31
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                           November 1, 2022
+
+
+                     a one hundred eighty (180) calendar day period from the original date of
+                     certification, if the individual enters a nursing home under primary Medicaid
+                     payment from the Administrative Days Program. The following process will
+                     be followed:
+
+                      •      An electronic referral must be made via Centralized Intake.
+
+                      •      The Consent Form, DHHS Form 121 will remain valid for the one
+                             hundred eighty (180) calendar day period.
+
+                      •      The choice of location for services must be verified again and
+                             documented in the Narrative.
+
+                      •      The SCDHHS worker completes the assessment through a visit or
+                             telephone contact with the applicant, discharge planner, social
+                             worker and/ or others, as appropriate. If the level of care (LOC) is
+                             questionable or the applicant requests a face-to-face assessment,
+                             then a visit must be made.
+
+                      •      The SCDHHS worker will team staff the level of care
+                             determination with another SCDHHS worker.
+
+                      Note: If the participant appears to be medically ineligible, a visit must be
+                            made prior to the final level of care determination.
+
+                      •      The SCDHHS worker will issue the Level of Care Certification
+                             Letter to the applicant/ Authorized Representative and the admitting
+                             nursing facility.
+
+                      •      The Case Manager will terminate the participant’s applications
+                             and/ or case as "Entered the nursing home.”
+
+                      Note: Applications for participant’s entering Phoenix nursing facilities
+                      will not be terminated in Phoenix.
+
+                      •      The Case Manager will notify the designated Area Office
+                             Support Staff to update the MMIS / RSP to reflect waiver
+                             termination.
+
+                             If a request for certification is received after the one hundred
+                             eighty (180) calendar day period, the case must be processed
+
+
+Chapter 8-Nursing Home                                                                     Page 32
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                              November 1, 2022
+
+
+                             following policy and procedures for intake, assessment, and level of
+                             care. The SCDHHS worker must visit the applicant, complete a
+                             Consent Form and DHHS Form 121
+
+                      Exception: If an applicant is entering the nursing facility under primary
+                      Medicare payment, the Level of Care Certification, DHHS 185, will not be
+                      issued.
+
+           08.61.13   Special Situations in Dealing with Administrative Days
+
+                      •       If an applicant has been discharged from a hospital and was never
+                              seen by CLTC, hospital should contact the South Carolina
+                              Department of Health and Human Services' Division of Hospitals
+                              regarding Administrative Days. The hospital will be asked to
+                              forward physician's progress notes for review.
+
+                      •       If the individual has been discharged from the hospital and was
+                              seen by CLTC while in the hospital, the CLTC Notification Form
+                              issued with the tentative level of care, or the Level of Care
+                              Certification Letter may be used by the hospital for billing
+                              purposes.
+
+                      •       If the individual is currently in the hospital and the hospital requests
+                              retroactive Administrative Days, the Level of Care Certification
+                              Letter will be issued based on the applicant’s current condition.
+
+                      Note: If the individual appears medically ineligible at the time of the
+                             Administrative Days request, but based on medical records,
+                             appeared to meet level of care for the date requested, the
+                             corresponding end date of certification will be entered on the Level
+                             of Care Certification Letter.
+
+                      •       If a hospital requests Administrative Days and the individual is not
+                              currently eligible for Medicaid, CLTC will determine the level of
+                              care following normal policy and procedure. CLTC is only
+                              verifying medical eligibility (not financial eligibility) by issuance
+                              of the Level of Care Certification, DHHS Form 185.
+
+                      •       If the individual changes from Administrative Days to Acute Care
+                              and then back to Administrative Days within the same hospital stay,
+                              a new Level of Care Certification Letter or CLTC Notification
+                              Form is not required with each change.
+
+       08.62 Subacute Care
+
+
+Chapter 8-Nursing Home                                                                        Page 33
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                           November 1, 2022
+
+
+              The Subacute Care Program is a program for ventilator dependent patients.
+              •     Prior hospitalization is not required. The applicant may be admitted from a
+                    community setting.
+
+              •       All applicable PASRR regulations and policy and procedure apply.
+
+              •       All applicable nursing home placement assessment and level of care policy
+                      and procedure apply.
+
+              •       A nursing home location choice is not required.
+
+              •       A Level of Care Certification Letter will be issued.
+
+              •       The certified level of care must be skilled and the Subacute Care block on
+                      the letter will be checked.
+
+              •       The case will be terminated as "Entered Nursing Home"
+
+              Note: For Phoenix facilities, the application will not be terminated.
+
+
+       08.63 Swing Bed
+             A swing bed is a nursing home bed which is located in a hospital with a swing bed
+             contract with South Carolina Department of Health and Human Services.
+
+              Prior to admission under Medicaid, the applicant must meet the South Carolina
+              Level of Care Criteria (skilled or intermediate) and have a nursing home location
+              choice.
+
+              Medicare swing bed should be explored as an option first.
+
+              Prior or recent hospitalization is not required. Applicants may be admitted to swing
+              beds from community settings.
+
+              Assessment, level of care and PASRR policy and procedures apply.
+
+              Once the applicant is determined to be medically eligible, the SCDHHS worker
+              will issue a Level of Care Certification Letter.
+
+              The case will be terminated as "Entered Nursing Home."
+
+
+
+
+Chapter 8-Nursing Home                                                                    Page 34
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 8 – Nursing Home Procedures                                             November 1, 2022
+
+
+       08.64 Hospice Enrolled Applicants Seeking Nursing Home Certification
+             If an applicant receives a Medicare qualifying skilled service for a condition
+             unrelated to the terminal diagnosis, Medicare will pay the nursing facility and the
+             hospice benefit.
+
+              If an applicant receives a Medicare qualifying skilled service for a condition related
+              to the terminal diagnosis, Medicare will only pay the hospice benefit. In this
+              situation, CLTC will certify for Medicaid if Medicaid criteria is met.
+
+              If the applicant is not Medicare eligible, Medicaid certification will be completed
+              following normal certification policy and procedure.
+
+              Applicants who are enrolled in the hospice benefit must meet the same
+              requirements for re-certification as other applicants.
+
+
+
+
+Chapter 8-Nursing Home                                                                      Page 35
+

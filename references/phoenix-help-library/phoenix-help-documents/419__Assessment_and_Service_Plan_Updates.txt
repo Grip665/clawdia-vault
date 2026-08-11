@@ -1,0 +1,352 @@
+      Assessment/Service Plan Changes
+              Table of Contents
+1.    Assessment Changes …………..….……………….………………….……. 3 – 7
+   1.    Mood/Behavior Patterns Subtab………..…………………………………… 4 - 7
+2. Service Plan Changes …………………………..……………………….….. 8 - 26
+   1.    Strengths Tab ……………………………..………………………….…...……. 8 - 9
+   2.    Personal Goals Tab .……………...…….……………………..……….……. 10 - 26
+ Assessment/Service Plan Changes
+
+Users must address behaviors regarding the
+participant being “Socially Isolated” and
+“Withdrawal from leisure activities” in the
+Assessment – Communication/Psychosocial
+section (Mood/Behavior Pattern subtab).
+
+
+
+
+                                              3
+                  Assessment/Service Plan Changes
+
+Assessment – Communication/Psychosocial
+Mood/Behavior Patterns Subtab
+• A summary regarding being “Socially Isolated” and
+  “Withdrawal from leisure activities” behaviors is
+  displayed.
+• Users can get additional information from the CLTC
+  Policy and Procedure Manual, Assessment Chapter,
+  and the Assessment and Level of Care Users Guide.
+
+
+
+
+                                                       4
+                     Assessment/Service Plan Changes
+Assessment – Communication/Psychosocial
+Mood/Behavior Patterns Subtab
+• Under “New Behavior”, click dropdown box
+• A list of behavior types is displayed
+• Select the behavior “Socially Isolated” or “Withdrawal
+  from leisure activities”
+
+
+
+
+                                                           5
+                        Assessment/Service Plan Changes
+Assessment – Communication/Psychosocial
+Mood/Behavior Patterns Subtab
+• After selecting the “Socially Isolated” or “Withdrawal
+  from leisure activities” behavior, click the “Level”
+  dropdown box
+• Select whether the “Socially Isolated” or “Withdrawal
+  from leisure activities” behavior is:
+    •    “Present”
+    •   “Not Present”
+• Repeat the previous step and select the other behavior
+  “Socially Isolated” or “Withdrawal from leisure
+  activities”
+• Add an other behaviors that the participant is exhibiting
+
+
+
+
+                                                              6
+                       Assessment/Service Plan Changes
+Assessment – Communication/Psychosocial
+Mood/Behavior Patterns Subtab
+• Click “Save” or “Save and Complete”
+     • “Save” will not turn the lights green until “Save and Complete” is
+         selected.
+     •   Users can’t visit or complete the “Source of Information/Level of
+         Care” tab until the “Socially Isolated” and “Withdrawal from
+         leisure activities” behaviors are answered, and Mood/Behavior
+         Patterns subtab is “Saved and Completed”
+
+
+
+
+                                                                             7
+                      Assessment/Service Plan Changes
+Service Plan
+Strengths Tab
+• Users do not have to complete the “Strengths” tab in the
+  order the tabs are displayed. Users must complete the
+  “Strengths” tab before the Service Plan can be signed off
+• A summary regarding “Strengths” will be displayed.
+• Users can get additional information from the CLTC Policy
+  and Procedure Manual
+• Enter a detail comment regarding the participant’s
+  strengths.
+    •   The Strength narrative must be at least 255 characters in
+        order to save complete the service plan
+• Click “Save”
+
+
+
+
+                                                                    8
+                    Assessment/Service Plan Changes
+Service Plan
+Strengths Tab
+• The lights on the Strengths tab will turn Green
+• Any additional narratives to update the Participant’s
+  strength can be added in the “Comments” box
+• Click the “Save” button again
+
+
+
+
+                                                          9
+                     Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• The Personal Goals tab has been relocated to the
+  service plan.
+• Users do not have to complete the “Personal Goals”
+  tab in the order that the tabs are displayed. Users
+  must complete the “Personal Goals” tab before the
+  Service Plan can be signed off
+• Personal Goals must be addressed in order to
+  complete the service plan
+• Users must answer the question “ Were personal goals
+  discussed with the participant and/or designee during the
+  assessment and service planning process?”
+
+
+
+
+                                                              10
+                       Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• If the user was unable to discuss the personal goals,
+  then the user will click “No”
+• A comment box will display. The user will need to
+  enter a comment to explain why the personal goals
+  were not discussed
+    •   The explanation must me at least 25 characters in
+        order to save
+    •   The “Save” button will not be available to click until
+        explanation reaches 25 characters
+• Click “Save”
+
+
+
+
+                                                                 11
+                    Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• The lights for “Personal Goals” will turn Green
+• The user can continue to complete the service plan
+
+
+
+
+                                                       12
+                    Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• If the user can discuss the personal goals, then
+  the user will click “Yes”
+• Two additional questions will appear
+    •   “Was a new goal identified?”
+    •   “Have existing goals/steps been achieved or were
+        other updates needed?”
+
+
+
+
+                                                           13
+                    Assessment/Service Plan Changes
+                                               Questions                  Scenario 1          Scenario 2             Scenario 3          Scenario 4
+Service Plan                                   Were personal goals        Yes                 Yes                    Yes                 Yes
+                                               discussed with the
+Personal Goals Tab                             participant and/or
+• The tab light will turn Green based on how   designee during the
+                                               assessment and service
+  the user answers the 3 questions             planning process?
+• If the user indicates that there is a new    Was a new goal             Yes                 Yes                    No                  No
+  goal and/or existing goals needs to be       identified?
+  updated, then the user Must enter a new      Have existing              Yes                 No                     Yes                 No
+  goal and/or update existing goal in order    goals/steps been
+  to turn the Personal Goals tab light Green   achieved or were other
+                                               updates needed?
+
+                                               Personal Goals Tab Light   Red (Will need a    Red (Will need a       Red (Will need an   Green
+                                               (Green or Red)?            new goal entered    new goal entered       existing goal
+                                                                          and/or existing     to turn light Green)   updated to turn
+                                                                          goal updated to                            light Green)
+                                                                          turn light Green)
+
+
+
+
+                                                                                                                                          14
+                 Assessment/Service Plan Changes
+
+Service Plan
+Personal Goals Tab
+• Once the 3 questions have been answered, the
+  “Save” button will be available
+• Click “Save”
+
+
+
+
+                                                   15
+                 Assessment/Service Plan Changes
+
+Service Plan
+Personal Goals Tab
+• To add new Goal, click “New Goal”
+
+
+
+
+                                                   16
+                   Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• Personal Goals should be SMART
+    •   S – Specific
+    •   M – Measurable
+    •   A – Achievable
+    •   R – Relevant
+    •   T – Time-limited
+• Click “General” and fill in the appropriate
+  information
+• To document the process to achieve the goal, click
+  “Steps”
+    •   At least 1 “Step” Must be entered in order to “Save
+        and Complete” a personal goal
+
+
+
+
+                                                              17
+                  Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• Click “New Goal Step”
+
+
+
+
+                                                    18
+                   Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• Fill in the appropriate information related to the
+  steps that will be taken in order to achieve the
+  personal goal
+• To add an additional step(s), click “New Goal
+  Step”. Repeat the previous steps
+• Any comments can be entered in the
+  “Comments” section
+• When all steps have been entered, click “Save
+  and Complete”
+
+
+
+
+                                                       19
+                   Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• Users can enter a comment in the “Comments”
+  section
+• If finished, click “Save and Complete” to save the
+  personal goal information
+
+
+
+
+                                                       20
+                    Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• If the “Goal Step” is completed, click “Achieved”
+  and enter resolution date
+• If the “Goal Step” is not completed or no longer
+  achievable, click “Terminated” and enter
+  resolution date
+• Click, “Save and Complete”
+
+
+
+
+                                                      21
+                     Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• The lights for “Personal Goals” tab will turn
+  Green
+
+
+
+
+                                                       22
+                    Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• Users can update a Personal Goal status
+• To update a personal goal, click “Edit”
+
+
+
+
+                                                      23
+                   Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• If the “Goal” is completed, click “Achieved” and
+  enter resolution date
+• If the “Goal” is no longer achievable or desired to
+  be reached, click “Terminated” and enter
+  resolution date
+• Click, “Save and Complete” to update the Goal
+
+
+
+
+                                                        24
+                   Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• If the “Goal Step” is completed, click “Achieved”
+  and enter resolution date
+• If the “Goal Step” is no longer achievable, click
+  “Terminated” and enter resolution date
+• Click, “Save and Complete” to update “Goal Step”
+
+
+
+
+                                                      25
+                     Assessment/Service Plan Changes
+Service Plan
+Personal Goals Tab
+• All Current and Achieved/Terminated Personal
+  Goal(s) will be displayed at the bottom of the
+  screen
+    •   Users can edit the completed personal goal to
+        change the outcome (Achieve/Terminated)
+
+
+
+
+                                                        26
+

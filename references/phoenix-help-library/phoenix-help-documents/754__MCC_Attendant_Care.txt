@@ -1,0 +1,141 @@
+4/23/2025
+                             Attendant Care Requests
+➢ To create an Attendant Care Request, click the
+  “Attendant Care Requests” tab
+➢ Select one of the following:
+    ➢ “New Participant Directed Attendant Care
+      Request” – The Participant will be the Employee of
+      Record for themself
+    ➢ “New Representative Directed Attendant Care
+      Request” – The Participant/Authorized
+      Representative will select someone to serve as the
+      Employee of Record
+
+
+
+
+  4/23/2025
+                             Attendant Care Requests
+➢ The program for the Participant
+  will be auto populated under the
+  “Program Information” section
+➢ Enter the information in the other
+  fields
+➢ Click “Create” or “Create and
+  Submit for Review”
+
+
+
+
+    4/23/2025
+                                Attendant Care Requests
+➢ If “Create” button is selected,
+   then:
+    ➢ Attendant Care Request is not
+      submitted. User can make edits to
+      the Attendant Care Requests.
+    ➢ User can click:
+        ➢   Submit For Review
+        ➢   Remove
+        ➢   Update
+
+
+
+
+     4/23/2025
+                                  Attendant Care Requests
+➢ If “Create and Submit for
+   Review” button is selected, then:
+    ➢ Attendant Care Request is
+       completed and submitted for
+       review.
+➢ Users can track the Attendant Care
+  Request workflow under the
+  “Attendant Care Requests” tab
+➢ To view the “Good To Go” Status,
+  click the link under “Status” section
+
+
+
+
+     4/23/2025
+                              Phoenix Service Plan
+➢ A new service (MCC Attendant) is
+  listed in the Service Plan under each
+  subtab
+➢ For MCC participants, users can
+  select “MCC Attendant” as an
+  Intervention to authorize the MCC
+  Self Direct service.
+    ➢ “Attendant” is not an intervention
+       for MCC participants. Please make
+       sure that “MCC Attendant” is
+       selected.
+
+
+
+
+  4/23/2025
+                           Phoenix Service Plan
+➢ “MCC Attendant Care” service will
+  appear in the Prior Approval section
+  when MCC Attendant is selected as
+  an Intervention.
+➢ User will request the number of
+  units, and the Reviewer will enter
+  the approval units.
+➢ User (Assessor) and Reviewer will
+  sign Service Plan and/or click “Save”
+➢ User will be able to create a “MCC
+  Attendant Care” authorization in
+  Waiver Supports.
+
+
+
+  4/23/2025
+                            Phoenix Waiver Supports
+➢ From the “Waiver Supports” tab,
+  click “New Authorization”.
+    ➢ MCC Attendant service does not
+       require a referral
+
+
+
+
+  4/23/2025
+                    Phoenix Waiver Supports
+
+➢ Select “MCC Attendant Care” and
+  click “Next”
+
+
+
+
+ 4/23/2025
+                       Phoenix Waiver Supports
+➢ Select Attendant Provider and click
+  “Next”
+
+
+
+
+   4/23/2025
+                       Phoenix Waiver Supports
+➢ Enter Units, Start Date, and click
+  “Create Authorization”.
+
+
+
+
+   4/23/2025
+                        Phoenix Waiver Supports
+➢ The authorization is complete!
+   ➢ Unlike other services, MCC
+       Attendant authorization is not sent
+       to the provider to accept.
+
+
+
+
+  4/23/2025
+

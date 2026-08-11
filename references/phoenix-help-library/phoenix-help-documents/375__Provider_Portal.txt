@@ -1,0 +1,1518 @@
+4/23/2020
+                                                    Table of Contents
+ 1.     Logging in for the first time ……………………………………………………………………. 3 – 6
+ 2.     Home screen …………………………………………………………………………………………… 7 – 8
+ 3.     Dashboard …………..…………………………………………………………………………………. 9
+          Notifications ……………………………………………..……………………………………………. 10 – 14
+          Terminations ………………………………………………………………………………………….. 15
+            Pendings …................................................................................................. 16
+            Authorizations ……………………………………………………………………………………….. 17 -18
+            Requests ……………………………………………………………………………………………….. 19
+ 4.     Profile ……………………………………………………………………………………………………. 20 – 45
+ 5.     Users ……………………………………………………………………………………………………… 46 – 52
+ 6.     Claims Entry ………………………………………………………………………………………….. 53 – 58
+ 7.     Resolutions ……………………………………………………………………………………………. 59 – 64
+ 8.     Workers ……………………………………………………………………………………………….... 65 – 73
+ 9.     Missed Visits ………………………………………………………………………………………….. 74 – 76
+ 10.    Reports …………………………………………………………………………………………………… 77 – 82
+ 11.    Report a Problem ………………………………………………………………………………….. 83 – 85
+ 12.    Issues …………………………………………………………………………………………………….. 86 – 90
+ 13.    Conversations ……………………………………………………………………………………….. 91 – 94
+ 14.    Inbox …………………………………………………………………………………………………….. 95 – 97
+ 15.    Help ………………………………………………………………………………………………………. 98 – 99
+ 16.    Broadcasts …………………………………………………………………………………………….. 100 – 101
+ 17.    Emergency Events ………………………………………………………………………………… 102 - 105
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+ ➢ New providers must verify their provider account before providing
+   services.
+ ➢ From the Phoenix Provider Portal login screen, click “Verify”
+
+
+
+
+4/23/2020
+               Phoenix Provider Portal
+➢ Enter information in the appropriate
+  fields. (Provider Number, FEIN [Tax
+  ID w/o dashes], Assigned Password,
+  New Password, and New Password
+  Confirmation)
+   ➢ Assigned Password is given to the
+      provider by Central Office.
+      Administrator can contact Central
+      Office for assigned password.
+      Assigned password is only used to
+      verify the account and/or reset
+      provider main login password.
+➢ Remember to follow the password
+  rules when creating new password.
+➢ Click “Verify”
+
+
+
+   4/23/2020
+            Phoenix Provider Portal
+ ➢ If information has been entered correctly, a verification message will be
+     displayed.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+ ➢ To login, enter the provider ID in the “Provider Number” and “Login ID”
+   fields.
+ ➢ Enter the login password that was created during the verification process.
+ ➢ Solve the math problem, then click “Sign In”.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+ ➢ Once logged in, tabs and sub-tabs will be displayed.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+ ➢ To log out, click the small arrow in the upper right corner
+
+
+
+
+4/23/2020
+                Phoenix Provider Portal
+➢ Dashboard tab
+  displays the Subtabs:
+   ➢ Notifications
+   ➢ Terminated
+   ➢ Pendings
+   ➢ Authorizations
+   ➢ Requests
+   ➢ Compliance
+      Reviews
+
+
+
+
+   4/23/2020
+            Phoenix Provider Portal
+ Notifications – Displays notifications regarding referrals, authorization,
+ participant information changes, etc.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+ Referrals – Will list information related to the participant such as (service, start
+ date, schedule, pets, age, gender, height, weight, health condition, language, habits,
+ street name, zip code, household size). Providers will not see the participant’s
+ name, exact address or contact phone number until the authorization is sent to
+ the provider.
+
+ The type of provider will
+ determine what information
+ is displayed on the referral.
+ For example, a personal care or
+ case management provider
+ referral will display more
+ information than a pest control
+ or meal provider referral.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+ At the bottom of the referral, the provider will click on the drop-down box
+ to “Accept or Decline” referral. The provider can enter comment(s) in
+ the comment box.
+
+ Click “Submit”
+
+ Once the referral is
+ accepted or decline,
+ the referral will disappear
+ from the “Notification”
+ sub-tab                                    0
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+ Authorizations – Will list information related to the participant such as (CLTC
+ number, participant’s name, service, start date, schedule, rate, status, participant’s and
+ case manager’s contact phone number(s), etc. ).
+ Providers can “Accept or Decline” the authorization. Providers can see detailed
+ information related to the participant by clicking “Preview” button at the bottom of the
+ screen and entering the participants CLTC number as the password. Once the authorization
+ is accepted or declined, the authorization will disappear from the “Notification” sub-tab
+
+
+
+
+                    0
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+ Providers can print out authorizations for their records.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+ Terminations – Displays authorizations that have been terminated.
+ Termination notification will be displayed for 10 days then it will
+ disappear. Terminated authorization will available in the “Authorizations”
+ section.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+ Pendings subtab – Displays approved referrals that requires action from
+ the case manager.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+ Authorizations subtab – Displays the open authorizations. Providers can
+ view the Service Plan by using the clicking the Service Plan date and
+ entering the participant’s CLTC number.
+
+
+
+
+4/23/2020
+             Phoenix Provider Portal
+Authorizations – Displays the
+open and closed
+authorizations. Providers can
+view the terminated
+authorization by using the
+clicking the PDF button and
+entering the participant’s CLTC
+number.
+
+Participants enrolled in the
+Healthy Connections Prime
+program are identified with a
+Green tag.
+
+Authorizations can be sorted by
+the title headers.
+
+Authorizations can be filtered
+by entering key words into the
+Search field and click “Search”
+
+
+
+ 4/23/2020
+            Phoenix Provider Portal
+ Requests subtab – Is not an active sub-tab used by Providers.
+
+
+
+
+4/23/2020
+               Phoenix Provider Portal
+Compliance Review subtab-
+Provider compliance reviews are
+sent to the provider portal.
+Provider can review their review
+score and upload documents
+that can be reviewed by the
+Compliance Reviewer
+
+To view Compliance Review,
+click “Show”
+
+
+
+
+   4/23/2020
+             Phoenix Provider Portal
+Compliance Reviews screen
+displays the subtabs:
+➢ Overview
+➢ Universal Review
+➢ Scoring
+➢ Documents
+
+
+
+
+ 4/23/2020
+             Phoenix Provider Portal
+Universal Review Subtab –
+Displays the information related
+to the Points, Number/Total,
+Percent, and Questions
+
+
+
+
+ 4/23/2020
+             Phoenix Provider Portal
+Scoring Subtab – Displays the
+information related to the
+Points, Number/Total, Percent,
+and Questions
+
+
+
+
+ 4/23/2020
+             Phoenix Provider Portal
+Overview Subtab – Displays
+the general information related
+to the review type, scores, date
+range, summary, and detail
+information
+
+
+
+
+ 4/23/2020
+             Phoenix Provider Portal
+Documents Subtab – Displays
+the general information related
+to the Uploaded document,
+Uploaded date range, Reviewer’s
+name, and the date record was
+accessed by the Provider.
+                                  Reviewer’s
+                                    Name
+To open and view the review
+document(s), click the
+document name.
+
+To upload review documents,
+see page
+
+
+
+
+ 4/23/2020
+            Phoenix Provider Portal
+  “Profile” tab – Displays the provider
+  agency information.
+  Profile tab have 6 sub-tabs (General
+  Info, Holidays, County Served, Mobile
+  Devices, Agreements, and Uploads).
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+  General Info – Displays general
+  information such as (provider agency
+  name, provider ID number, status, services,
+  enrollment and termination dates,
+  administrator name, office hours, email
+  address(es), phone number(s), and
+  provider address(es)).
+
+
+  To update any information, click “Edit” at
+  the bottom of the screen.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+  Profile - Under the “Contact Info” sub-
+  tab, enter information in the appropriate
+  fields.
+
+  Providers can add multiple email
+  addresses and/or phone numbers. Check
+  the “Remove” box to delete any email
+  address or phone number that has been
+  saved.
+
+  Click “Save” at the bottom of the screen
+  once changes have been made.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+Profile - Under the “Addresses” sub-tab,
+enter information in the appropriate fields.
+
+Providers can add multiple addresses. Check
+the “Address Types” (Mailing, Business,
+Payment, and Previous) boxes that applies to
+each address.
+
+Addresses marked “Previous” will disappear
+from the screen. To view any previous
+addresses, click “Show Previous
+Addresses”.
+
+Click “Save” at the bottom of the screen
+once changes have been made.
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+Profile - Under the “Hours” sub-tab,
+enter information in the appropriate
+fields.
+
+Click “Save” at the bottom of the screen
+once changes have been made.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+
+Profile - Under the “Holidays”
+sub-tab, providers will display the
+holiday(s) that the agency will not
+be open.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+Under the “Holidays” sub-tab, providers will
+select which observed state holiday(s) that the
+agency will not be open. When the holidays has
+been selected, click “Save”.
+
+Providers can add a holiday(s) by clicking “Add
+custom holiday”. When information has been
+entered, click “Save”.
+
+
+
+
+4/23/2020
+             Phoenix Provider Portal
+Profile - Under the “Counties
+Served” sub-tab, a map will
+display the counties that the
+provider is authorized to provide
+service.
+
+The authorized counties are
+shaded in a darker color and
+unauthorized counties are
+shaded in a lighter color.
+
+
+
+
+ 4/23/2020
+             Phoenix Provider Portal
+
+Profile - Under the “Mobile
+Devices” sub-tab, any agency
+mobile phone(s) that are
+registered for the Authenticare
+Mobile App will be displayed.
+
+To add mobile device, click
+“Edit”.
+
+
+
+
+ 4/23/2020
+             Phoenix Provider Portal
+Profile - Under the “Mobile
+Devices” sub-tab, any agency
+mobile phone(s) that are
+registered for the Authenticare
+Mobile App will be displayed.
+
+To add mobile device, click “Edit”.
+
+
+
+
+                                      From the mobile devices screen,
+                                      click “Add mobile device”.
+
+
+
+ 4/23/2020
+             Phoenix Provider Portal
+From the next screen, enter the mobile
+phone number (without dashes) and
+the mobile phone device ID. Providers
+must download the Authenticare mobile
+app in order to setup the mobile device.
+(Please see Authenticare mobile app
+section in the Phoenix “Help” section for
+setup instructions).
+
+
+Click “Shared”, if the mobile device will
+be used by multiple users. Additional
+mobile devices can be added by clicking
+“Add mobile device”.
+
+Once information has been completed,
+click “Save”.
+
+
+
+
+ 4/23/2020
+               Phoenix Provider Portal
+The mobile device will be
+displayed on the “Mobile
+Devices” sub-tab screen.
+
+To change or add another mobile
+device, click “Edit” and repeat
+steps.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Profile - Under the
+“Agreements” sub-tab,
+providers can sign the Healthy
+Connections Prime Agreement.
+
+To sign agreement, click “Edit”.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Profile - Under the
+“Agreements” sub-tab,
+providers can sign the Healthy
+Connections Prime Agreement.
+
+To sign agreement, click
+“Healthy Connection Prime
+Agreement”.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Uploads - Under the “Uploads”
+sub-tab, providers can upload
+documents.
+
+To upload a document, click
+“New Upload”.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Uploads - From the “New
+Upload” screen, enter a name
+for the document in the
+“Name” field.
+
+Click “Tag” and select the
+appropriate category (Bedbug
+Home Prep, Bedbug
+Warranty, or Provider
+Compliance) related to the
+document that is being
+uploaded.
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Uploads – Click “Browse” to
+retrieve the document from the
+computer’s files.
+
+When finish, click “Save”.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Uploads – Uploaded
+document will be displayed
+on “Uploads” main screen.
+
+To view document, click
+document’s ID number.
+
+To upload another
+document, click “New
+Upload” and repeat previous
+steps.
+
+
+
+
+   4/23/2020
+            Phoenix Provider Portal
+Review information and complete
+electronic signature (For
+additional assistance, contact
+Healthy Connections Prime Staff ).
+
+
+To sign agreement, check “I agree
+to the Terms and Conditions”
+box, enter name, title, and click
+“Sign Agreement”.
+
+
+
+
+4/23/2020
+            Phoenix Provider Portal
+A confirmation message will be
+displayed at the top.
+
+Providers can click “Download
+Signed Copy”, to view or print
+signed agreement.
+
+
+
+
+4/23/2020
+              Phoenix Provider Portal
+Users – Users tab gives portal
+access to the agency personnel
+that will be performing daily
+activities in the provider portal
+such as (claims entry, adding
+workers, resolutions, running
+reports, etc.)
+
+To add a user, click “Add User”.
+
+
+
+
+  4/23/2020
+                 Phoenix Provider Portal
+Users – Enter the user’s name, user’s email address, create a login ID, login password, and select the appropriate
+access level(s) for the user. (Administrator access gives the user access to everything in the portal)!
+
+Providers can select “Use Auto-generated Password” instead of creating a login password. Passwords must
+follow the password rules using 3 of 4 characteristics (upper case, lower case, number or symbol).
+
+Once completed, click “Save”. Users can change their passwords once logged in or agency administrator can
+change the password by repeating the previous steps.
+
+
+
+
+  4/23/2020
+            Phoenix Provider Portal
+ ➢ For created User IDs, enter the provider ID in the “Provider Number” field
+   and the user login ID in the “Login ID” field.
+ ➢ Solve the math problem, then click “Sign In”.
+
+
+
+
+4/23/2020
+             Phoenix Provider Portal
+Users – User’s information can
+be edited from the Users Profile
+screen or Users main tab.
+
+To add another user, click “Add
+User”.
+
+
+
+
+ 4/23/2020
+              Phoenix Provider Portal
+Users – Users no longer working for the agency will need their user login ID
+terminated immediately by the administrator or agency staff with “User
+Management” access level!
+
+To terminate a user, click “Edit”.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Users – Enter an end date and
+termination reason.
+
+
+
+
+                                Click “Save”
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Users – End date will
+be displayed.
+
+To reactivate a
+returning user,
+providers will have to
+report this as an issue
+to have end date
+removed.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Claim Entry – Claim
+entry function is
+available to service
+providers such as (case
+management, adult day
+care, incontinence
+supplies, PERS). Other
+providers will not see the
+Claim Entry tab on their
+Phoenix portal.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Claim Entry Tab – To
+enter a claim, select
+service and date range.
+Click “Search”.
+
+The search results can be
+narrowed by entering the
+“Client#” and/or
+“Worker#”, then click
+“Search”.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Claim Entry Tab – From the Provider
+Add Claims screen, click “Add Claim”
+
+Enter the client ID number and units in
+the designated fields (Participant’s
+name will auto-populate below the client
+ID number).
+
+
+
+
+                                           Click “Save”
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Claim Entry Tab – To add
+another claim, click “Add
+Claim” and repeat the
+previous steps.
+
+Click “Calculate Total Units”
+to view the total units.
+
+Once all entries are completed,
+click “Record Claims”
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Claim Entry Tab – From the
+Verify Claims screen, click
+“Process Claims” to finalize
+the claim entry.
+
+Click “Edit” to change the
+Client # and/or Units.
+
+Click “Remove” to delete the
+claim entry.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Claim Entry Tab – To print a
+copy of the claim entry click,
+“Print This Page”.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Resolutions Tab – A claim
+that is missing a check in/out
+entry or both, or worker ID will
+require a resolution in order for
+the claim to be completed.
+
+Resolution tab function is
+available to providers that
+provide services such as
+(personal care, companion, case
+management, nursing, pest
+control, environmental
+modifications).
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Resolutions Tab – To submit a
+resolution, click “Resolutions”
+
+
+
+
+                                  Resolutions Tab – Select service, and
+                                  date range.
+
+                                  Click “Search”
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Resolutions Tab – Any
+incomplete claims will be
+displayed below.
+
+For missing claims, providers
+will need to click “Add Claim”
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Resolutions Tab – From the Provider Edit
+Resolutions screen, enter (Date of service,
+Client ID number, Worker ID number,
+Service/Sub Service, Check in and/or Check
+out date, Reason, and Action).
+
+Reason is a dropdown box with several
+choices. Providers must select a reason for
+the resolution.
+
+
+
+
+                                              Click “Add Claim” to enter additional
+                                              resolution claim entries.
+
+                                              Click “Record Resolutions” when all
+  4/23/2020                                   entries have been completed.
+              Phoenix Provider Portal
+Resolutions Tab – Resolution
+claim(s) will be displayed
+below for review.
+
+Click “Edit” to modify
+resolution entry.
+
+Click “Remove” to delete
+resolution entry.
+
+Click “Submit” to finalize
+resolution.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Resolutions Tab – To print a
+copy of the resolution entry
+click, “Print This Page”.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Workers Tab – Workers that
+check in/check out to document
+service delivery will need to be
+registered in the Workers tab.
+
+Only Users with “Administrator”
+or “Workers Registration” access
+level can utilize the Workers tab.
+
+To add worker, click “Add
+Worker”.
+
+
+
+
+  4/23/2020
+               Phoenix Provider Portal
+Workers Tab – Enter worker’s information
+(Select Nurse Supervisor only if worker will be
+performing nurse supervisory visits).
+
+Scroll to the bottom of the screen, click
+“Save”.
+
+
+
+
+   4/23/2020
+              Phoenix Provider Portal
+Workers Tab – All workers
+created will be displayed on the
+main “Workers” tab.
+
+To create additional workers,
+click “Add Worker” button and
+repeat previous steps.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Workers Tab – To terminate a
+worker/worker ID, click “Edit”.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Workers Tab – From the next screen,
+enter the date in the “Termination Date”
+field then click “Save” at the bottom of
+the screen.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Workers Tab – A termination date will be
+displayed.
+
+To reactivate a terminated worker ID,
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Workers Tab – To reactivate a terminated
+worker ID, click “Edit” on the “Workers” tab.
+
+From the next screen, delete the date from
+the “Termination Date” field.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Workers Tab – Click “Save” at the
+bottom of the screen.
+
+
+
+
+  4/23/2020
+              Phoenix Provider Portal
+Workers Tab – Date will be removed
+from the “Termination Date” field.
+
+
+
+
+  4/23/2020
+                  Phoenix Provider Portal
+Missed Visit Tab – Personal Care and
+ADHC providers are required to enter a
+reason for any day there is an
+authorization to provide services, but
+no service is provided.
+
+From the Missed Visit screen, providers
+enter the date ranges and Client number
+(to narrow search results).
+
+Click “Search”.
+
+
+
+
+    4/23/2020
+                Phoenix Provider Portal
+Missed Visit Tab – From the next
+screen, missed visits will be
+displayed. Providers will select the
+reason(s) for each missed visit.
+
+   Attended less than 5 hours
+   Holiday
+   Missed Visit
+   Service Interruption
+   Transportation Issue
+   Other
+
+
+
+Click “Save”.
+
+
+
+
+    4/23/2020
+               Phoenix Provider Portal
+Missed Visit Tab – From the
+“Review Missed Visit” screen,
+complete missed visits will be
+displayed along with the missed visit
+codes.
+
+Missed Visit results can be printed by
+clicking “Print This Page”.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Reports Tab – Providers have
+access to run reports related to
+workers, authorizations, and
+billing activities.
+
+Reports will be limited to the
+provider’s workers, assigned
+participants, claims, and
+authorizations.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Reports Tab – Providers have
+access to run reports related to
+workers, authorizations, and
+billing activities.
+
+Reports will be limited to the
+provider’s workers, assigned
+participants, claims, and
+authorizations.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Reports Tab – Each report
+Header has a drop down with
+several different reports to use.
+
+To run a report, click on any
+report
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Reports Tab – Enter
+appropriate information in the
+fields. (Date ranges must be
+entered in order to run a
+report).
+
+To narrow or filter search
+results, enter client ID#,
+services, and/or worker ID#.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Reports Tab – Enter appropriate information in the
+fields. (Date ranges must be entered in order to run a
+report).
+
+To narrow or filter search results, enter client ID#,
+services, and/or worker ID#, etc.
+
+Optional: Entering a name in the “Name” field, will
+create a template report which is a saved report that can
+be edited and reused later.
+
+Click “Run”
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Reports Tab – Reports can be
+viewed in 4 formats (html, csv,
+pdf, and xlsx.)
+
+Csv, pdf, and xlsx formats will
+require a password to view the
+report. The password is the
+provider portal user login ID in
+ALL lowercase. Html format does
+not require a password to view.
+
+Completed reports will be available
+for 72 hours then it will disappear
+from the report results.
+
+Reports that have been saved as a
+Template, will be available in “My
+Templates” section
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Report a Problem – From
+the Report a Problem
+screen, enter the information
+in the appropriate fields.
+
+Provide a detailed comment
+in the comment section
+(submitting insufficient
+information could cause a
+delay in resolving the reported
+problem).
+
+Click “Submit”.
+
+
+
+
+   4/23/2020
+              Phoenix Provider Portal
+Report a Problem –
+Technical issues regarding
+Phoenix, Provider Portal,
+Care Call, etc. can be
+reported by clicking the
+“Report a Problem” button.
+
+The “Report a Problem”
+button is located at the
+bottom of every screen.
+
+
+
+
+  4/23/2020
+               Phoenix Provider Portal
+Report a Problem – Once
+completed, the reported
+problem will move to the
+“Issues” tab.
+
+The Phoenix helpdesk will
+assign the issue to a state staff
+or developer for resolution.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Issues Tab – Providers can view
+any issues that has been reported
+via “Report a Problem”.
+
+Open issues can be viewed.
+
+Issues can be sorted by
+(Submitted, Updated, and
+Category)
+
+To view the issue(s), click the
+issue title.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Issues Tab – Staff/developers
+assigned to the issue may
+request additional information.
+Notification emails are sent
+whenever a change is made to
+the issue.
+
+Be sure to check agency email(s)
+or the “Issues” tab to review the
+status of the reported issue
+(failure to respond to request for
+additional information could
+result in the issue be closed
+without resolution).
+
+Providers can respond to state
+staff that are assigned to an issue
+by entering a comment and click
+“Comment”.
+
+   4/23/2020
+                Phoenix Provider Portal
+Issues Tab – Resolved/closed
+issues are moved to the “Closed”
+subtab.
+
+To view the closed issue(s), click
+the “Closed” subtab
+
+Click the issue title.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Issues Tab – From the closed
+issue, providers can review the
+comments.
+
+If the issue is still ongoing or
+unresolved, the creator can enter
+a new comment and click the
+“Re-open” button.
+
+A notification will be sent to the
+state staff and provider that the
+issue has been re-opened.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Issues Tab – The closed issue
+moves back to the “Open”
+subtab.
+
+The issue goes through the
+resolution process again.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Conversations– Providers can
+communicate to a participant’s
+assigned case manager or state
+staff through the provider portal.
+
+From the “Open” authorization
+subtab, click the Blue comic strip
+bubble next to the participant’s
+name.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Conversations– The
+participant’s assigned case
+manage is automatically added to
+the conversation.
+
+Providers can click the “Add
+Parties” field to add state staff or
+other assigned providers to the
+conversation.
+
+The provider agency staff can
+review and enter comments to
+conversation only if they have
+administration or conversation
+access.
+
+Click “Start Conversations”
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Conversations– The message is
+displayed
+
+If the Provider wants to
+communicate a different issue,
+the provider can click “Start New
+Conversation” and repeat the
+previous steps.
+
+The provider can include
+additional parties to the current
+conversation by clicking the
+“Add Another Party” field to
+add state staff or other assigned
+providers to the conversation.
+
+Enter new message and Click
+“Send Message”.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Conversations– The new
+message is displayed.
+
+Conversations will be moved to
+the “Inbox”
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Inbox–new messages will be
+indicated by a Red dot along
+with the number of messages.
+
+The inbox can access from any
+screen within the provider portal.
+
+Click “Inbox” to view messages.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Inbox–new messages will be
+highlighted in Green.
+
+Messages can be sorted by using
+the “Sort” button.
+
+To remove read
+conversations/message, Click
+“Archive”.
+
+
+
+
+   4/23/2020
+              Phoenix Provider Portal
+Inbox–Archived messages are
+removed from the Inbox message
+board.
+
+
+
+
+  4/23/2020
+                Phoenix Provider Portal
+Help–Providers can view help
+documents, scopes of services,
+and other documents for the
+“Help” section.
+
+The “Help” link is located at
+the bottom of every screen
+within the provider portal or
+the small question mark in a
+circle that is located at the top
+right side of the screen.
+
+Click “Help”.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Help–The Help document links are in
+PDF format. Providers will need to have
+a PDF software on their computer in
+order to view the documents.
+
+Click any title to view a document.
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Broadcasts –Providers can be
+informed of recent changes.
+
+The “Broadcasts” link is
+located at the bottom of every
+screen within the provider
+portal.
+
+Click “Broadcasts”
+
+
+
+
+   4/23/2020
+              Phoenix Provider Portal
+Broadcasts – Any Phoenix
+changes that are published
+will be displayed.
+
+
+
+
+  4/23/2020
+               Phoenix Provider Portal
+Emergency Events – In the event of a
+statewide/local emergency such as
+hurricanes, flooding, fires, etc., a
+notification will be sent to providers
+requesting your current status.
+
+The provider administrator or staff
+that has access to the provider portal,
+will have the ability to update the
+emergency status for the agency.
+
+Users will have an option to “Update
+Emergency Status” or “Remind Me
+Later”. Clicking “Remind Me Later”
+will close the message and the user can
+navigate through the provider poral as
+normal. The Emergency Status
+message banner will keep appearing
+until someone from the provider
+agency updates the emergency status.
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Emergency Events – If the provide
+clicks “Remind Me Later” button,
+then portal dashboard will be
+displayed. A Red banner will be
+present alerting the user about the
+emergency event and that the
+provider’s status has not been
+updated.
+
+Click “Update Emergency Status”
+
+
+
+
+   4/23/2020
+               Phoenix Provider Portal
+Emergency Events – A description of
+the emergency will be displayed along
+with the “Counties Affected” and
+“Services Affected”
+
+Users will select/enter
+1.            Status (open, closed,
+              modified, evacuated)
+2.            Emergency Contact
+              Name
+3.            Emergency Contact
+              Phone Number
+4.            Comment (If necessary)
+
+Click “Save”
+
+
+
+
+   4/23/2020
+                Phoenix Provider Portal
+Emergency Events – The Emergency Events banner
+changes from Red to Green once the provider’s status
+has been updated.
+
+If the emergency is more than one day, the provider
+will need to update their status each day the
+emergency event is active.
+
+Daily changes for affected counties and/or services will
+determine whether a provider will need to update their
+status.
+
+For example, An emergency event was active for
+Sumter and Clarendon counties on 7/1/18. The
+providers for both counties will receive the emergency
+event alert. On 7/3/18, the emergency event was active
+for Clarendon county only. Providers in Sumter county
+will no longer see a emergency event alert; however,
+providers in Clarendon county will still see the
+emergency alert. Providers in Clarendon will continue
+to update their status.
+
+The emergency events banner will disappear once the
+event has ended.
+   4/23/2020
+

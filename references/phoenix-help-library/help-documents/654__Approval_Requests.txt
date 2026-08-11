@@ -1,0 +1,165 @@
+                              Phoenix Provider Portal
+Approval Requests
+➢ To create a Participant Fund Request, click
+  “Approval Requests” on Carousel or Sidebar
+  Navigation
+
+
+
+
+     8/29/2023
+                            Phoenix Provider Portal
+Approval Requests
+➢ Click “Participant Fund
+  Request”
+
+
+
+
+ 8/29/2023
+                                 Phoenix Provider Portal
+Approval Requests
+➢ Enter information in the
+  fields, click “Save” to save
+  changes or click “Submit for
+  Review” to send to Area
+  Administrator for review
+
+
+
+
+     8/29/2023
+                            Phoenix Provider Portal
+Approval Requests
+➢ Workflow moves to “Awaiting Review
+  By Area Administrator” status
+
+
+
+
+     8/29/2023
+                                Phoenix Provider Portal
+Approval Requests
+➢ A notification will appear on Area
+  Administrator dashboard
+
+
+
+
+     8/29/2023
+                               Phoenix Provider Portal
+Approval Requests
+➢ Area Administrator will review
+  information.
+➢ Once reviewed, the AA will do
+  one of the following:
+    ➢ Approve
+    ➢ Deny
+    ➢ Return For More Info
+    ➢ Save
+    ➢ Remove
+
+
+
+
+     8/29/2023
+                                Phoenix Provider Portal
+Approval Requests
+➢ Once the request has been
+  approved, it will move to Central
+  Office user with “Participant
+  Fund Request Approver” roles
+  to review
+
+
+
+
+     8/29/2023
+                            Phoenix Provider Portal
+Approval Requests
+➢ A notification will appear on
+  Participant Fund Request Approver’s
+  dashboard
+
+
+
+
+     8/29/2023
+                             Phoenix Provider Portal
+Approval Requests
+➢ Participant Fund Request Approver
+  will review the request
+➢ Click, “Edit” to review information
+
+
+
+
+     8/29/2023
+                               Phoenix Provider Portal
+Approval Requests
+➢ Participant Fund Request
+  Approver will review information.
+➢ Once reviewed, the Participant Fund
+  Request Approver will do one of the
+  following:
+    ➢ Approve
+    ➢ Deny
+    ➢ Remove
+    ➢ Return For More Info
+    ➢ Save
+➢ Once the Participant Fund
+  Request Approver approves the
+  request, the workflow will move to
+  the Participant Fund Request
+  Payer
+
+
+
+     8/29/2023
+                            Phoenix Provider Portal
+Approval Requests
+➢ A notification will appear on
+  Participant Fund Request Payer’s
+  dashboard
+
+
+
+
+     8/29/2023
+                             Phoenix Provider Portal
+Approval Requests
+➢ Participant Fund Request Payer will
+  review the request
+➢ Click, “Edit” to review information
+
+
+
+
+     8/29/2023
+                                Phoenix Provider Portal
+Approval Requests
+➢ Participant Fund Request Payer
+  will review information.
+➢ Once the Participant Fund
+  Request Payer enter the check
+  information, the payer will do one of
+  the following:
+    ➢ Pay
+    ➢ Remove
+    ➢ Return For More Info
+    ➢ Save
+
+
+
+
+     8/29/2023
+                             Phoenix Provider Portal
+Approval Requests
+➢ Workflow changes to “Paid by Central
+  Office” status
+
+
+
+
+     8/29/2023
+

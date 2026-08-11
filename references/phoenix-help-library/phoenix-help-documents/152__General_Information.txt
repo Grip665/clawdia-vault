@@ -1,0 +1,248 @@
+1
+                 Logging into Pheonix
+ Enter username into the “Username” field Note: Username can contain a maximum
+  of 8 character
+ Enter password into the “Password” field Note: Passwords are case sensitive.
+  Passwords must be 8 to 40 characters long and contain 3 of 4 entities (upper case,
+  lower case, number, and symbol)
+     e.g. (Karlpop2, sandwich$7, pirate@50, Bob%Smith)
+     Changing/resetting passwords (see “Editing User Information”)
+ Solve math problem then click “Continue”. After 3 unsuccessful attempts, the user will
+  be locked out and will need to contact the Phoenix helpdesk for assistance or wait 30
+  minutes to login.
+
+
+
+
+                                                                                           2
+                       Dashboard
+ From any screen, click “Dashboard”
+ The dashboard contains widgets:
+   Notifications          Area Office Information     Referral Information
+   Document Printing      Eligibility Determination
+   Workflows              Participant Information
+   Dashboard information displayed will be based on “User Roles” i.e. (Case
+   Manager, Nurse Consultant, Eligibility Supervisor, PC Provider)
+
+
+
+
+                                                                              3
+                        Dashboard
+ Under the “Participants” widget, participants that are assigned to the
+  user will be displayed
+ Participant information includes (Area/CLTC#, Name, Medicaid
+  Eligibility, RSP, Program, Activity Due, Due Date, and Date Done)
+ “Participants” widget can be sorted by clicking the heading title in any
+  column
+
+
+
+
+                                                                             4
+           Medicaid Eligibility
+ Users with a caseload will need to sort the
+  “Participant” widget of the Dashboard periodically to
+  look for eligible and ineligible participants
+ Medicaid IVR can be used
+
+
+
+
+                                                          5
+                       Dashboard
+ Under the “Events” widget, activities due will be displayed (Initial
+  Visits, Monthly Contacts, Quarterly Visits, and Re-Evaluation)
+  along with due date
+ Activity due for current and next month can be viewed
+ Events displayed can be sorted by checking or un-checking each
+  activity
+
+
+
+
+                                                                         6
+                    Dashboard
+ Under the “Notifications” widget, incomplete narrative,
+  referral and authorization notifications will be displayed
+ To view information, click the underlined title
+
+
+
+
+                                                               7
+                         Dashboard
+ Under the “Map” widget, a geographical map will display the
+  participant’s location(s)
+ Participant location can be organized by selecting activities i.e. (Initial
+  Visit, Quarterly Visit, Re-Evaluation)
+
+
+
+
+                                                                                8
+                   Phoenix Carousel
+ The “Carousel” is displayed in all sections of Phoenix
+ The “Carousel” contains 15 sections:
+    •Dashboard                 •Personal Goals        •Approval Requests
+    •Participant Information   •Caregiver Supports    •Transfer
+    •Intake Workflows          •Home Assessment       •Merge
+    •Applications              •PASARR                •QA
+    •Assessments               •Waiver Supports       •Scans
+    •Narratives                •Non-Waiver Supports   •Physician Letters
+    •Medications               •Claims                •Attendant Care Requests
+    •Service Plan              •Forms
+Note: User’s access to “Carousel” sections is based on “Users Roles” in Phoenix
+
+
+
+
+                                                                                 9
+           Phoenix Carousel
+ All sections of the “Carousel” are not visible. The
+ carousel can be rotated left or right by clicking the
+ shift arrows located on the right/left end of the
+ carousel
+
+
+
+
+                                                         10
+          Participant Dashboard
+ On the Participant Dashboard, there are 6 sub tabs:
+   •   Snapshot                   •   Services
+   •   General Information        •   Complaints
+   •   Status Changes             •   Alerts
+
+
+
+
+                                                        11
+      Participant Dashboard
+ “Snapshot” tab displays information relating to
+  area/county, primary language, status, intake date, address,
+  phone number, program(s) and intake workflow actions
+
+
+
+
+                                                             12
+          Participant Dashboard
+ “General Information” tab displays demographic information such as
+  Medicaid, Medicare, Social Security number, age, race, and gender.
+  Other information relating to (primary contact, power of attorney, VA
+  benefits), RSP and Area Transfers will be listed
+
+
+
+
+                                                                          13
+          Participant Dashboard
+ “Status Changes” tab displays any program changes from initial
+  application to termination
+
+
+
+
+                                                                   14
+           Participant Dashboard
+ “Services” tab displays the participant’s current services.
+ Clicking the “View” but will take you to the “Waiver Supports” section
+  where authorizations can be reviewed, edited, and terminated
+    Instructions for authorizations see (Waiver Supports)
+
+
+
+
+                                                                       15
+          Participant Dashboard
+ “Complaints” tab displays any complaints associated with participant
+  that has been submitted through Phoenix
+ Complaints can be viewed and additional comments added
+    Instructions for viewing/editing complaints see (Complaints)
+
+
+
+
+                                                                         16
+           Participant Dashboard
+ “Alerts” tab displays any program changes from initial application to
+  termination
+
+
+
+
+                                                                          17
+                     Accordion
+ Several sections of Phoenix have screens with “Accordions”. The
+  “Accordion” compresses or expands in order to show/hide the
+  information
+ To view a section in an “Accordion”, click the Section header
+
+
+
+
+                                                                    18
+                                  Help
+ “Help” screens are available in certain sections of Phoenix. The “Help” screen
+  gives a brief summary and/or terminology of that section
+ To view the “Help” screen, click the “Question Mark” icon located on the
+  screen
+ The “Help” screen will appear in front of the main screen
+ To close the “Help” screen, click the “X” button in the upper right corner
+
+
+
+
+                                                                                   19
+                        Comments
+ Comment boxes are displayed at the bottom of certain sections
+  Comments boxes are used for documenting information that is not a
+  choice, can not be explained in the section, or additional information.
+  i.e. (medications that is not listed in Phoenix, notes documented
+  in the assessment after it has been completed, accepting an
+  authorization with conditions)
+ Enter comments in the “Comment” box then click “Save/Add
+  Comment” Note: Comments are automatically signed and dated
+
+
+
+
+                                                                        20
+                  Report Problem
+ Technical issue(s) such as (problems with authorizations, syncing,
+  dashboards, service plans, etc.) can be reported to the Phoenix Help
+  Desk by clicking the “Report a Problem”
+    Do not report technical issues in the Phoenix “Complaint” section
+ The “Report a Problem” button is located at the bottom of each
+  screen
+
+
+
+
+                                                                         21
+                     Report Problem
+ At the “New Issue” screen, fill out the appropriate information in each field
+  then click “Submit your issue”. Note: DO NOT include any PHI (Medicaid
+  number, SSN, Name, or Date of Birth) in the description box
+ Users will receive an e-mail documenting problem reported and any questions
+  that may require a response to resolve issue(s)
+ Don’t send a reply e-mail or click on the link in e-mail
+ Any additional responses, go to “View My Issues” from the Phoenix Home
+  Screen
+
+
+
+
+                                                                                  22
+             Participant Search
+ At the “Home” screen, click the “Participants” button.
+  Note: There are 2 “Participants” button that can be used
+ Enter information in the appropriate fields then click “Search”. Note:
+  To narrow search results, enter as much information as possible
+
+
+
+
+                                                                           23
+

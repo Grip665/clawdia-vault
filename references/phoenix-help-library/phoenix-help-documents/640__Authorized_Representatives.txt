@@ -1,0 +1,37 @@
+          Authorized Representatives
+Click “Participant Information”
+          Authorized Representatives
+Click “Authorized Representatives”
+subtab
+          Authorized Representatives
+
+Click “ New Authorized
+Representatives”
+         Authorized Representatives
+
+Enter information in the appropriate
+fields.
+
+When done, Click “ Add New
+Authorized Representatives”
+          Authorized Representatives
+
+All Authorized Representatives will
+be listed
+
+To edit current Authorized
+Representative record, click the
+Representative’s name
+         Authorized Representatives
+
+From the next screen, enter the
+updated information
+
+Click “Update Authorized
+Representative”
+          Authorized Representatives
+
+To remove an Authorized
+Representative, click the trash can
+icon
+

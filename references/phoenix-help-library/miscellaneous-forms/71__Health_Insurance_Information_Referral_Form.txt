@@ -1,0 +1,61 @@
+                        SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                         MEDICAID HEALTH INSURANCE INFORMATION REFERRAL FORM
+
+
+
+    Provider or Department Name: ________________________________ Provider ID or NPI: ___________________
+
+    Contact Person: _____________________ Phone #: _______________________________ Date: _____________
+
+
+
+I     ADD INSURANCE FOR A MEDICAID BENEFICIARY WITH NO INSURANCE IN THE MEDICAID
+      MANAGEMENT INFORMATION SYSTEM (MMIS) – ALLOW 25 DAYS
+      Beneficiary Name: _________________________________ Date Referral Completed: _________________________
+
+      Medicaid ID#: ____________________________________                 Policy Number: ________________________________
+
+      Insurance Company Name: __________________________                 Group Number: ________________________________
+
+      Insured's Name: ___________________________________                Insured SSN: __________________________________
+
+      Employer's Name/Address: __________________________________________________________________________
+
+
+II     CHANGES TO AN INSURANCE RECORD THAT IS IN THE MMIS – MIVS SHALL WORK WITHIN 5 DAYS
+          _____ a. beneficiary has never been covered by the policy – close insurance.
+
+            _____ b.      beneficiary coverage ended - terminate coverage (date) __________________________________
+
+            _____ c.      subscriber coverage lapsed - terminate coverage (date) __________________________________
+
+            _____ d.      subscriber changed plans under employer - new carrier is _________________________________
+
+                                                             - new policy number is __________________________________
+
+            _____ e.     beneficiary to add to insurance already in MMIS for subscriber or other family member.
+                         (name) __________________________________________
+
+                ATTACH A COPY OF THE APPROPRIATE DOCUMENTATION TO THIS FORM.
+                        Submit this information to Medicaid Insurance Verification Services (MIVS).
+                                          Fax:           or             Mail:
+                                     803-252-0870              Post Office Box 101110
+                                                               Columbia, SC 29211-9804
+
+
+
+III    NEW POLICY NUMBERS FOR INSURANCE IN THE MMIS WITH THE SUBSCRIBER SSN
+       (SCDHHS is collecting new unique policy numbers and plans to replace existing insurance records through MMIS online modification
+       as computer resources are available.)
+
+       Medicaid Beneficiary ID: _______________________________ SSN: ____________________________________
+
+       Carrier Name/Code: ________________________________ New Unique Policy Number: ____________________
+
+              Submit this information to South Carolina Department of Health and Human Services (SCDHHS).
+                                          Fax:            or             Mail:
+                                    803-255-8225               Post Office Box 8206, Attention TPL
+                                                                Columbia, SC 29202-8206
+
+    DHHS 931 – Updated January 2008
+

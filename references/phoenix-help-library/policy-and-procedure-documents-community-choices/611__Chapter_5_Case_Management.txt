@@ -1,0 +1,1710 @@
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                                                                  November 1, 2022
+
+                                               TABLE OF CONTENTS
+
+_Toc8068735805.10             Introduction...................................................................................................... 2
+
+05.20    Waiver Enrollment .................................................................................................................. 4
+
+05.30    Case Management Policy and Procedure ................................................................................ 7
+
+        05.31      On-going Case Management ....................................................................................... 7
+
+        05.32      Service Counseling ................................................................................................... 10
+
+        05.33      Service Planning ....................................................................................................... 11
+
+        05.34      Service Coordination ................................................................................................ 11
+
+        05.35      Monitoring ................................................................................................................ 12
+
+                  05.35.10         Monitoring for Missed PCII Visit, Emergency/Disaster Priority and
+                                     Emergency/Disaster Preparedness ...................................................... 17
+
+        05.36      Assessment Completion at Re-Evaluation ................................................................ 19
+
+        05.37      Re-Evaluation at 365-Day Intervals.......................................................................... 20
+
+                  05.37.10         Hospitalized Waiver Participant Who is Due an Initial Visit or .............. 23
+
+                  05.37.20         Re-Evaluation with Interruption of 365-Day Cycle Due to ADL/Medical
+                                     ............................................................................................................. 23
+
+        05.38      Waiver Participant Determined as Medically Ineligible........................................... 24
+
+                  05.38.10         Financial Ineligibility ............................................................................... 25
+
+        05.40      Institutionalization of a Waiver Participant .............................................................. 27
+
+                  05.40.10         Incarceration of a Waiver Participant ...................................................... 28
+
+05.50   Non-Compliant Participant .................................................................................................... 29
+
+05.60    Leave of Absence from the State/CLTC Region of a Waiver Participant ............................ 31
+
+05.70    Interactions with Hospice ..................................................................................................... 33
+
+05.80    Process for Critical Incidents ................................................................................................ 34
+
+05.90    Process for Visits to Participants with Active Bedbug Infestation ....................................... 38
+
+
+Chapter 5-Case Management                                                                                                               Page 1
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                              November 1, 2022
+
+
+
+  05.10    Introduction
+
+             The philosophy of Community Long Term Care Case Management in South
+             Carolina is to optimize the participant’s life choices and rights, to minimize threats
+             to the participant’s safety and health, and to provide a mechanism for managing
+             home and community based alternatives to institutional care. The program allows
+             for a range of options based on choice, role, and responsibility in the decision-
+             making process for persons to direct their own home and community based long term
+             care services through the assistance of a Case Manager for the services identified as
+             needed in their Service Plan.
+
+             Community Long Term Care operates on the following program principles which
+             support this case management philosophy:
+
+             1.     To provide a mechanism for utilizing cost effective alternatives to
+                    institutional care and to provide services for those participants eligible within
+                    the constraints of affordability by maximizing the utilization of available
+                    resources.
+
+             2.     To ensure services are appropriate to the needs of individual participants, are
+                    of acceptable quality, and do not duplicate other formal services.
+
+             3.     To recognize and strive to honor the participant's decisions regarding the
+                    Participant Service Choice Form and services received. However, a decision
+                    to receive services, including case management cannot be based on gender,
+                    gender identity, race, age, color, religion, or national origin.
+
+             4.     To ensure the participant’s right to assume risk, commensurate with that
+                    person’s ability and willingness to assume responsibility for the
+                    consequences of that risk.
+
+             5.     To acknowledge and respect the participant's right to be treated with
+                    consideration and dignity.
+
+             6.     To assist and not replace family members and other informal support systems
+                    currently involved with the participant's care.
+
+             7.     To make service decisions utilizing a multi-disciplinary team approach based
+                    on comprehensive, on-going assessments which include input from the
+                    participant and/or Authorized Representatives.
+
+             8.     To provide a well-defined, visible, and accessible point of entry for long-
+                    term care services.
+
+             Case management is a waiver service that is provided to all participants who
+             participate in the CLTC program. Case management is a vital part of the long-term
+Chapter 5-Case Management                                                                       Page 2
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                           November 1, 2022
+
+
+
+             care service system available to Medicaid eligible participants and ensures
+             continued access to this system.
+
+             Participants can choose to have only case management services. In such situations,
+             the value of case management is in the continued follow-up, coordination and
+             monitoring of services other than CLTC waivered services. The Case Manager will
+             also be able to periodically evaluate any changes in the participant's service needs.
+
+             Case management includes the following five activities which are discussed in this
+             chapter:
+
+             •      Service Counseling.
+
+             •      Service Planning.
+
+             •      Service Coordination.
+
+             •      Monitoring; and,
+
+             •      Re-evaluation.
+
+
+             Conflict Free Case Management
+
+             The Case Management provider and its staff must be independent of the service
+             delivery system and not a provider of services that could be incorporated into a
+             CLTC participant’s plan of care (“conflict free case management”). These services
+             include, but are not limited to, CLTC waiver services, home health services, and
+             hospice services. CLTC is the final decision authority regarding questions
+             concerning conflict free case management.
+
+
+
+
+Chapter 5-Case Management                                                                    Page 3
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                              November 1, 2022
+
+
+  05.20      Waiver Enrollment
+
+             Pre-admission review is completed by a SCDHHS Worker for a participant who
+             applies for the waiver. Policy and Procedure must be followed for intake,
+             assessment, level of care, and Medicaid eligibility.
+
+             A participant must be eligible is Medicaid financially eligible, meets level of care,
+             completed the Participant Service Choice Form, and has an available waiver slot) to
+             enter the waiver.
+
+             If the participant does not enroll in the waiver within thirty (30) calendar days of
+             the initial assessment, a new assessment must be completed by the SCDHHS
+             Worker. A new assessment must be completed in Phoenix and a new level of care
+             determined and recorded in Phoenix. This re-assessment may be completed by phone
+             or visit. If the applicant appears to be medically ineligible at any time while the case
+             is pending, a visit must be made to the applicant to re-determine the level of care. It
+             may be necessary to re-verify Medicaid eligibility, depending on the amount of time
+             the case has been pending.
+
+             The SCDHHS Worker must call to confirm the participant’s present location and
+             ensure there have been no significant changes in the applicant’s condition prior to
+             the transfer conference and enrollment. The SCDHHS Worker should inform the
+             applicant that the case is being transferred to the Case Manager II, Lead Team
+             Case Manager, Lead Team Nurse Consultant or Area Administrator for
+             enrollment. The SCDHHS Worker should notify the applicant that the Case
+             Manager II, Lead Team Case Manager, Lead Team Nurse Consultant or Area
+             Administrator will call to discuss service planning and service authorization.
+
+             The SCDHHS Worker and the Case Manager II, Lead Team Case Manager, Lead
+             Team Nurse Consultant or Area Administrator must team staff the assessment
+             information for service plan development and waiver enrollment. Waiver enrollment
+             date is the date case is team staffed. The participant’s current Medicaid financial
+             category is reviewed by the Case Manager II, Lead Team Case Manager, Lead
+             Team Nurse Consultant or Area Administrator at the time of the case transfer.
+
+             The enrolling Case Manager II, Lead Team Case Manager, Lead Team Nurse
+             Consultant or Area Administrator must complete the following tasks on the date
+             of enrollment which is the same date of the transfer conference:
+
+             •     Narrate the transfer conference with the SCDHHS Worker.
+
+
+
+
+Chapter 5-Case Management                                                                      Page 4
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                           November 1, 2022
+
+
+
+             •     Change the participant status to “participating” in Phoenix.
+
+             •      Send a CLTC Notification Form to the participant, and/or Authorized
+                    Representative notifying of the waiver enrollment. A CLTC Notification
+                    Form is also required to be sent to Medicaid eligibility to notify them of
+                    the enrollment.
+
+             •      Notify the designated CLTC Support Staff for RSP indicator entry. The RSP
+                    entry must be completed within four (4) business days of the waiver
+                    enrollment date.
+
+             The enrolling Case Manager II, Lead Team Case Manager, Lead Team Nurse
+             Consultant or Area Administrator must complete the following tasks within seven
+             (7) business days of the enrollment date:
+
+             •      Prior to enrollment: call participant, and/or Authorized Representative to
+                    involve in Service Plan development and review the services based on need.
+
+             •      Contact the participant to confirm or obtain Case Management Provider
+                    Choice if the provider choice form has not been received. These choices must
+                    be documented on the Service Provider Report (Provider Choice Form) and
+                    in the narrative record in order of preference. The provider choice form must
+                    be scanned into Phoenix. This choice must be confirmed at the Initial Visit
+                    and the Provider Choice Form signed.
+
+             Note: If the participant and/or Authorized Representative does not respond with a
+                   Case Management Provider Choice within ten (10) business days from date it
+                   was mailed, a Notification Form must be mailed to the participant and/or
+                   Authorized Representative informing of the need to make a Case Management
+                   Provider Choice within the next ten (10) business days. If the choice is not
+                   received within the next ten (10) business days, the Area Administrator must be
+                   consulted. Prior to case closure for this reason, the Area Administrator will
+                   discuss with Regional CLTC Director.
+
+             •      Explore community services and formal/informal supports.
+
+             •      Review waiver services and offer option to make verbal choice of waiver
+                    service providers.
+
+             •      Record choices(s) on the Service Provider Report generated from Phoenix,
+                    then initial and date form. Scan Service Provider Report into Phoenix
+                    Scans.
+
+Chapter 5-Case Management                                                                   Page 5
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                           November 1, 2022
+
+             •      If verbal choice cannot be made, mail the appropriate Service Provider
+                    Reports to the participant and/or Authorized Representative.
+
+             •      Call participant and/or Authorized Representative within ten (10) business
+                    days from the date the provider list was mailed to secure choice(s) for each
+                    planned service.
+
+             •      Key information in Phoenix identifying service plan interventions and
+                    updating other sections of Phoenix as needed.
+
+             •      Team discuss and sign the Service Plan with Case Manager II, Lead
+                    Team Case Manager, Lead Team Nurse Consultant or Area
+                    Administrator.
+
+             •      Authorize one (1) unit of service for Case Management for SCDHHS.
+
+             •      Refer chosen services including on-going waiver Case Management.
+
+             •      Send Physician’s Order if needed for Nutritional Supplements or Private
+                    Duty Nursing.
+
+             Once a case is accepted by the Case Management Provider, team staffing must occur
+             with the Case Manager II, Lead Team Case Manager, Lead Team Nurse
+             Consultant or Area Administrator and on-going Case Manager within two (2)
+             business days. If the on-going Case Manager does not contact the Case Manager
+             II, Lead Team Case Manager, Lead Team Nurse Consultant or Area
+             Administrator within two (2) business days for the team staffing to occur, the Case
+             Manager II, Lead Team Case Manager, Lead Team Nurse Consultant or Area
+             Administrator should proceed to the next Case Management Provider Choice by
+             declining the referral and moving to the next referral. Documentation of this must be
+             made in the Phoenix narrative. If a Case Management Provider choice is not made,
+             SCDHHS will be the Case Manager until a choice is made.
+
+             The SCDHHS Worker must narrate all team staffing activities or attempts for team
+             staffing.
+
+
+
+
+Chapter 5-Case Management                                                                    Page 6
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                                  November 1, 2022
+
+
+
+  05.30   Case Management Policy and Procedure
+
+      05.31       On-going Case Management
+
+              The Case Manager must make the Initial Visit to the participant within thirty
+              (30) calendar days of the waiver enrollment date.
+
+              Exception: If the Initial Visit is due within five (5) business days of the on-going
+                         Case Management referral, the on-going Case Manager must complete
+                         the Initial Visit within ten (10) business days of accepting the referral.
+                         The late activity will not be subject to strikes or recoupment for
+                         timeliness if the visit is made within the ten (10) business days of referral
+                         acceptance.
+
+                            If the participant is hospitalized at the time of the scheduled Initial Visit,
+                            the visit should be delayed until the participant is discharged. A visit is
+                            due within seven (7) business days of notification of discharge.
+
+              The Case Manager must complete the following during the Initial Visit.
+
+              Initial Visit:
+
+              •       Visit participant at the place of residence.
+
+              •       Complete documentation in the Electronic Visit Verification (EVV) by using the
+                      participant’s landline phone for check-in and check-out or by using the EVV
+                      Mobile Phone Application. The participant’s mobile phone must not be used
+                      for check-in and check-out.
+
+              •       The EVV check-in call must be made at the beginning of the visit AND a
+                      check-out call must be made at the end of the visit.
+
+              •       In cases where visits are made for more than one person in the same home,
+                      the Case Manager should check-in and check-out for one person at a time, not
+                      over lapping calls to EVV.
+
+              •       Review assessment and add any updates or additional information needed in
+                      the assessment comment field.
+
+              •       Review Service Plan with the participant and revise as needed.
+
+              •       Obtain signature of the participant and/or Authorized Representative on the
+                      Service Plan Agreement. If no revisions are made, leave copy of Service Plan
+Chapter 5-Case Management                                                                           Page 7
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                            November 1, 2022
+
+                    with the participant and/or Authorized Representative. If revisions are
+                    necessary, mail a copy of the revised Service Plan to the participant and/or
+                    Authorized Representative following the visit.
+
+             •      Notify the providers of any Service Plan changes via phone call or
+                    Conversation feature in Phoenix. The provider can access the updated
+                    Service Plan in Phoenix.
+
+             •      If the initial assessment was completed by phone, obtain signed CLTC
+                    Consent Form in Phoenix.
+
+             •      If the initial assessment was completed by phone, obtain signed Participant
+                    Service Choice in Phoenix.
+             •      Review, update and complete Waiver Service and Non-Waiver Service
+                    (Referrals/Authorizations) tabs in Phoenix.
+
+
+             •      Discuss the participant’s Personal Goals. Document any newly stated
+                    Personal Goals in the Personal Goals Section in the Service Plan including
+                    the steps to achieve the Personal Goal. Personal Goals must be time specific,
+                    measurable and realistic. Review and document participant’s progress
+                    toward previously stated Personal Goals. If the participant does not indicate
+                    a Personal Goal, document in the narrative checklist.
+
+             •      If services are provided prior to the initial visit being completed: review
+                    Phoenix claims and Report for missed visits, exception codes, service
+                    delivery, service provided as authorized during correct dates and times,
+                    check- in and check-out from authorized phone, visits that are longer or
+                    shorter than authorized. This may be completed by viewing the Claims
+                    Section in Phoenix or by obtaining an activity report in Phoenix. Also, review
+                    Phoenix claims and Reports to monitor activities task sheets and activities
+                    observations. This may be completed by viewing Phoenix Reports then
+                    Claims. This review may not be completed more than seven (7) business
+                    days prior to the contact. Trends and patterns of problems rather than
+                    isolated cases should be noted.
+
+             •      Verify Medicaid financial eligibility for waiver services. It is important for the
+                    Case Manager to check their dashboard often to monitor participants’
+                    Medicaid eligibility.
+
+             •      Verify choice of location of services. Must obtain participant signature on
+                    CLTC Participant Service Choice form if previous choices were obtained by
+Chapter 5-Case Management                                                                     Page 8
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                            November 1, 2022
+
+                    verbal consent.
+
+             •      Review, complete and update Participant Information section in Phoenix.
+
+             •      Review, complete and update Medication Section in Phoenix.
+
+             •      Review, complete and update Home Assessment Section in Phoenix.
+
+             •      Review, complete and update as needed Emergency Disaster Priority Section
+                    in Home Assessment – Home Condition tab.
+
+             •      In the Disaster Plan Box, record the full name, address and phone number of
+                    the individual responsible for assisting the participant in the event of an
+                    emergency/disaster.
+
+             •      Review and obtain signatures on the Participant’s Rights and
+                    Responsibilities Statement in Phoenix. Make every attempt to have the
+                    participant and/or Authorized Representative sign. If the Authorized
+                    Representative is unavailable, mail a copy to the Authorized Representative for
+                    signature. A copy of the Participant’s Right and Responsibilities must be
+                    given to the participant and/or Authorized Representative.
+
+             •      Discuss Service Provider Report and obtain provider choice(s) in order of
+                    preference for each planned service. Confirm any provider choice(s)
+                    previously obtained. Obtain participant and/or Authorized Representative’s
+                    signature and date. Signed Service Provider Reports must be scanned into
+                    Phoenix Scans.
+
+             Note: If the participant is not physically or mentally able to complete and/or sign
+                   the Service Provider Report Form, the Authorized Representative may do so.
+                   The lack of a signature on the form should not delay the participant from
+                   receiving waiver services. The participant may receive waiver services as
+                   long as a written choice is indicated on the form. However, every effort must
+                   be made to secure a signature.
+
+             •   Review, complete and update as needed the Caregiver Support Section in
+                 Phoenix. If no Authorized Representatives are listed, the participant should
+                 check the appropriate box on the Appointing an Authorized Representative
+                 Form 1282 LTL to verify the section was reviewed.
+
+             •   Provide the CLTC Information Folder. The CLTC Information Folder must
+                 include:
+Chapter 5-Case Management                                                                     Page 9
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                                November 1, 2022
+
+
+                       o      CLTC Brochure
+                       o      Copy of Participant’s Rights and Responsibilities Form
+                       o      Case Manager Business Card and Contact Information
+                       o      Estate Recovery Brochure
+                       o      Choosing a Case Manager Brochure
+                       o      Choosing an Adult Day Health Care Brochure
+                       o      Choosing a Personal Care 1 / Personal Care II Brochure
+                       o      APS Brochure
+                       o      Emergency Preparedness Information
+                       o      Emergency Telephone Numbers Form
+                       o      Evacuation Information
+                       o      Emergency Checklist
+                       o      Helpful Reminders in an Emergency Brochure
+
+
+              •        During the check-out call through the Electronic Visit Verification (EVV), enter
+                       the activity completed and any new observation. Observations that represent
+                       a significant change should be entered.
+
+              •        Any follow up activities and subsequent actions required as a result of
+                       participant needs or provider compliance problem identified must be
+                       documented in the narrative record.
+
+              •        Complete the Initial Visit narrative and Narrative Checklist in Phoenix.
+
+      05.32       Service Counseling
+              Service counseling involves objectively consulting, discussing, advising, and
+              listening. The CLTC Case Manager is in a position to confer with the participant
+              and/or Authorized Representative concerning needs and to provide information that
+              will assist them in making sound long term care decisions. The service counseling
+              process includes educating the participant and/or Authorized Representative with the
+              long term care options available to them and ensuring the participant's right to be
+              involved in planning the care. The various service options and their expected
+              outcomes should be clearly explored with the participant and/or Authorized
+              Representative.
+
+              Since service counseling is not clinical in nature, it is imperative that the Case
+              Manager recognize when a referral for this type of professional intervention is
+              needed. It is essential to assure effective case management so that the Case Manager
+              does not become overly involved in complex or emotional situations. The Case
+              Manager must be able to distinguish his/her role in service counseling and the need
+              for clinical intervention for the participant and/or Authorized Representative. A
+              referral for counseling should be incorporated into the Service Plan when clinical
+              needs are identified.
+Chapter 5-Case Management                                                                         Page 10
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                              November 1, 2022
+
+
+      05.33       Service Planning
+
+              Person-Centered Service Planning is the active, on-going process of working
+              together with the participant and/or Authorized Representative to assure the efficient
+              provision of services. The Case Manager should constantly strive to empower the
+              participant to become as independent as possible in advocating for his/her self and
+              coordinating his/her own care.
+
+              Partnership with the team member and other multi-disciplinary team members, the
+              Case Manager should work toward developing an agreement with the participant
+              and/or Authorized Representative regarding the participant’s needs that exist, the
+              goals or outcomes to be reached, and the services and interventions to be explored
+              to reach the goals.
+
+              Through person-centered service planning, the Case Manager consistently strives to
+              meet the needs of the participant through the exploration of all informal and formal
+              services.
+
+              Coordination with formal and informal services is required for the participant whose
+              needs and/or informal supports are such that an emergency/disaster or the absence
+              of an authorized PCII would have a substantial impact on the participant’s health and
+              safety.
+
+              Person-Centered Service Planning includes the development of a written Service
+              Plan in partnership with the participant and parties involved in the Plan. By signing
+              the Service Plan Agreement at the Case Manager's initial visit (and thereafter at the
+              first quarterly visit following each re-evaluation), the participant, and/or Authorized
+              Representative, confirms the Service Plan was developed with his/her input and
+              evaluated with him/her at each re-evaluation visit.
+
+
+              The overall goal of person-centered service planning is to promote the health and
+              independence of the participant while involving the participant in all phases of
+              planning, coordination, and evaluation.
+
+      05.34       Service Coordination
+
+              Service coordination is a vital component of case management and must be
+              documented. The Case Manager works together with the participant, and/or
+              Authorized Representative and other agencies involved in the participant's care to
+              ensure services:
+
+              •        are appropriate for the participant's needs;
+
+              •        meet acceptable quality standards;
+
+Chapter 5-Case Management                                                                       Page 11
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                               November 1, 2022
+
+
+              •        are not duplicated;
+
+              •        are cost effective alternatives;
+
+              •        maximize the utilization of available resources;
+
+              •        are provided by other agencies in accordance with maintenance of effort
+                       agreements (Refer to Section 07.21); and,
+
+              •        augment, not replace, the participant's informal support system.
+
+      05.35       Monitoring
+
+              The Case Manager monitors the plan for each waiver participant at least monthly.
+              Monitoring should be accomplished through contacts with the participant and/or
+              Authorized Representative. If the Case Manager is unable to contact the participant
+              and/or after three (3) attempts on different days, at different times, within 10 business
+              days, approval may be obtained and documented in the Phoenix narrative from the
+              Lead Team Case Manager, Lead Team Nurse Consultant or Area
+              Administrator to make the required contact with the Authorized Representative.
+              The Case Manager should contact formal support providers as often as the need
+              arises. Minimally, there should be contact with in-home care providers initially and
+              at the re-evaluation visit. These contacts must be documented in the narrative.
+              Participant’s satisfaction with and adequacy of services should be discussed with the
+              participant, and/or Authorized Representative during the initial visit and monthly
+              thereafter. This discussion should be included in the narrative.
+
+              All visits and monthly contacts must be conducted between the hours of 7 a.m. and
+              7 p.m., Monday through Friday unless the participant/Authorized Representative
+              cannot be accommodated during this timeframe.
+
+              Note: Any exception must be prior approved and documented in the Phoenix
+                    narrative by the Area Administrator and/or Central Office
+                    Representative. Any exception must be for the benefit of the participant and
+                    not for the convenience of the Case Manager.
+
+              The Case Manager must monitor each participant monthly. At a minimum, the Case
+              Manager must contact the participant via phone the first two months of the quarter
+              and visit the participant the last month of the quarter.
+
+              The Case Manager must complete the following items during the Monthly
+              Contact.
+
+
+
+Chapter 5-Case Management                                                                        Page 12
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                            November 1, 2022
+
+
+             Monthly Contact:
+
+             •      Phone the participant and/or Authorized Representative to discuss the
+                    participant’s current health-impairment, appropriateness of the Service Plan
+                    and provision of formal and informal services at the level committed to. If a
+                    change in the health status does not affect the level of care or service plan,
+                    document this change in the narrative. If the change affects the service plan
+                    but not level of care, document the change in the Service Plan comments. If
+                    the change affects level of care, a re-evaluation must be completed.
+
+             •      Review Phoenix Claims and Reports for missed visits, exception codes,
+                    service delivery, services provided as authorized during correct dates and
+                    times, check-in and check-out from authorized phone, visits that are longer
+                    or shorter than authorized. This may be completed by viewing the Claims
+                    Section in Phoenix or by obtaining an activity report in Phoenix. This review
+                    may not be completed more than seven (7) business days prior to the
+                    contact. This monitoring of claims must be completed covering the time
+                    period since the last monitoring. Trends and patterns of problems rather than
+                    isolated cases should be noticed.
+
+             •      Review Phoenix Claims and Reports to monitor activities task sheets and
+                    activities observations. This may be completed by reviewing Phoenix
+                    Reports then Claims. This review may not be completed more than (7)
+                    business days prior to the contact.
+
+             •      Verify Medicaid financial eligibility for waiver services. It is important for the
+                    Case Manager to check their dashboard often to monitor participants’
+                    Medicaid eligibility.
+
+             •      Any follow up activities and subsequent actions required as a result of
+                    participant needs or provider compliance problems identified must be
+                    documented in the narrative record.
+
+             •      Complete Monthly Contact Narrative including Checklist in Phoenix.
+
+             Quarterly Visit
+
+             The Case Manager must ensure that quarterly visits are completed timely and
+             efficiently. The first Quarterly Visit is due within ninety (90) calendar days of
+             waiver enrollment and subsequently every ninety (90) calendar days until re-
+             evaluation, which resets the cycle.
+
+             Exception: If the Quarterly Visit is due within five (5) business days of the on-
+Chapter 5-Case Management                                                                     Page 13
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                                November 1, 2022
+
+                            going Case Management referral, the on-going Case Manager must
+                            complete the Quarterly Visit within ten (10) business days of accepting
+                            the referral. The late activity will not be subject to strikes or recoupment
+                            for timeliness of the visit if made within ten (10) business days of
+                            referral acceptance.
+
+                            If the participant is hospitalized at the time of the scheduled quarterly
+                            visit, the visit should be delayed until the participant is discharged. A
+                            visit is due within seven (7) business days of notification of discharge
+                            and narration of the visit delay must be completed.
+
+             The Case Manager must complete the following items during the Quarterly
+             Visit.
+
+             Quarterly Visit:
+
+             •      Visit participant at place of residence.
+
+             •      If a quarterly visit in a location other than the participant’s residence would
+                    benefit the participant and/or Authorized Representative, the Case Manager
+                    must request an exception from the Lead Team Case Manager, Lead Team
+                    Nurse Consultant, Satellite Office Supervisor or Area Administrator.
+                    The approval or denial must be documented in the narrative. The approval
+                    or denial is valid for one time. The phone number for this alternate location
+                    must not be entered in Phoenix as an acceptable number for the Electronic
+                    Visit Verification (EVV).
+
+             •      Complete documentation in the EVV by using the participant’s landline
+                    phone for check-in and check-out or by using the EVV Mobile Phone
+                    Application. The participant’s mobile phone must not be used for check-in
+                    and check-out.
+
+             •      The EVV check-in call must be made at the beginning of the visit AND a
+                    check-out call must be made at the end of the visit.
+
+
+             •       In cases where visits are made for more than one person in the same house,
+                    the Case Manager should check-in and check-out for one person at a time,
+                    not overlapping service/visit times to EVV.
+
+             •      Review Assessment Information and add updates or additional information
+                    in the assessment comment field.
+
+             •      Review the Person-Centered Service Plan and revise as needed.
+Chapter 5-Case Management                                                                         Page 14
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                            November 1, 2022
+
+
+
+             •      Obtain signature of participant and/or Authorized Representative on the
+                    Service Plan Agreement at the first quarterly visit following the Re-
+                    evaluation.
+
+             •      If no revisions are made, leave a copy of Service Plan with participant and/or
+                    Authorized Representative. If revisions are necessary, mail a copy of the
+                    revised Service Plan to the participant and/or Authorized Representative
+                    following the visit.
+
+             •      Notify the providers of any Service Plan changes via phone call or
+                    conversation feature in Phoenix. The provider can access the updated Service
+                    Plan in Phoenix.
+
+             •      Review, update and complete Waiver Service and Non-Waiver Service
+                    (Referrals/Authorizations) tabs in Phoenix.
+
+             •      Review Phoenix Claims and Reports missed visits, exception codes, service
+                    delivery, service provided as authorized during correct dates and times,
+                    check-in and check-out from authorized phone, visits that are longer or
+                    shorter than authorized. This may be completed by viewing the Claims
+                    Section in Phoenix or by obtaining an activity report in Phoenix. This review
+                    may not be completed more than seven (7) business days prior to the
+                    contact. This monitoring of claims must be completed covering the time
+                    period since the last monitoring. Trends and patterns of problems rather than
+                    isolated cases should be noted.
+
+             •      Review Phoenix Claim and Reports to monitor activities task-sheets and
+                    activities observations. This may be completed by viewing Phoenix reports
+                    then Claims. This review may not be completed more than seven (7) business
+                    days prior to the contact.
+
+             •      Verify Medicaid financial eligibility for waiver services. It is important for the
+                    Case Manager to check their dashboard often to monitor participants’
+                    Medicaid eligibility.
+
+             •      Verify choice of location of services. Must obtain participant signature on
+                    CLTC Participant Service Choice form if previous choices were obtained by
+                    verbal consent.
+
+             •      Review, complete and update Participant Information Section in Phoenix.
+
+
+Chapter 5-Case Management                                                                    Page 15
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                          November 1, 2022
+
+             •      Review, complete and update Medication Section in Phoenix.
+
+             •      Review, complete and update Home Assessment Section in Phoenix.
+
+             •      Review, complete and update as needed At Risk for Missed Personal Care II
+                    status in Phoenix.
+
+             •      Review complete and update as needed Emergency Disaster Priority status
+                    in Home Assessment under Home Condition tab.
+
+
+             •      Review, complete and update as needed Emergency Disaster Preparedness
+                    Section in Home Assessment under Home Condition tab. In the Disaster Plan
+                    Box, record the full name, address and phone number of the individual
+                    responsible for assisting the participant in the event of an
+                    emergency/disaster.
+
+             •      Review, complete and update as needed Caregiver Support Section in
+                    Phoenix. If no Authorized Representatives are listed, the participant should
+                    select the appropriate box on the Appointing an Authorized Representative
+                    Form 1282 LTL to verify the section was reviewed.
+
+             •      Discuss the participant’s Personal Goals. Document any newly stated
+                    Personal Goals in the Personal Goals Section in the Service Plan including
+                    the steps to achieve the Personal Goal. Personal Goals must be time specific,
+                    measurable and realistic. Review and document participant’s progress
+                    toward previously stated Personal Goals. If the participant does not indicate
+                    a Personal Goal, document in the narrative checklist.
+
+             •      During the check-out call through the EVV, enter the activity completed and
+                    any new observations. Only new observations that represent a significant
+                    change should be entered.
+
+             •      Any follow up activities and subsequent actions required as a result of
+                    participant needs or provider compliance problem identified must be
+                    documented in the narrative record.
+
+             •      Complete Quarterly Visit narrative and narrative checklist in Phoenix.
+
+             Some participants may require more monitoring than others. Frequency of contacts
+             should be determined by prioritizing participants whose medical conditions are
+             unstable, participants who require complex service plans, and/or participants who
+Chapter 5-Case Management                                                                   Page 16
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                            November 1, 2022
+
+             have limited support systems.
+
+             A participant has the right to assume risk, commensurate with his/her ability and
+             willingness to assume responsibility for the consequences of that risk. This, of
+             course, does not abrogate a state’s statutory duty to ensure the health and welfare of
+             individuals served under home and community based services waivers. Staff should
+             exercise good professional judgment in dealing with cases where the participant’s
+             health, safety, and welfare are questionable. These cases should be staffed with
+             designated Lead Team and/or Area Administrator. Central Office should also be
+             consulted. Legal counsel may be needed. Established policy (participant choice,
+             monitoring, participant at risk, or non–compliant participant) must be followed.
+             Documentation is crucial in these cases. Referrals must be made to other agencies
+             (DMH, DSS, etc.) as appropriate and/or as required by State Law.
+
+             For home environments which have been determined to be unsafe or potentially
+             unsafe for the Case Manager, a monitoring strategy should be developed with the
+             designated Lead Team and Area Administrator based on the CLTC Procedure
+             Manual Safety Policy.
+
+         05.35.10   Monitoring for Missed PCII Visit, Emergency/Disaster Priority and
+                    Emergency/Disaster Preparedness
+
+                    As part of the ongoing case monitoring process, the Case Manager must
+                    identify the participant with special needs and/or inadequate supports. The
+                    participant may require special intervention in the event of a missed PCII
+                    visit or emergency/disaster.
+
+
+                    At-Risk for Missed Personal Care II Visit Participant
+
+                    A participant at risk for a missed Personal Care II visit is one whose health
+                    and safety could be compromised if the service is not provided as scheduled.
+                    Some examples are:
+
+                    •       Diabetic participant who resides alone, is unable to prepare a meal,
+                            must eat at specific times and the Personal Care II is responsible for
+                            preparing the meal.
+
+                    •       An incontinent participant who relies solely on the Personal Care
+                            II to perform bathing and toileting.
+
+
+                    •       A bedbound participant who relies solely on the Personal Care II to
+                            perform activities of daily living and meal preparations.
+
+                    If a participant is determined by the Case Manager to be "At Risk for a
+Chapter 5-Case Management                                                                     Page 17
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                            November 1, 2022
+
+                    Missed PCII visit," this information must be communicated to the provider
+                    at the time of the referral and any time the status changes. The At-Risk status
+                    for Missed Personal Care II Visit is keyed in the Participant Information
+                    section of Phoenix. This will flag appropriate Service Authorizations to alert
+                    providers of the At- Risk Personal Care II visit status. Service planning must
+                    address this special need of the participant. (Refer to Section 05.33 and
+                    07.23)
+
+                    The provider is required to contact the Case Manager if services cannot be
+                    provided to the participant as authorized and backup efforts have failed. The
+                    Case Manager must respond immediately in an attempt to secure the
+                    assistance needed by the participant. Efforts to secure assistance must be
+                    documented in the Narrative.
+
+                    At a minimum, interventions will typically include:
+
+                    •       contacting participant and/or Authorized Representative to assess the
+                            situation; efforts should be made to involve the participant and/or
+                            Authorized Representative in identifying possible solutions;
+
+                    •       reviewing the Service Plan for other informal support systems which
+                            could be contacted to assist the participant; and/or
+
+                    •       exploring a change in the PCII provider or authorizing an alternate
+                            service on an emergency basis (i.e., ADHC).
+
+                    •       Participants who have been coded as “At Risk for Missed Personal
+                            Care II” in Phoenix may be identified using the Case Manager Roster
+                            Report, Personal Care II Visit Status.
+
+                    •       Service Planning must address this special need of the participant.
+
+                    Emergency/Disaster Priority
+
+                    The Emergency/Disaster Priority Section in the Home Assessment section
+                    under Home Condition tab of Phoenix must be reviewed and updated as
+                    necessary, and at least during the Initial Visit, each Quarterly Visit and Re-
+                    Evaluation Visit.
+
+                    The Emergency/Disaster Priority status is entered in Phoenix according to
+                    the description below. Service planning is required in an attempt to meet the
+                    needs of a participant who would be vulnerable during an
+                    emergency/disaster.
+
+                    1.      Not Priority - Participant is not vulnerable during emergency/disaster
+                            or has adequate supports to meet needs. (Example: Participant has
+                            functional deficits but family is willing and able to evacuate and/or
+Chapter 5-Case Management                                                                     Page 18
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                            November 1, 2022
+
+                            meets needs.)
+
+                     2.     Priority/Lives Alone – Participant lives alone and is vulnerable in
+                            emergency/disaster due to limitation of support system. (Example:
+                            Participant lives alone and has no one available to assist with
+                            evacuation or has no one to administer medications.) If this is chosen,
+                            answer the question in Phoenix either yes or no “Participant consents
+                            to have emergency preparedness agencies notified.”
+
+                     3.     Priority/Advanced Medical Need – Participant has advanced medical
+                            needs and would be vulnerable during an emergency/disaster.
+                            (Example: Participant is ventilator dependent, require dialysis or
+                            other specialized equipment or services.) If this is chosen, answer the
+                            question in Phoenix either yes or no “Participant consents to have
+                            emergency preparedness agencies notified.”
+
+                     4.     Priority/Other – Participant has special needs as identified by the Case
+                            Manager and/or Nurse Consultant, and would be vulnerable during
+                            emergency/disaster. (Example: Participant can only be transported by
+                            ambulance or participant with special communication needs.) If this is
+                            chosen, answer the question in Phoenix either yes or no “Participant
+                            consents to have emergency preparedness agencies notified.”
+                     Emergency /Disaster Preparedness
+
+                     The Emergency/Disaster Preparedness Section in the Home Assessment
+                     section under Home Condition tab of Phoenix must be reviewed and updated
+                     as necessary, and at least during the Initial Visit, each Quarterly Visit and
+                     Re-evaluation Visit. If the participant plans to remain in the home during an
+                     emergency/disaster, the checklist for goods and services must be completed.
+                     Only goods and services which are not already available in the home and
+                     would be needed in the event of an emergency/disaster should be checked.
+                     The full name, address and telephone number of the individual responsible
+                     for assisting the participant in the event of an emergency/disaster must be
+                     included in the Disaster Plan Box.
+
+                     The Pre-Disaster Checklist and Post-Disaster Checklist
+
+                     The Pre-Disaster Checklist and Post-Disaster Checklist will be used to
+                     document and report Pre-Disaster and Post-Disaster efforts when an
+                     emergency or disaster is imminent and the Emergency/Disaster Plan has been
+                     implemented by Central Office or the Area Office.
+
+      05.36    Assessment Completion at Re-Evaluation
+
+              The Assessment is used to re-determine a waiver participant's long-term care needs.
+              Information obtained during the re-evaluation process should be adequate for the
+Chapter 5-Case Management                                                                     Page 19
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                             November 1, 2022
+
+              Case Manager to re-determine the participant's level of care, service planning, and
+              service needs.
+
+              It is the Case Manager’s responsibility to ensure the assessment is completed
+              accurately and thoroughly before a level of care is determined.
+
+      05.37       Re-Evaluation at 365-Day Intervals
+
+              The Case Manager will schedule re-evaluation visits in a timely manner to allow
+              completion of all re-evaluation activities within the three hundred and sixty-five
+              (365) calendar day time frame to complete re-evaluations for all waiver
+              participants. The re- evaluation visit due date for participants receiving case
+              management, is scheduled by Phoenix for completion every three hundred and
+              sixty-five (365) calendar days. The three hundred and sixty-five (365) calendar
+              day cycle begins with the last assessment completed by the Nurse Consultant
+              prior to waiver enrollment. Subsequent re-evaluations will be scheduled three
+              hundred and sixty-five (365) calendar days from the date the last assessment was
+              completed. The completed assessment for re-evaluation visit, levels of care, and
+              service plans must be completed by the due date. When the re-evaluation is
+              conducted on a date other than the due date, the three hundred and sixty-five (365)
+              calendar day cycle will be adjusted and subsequent re-evaluations will be scheduled
+              three hundred and sixty-five (365) calendar days from the date the last assessment
+              was completed.
+
+              Re-evaluation Visit
+
+              The Case Manager must complete the Re-evaluation Visit with the participant by
+              the three hundred and sixty-fifth (365th) calendar day from the last assessment. All
+              data (assessment, service plan and narrative) must be uploaded to Phoenix by
+              the three hundred and sixty-fifth (365th) calendar day.
+              NOTE: All waiver documentation for the month must be keyed, entered and
+              uploaded to the network by 11:59 pm of the last day of each month. This supersedes
+              any documentation timeliness and policy guidelines. For example, documentation
+              related to re-evaluations completed the last week of the month but not due until the
+              first week of the following month, must be completed by 11:59 pm of the month the
+              visit was completed.
+
+              The Case Manager must complete the following items during the Re-evaluation
+              Visit.
+
+              Re-evaluation Visit:
+
+              •        Visit participant at the place of residence.
+
+              •        If a re-evaluation visit in a location other than the participant’s residence
+                       would benefit the participant and/or Authorized Representative, the Case
+Chapter 5-Case Management                                                                      Page 20
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                            November 1, 2022
+
+                    Manager must request an exception from the Lead Team, Lead Team
+                    Nurse Consultant, Satellite Office Supervisor or Area Administrator.
+                    The approval or denial must be documented in the narrative. The approval or
+                    denial is valid for one time. The phone number for this alternate location
+                    must not be entered in Phoenix as an accepted number for the Electronic Visit
+                    Verification (EVV).
+
+             •      Complete documentation in the EVV by using the participant’s landline
+                    phone for check-in and check-out or by using the EVV Mobile Phone
+                    Application. The participant’s mobile phone must not be used for check-in and
+                    check-out.
+
+             •      The EVV check-in call must be made at the beginning of the visit AND a
+                    check-out call must be made at the end of the visit.
+
+             •      In cases where visits are made for more than one person in the same home,
+                    the Case Manager should check-in and check-out for one person at a time not
+                    overlapping calls through the EVV.
+
+             •      Complete a new Assessment at re-evaluation.
+
+             •      Determine the Level of Care and complete the Level of Care staffing.
+
+             •      Develop a new Person-Centered Service Plan with input and participation
+                    from the participant/Authorized Representative and others if requested by
+                    the participant/Authorized Representative.
+
+             •       All Re-evaluation activities must be completed by the three hundred and
+                    sixty-fifth (365th)) day.
+
+             •      Complete Service Coordination and narrate contacts made.
+
+             •      Review, update and complete Waiver Service and Non-Waiver Service
+                    (Referrals/Authorizations) tabs in Phoenix.
+
+             •      Review Phoenix Claim and Report for missed visits, exception codes, service
+                    delivery, service provided as authorized during correct dates and times,
+                    check-in and check-out from authorized phone, visits that are longer or shorter
+                    than authorized. This may be completed by viewing the Claims Section in
+                    Phoenix or by obtaining an activity report in Phoenix. This review may not
+                    be completed more than seven (7) business days prior to the contact. This
+                    monitoring of claims must be completed covering the time period since the
+Chapter 5-Case Management                                                                     Page 21
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                             November 1, 2022
+
+                    last monitoring. Trends and patterns of problems rather than isolated cases
+                    should be noted.
+
+             •      Review Phoenix Claims and Reports to monitor activities task sheets and
+                    activities observations. This may be completed by viewing Phoenix Reports
+                    then Claims. This review may not be completed more than seven (7)
+                    business days prior to the contact.
+
+             •      Verify Medicaid financial eligibility for waiver services. It is important for the
+                    Case Manager to check their dashboard often to monitor participants’
+                    Medicaid eligibility.
+
+             •      Verify choice of location of services. Must obtain participant signature on
+                    CLTC Participant Service Choice form if previous choices were obtained by
+                    verbal consent.
+
+             •      Review, complete and update Participant Information Section in Phoenix.
+
+             •      Review, complete and update Home Assessment in Phoenix.
+
+             •      Review, complete and update as needed At Risk for Missed Personal Care II
+                    status in Phoenix.
+
+             •      Review, complete and update as needed Emergency Disaster Priority status
+                    in Home Assessment under the Home Condition tab.
+
+             •      Review, complete and update as needed Emergency Disaster Preparedness
+                    Section in Home Assessment under the Home Condition tab. In the Disaster
+                    Plan Box, record the full name, address and phone number of the individual
+                    responsible for assisting the participant in the event of an emergency/disaster.
+
+             •      Review, complete and update as needed Caregiver Support Section in
+                    Phoenix. If no Authorized Representatives are listed, the participant should
+                    select the appropriate box on the Appointing an Authorized Representative
+                    Form 1282 LTL to verify the section was reviewed.
+
+             •      Discuss the participant’s Personal Goals. Document any newly stated
+                    Personal Goals in the Personal Goals section of the Service Plan including
+                    the steps to achieve Personal Goals. Personal Goals must be time specific,
+                    measurable and realistic. Review and document participant progress towards
+                    previously stated Personal Goals. If the participant does not indicate a
+                    Personal Goal, document in the narrative checklist.
+Chapter 5-Case Management                                                                      Page 22
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                             November 1, 2022
+
+
+             •      During the check-out call through the Electronic Visit Verification (EVV), enter
+                    the activity completed and any new observations. Only new observations that
+                    represent a significant change should be entered.
+
+             •      Any follow up activities and subsequent actions required as a result of
+                    participant needs or provider compliance problems identified must be
+                    documented in the narrative record.
+
+
+
+             •      Complete and send any pertinent communication such as Service
+                    Authorization /Termination, Service Plan, Physician’s Order or Notification
+                    Form.
+
+             •      Complete Re-evaluation Visit narrative and narrative checklist in Phoenix.
+
+         05.37.10   Hospitalized Waiver Participant Who is Due an Initial Visit or
+                    Re-evaluation Visit
+
+                    If a participant is hospitalized at the time of the regularly scheduled Initial
+                    Visit, Quarterly Visit or Re-evaluation Visit, the visit should be delayed until
+                    discharge. Regular case management activities, except a monthly phone
+                    contact, must be interrupted during hospitalization. This contact must be
+                    documented in the narrative. All other waiver services must be interrupted or
+                    terminated according to the professional judgment of the Case Manager.
+
+                    The Initial Visit or Re-evaluation visit is due within seven (7) business days
+                    of the notification of the participant's discharge from the hospital. At this
+                    time, a complete review of the case is required. All activities required during
+                    the Initial Visit or the re-evaluation visit must be completed. The Service Plan
+                    must be completed within seven (7) business days of the assessment
+                    completion. The Initial Visit or Re- evaluation Visit must be completed with
+                    verification of the participant's locus choice and Medicaid financial
+                    eligibility. The three hundred and sixty-five (365) calendar day cycle will be
+                    adjusted and subsequent re-evaluations will be scheduled three hundred and
+                    sixty- five (365) calendar days from the date the assessment was completed
+                    following discharge.
+
+         05.37.20   Re-Evaluation with Interruption of 365-Day Cycle Due to ADL/Medical
+                    Changes
+
+                    It may be necessary, due to reported or observed changes in a participant's
+                    condition, to complete a Re-evaluation before the Re- evaluation is due. This
+                    Re-evaluation must be completed at the participant’s home. A re-evaluation
+Chapter 5-Case Management                                                                      Page 23
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                               November 1, 2022
+
+                       must include a re-determination of the participant’s level of care and service
+                       needs, verification of locus choice, and verification of Medicaid financial
+                       eligibility. Contact must be made with identified agencies and/or providers
+                       to ensure service coordination. (Refer to Section 05.34.) A new Person-
+                       Centered Service Plan must be developed at each re-evaluation. A copy of the
+                       new Service Plan will be mailed to the participant and/or Authorized
+                       Representative. If the re-evaluation is completed prior to the month that it is
+                       due, the next re-evaluation will be due three hundred and sixty-five (365)
+                       calendar days from the date the re-evaluation was completed. When a re-
+                       evaluation is completed instead of another activity due, the re- evaluation
+                       narrative checklist will be completed. For example, if a Re- evaluation is
+                       completed when an Initial Visit is due, complete the Re- evaluation checklist
+                       instead of the Initial Visit checklist.
+
+      05.38       Waiver Participant Determined as Medically Ineligible
+
+              If a waiver participant appears to be medically ineligible, the Case Manager must
+              complete the following tasks:
+
+              •        Obtain medical information from the physician by mailing or faxing
+                       the Physician’s Input Letter and the CLTC Consent Form 121.
+
+              •        Re-visit participant for clarification as necessary which may include a
+                       face- to-face visit by a SCDHHS Worker.
+
+              •        Conduct a team conference with a SCDHHS Worker to reach a joint level
+                       of care decision. If the assessment was completed by a SCDHHS Worker,
+                       the team conference will be completed by two SCDHHS Worker.
+
+              •        If a level of care decision cannot be reached, consult with the Area
+                       Administrator. If the case cannot be resolved at the Area Office level or if
+                       efforts to verify medical information with physician are unsuccessful, the
+                       Area Administrator will forward the case to Waiver Service Exceptions
+                       (via email WES@scdhhs.gov).
+
+              •        Complete the Level of Care section in Phoenix.
+
+              •        Discuss Level of Care decision and possible alternatives with
+                       participant and/or Authorized Representative.
+
+              •        Notify all providers of case closure via phone call or Phoenix
+                       Conversation. Case Manager is responsible for sending a CLTC
+                       Notification Form171 to central Medicaid Eligibility to notify them of the
+                       case closure.
+
+              •        Send a Client Notification Form to participant/Authorized Representative
+Chapter 5-Case Management                                                                        Page 24
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                               November 1, 2022
+
+                     informing them of case closure. Participant/Authorized Representative has
+                     ten (10) business days to respond from the date of the notification.
+
+             Note: Participant can continue to receive services through date of case
+                   closure.
+
+             •       Document all activities in the Narrative.
+
+             •       Terminate all services in Phoenix effective date of case closure.
+
+             •       Email the designated Support Staff for RSP closure.
+
+             If the participant chooses to appeal the decision prior to the date of termination (within
+             the ten (10) business day notice period) and notifies the Case Manager and requests
+             continue benefits, the participant may continue to participate in the waiver pending
+             an appeal hearing if the date of action has passed. For example, if a participant is
+                                                     th
+             given notification on September 5 that the case will be terminated effective
+             September 15th and the participant appeals the decision prior to September 15th,
+             services may remain in place pending the appeal hearing decision. If the participant
+             files an appeal after September 15th and termination has already occurred, services
+             will not be resumed. Services would only be resumed following the hearing, if the
+             hearing officer’s decision is in favor of the participant.
+
+         05.38.10    Financial Ineligibility
+
+                     If at any point a waiver participant becomes financially ineligible for waiver
+                     services, all services must be terminated and the case must be closed effective
+                     the last date of financial eligibility.
+
+                     If Case Manager receives notification that a waiver participant’s financial
+                     eligibility is in question, Case Manager must complete the following tasks:
+
+                     •       Document verification of financial ineligibility via MMIS screen,
+                             letter from Social Security Administration, or written notice from
+                             Medicaid Eligibility.
+
+                     •       Notify involved agencies by telephone call of participant’s
+                             termination from CLTC program.
+
+                     •       Contact participant/Authorized Representative to discuss
+                             termination, possible alternatives, and referral to other agencies.
+
+                     •       Complete a CLTC Notification Form 171 to notify participant and/or
+                             Authorized Representative indicating the date of termination will be
+                             the date of financial ineligibility. An Appeals Notice will not be
+                             included with this notification. Case Manager is responsible for
+                             sending a CLTC Notification Form 171 to central Medicaid
+Chapter 5-Case Management                                                                        Page 25
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                           November 1, 2022
+
+                            Eligibility to notify them of the case closure.
+
+                    •       Document all activities in the Narrative.
+
+                    •       Terminate all waiver services in Phoenix effective no later than the
+                            same date as financial ineligibility.
+
+                    •       Complete Status Changes section of Phoenix to terminate case as
+                            “Financially Ineligible.”
+
+                    A waiver participant who loses financial eligibility for Medicaid for no more
+                    than one month due to excess resources, lump sum payment, etc., and is
+                    closed to waiver, can immediately be re-entered into the waiver after both
+                    financial and medical eligibility have been re-established and verified. A new
+                    application must be made with community locus choice and assigned to a
+                    SCDHHS Worker. Normal intake, assessment procedures and timeliness
+                    standards will be followed.
+
+                     Note: If the case is closed for seven (7) business days or less, a problem
+                           may be reported in Phoenix to determine if the case may be re-
+                           opened without a new application.
+
+
+
+
+Chapter 5-Case Management                                                                    Page 26
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                                  November 1, 2022
+
+05.40     Institutionalization of a Waiver Participant
+
+        If Medicaid sponsorship is required for nursing home placement, the individual must be
+        referred to Centralized Intake for a nursing home placement application. The individual will
+        have more than one application active in Phoenix, one assigned to the Case Manager and
+        one assigned to the SCDHHS Worker. The Case Manager and SCDHHS Worker must
+        coordinate the case activities and communicate regarding nursing home placement.
+
+        Institutionalization of Waiver Participant for Less than a Full Calendar Month
+
+        If a waiver participant is hospitalized or institutionalized (i.e., rehabilitation center, nursing
+        home, DDSN/DMH facility) for a planned, temporary stay not to exceed one full calendar
+        month, the waiver application should remain open. (Participant remains in a waiver slot and
+        open in Phoenix.) However, case management activities must be interrupted during the
+        period of hospitalization or institutionalization with the exception of a monthly phone
+        contact by the assigned Case Manager. This contact regarding the participant’s status
+        should be documented in the narrative. All other waivered services must be either
+        interrupted or terminated (Refer to Section 07.26) according to the professional judgment
+        of the Case Manager.
+
+        If the participant is discharged from the hospital or institution by the end of the last day of
+        the full calendar month, the waiver services may be resumed. Upon discharge the Case
+        Manager verifies and documents the participant's status, updates the service plan, and
+        authorizes (or reinstates) services as appropriate. It may be necessary, due to reported
+        changes in the participant's condition to complete a re-evaluation. This can be accomplished
+        by completing the Assessment, re-determining the level of care, and reviewing the service
+        needs. (Refer to Section 05.37)
+
+        Institutionalization of a Waiver Participant for More than a Full Calendar Month
+
+        Note:    A full calendar month is defined as from the first instant of the month throughout
+                 the last instant of the month. For example, if a participant enters a facility before
+                 12:00 a.m. (midnight) on the first calendar day of April and remains throughout the
+                 end of April, then waiver closure must occur April 30th. However, if the participant
+                 enters a facility after 12:00 a.m. (midnight) on April 1st or on any other calendar
+                 day in April, waiver closure must occur on May 31st.
+
+        If the participant remains hospitalized or institutionalized for a full calendar month, the
+        waiver application must be closed to the waiver effective no later than the last day of the
+        full calendar month period and the services, which were previously interrupted, must be
+        terminated. This participant must be closed to the waiver as “Exceeded Full Calendar
+        Month” in Phoenix. In order to facilitate waiver re-entry for the participant expected to
+        return to the community, the Case Manager will send (at time of waiver termination) a
+        CLTC Notification Form 171 to the participant and/or Authorized Representative,
+        requesting that CLTC be notified of participant's impending discharge. Case Manager is
+        responsible for sending a CLTC Notification Form 171 to central Medicaid Eligibility to
+        notify them of the case closure.
+Chapter 5-Case Management                                                                           Page 27
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                          November 1, 2022
+
+
+      05.41 Incarceration of a Waiver Participant
+
+             If the Case Manager learns that the waiver participant is incarcerated (in jail or
+             prison), all waiver services except Case Management must be terminated
+             immediately. The participant must be closed to the waiver by or on the last calendar
+             day of the month. No services (including Case Management) may be billed in the
+             following month.
+
+
+
+
+Chapter 5-Case Management                                                                   Page 28
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                             November 1, 2022
+
+
+05.50   Non-Compliant Participant
+
+        If a participant and/or or Authorized Representative refuses to cooperate with the CLTC
+        Program, and all alternatives (i.e., counseling, personal contracts, referrals to DSS Adult
+        Protective Services, interagency team staffing, case manager/supervisory visits, etc.) have
+        been exhausted, termination of a waiver service and/or termination from the CLTC Program
+        may be appropriate.
+
+        Examples of non-compliance include but are not limited to:
+
+        •      Repeated refusal to cooperate with providers and/or Case Manager;
+
+        •      Repeated incidences of non-compliance with the service plan;
+
+        •      Physical abuse or repeated verbal abuse toward provider and/or Case
+               Manager; or
+
+                Conduct which adversely impacts the program's ability to ensure service
+               provision or to ensure the participant's health or the safety of the CLTC
+               representative.
+
+               If termination of a waiver service for non-compliance is being considered, the
+               following must occur:
+
+        •      All efforts to work with the participant and/or Authorized Representative must be
+               documented;
+
+        •      Termination of service must have prior approval of Area Administrator or Lead
+               Team Designee and documented in the Phoenix narrative;
+
+        •      A CLTC Notification form must be approved by The Regional CLTC Director and
+               documented in the Phoenix narrative prior to mailing;
+
+        •      Participant must be notified of termination of waiver services on the CLTC
+               Notification; and,
+
+        •      The Service Provision Form terminating service(s) must be sent to the provider(s).
+
+               If termination from the waiver for non-compliance is being considered, the
+               following must occur:
+
+        •      The participant and/or Authorized Representative must be notified in writing by
+               certified mail and regular (First Class) US mail of the program requirements, advised
+               of potential consequences of continued non-compliance and given an opportunity to
+               remedy the circumstances. The letter must have approval from the Regional CLTC
+Chapter 5-Case Management                                                                      Page 29
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                        November 1, 2022
+
+             Director prior to sending to the participant;
+
+      •      All efforts to work with the participant and/or Authorized Representative must be
+             carefully documented; and,
+
+      •      Termination must be prior approved and documented by the designated Lead Team
+             member, Area Administrator and Regional CLTC Director.
+
+
+
+
+Chapter 5-Case Management                                                                Page 30
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                                 November 1, 2022
+
+
+05.60    Leave of Absence from the State/CLTC Region of a Waiver Participant
+
+
+         Individuals enrolled in Medicaid home and community-based waivers who travel out-of-
+         state may retain a waiver slot under the following conditions:
+
+        1.     The trip out-of-state is a planned, temporary stay, not to exceed ninety (90)
+               consecutive calendar days which are authorized prior to departure; and
+
+        2.     The Case Manager receives notification and approves the service prior to the travel.
+
+        3.     The individual continues to receive a waiver service; and,
+
+        4.     Waiver services are limited to the frequency of services currently approved in the
+               participant’s plan of service (No additional hours will be authorized for vacation);
+               and,
+
+        5.     Waiver services must be rendered by South Carolina Medicaid providers and,
+
+
+        Note: If the Personal Care II or attendant normally uses the participant’s landline in the
+               home for Electronic Visit Verification (EVV) check-in and check-out, and the travel
+               is prior approved by the Case manager then a cell phone is allowable to use for
+               check-in and check-out for the service.
+
+        6.     The individual must remain Medicaid eligible in the State of South Carolina.
+
+        The required waiver monitoring must continue to ensure the participant’s health and
+        welfare.
+
+        If a participant is in another state temporarily, waiver services must be interrupted or
+        terminated, according to the professional judgment of the Case Manager, with the
+        exception of Case Management and possibly PCII or Attendant Care. Documentation of the
+        participant’s status and verification of the participant’s intent to return should be completed
+        during the monthly phone contact.
+
+        If a participant is out-of-CLTC region or out-of-state at the time of a regularly scheduled re-
+        evaluation or for an initial visit, the re-evaluation or initial visit should be completed early
+        if possible but maybe delayed until the participant returns. If delayed the re-evaluation or
+        initial visit must be completed within seven (7) business days of when CLTC is made aware
+        of the participant’s return to the CLTC region or state. If the participant continues to remain
+        out-of-state after ninety (90) calendar days have elapsed, the case must be closed to the
+        waiver and all waiver services terminated.
+
+
+
+
+Chapter 5-Case Management                                                                         Page 31
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                           November 1, 2022
+
+
+
+
+      If a participant is in another CLTC region temporarily, the assigned Case Manager may
+      negotiate with the involved service provider(s) to coordinate continued services. Regular
+      case management activities, including (at a minimum) a monthly phone contact by the
+      assigned Case Manager and documentation of the participant’s status, should
+      continue. Verification of the participant’s intent to return should also be made during the
+      monthly contact. If the participant remains in another CLTC region for more than ninety
+      (90) calendar days, the case will be transferred to that CLTC office or closed to the waiver
+      and all waiver services terminated.
+
+
+
+
+Chapter 5-Case Management                                                                    Page 32
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                             November 1, 2022
+
+
+
+05.70 Interactions with Hospice
+
+      A participant can be in a waiver and be enrolled in the Hospice Benefit at the same time but
+      is limited in the services that may be authorized. (See Hospice Benefits Interaction Section.)
+      If it is learned that a participant has been receiving services not allowed on the Hospice
+      Benefits Interaction Table, the service(s) must be terminated immediately using the calendar
+      day the information was received as the termination date. For example: Participant admitted
+      to Hospice on 04/15/2016 and on-going Case Manager notified on 04/30/2016 of hospice
+      admission. Personal Care II, Personal Care I, briefs, med pads and adult wipes are terminated
+      effective 04/30/2016 to coincide with the date the Case Manager was notified of the hospice
+      admission.
+
+      A participant, who has been admitted to a Hospice House, may receive Case Management
+      service but no other waiver services. All monitoring activities continue as
+      scheduled, including visits. The waiver application does not need to be closed for “Exceeds
+      Full Calendar Month”.
+
+      Note: Palliative Care is not considered to be Hospice Care.
+
+
+
+
+Chapter 5-Case Management                                                                      Page 33
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                                    November 1, 2022
+
+
+05.80       Process for Critical Incidents
+
+        A Critical Incident is any actual or alleged event or situation that creates a significant risk
+        of substantial or serious harm to the physical or mental health, safety or well-being of a
+        SCDHHS waiver participant, Home Again participant or PRIME participant.
+
+        State workers or Provider Case Managers have a duty to report critical incidents if they
+        have reason to believe that a vulnerable adult or child is being abused, exploited or
+        neglected. State worker or Provider Case Managers must submit the critical
+        incident in Phoenix within 24 hours or the next business day after discovery of the
+        suspected or alleged abuse, neglect or exploitation.
+
+        SCDHHS also monitors for other reportable incidents. These are defined as incidents
+        involving death or serious harm to a beneficiary/participant. Reportable incidents
+        include:
+
+        •         Abuse (intentionally inflicting or allowing to be inflicted physical injury on
+                  a vulnerable adult or child by an act or failure to act. Deliberately subjecting
+                  a vulnerable adult or child to threats or harassment or other forms of
+                  intimidating behavior. Abuse can be physical, verbal, psychological or
+                  sexual)
+
+        •         Neglect (the failure or omission of a caregiver to provide the care, goods, or
+                  services necessary to maintain the health or safety of a vulnerable adult or child)
+
+        •         Exploitation (causing or requiring a vulnerable adult or child to engage in activity
+                  or labor which is against the reasonable and rational wishes of the vulnerable adult
+                  or child. Includes the improper, unlawful, or unauthorized use of funds, assets,
+                  property, power of attorney, guardianship, or conservatorship of a vulnerable adult
+                  or child by someone for the profit or advantage of that person or another person
+
+        •         Unexplained deaths
+
+        •         Falls (resulting in death, injury requiring hospitalization, injury that will
+                  result in permanent loss of function)
+        •         Traumatic injuries (e.g., third degree burns over more than ten (10%) percent of
+                  the body that result in death, require hospitalization, or result in a loss of
+                  function)
+
+        •         Unauthorized restraints (both chemical and physical, that results in
+                  death, hospitalization, or loss of function in an institutional setting
+                  only)
+
+
+Chapter 5-Case Management                                                                            Page 34
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                            November 1, 2022
+
+      •      Media related events (any report that presents a potential or harmful
+             characterization of the Department of Health and Human Services or any of its
+             contracted entities that involves a SCDHHS waiver participant, Home Again
+             participant or PRIME participant)
+
+      •      Infectious disease outbreak
+
+      •      Elopement (unexplained absence for more than 24 hours)
+
+      Note: If the CLTC Case Manager/Nurse Consultant is unsuccessful in collaborating
+             consistently with the APS Supervisor or the APS Case Manager, the Case Manager
+             or Nurse Consultant will report the problem to the Area Administrator or to the
+             Lead Team who will contact the APS Supervisor or the APS Case Manager. If this is
+             not successful, the Area Administrator or Lead Team should contact the Regional
+             APS Consultant and if this is not successful, the Area Administrator or Lead Team
+             should contact SCDHHS Quality Assurance Team for assistance.
+
+      Process for Recording a Critical Incident:
+
+      •      State worker or Provider Case Manager will pull the participant record and on
+             the carousel and select “Critical Incidents”
+
+      •      Select “New Critical Incident”
+
+      •      Select Program – Only programs with active applications for the participant will show
+
+      •      Select Critical Incident Type - Only one type can be chosen, see list below
+
+      •      Incident Date – Date that the occurrence happened, not date that it is being reported
+
+      •      Description – Mandatory. Provide details of the incident and all involved
+             parties along with their relationship to the participant
+
+      •      Source of Information: Source name, Relationship to participant and phone number
+
+      Note: The Confidential box should be selected when the critical incident identifies and
+            reports on a Provider Case Manager.
+
+
+      Tracking of Critical Incidents by State Workers and Provider Case Managers:
+
+      •      Abuse, Neglect, Exploitation – at a minimum, monthly update from APS. To
+             continue until APS provides a closure date or notifies of a report not accepted after
+             45 calendar day investigation
+
+Chapter 5-Case Management                                                                    Page 35
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                          November 1, 2022
+
+      •      Death, Falls, Traumatic injuries and Unauthorized Restraint – Single entry,
+             no additional tracking required
+
+      •      Media-related events and Elopement – at a minimum, weekly update until resolved
+      There will not be a notification in Phoenix that monitoring is due. SCDHHS Quality
+      Assurance will contact the State Worker or Provider Case Manager if monitoring becomes
+      delinquent.
+
+      Critical Incident Types:
+
+      •      Abuse
+
+      •      Neglect
+
+      •      Exploitation
+
+      •      Fall Resulting in Death
+
+      •      Fall Resulting in Hospitalization
+
+      •      Fall Resulting in Permanent Loss of Function
+
+      •      Traumatic Injury Resulting in Death
+
+      •      Traumatic Injury Resulting in Hospitalization
+
+      •      Traumatic Injury Resulting in Permanent Loss of Function
+
+      •      Unauthorized Physical/Chemical Restraint Resulting in Death
+
+      •      Unauthorized Physical/Chemical Restraint Resulting in Hospitalization
+
+      •      Unauthorized Physical/Chemical Restraint Resulting in Permanent Loss of Function
+
+      •      Unexplained Death
+
+      •      Elopement (24 hours or More)
+
+      •      Media-Related Event Resulting in Harmful/Potentially Harmful Portrayal of
+             SC DHHS and/or a Contracted Entity of SC DHHS
+
+      •      Infectious-Disease Outbreak
+
+      •      Pressure Ulcers That Are Unstageable or Staged III & IV (PRIME ONLY)
+
+Chapter 5-Case Management                                                                  Page 36
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                  November 1, 2022
+
+      •      Emergency Room Visit (HOME AGAIN ONLY)
+
+      •      Death Following Break-Down in 24 Hour Back-Up System (HOME AGAIN ONLY)
+
+      •      Involvement with Criminal Justice System (HOME AGAIN ONLY)
+
+      •      Medication Administration Error (HOME AGAIN ONLY)
+
+
+
+
+Chapter 5-Case Management                                                         Page 37
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 5 – Case Management Procedures                                              November 1, 2022
+
+
+05.90       Process for Visits to Participants with Active Bedbug Infestation
+
+        When bedbug infestation is suspected and an Enhanced Pest Control provider has scheduled
+        but not made an initial visit to assess the home for bedbugs or when bedbug infestation has
+        been confirmed by an Enhanced Pest Control provider but treatment has not been completed,
+        and the Case Manager does not want to enter the home, the Case Manager must:
+
+        •        Request permission from the Area Administrator or Lead Team to complete the
+                 Quarterly Visit or Re-evaluation Visit outside the participant’s home.
+
+        •        Receive approval or denial from the Area Administrator or Lead Team. The Area
+                 Administrator or Lead Team must document the request and decision in the
+                 narrative.
+
+        •        Observe the participant directly while completing the visit on the front porch, or
+                 deck of the participant’s home, ADHC (if participant attends ADHC), at the Area
+                 Office or other public place.
+
+        •        Use the EVV mobile application to check-in and check-out for the visit.
+
+        •        Add comment in Service Plan, Home Assessment section and Narrative regarding
+                 confirmed bedbug infestation and treatment.
+
+        •        Make the next scheduled visit inside the participant’s home after the treatment has
+                 been completed.
+
+        •        If the participant is not eligible for the Enhanced Pest Control service or refuses
+                 treatment, the Case Manager must consult with the Area Administrator for
+                 guidance.
+
+
+
+
+Chapter 5-Case Management                                                                      Page 38
+

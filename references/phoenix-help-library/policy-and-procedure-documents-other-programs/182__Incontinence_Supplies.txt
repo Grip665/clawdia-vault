@@ -1,0 +1,995 @@
+SC Health and Human Services                                              Effective Date: November 2014
+
+Division of Community and Facility Services                               Revised: May 2017
+
+Incontinence Supplies State Plan Program
+
+Policy and Procedure
+
+
+
+
+I.    Introduction:
+
+The purpose of the Incontinence Supplies State Plan Program is to provide incontinence supplies to those
+eligible persons who are incontinent of bowel and/or bladder. The Incontinence Supplies Program is a
+Medicaid State Plan service. This program identifies persons who are eligible for the service and authorizes
+these supplies.
+
+An individual may have more than one program application and an Incontinence Supplies application open
+at the same time if his/her condition requires. It is important for workers to note all Phoenix applications
+prior to initiating and terminating case actions.
+
+
+
+
+                                                                                                          1
+II.          Application Process:
+
+Centralized Intake:
+
+A referral for Incontinence Supplies Program (IS) may originate from any knowledgeable source. Referrals
+may be made to Community Long Term Care Centralized Intake Team via telephone, written, walk-in or
+electronically at https://phoenix.scdhhs.gov/cltc_referrals/new.
+
+State workers and provider case managers are required to make all incontinence supplies referrals
+electronically.
+
+New applications for Incontinence Supplies Program (IS) will be processed by the CLTC Centralized Intake
+Team utilizing the existing process for intake. If the applicant is only seeking incontinence supplies, the
+application will be assigned to an Incontinence Supplies Specialist.
+
+In order to meet intake criteria, the applicant must have incontinence listed as a referral reason and be a
+current Medicaid recipient as indicated by the check box on the application screen. The applicant for
+Incontinence Supplies Program is required to have Medicaid as the Incontinence Supplies Program is a
+Medicaid state plan service.
+
+NOTE: When the applicant has APPLIED for Medicaid Eligibility Category 15 MAO, but has not been
+approved per eligibility workflow notification, the referral for IS will be inappropriate and is to be
+terminated.
+
+NOTE: When an enrolled waiver participant who will be category 15 (MAO) and is within the required 30
+day waiting period, the referral source should make a comment in the IS referral comments section
+indicating the applicant is an approved Category 15 MAO participant who is in the 30 day wait period.
+
+NOTE: Prior to enrollment, the intake worker will also review the applicant’s Medicaid Eligibility RSP
+information. If the applicant is enrollment in managed care then the referral should be terminated and a
+letter sent for the participant to contact the managed care plan’s member services regarding the need for
+incontinence supplies.
+
+
+
+      III.     Medical Necessity Criteria for Incontinence Supplies State Plan Program:
+
+The following criteria must be met for an applicant to receive incontinence supplies:
+
+        1. Must be age 4 or older.
+        2. Inability to control bowel or bladder function. This must be confirmed in writing by a Physician
+           only. (Nurse Practitioner, Registered Nurse or Physician Assistant signatures not acceptable.)
+        3. The Physician Certification of Incontinence form must be obtained from the physician indicating
+           the service is medically necessary.
+        4. The Physician Certification of Incontinence is valid for 365 days or less if the Physician so indicates.
+           In order for the service to continue, a new Physician Certification of Incontinence form must be
+
+                                                                                                                 2
+          obtained every 365 days unless the Physician indicates a shorter time frame. The Incontinence
+          Supplies provider is responsible for obtaining and tracking this form.
+       5. The participant’s assessment will indicate the frequency of incontinence and this will determine
+          the amount of supplies authorized.
+
+
+
+IV.       Frequency of Incontinence Supplies Definitions:
+
+Bowel rating:
+
+          If the individual has incontinent bowel episodes once a week, select Occasionally Incontinent.
+          If the individual has incontinent bowel episodes two-to-three times a week, select Frequently
+           Incontinent.
+          If the individual has incontinent bowel episodes almost all of the time or has an ostomy, select
+           Incontinent (total).
+
+
+Bladder rating:
+
+         If the individual has incontinent bladder episodes twice a week, but not daily, select Occasionally
+          Incontinent.
+         If the individual tends to have incontinent bladder episodes daily, but some control, select
+          Frequently Incontinent. If the individual is on a toileting schedule, meaning the person is taken to
+          the bathroom every two to three hours, the user may select Frequently Incontinent.
+         If the individual has inadequate bladder control almost all of the time or has an indwelling catheter
+          or ostomy, select Incontinent (total).
+
+
+      Ostomy and Catheter Requirements:
+
+      If the individual has an ostomy or catheter for urinary control AND has an ostomy for bowel control,
+      neither diapers, nor briefs nor incontinence pads may be authorized. In this situation, under pads are
+      the only product that should be authorized. Wipes are discussed in a later section.
+
+      If the individual has an ostomy or catheter for urinary control OR has an ostomy for bowel control, but
+      not both, diapers or briefs and incontinence pads and under pads may be authorized. The frequency
+      of the authorization would be based on the rating on the assessment of the function that qualifies the
+      individual for the product. Example: An individual is rated Incontinent (total) for bladder and has a
+      urinary ostomy and is rated Frequently Incontinent for bowel. The frequency of the authorization
+      would be every other month or twice per quarter based on the Frequently Incontinent for bowel
+      rating rather than monthly based on the Incontinent (total) of bladder rating.
+
+      Note: If an applicant/ participant has an ostomy or indwelling catheter for urinary control and
+      experiences leakage of urine from the ostomy bag or around the indwelling catheter, the applicant/
+
+
+                                                                                                             3
+   participant may be authorized to receive under pads or incontinence pads based on the frequency of
+   the leakage. If an applicant/ participant receives in and out catheterizations and experiences break
+   through incontinence between catheterizations, the applicant/ participant may receive under pads
+   and/or incontinence pads based on the frequency of leakage. Diapers and briefs should not be
+   authorized. Approval must be obtained from the Division of Community and Facility Services RN and
+   documented prior to referral.
+
+
+
+   V.    Incontinence Assessments:
+
+
+Incontinence Supplies applications will be transferred to Incontinence Supplies Specialists and will display
+under the “Unassigned Centralized Intake Work Flow” tab in Phoenix. The Incontinence Supply Specialist
+will complete the phone assessment documenting the frequency of incontinence. The Specialist will also
+determine the type of supplies needed including the size and will document this information in the
+bowel/bladder section of the assessment. If an assessment is documented from CPCA, Community
+Choices, MCC or IS that was completed within 30 days of the IS application, the Specialist may use this
+information to complete the IS phone assessment.
+
+Incontinence Supplies assessments are due within 14 days of being assigned to the specialists. This due
+date will display under the Activity Due/Due Date column on the specialist dashboard under the
+Participants tab.
+
+                 Steps to Complete an IS Assessment:
+
+             a. Access Phoenix and enter your Phoenix user ID
+             b. Go to Unassigned Centralized Intake Workflows Search for cases in your assigned county
+                Under Workflow Status column, click Awaiting Assignment to Area Nurse Select your
+                name from the Assign to Area Nurse drop down, then select the Assign to Area Nurse
+                button. The case will appear on your dashboard under Participants tab Select the
+                participants’ case and check their dashboard to see if the message ‘Contact primary
+                contact instead of participant!’ appears under Snapshot tab. If so:
+             c. Select Participant Information then Primary Contact, write down the primary contact
+                name and phone number
+             d. View the participants general information and physician under the Participant
+                Information tab
+             e. Call the primary contact or participant as identified above
+             f. Date the assessment only after you have reached the primary contact or participant and
+                they have agreed to the assessment
+             g. Go to the Assessments tab from the carousel and select the Create Phone assessment
+                button. Select the program Incontinence Supplies and today’s date for assessed on.
+
+
+
+
+                                                                                                          4
+          h. Proceed with the Medical Section questions for diagnosis, medical condition, height and
+             weight. Ask participant to identify their primary care physician and to verify their
+             address. Select Save and Continue.
+          i. Proceed with ADLs section questions for toileting and bowel/bladder
+          j. Ask participant what type of incontinence supplies and what size. Enter response in the
+             comments section under bowel/bladder. Select Save and Continue.
+          k. Proceed with Source of Information/Level of Care section questions. Sign and date the
+             IS assessment in both spaces. Select Save and Continue.
+
+              Note: Attempt to contact the primary contact or participant two times for the
+              Incontinence phone assessment. Narrate your call attempts. Send out a CLTC
+              Notification letter after the second call attempt with a 10 day deadline for the primary
+              contact or participant to return the call. If no contact after the 10 day deadline,
+              terminate the case.
+
+              After the Incontinence Supplies assessment is completed, go to the Applications tab.
+                           If the participant is in another program then give the case back to the
+                             case manager after the Incontinence Supplies assessment is completed.
+                             You can find out who the case manager is by going to the Applications tab
+                             and look for the status participating next to the program.
+                           If the participant only has an Incontinence Supplies application and is not
+                             participating in another program, then assign the case to the designated
+                             Division of Community and Facility Services worker who authorizes
+                             Incontinence Supplies.
+
+
+      How to assign a case after the Incontinence Supplies assessment is complete:
+
+             a) Go to the Applications tab
+             b) Select Incontinence Supplies
+             c) Once the Application for Incontinence Supplies populates, select Edit
+             d) Under the Assigned Worker drop down select the name of person you want to
+                assign case to
+             e) Select Update
+
+
+
+
+VI.   Pediatric Incontinence:
+      Children ages 4 to 20 may exceed the state plan frequency limits for Incontinence Supplies per
+      Early Periodic Screening Diagnosis and Treatment (EPSDT) policy if medically necessary. For
+      children requiring more than the State plan frequency limits of total incontinence a re-
+      assessment should be completed if the request is made after an initial assessment has already
+
+                                                                                                     5
+         been completed. The amount of incontinence supplies should be annotated in the comments
+         section under bowel/bladder of the IS assessment. Include in the comments the justification for
+         the additional incontinence supplies. Send approval of additional product to the Division of
+         Community and Facility Services worker who authorizes Incontinence Supplies.
+
+         The following are some conditions that can be contributing factors to incontinence in children:
+
+         Attention Deficit Disorder/ Attention Deficit Hyperactivity Disorder
+
+         Urinary Tract Infection
+
+         Diabetes
+
+         Developmental Delays
+
+         Kidney Disorder
+
+         Neurological Disease
+
+         Cerebral Palsy
+
+         Seizure Disorder
+
+         Episodes of Focal Weakness
+
+         Constipation
+
+         Obstructive Sleep Apnea
+
+         Structure problems of the kidneys
+
+
+
+
+ VII.    Choice of Service Provider:
+
+The participant and/or primary contact must make a choice of provider for incontinence supplies. The
+initial choice of incontinence supplies provider is documented on the participant’s Provider Choice form.
+The Incontinence Supplies Specialists will:
+
+       Print the Provider Choice form and mail to the applicant/primary contact.
+       Print the Participant Cover Letter and mail to the applicant/primary contact.
+       Upload the returned Provider Choice forms into Phoenix
+
+The participant and/or primary contact may make the choice in writing on the Provider Choice form It is
+important that the participant and/or primary contact makes this decision independently, and the
+assigned worker shall not influence the participant’s choice of providers.
+
+
+
+
+                                                                                                       6
+  When the participant and/or primary contact request a change in providers, the assigned worker will
+  inform the participant and/or primary contact of all available providers of the service. The assigned worker
+  must narrate this information exchange as well as the choice of provider.
+
+  If DHHS and/or it’s designee does not receive the provider choice form within 14 days of the date the
+  provider choice form was printed and mailed to the participant, the incontinence application will be
+  terminated. The revised provider choice form cover letter informs the participant of the 14 day
+  timeframe. For DHHS case workers: The spreadsheet Provider Choice Forms Received may be used to
+  track the timeframes; the spreadsheet is located on Sharepoint, under Community and Facility Services
+  and in the Incontinence Supplies folder.
+
+  Once the provider choice has been obtained, a referral will be created and sent to the provider of choice.
+
+
+
+VIII.   Physician Certification of Incontinence:
+
+  The Physician Certification of Incontinence form serves as the Physician’s Order for incontinence supplies.
+  The Physician Certification of Incontinence form must be obtained by the provider of choice prior to any
+  authorization of the supplies. The form must be signed by a Physician. The form may not be signed by a
+  Nurse Practitioner, Registered Nurse or a Physician Assistant. The Physician’s signature is the only
+  allowable signature.
+
+  The incontinence supplies provider does not need to send a copy of the Physician Certification of
+  Incontinence Form to DHHS and/or its designee; however, the provider must notify the assigned worker
+  when the completed/ approved form has been returned from the Physician. Providers are able to go into
+  the Phoenix provider portal and indicate that they have received the doctor’s orders and tell how long the
+  order covers. This will then trigger a notification to the assigned worker so that the worker can then
+  create and send an authorization. The Incontinence Supply case may remain open pending supplies while
+  the IS provider is awaiting the signed Physician Certification of Incontinence Form back. If the IS provider
+  cannot obtain a Physician Certification of Incontinence Form back then the case must be terminated. A
+  CLTC Notification form with an Appeals Notice must be mailed to the participant and/or primary contact
+  to inform of the termination. The provider will get a termination notification by email in the Phoenix
+  provider portal.
+
+  Normal process is the IS provider obtains the MD form. An exception if the IS provider is having difficulty
+  obtaining the form then the beneficiary or PC can take a copy of the form to their doctor’s office. As an
+  additional step the case worker and/or vendor may contact the doctor’s office to coordinate the MD form
+  to the IS provider.
+
+
+
+  IX.   Review of Medicaid Eligibility Category and RSP:
+
+  Medicaid Eligibility Categories
+
+                                                                                                            7
+Prior to enrollment, the intake worker will review the applicant’s Medicaid Eligibility category information.
+The applicant is determined to be financially eligible if the applicant is a current Medicaid recipient with
+any Medicaid category EXCEPT Categories 14, 48, 50 or 52 or 55. The applicant with Category 10 and 33
+should be reviewed carefully to ensure the applicant is not residing in a skilled nursing facility and resides
+in the community, notate the date returned in Phoenix. Medicaid recipients who reside in a Community
+Residential Care Facility may receive Incontinence Supplies.
+
+If the applicant has applied for Medicaid MAO Category 15, the applicant is not eligible for authorization
+of the incontinence supplies until the applicant has enrolled in a waiver. In this case, the participant may
+receive incontinence supplies during the 30 day wait period.
+
+NOTE: When the applicant is approved for Medicaid Eligibility Category 15 MAO and is enrolled in the
+waiver, the referral should include a comment that the applicant is an approved Category 15 MAO
+participant who is in the 30 day wait period.
+
+
+
+RSP Codes
+
+Prior to enrollment, the intake worker will also review the applicant’s Medicaid Eligibility RSP information.
+When it is determined that an applicant is enrolled in a waiver or other special program, the Program
+Manager for that waiver or special program should be notified. Example: An applicant is referred for
+incontinence supplies and is noted to be enrolled in HSCE. The Program Manager for HSCE should be
+notified for direction.
+
+RSP Codes that DO OVERLAP with Incontinence Supplies:
+
+               RSP                               Program                   Responsible for Authorizing
+              AUTW                                DDSN                       DDSN PPD Case Manager
+              AUTS                                DHHS                     DHHS IS Caseworker/Vendor
+               TBRS                               DHHS                     DHHS IS Caseworker / Vendor
+              CHPC                                 CLTC                       CLTC Nurse Consultant
+               CLTC                                CLTC                        CLTC Case Manager
+              CSWE                                DDSN                         DDSN Case Manager
+              CSWN                                DDSN                         DDSN Case Manager
+              DMRE                                DDSN                         DDSN Case Manager
+              DMRN                                DDSN                         DDSN Case Manager
+              HSCE                                DDSN                         DDSN Case Manager
+              HSCN                                DDSN                         DDSN Case Manager
+               ISED                                 DSS                         DSS Case Manager
+              VENT                                 CLTC                       CLTC Nurse Consultant
+              WMCC                                 MCC                        MCC Care Coordinator
+              MCCM                             Managed Care                     Managed Care Plan
+              MCHM                             Managed Care                     Managed Care Plan
+              MCPR                                PRIME                         Prime Case Worker
+              MCSC                                 PACE                           PACE Program
+
+                                                                                                            8
+RSP Codes that DO NOT OVERLAP with Incontinence Supplies:
+
+               RSP                              Program                         Coordinator
+              MCHS                              Hospice                        Hospice Worker
+
+
+Note: In addition to Hospice, participants in a nursing home or admitted to a hospital will not receive
+Incontinence supplies. The IS authorizations and application are to be terminated when the participant
+enters the nursing home. The worker assigned to the IS application will need to be notified that the
+participant has entered a nursing home so the terminations may be completed and notifications sent.
+Participants who are enrolled in Managed Care Plans (MCCM and MCHM) should be instructed to
+contact the Plan’s Member Services regarding the need for incontinence supplies.
+
+ Managed Care Organization and Prime Member Service Phone Numbers
+
+ MCO Name                                               Member Services #
+
+ Absolute Total Care                                    866-433-6041
+
+ Advicare of South Carolina                             888-781-4371
+
+ First Choice by Select Health                          888-276-2020
+
+ Molina Healthcare of South Carolina                    855-882-3901
+
+
+
+  X.    Enrollment in Incontinence Supplies Program:
+
+
+
+The applicant will be enrolled in the Incontinence Supplies Program when:
+
+    1. Financial eligibility has been determined; and
+
+    2. The Provider Choice has been obtained; and
+
+    3. Notification from the provider that the completed/approved Physician Certification of Incontinence
+    form has been received.
+
+
+
+The assigned worker will:
+
+       Go to the Incontinence Supplies application in Phoenix
+       Select Status Change
+
+
+                                                                                                          9
+         Select Enroll and enter the date of enrollment
+         The IS application status will show as Participating
+         At this time there is not an RSP to key to indicate IS in MMIS
+         For non-waiver participants, complete the CLTC Notification form indicating enrollment in
+          Incontinence Supplies Program and mail to the Participant and/or Primary Contact. A notification
+          form is not required for waiver, CPCA, or CPDN participants.
+
+
+
+XI.       Authorization of Incontinence Supplies:
+
+Since Incontinence Supplies Program is not a waiver service, it is most important to remember the eligible
+Participant should not wait for subsequent application actions to be completed before the incontinence
+supplies are authorized. The Incontinence Supplies Program is independent of all other applications.
+
+Example: An individual has an application for Incontinence Supplies and for Community Choices. The
+applicant has Medicaid Category 32, the assigned worker has been notified by the provider a signed
+Physician Certification of Incontinence form has been received. A signed Provider Choice form has also
+been obtained. The Eligibility Workflow has not been approved by Medicaid Eligibility and the Community
+Choices application is in progress. The assigned worker should proceed with authorizing the incontinence
+supplies while the case actions for Community Choices continue.
+
+The assigned worker will review the assessment information that was completed by the Incontinence
+Supplies Specialist to determine the type, size and frequency for the incontinence supplies. This
+information may be found in the phone assessment. If clarification is needed to determine the type, size
+or frequency of supplies, the assigned worker will need to contact the participant/primary contact by
+telephone to clarify.
+
+
+
+Diapers, Briefs, Incontinence Pads, Under Pads
+
+The frequency of the delivery will be determined by the assessment rating for bowel and/or bladder. If at
+any time the assessment rating for bowel and/or bladder changes, the change should be annotated in the
+comment section of the assessment.
+
+Authorization of diapers, briefs, incontinence pads and under pads must be based on frequency of
+incontinence as indicated on the assessment as follows:
+
+         Occasionally incontinent allows up to one case per quarter
+         Frequently incontinent allows up to one case every other month or up to two cases per quarter
+         Totally incontinent allows up to one case per month
+         Usually incontinent will not receive any supplies
+
+
+
+
+                                                                                                       10
+ The participant may receive 1 case of incontinence pads and 1 case of diapers or briefs at the same time
+ for frequencies of frequent or total only, not for occasionally.
+
+ Bariatric Briefs have no billing code. However, the case manager may authorize Bariatric Diapers (using
+ the Bariatric Diaper code) and add in the Comment section that Bariatric Briefs are needed, specifying
+ 96 per case
+
+ NO QUANITY EXCEPTIONS MAY BE MADE FOR ADULTS AGE 21 AND OLDER
+
+ Gloves
+
+ Gloves are not covered as an incontinence supply. Participants enrolled in the CS waiver, HASCI waiver
+ and ID/RD waiver received extended state plan services for incontinence supplies. Gloves are covered
+ under the DME program for participants in the above DDSN waivers.
+
+ Wipes
+
+ The participant must be incontinent to receive wipes. The authorization of wipes is NOT based on
+ frequency of incontinence. The authorization of wipes is based on need and may be authorized up to one
+ box monthly. Wipes may only be authorized if the participant has an open authorization for diapers,
+ briefs, incontinence pads or under pads.
+
+
+
+ The delivery of the supplies will continue as long as the participant continues to meet the following 3
+ requirements:
+
+          1. Medically eligible for the incontinence supplies (at least occasionally incontinent of bowel
+          and/or bladder
+          2. Financially eligible
+          3. Physician Certification of Incontinence completed and on file with the provider every 365 days
+          or less depending on the selection chosen by the physician
+
+ If any one of these 3 requirements is not met, the service must be terminated. A CLTC Notification form
+ must be mailed to the participant and/or primary contact with an Appeals Notice.
+
+
+
+XII.   IS Participant Not Enrolled in a Waiver or Children’s Personal Care Aide, or Children’s Private
+       Duty Nursing Program:
+
+ When the IS Participant is determined to not be enrolled in CLTC Community Choices, HIV/AIDS, VENT,
+ Children’s Personal Care Aide or Children’s Private Duty Nursing Program, but chooses to continue to
+ participate in the Incontinence Supplies Program, the case will be transferred to an Incontinence Supplies
+ Specialist.
+
+
+
+                                                                                                        11
+  If Incontinence Supplies Program continues to be appropriate, but not a waiver or Children’s Personal
+  Care Aide, the assigned worker will:
+
+        1. E-mail Specialists and Supervisor providing the CLTC Participant Number and Participant Name
+           notifying of the program termination and need to continue supplies.
+        2. Do not terminate the Incontinence Supplies application or authorizations
+        3. The Specialist will assign the application to the appropriate person.
+
+
+
+XIII.    IS Participant Enrolled in a Waiver:
+
+  When the IS Applicant/Participant is determined to be enrolled in a waiver or Children’s Personal Care
+  Aide Program, the IS application will be assigned to the same person to whom the waiver application or
+  Children’s Personal Care Aide Program is assigned. The assigned worker will complete any and all of the
+  steps required including enrollment in the IS Program and the authorization of supplies as needed.
+
+  If at any time the waiver enrollment or Children’s Personal Care Aide Program is terminated and the
+  Incontinence Supplies Program should continue, it is the assigned worker’s responsibility to notify the
+  Incontinence Supplies Specialist and follow the steps outlined in IS Participant Not Enrolled in a Waiver or
+  Children’s Personal Care Aide Program-.
+
+  The Specialist will assign the application to the appropriate person.
+
+
+
+ XIV.     Existing Waiver or Children’s Personal Care Aide or Nursing Participant Who is NOT Enrolled in
+          IS but Needs Incontinence Supplies:
+
+  When an existing Waiver or Children’s Personal Care Aide Program Participant who is NOT enrolled in
+  Incontinence Supplies Program becomes incontinent and now needs incontinence supplies, the assigned
+  Case     Manager     or    Nurse     Consultant     will   make      an    electronic referral   to
+  https://phoenix.scdhhs.gov/cltc_referrals/new for Incontinence Supplies Program.
+
+  Centralized Intake will create an Incontinent Supplies Program application and will complete the
+  processing of this application as described in the Centralized Intake section. The necessary forms will be
+  printed and mailed by the designated worker as described in the Application Process section. The
+  application will then be assigned to the same worker that is assigned to the waiver application or
+  Children’s Personal Care Aide or Nursing Program application. The assigned worker will utilize the process
+  as outlined in the Authorization of Incontinence Supplies section.
+
+
+
+
+                                                                                                           12
+XV.    IS and Children’s Personal Care Aide or Nursing Program:
+
+If Centralized Intake receives an application for the Children’s Personal Care Aide Program and the
+Incontinence Supplies Program, the Children’s Personal Care Aide Or Nursing application will be assigned
+to the Nurse Consultant. The application for Incontinence Supplies will be assigned to an Incontinence
+Specialist.
+
+      If the MD indicates the child is appropriate for Incontinence Supplies but not for CPCA, The CPCA
+       application will be terminated and the IS application remains open.
+      If the returned forms indicate appropriate for CPCA but not Incontinence Supplies, continue with
+       the CPCA application and terminate the IS application. Notify the participant and/or primary
+       contact via CLTC Notification with the Appeals Notice.
+      At any time during this process if all requirements for the authorization of incontinence supplies
+       are met, the supplies should be authorized. Authorization of supplies should not be delayed
+       while processing CPCA.
+
+       Authorizations for children ages 4 to 20 are based on the frequency of incontinence. For children
+       requiring more than the set limits, the assigned worker must request an exception from the
+       Division of Community and Facility Services worker. The request should include the Participant’s
+       Name, CLTC Number, frequency of incontinence and approximately how many diaper, briefs,
+       incontinence pads, med pads or wipes are used daily. The increased supplies may only be
+       authorized if the request for exception is approved.
+
+
+
+XVI. Termination:
+
+       An applicant/participant should be terminated from Incontinence Supplies for any of the following
+       reasons:
+
+      Declined participation in program
+      Died
+      Entered administrative days
+      Entered nursing home
+      Entered nursing home with private payer
+      Exceeded full calendar month*
+      Financially ineligible for Medicaid**
+      Inappropriate after intake
+      Incarceration
+      Intake criteria not met
+      Medically ineligible for the program
+      Moved outside of South Carolina
+      Unable to locate the individual
+
+                                                                                                      13
+    *Full Calendar Month
+    When a participant is closed for Full Calendar Month, the assigned Case Manager or Nurse
+    Consultant will terminate the IS application when terminating the waiver application.
+    If/when the case is referred for re-enrollment for the waiver, the Centralized Intake Team will
+    create the IS application if appropriate. The incontinence supplies should not be authorized for a
+    participant who remains in a hospital or skilled nursing facility. The participant must be at home
+    or in a community setting, such as a CRCF to receive the supplies.
+
+    **Financially Ineligible
+    When a participant is closed for Financial Ineligibility, the assigned Case Manager or Nurse
+    Consultant must determine if the financial ineligibility is for waiver eligibility only. If the
+    participant continues to have Medicaid eligibility but not waiver eligibility, the waiver application
+    will be terminated but the IS application is assigned to an IS Specialist.
+
+    A participant’s Incontinence Supplies application will be transferred to the assigned
+    worker/program for any of the following reasons:
+
+   Entered Residential Care Facility
+   Entered MCC Program
+   Entered CPDN Program
+
+
+
+
+                                                                                                      14
+XVII.    Incontinence Supplies Administrative Case Management Policy - Vendors
+
+
+
+    A. Vendor Solicitation Requirements:
+        Incontinence Supplies (IS): Coverage of IS is under the mandatory Medicaid State Plan Home
+        Health benefit. IS are part of the medical supplies, equipment and appliances component of
+        Home Health. They are available to all Medicaid participants age four and older (up to any age)
+        who meet the applicable medical necessity criteria, which include incontinence of bowel and/or
+        bladder. A physician’s order is required for participants to receive these supplies.
+
+        For both services, referrals are made to SCDHHS staff members. The referral is processed to
+        determine if the participant meets the criteria for receiving the service(s). This includes a
+        telephone assessment to determine whether the appropriate medical necessity criteria are met.
+        For those participants who meet the criteria, a determination is made as to the level of services
+        required.
+
+        For IS, the assessment determines the amount of supplies based upon the following criteria:
+
+        For adults age 21 or older, the frequency of incontinence and amount of supplies authorized are
+        limited as follows:
+
+               Occasionally incontinent allows up to one case per quarter. For bladder – occasional
+                incontinence would be indicated by occurrences two or more times a week but not daily.
+                For bowel – occasional incontinence would be indicated by occurrences once a week.
+               Frequent incontinence allows up to two cases every quarter. For bladder or bowel –
+                frequent incontinence would be indicated by daily incontinence, but some control or if
+                the participant is being toileted (extensive assistance) on a regular basis, i.e. every two
+                hours.
+               Total incontinence allows one case per month. Total incontinence is indicated by no
+                control (or an indwelling catheter or ostomy that controls the participant’s bladder or
+                bowel).
+
+        For children age 4 to 20, authorization of IS is based on frequency of incontinence and may exceed
+        the Medicaid State Plan limits set for adults if medically necessary. Any exception for children
+        must be requested and approved by SCDHHS prior to providing IS.
+
+        Contractor responsibilities begin once the participant is deemed eligible to receive the service and
+        the frequency and amount of the authorization has been determined. In all cases, the Contractor
+        will use SCDHHS’ Phoenix system to provide and document activities.
+
+            a. Incontinence Supplies: The Contractor will be assigned the case after the assessment and
+               service plan have been created in Phoenix by the State Office. The Contractor will be
+               notified in Phoenix of the amount of incontinence supplies to be authorized.
+
+
+
+                                                                                                         15
+ IS cases that are already being case managed will not be part of the scope of this
+solicitation and will not be assigned to the Contractor in Phoenix. The cases which are
+already being managed include IS cases that are part of Home and Community Based
+waivers such as Intellectual Disabilities/Related Disabilities waiver, Community Supports
+waiver, Head and Spinal Cord Injury waiver, Medically Complex Children’s waiver,
+Community Choices waiver, HIV/AIDS waiver, Ventilator Dependent waiver or Managed
+Care cases. Contractor responsibilities include but not limited to the following:
+
+    i. The Contractor will print and mail the provider choice form to the participant. If
+       it is not returned within 14 days, the Contractor will attempt to contact the
+       participant by mail and receive a choice of providers once. If this is unsuccessful,
+       the case must be terminated using the Phoenix Notification form and a copy of
+       the form is sent to the participant.
+
+    ii. Upon receipt of the provider choice form, the Contractor will scan the form into
+        Phoenix and manually enter the five selected providers from the provider choice
+        form in the participants Phoenix record.
+
+   iii. The Contractor will monitor Phoenix for acceptance of the referral by a provider.
+
+   iv. The Contractor will use Phoenix to verify that the IS provider has obtained a
+       signed and completed Physician Certification of Incontinence Form. The IS
+       provider will be responsible for notifying the Contractor in Phoenix that the
+       Physician Certification of Incontinence Form has been received. If the IS provider
+       does not have a signed copy of the Physician Certification of Incontinence Form,
+       then the Contractor cannot authorize the IS.
+
+    v. Once the Contractor has received notification from the IS provider, the
+       Contractor will authorize the IS in Phoenix as identified on the initial assessment.
+
+   vi. The Contractor will be responsible for at least one phone contact every quarter
+       with the participant regarding their satisfaction with the IS and IS provider. This
+       quarterly contact must be documented in the narrative section of Phoenix and
+       address at a minimum with whom the Contactor spoke (the participant or primary
+       contact), the participant’s condition, appropriateness of the IS and delivery of the
+       IS.
+
+   vii. The Contractor will be responsible for ensuring that the provider of IS has a
+        current physician’s order to cover the supplies both initially and for subsequent
+        recertification periods.
+
+  viii. The Contactor will be responsible for coordinating any changes in IS or IS provider
+        if requested by the participant. A reassessment must be documented in Phoenix
+        by the Contractor if a change in IS is requested.
+
+
+
+                                                                                        16
+               ix. Any increase in IS must be prior approved by SCDHHS.
+
+               x. Any involuntary discontinuation of services must be approved in advance by
+                  SCDHHS.
+
+
+
+B. How to Create a Referral for Incontinence Supplies
+   1.   Go to https://phoenix.scdhhs.gov/cltc_referrals/new
+   2.   Click on green button, Create a New Referral
+   3.   The New Referral page will populate
+   4.   Complete all information on screen (ex. Applicant Information box)
+   5.   Keep a record of the confirmation number given and the beneficiary name after you press
+        Submit
+
+
+C. Instructions for Entering IS providers after PCF received:
+
+   1. Received completed, signed, and dated provider choice list
+   2. Check for eligibility and RSP codes (If MCHM showing Danita or Murray can check MMIS if
+       you don’t have access)
+   3. Go to Assessments (look for Incontinence Supplies Assessment, then check the
+       bowel/bladder section) – to get type IS/frequency. If type IS/quantity not listed in
+       assessment, check narrative). If not listed in narrative a phone call will have to be made to
+       participant/PC to get type IS/frequency
+   4. Write down participant’s name and type IS needed along with frequency
+   5. Go to Waiver Supports
+   6. Click on New Referral
+   7. Select Service (i.e. adult large briefs)
+   8. Click Next
+   9. Select first provider by clicking on green + (plus symbol) – Do this for all five providers
+   10. Click Next
+   11. Select Frequency, and any applicable notes (such as height weight, other IS needed,
+       allergies, etc.)
+   12. Add Start Date (which should be two weeks from current date)
+   13. Click on Create Referral
+   14. Narrate
+
+
+
+
+                                                                                                       17
+D. Instructions for Creating IS Authorizations
+     Initial Steps
+
+1. Get Acknowledgement of Receipt of Physician Certification of Incontinence
+2. Check for eligibility and RSP codes (If MCHM showing Danita or Murray can check MMIS if you
+     don’t have access)
+3.   Check application status (if initial – enroll in IS- make status participating)
+4.   *If you made referral, Go to Waiver Services
+5.   Create authorizations (add to Notes section the weight and height of beneficiary) for each IS
+     product needed
+6.   Create notification letter to PC/participant
+7.   Narrate (include the date, duration and IS provider from the Forms tab in Phoenix)
+
+
+
+     After IS provider responds:
+
+8. Check your notifications for “Physician Certification of Incontinence Form received for (CLTC
+    0123) Daffy Duck
+9. Go to Forms and look under Acknowledgement column and notate date of signature and
+    duration of certification
+10. Go into Waiver Services under Active Referrals, click on view next to the active referral
+11. Click on Approve Provider
+12. Check the notes for other IS products (to create additional authorizations by clicking on New
+    Authorization tab)
+13. Enter the weight and height in Notes section
+14. Enter the start date as the current date
+15. Click on Create Authorization button
+16. Click on Send to Provider button
+
+     *If someone else made referral, go to step 3 under Instructions for Creating IS referrals and then
+     follow steps 4 thru 8 under Instructions for Creating IS Authorizations
+
+
+
+E. Instructions for Creating a Notification Letter in Phoenix:
+
+     1. Go to Forms
+     2. Click on create a new form
+     3. Go to CLTC Notification Form
+     4. Select the address that has (mailing address, current next to it)
+     5. Refer to handout “Sample wording for Notification Letters” for language to add to Comments
+        box
+     6. Sign the form
+
+                                                                                                     18
+   7. Click on Create Form
+
+
+F. Instructions for Completing IS Checklist
+
+   1.  Go to Narrative
+   2.  Click on New Narrative then Incontinence Supplies Quarterly Contact
+   3.  Date of call
+   4.  Prior to answering question 1, go to Claims and review the past 90 days of claims entered
+       for each IS product.
+   5. Then enter the 90 day time frame under start and end dates, if no claims are present then
+       ask the beneficiary if they have receive their supplies
+   6. Proceed with asking the beneficiary or PC the questions and selecting yes or no
+   7. Depending on the answer, another question will populate asking if changes have been
+       documented in the narrative, use the box at the end of the checklist to narrate.
+   8. If the answer is no to the question, Are the amount of supplies being authorized sufficient,
+       then follow the procedures for requesting an increase in IS by emailing Murray Goode
+       (pediatrics) or Danita Goodman (adults up to Total).
+   9. If the answer is no to the question, Is the participant satisfied with the provider, then ask
+       verbally if they want to choose another IS provider from their existing PCF and then proceed
+       with coordinating the transfer of the MD form and authorizing the IS for the new IS provider
+       and terminate for the old IS provider.
+   10. After the checklist is completed, on your dashboard the date will adjust for the next quarter
+       (90 days from completed checklist) under Next QV Due
+
+
+
+G. IS Policy for aging out
+   If the case is not transferring to another program: Vendor will decrease the authorization down
+   to the state plan max at the frequency already in place. If a change in frequency is needed then
+   another IS assessment will need to be documented.
+
+   If the case is transferring to a CLTC waiver, OSS, etc. (with a new caseworker): Vendor will
+   decrease the authorization down to the state plan max before transferring the case to the new
+   caseworker.
+
+   If the case is transferring to a DDSN waiver, Managed Care, etc (program that does not use
+   Phoenix): Vendor does not have to worry about changing the authorization because the case
+   will be terminated.
+
+
+
+
+                                                                                                 19
+H. IS Hold Policy
+   During the quarterly contact call, if the participant or PC requests to stop IS that is considered
+   voluntary termination, follow normal procedures for termination (no longer have to notify DHHS
+   by email, proceed with narrating in Phoenix and send termination letter)
+
+   First request: If participant or PC requests a temporary hold on IS, Vendor will have to place hold
+   on the authorization [by contacting IS provider via phone call or Phoenix conversation] and
+   narrate
+
+   Second request: If at the next quarterly contact (now 6 months total) if the participant or PC
+   requests to continue with the temporary hold at this point the Vendor will advise that the
+   supplies cannot be held anymore. The Vendor can activate the authorization at the normal
+   amount previously in place, decrease the supplies or terminate the case. If the vendor
+   decreases and later the participant or PC wants to increase (back up to the original limits on the
+   assessment) that is fine for them to do. Any increases above the limits on the assessment will
+   need to be processed by Murray Goode (pediatrics) or Danita Goodman (adults up to Total).
+
+
+
+I. Incontinence Supplies Frequency and Definitions
+   When creating IS referrals and authorizations, please be mindful of the frequency (located
+   under the Bowel/Bladder section of IS assessment).
+
+      If rating for bowel and/or bladder is totally incontinent, participant’s IS should be authorized
+       on a monthly basis.
+      If rating for bowel and/or bladder is frequently incontinent, participant’s IS should be
+       authorized one case diapers or briefs twice per quarter, chux quarterly, and three packs
+       quarterly.
+      If rating for bowel and/or bladder is occasionally incontinent, participant’s IS should all be
+       authorized quarterly.
+
+
+   *Also please remember to create subsequent authorizations for med pads (chux) and wipes if
+   they are listed as part of the notes on referral screen. Example- Will also need chux and wipes.
+
+
+
+
+                                                                                                    20
+                      FREQUENTLY ASKED QUESTIONS (FAQs)
+1. Do we send a termination letter if participant is transferring to a DDSN waiver?
+      a. Send a notification letter that their case is terminating due to DDSN enrollment and to
+          contact their DDSN CM. (see enrollment language handout)
+
+2. If participant is moving so no longer wants to participate?
+        a. For documentation purposes send a notification letter at the address we have on file in
+            Phoenix.
+
+3. How do I ensure that I am paid for each IS case that I’m administratively monitoring as a
+   vendor?
+      a. Phoenix will auto-create authorizations for “Incontinence Supply Monitoring” for each
+          case assigned to the vendors dashboard. You can view this under the Waiver Supports
+          tab.
+      b. Whenever DHHS manually transfers IS applications to vendors the DHHS worker will
+          create IS monitoring authorizations as well
+
+4. How many wipes can a pediatric beneficiary receive?
+      a. The maximum wipes allowed is 4 per month.
+
+5. How can I communicate with DHHS Incontinence staff?
+      a. You can send an email to DHHS Incontinence staff to request exceptions to policy and
+         technical assistance. Please do not send a message through the Phoenix inbox. That
+         method is OK for communicating with IS providers. Include the CLTC number in the
+         email communication.
+
+6. Are gloves covered under Incontinence Supplies?
+       a. Gloves are not covered under Incontinence Supplies. It is considered a DME product.
+           Gloves are covered under certain DDSN waivers.
+
+7. Which Incontinence Supplies are covered through the State Plan Home Health service?
+      a. The Medicaid State Plan Home Health benefit covers the following incontinence
+          supplies as the maximum for an adult monthly:
+       One case of diapers or briefs (one case = 96 diapers or 80 briefs)
+       One case of incontinence pads/liners (chux) (one case = 130 pads)
+       One case of underpads (Poise pads)
+       One box of wipes
+
+8. How can I verify the RSP information for Managed Care or one of the DDSN waivers and
+   there’s not an end date in Phoenix?
+
+
+                                                                                                 21
+        a. RSP information can be verified in MMIS. Please contact a DHHS Incontinence staff
+           person by email.
+
+9.   Are vendors responsible for the recertification of the Physician Certification Form?
+        a. Vendors are not responsible for policing the recertifications, this the IS providers
+            responsibility. The vendor’s responsibilities are to make sure a Physician Certification
+            Form is there before the initial authorization and to terminate the authorization if
+            directed to by the IS provider.
+
+10. What do I do if the PCF is not received back within 14 days?
+       Call beneficiary and/or PC, if phone disconnected send a notification letter with a 10 day
+          deadline asking for a return call and an updated phone number to discuss PCF. If no
+          response then terminate
+       Call beneficiary and/or PC, leave message if no return call and call back a week later for
+          the second and final call attempt. If no response then send termination letter (please
+          note do not send a 10 day notification letter).
+
+11. How do I request an IS increase for adults and/or children?
+      a. For adult increases (up to Total), contact DHHS Incontinence staff by email with the
+          CLTC# and the supplies requested. DHHS Incontinence staff will attempt two phone
+          contacts with the beneficiary and/or PC to perform the reassessment. If no contact
+          then the request will be denied and an email will be sent to vendor. Please note, DHHS
+          Incontinence staff will not send a notification letter to the beneficiary.
+
+12. Can a beneficiary get wipes only?
+       a. No, beneficiaries cannot receive wipes only. They have to be accompanied by an open
+           authorization for diapers, briefs, incontinence pads or under pads.
+
+13. Does Incontinence Supplies require a Service Plan?
+      a. No, only if the beneficiary also has Children’s Personal Care and then the service plan is
+           only updated for changes.
+
+14. Do I need to contact DHHS for a change in size of IS?
+       a. No, for a change in size, vendors can go ahead and change. Contact DHHS for an
+           increase (change in frequency) or additional IS items.
+
+15. Do I need to terminate IS before I transfer the case to another program’s caseworker?
+        a. No, do not terminate IS applications or authorizations if a case needs to be transferred.
+            Only terminate the IS monitoring authorization.
+
+16. Participant in the community is getting IS and then is admitted to a hospital and has to go to a
+    nursing home. What happens to the IS?
+
+                                                                                                       22
+           The IS authorizations and application are to be terminated. The worker assigned to the
+           IS application will need to complete the terminations and send out notifications.
+           Vendors must also terminate the IS monitoring authorization.
+
+17. Can I receive payment if I have attempted to contact the participant to perform the quarterly
+   IS checklist but have been unsuccessful?
+       a. Yes, you can receive payment. Your billing report will show a status of FALSE for each
+           quarterly checklist that was due and not performed. In order to receive payment, you
+           will have to narrate three (3) times in Phoenix that you have attempted to contact the
+           participant and what the outcome was i.e. left a voicemail. The three (3) contact
+           attempts must occur throughout the month with three separate dates narrated.
+           Narration of the three (3) contact attempts occurring in the last week of the month will
+           not be accepted.
+
+
+
+
+                                                                                                  23
+

@@ -1,0 +1,51 @@
+2/16/2021
+                                 Conversation/Inbox
+Conversation Inbox Changes
+Enhancements have been made to
+“Conversations” to prevent users
+from being time stamped reading
+a message when their user ID was
+mimicked by another user. An
+additional filter has been added to
+the Inbox section.
+
+
+
+
+                                                      2
+                                  Conversation/Inbox
+Conversation Inbox Changes
+• A new “Unread” sort button is
+  displayed.
+
+
+
+
+                                                       3
+                                     Conversation/Inbox
+Conversation Inbox Changes
+• Click “Unread” sort button to
+  filter out all unread message(s)
+  from the inbox messages
+• Unread messages will be displayed
+  in Bold print
+
+
+
+
+                                                          4
+                                          Conversation/Inbox
+Conversation Inbox Changes
+• Click “Inbox” button to return to
+  all inbox messages
+• Users can delete messages by
+  clicking “Archive”.
+    •   It is recommended that users archive
+        messages when the message is read or no
+        longer needed
+
+
+
+
+                                                               5
+

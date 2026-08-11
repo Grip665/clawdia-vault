@@ -1,0 +1,101 @@
+Device ID Self-Registration
+AuthentiCare® 3.0
+
+
+
+                                                                                                                               Last Updated: 3/16/2026
+© 2025 First Data Government Solutions/Fiserv. All Rights Reserved. All trademarks, service marks and trade names referenced in this material are the property of their
+respective owners.
+Document Version: 10.11, Revision Date: 01/21/2026.
+                                                                                        AuthentiCare® 3.0 - Device ID Self-Registration
+
+
+Welcome to AuthentiCare 3.0!
+Please follow the below instructions to get logged into the new mobile application.
+
+      1. Open your AuthentiCare 3.0 mobile app and enter your Worker ID & Password.
+
+
+      2. Click ‘Sign In.’
+
+
+
+
+             If you have a valid email address on file with AuthentiCare, upon entering your credentials,
+             you will receive a message on the app screen indicating a new device has been detected.
+
+
+
+© 2026 First Data Government Solutions/Fiserv. All Rights Reserved. All trademarks, service marks and trade names referenced in this material are the property of their
+respective owners.                                                                                                                                                        2
+                                                                                        AuthentiCare® 3.0 - Device ID Self-Registration
+
+
+      3. Click ‘Continue’ to receive a new PIN via email to authenticate your device.
+
+
+
+
+             After clicking ‘Continue,’ you will receive a second automated email to the email
+             address on the worker profile that has a six-digit PIN.
+
+
+
+
+      4. You will need to enter the six-digit PIN from the automated email into the app screen and
+         click ‘Submit.’
+
+
+
+
+© 2026 First Data Government Solutions/Fiserv. All Rights Reserved. All trademarks, service marks and trade names referenced in this material are the property of their
+respective owners.                                                                                                                                                        3
+                                                                                        AuthentiCare® 3.0 - Device ID Self-Registration
+
+
+
+
+             Upon clicking ‘Submit’ with the new PIN, the system will associate your current device ID
+             with your worker profile.
+
+             Additionally, an automated e-mail confirming the change will be sent to the official email
+             address tied to your worker profile.
+
+
+
+
+      5. You will need to choose whether you want to enable biometric login, or you can click
+         ‘Cancel.’
+
+
+
+
+© 2026 First Data Government Solutions/Fiserv. All Rights Reserved. All trademarks, service marks and trade names referenced in this material are the property of their
+respective owners.                                                                                                                                                        4
+                                                                                        AuthentiCare® 3.0 - Device ID Self-Registration
+
+
+             Upon completing these steps, you will be directed to the landing page to establish a
+             session in AuthentiCare 3.0.
+
+
+
+
+             NOTE: Entering the beginning of a client's last name will return all results that begin with
+             an exact match of those letters. For example, to look for a client with a last name of “Smith”,
+             it is possible to enter “Smi”, “Smit”, etc.
+
+
+                        IMPORTANT REMINDER: Upon migration to the 3.0 application, users
+                        will no longer be able to access the 2.0 application, even with a valid
+                        Worker ID and Password credentials (see screenshot below).
+
+
+
+
+Please reach out to your provider agency contact for any questions or challenges.
+
+
+© 2026 First Data Government Solutions/Fiserv. All Rights Reserved. All trademarks, service marks and trade names referenced in this material are the property of their
+respective owners.                                                                                                                                                        5
+

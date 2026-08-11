@@ -1,0 +1,134 @@
+                PCSC WAIVER ENROLLMENT GUIDANCE
+                Waiver Enrollment Process and Procedures – At-A-Glance
+COC responsibilities are in orange. SCDHHS responsibilities are in blue.
+
+   Initiate       Create          Add         Perform       Conduct        Update         Verify        Enroll
+ INITIATE       CREATE        ADD            PERFORM       CONDUCT       UPDATE         VERIFY        ENROLL
+ Brief          HFW and       applicant      Intake        Level of      HFW and        waiver        applicant
+ Screener       PCSC apps     to             activities    Care          PCSC apps      criteria      in waiver
+ COC            COC           Waiting        COC           COC           COC            info          SCDHHS
+ (Phoenix)      (Phoenix)                    (Phoenix)                                  SCDHHS        (MMIS)
+                              List                         (Phoenix)     (Phoenix)      (Phoenix)
+                              COC
+                              (Phoenix)                                                 If DSS
+                                                                                        involved
+                                                                                        notify DSS
+
+
+
+General Rules and Roles
+Continuum of Care staff perform all waiver eligibility tasks to determine if
+applicants meet waiver eligibility criteria. Criteria include the following:
+    • COC agency criteria
+        o This includes consents, authorizations, application, etc.
+    • Waiver targeting criteria
+        o Financial eligibility (verified by SCDHHS)
+        o Primary Behavioral Health diagnosis or behaviors consistent with a
+            Behavioral Health diagnosis
+        o Age – applicants must be under age 21
+        o Level of care – CASII Assessment
+    • Required uploads (includes Waiver Consent, provisional plan of care, etc.)
+
+The work and programs of the Palmetto Coordinated System of Care are guided by the following Core Values: family
+driven and youth guided; home and community based; strengths based and individualized; culturally and linguistically
+competent; coordinated across systems and services; connected to natural helping networks; data driven and outcome
+oriented; and trauma-informed. Visit https://scdhhs.gov/pcsc to learn more about the Palmetto Coordinated System of
+Care.
+When it is determined an applicant meets the criteria above, a COC Phoenix User
+changes the status of the PCSC application in Phoenix to “Participating”. Once the
+status is changed to “Participating” PCSC Staff begin the SCDHHS waiver
+enrollment review process. Formal enrollment is complete when PCSC staff
+assigns the PCSC RSP (Recipient Special Program) identifier to the member record
+in MMIS.
+Phoenix Tasks
+The following steps are completed by PCSC Staff:
+    • Log in to Phoenix
+    • Navigate to the “No RSP/ Participating” screen from the PCSC Dashboard
+         o The “No RSP/Participating” screen includes all youth with a
+             “Participating” PCSC application status that do not have the PCSC RSP
+             assigned to their record in MMIS
+         o COC is not able to submit a waiver claim until PCSC staff assigns the
+             PCSC RSP in MMIS
+    • Access each youth/client record on this screen
+         o Navigate to “PCSC Participant” on the carousel
+                ▪ Navigate to the “Waiver Status Changes” tab (far right) to
+                    determine the following (each of these conditions must be
+                    met BEFORE the RSP can be assigned in MMIS):
+                        • “CASII: Recommended for Waiver” date should be less
+                            than or equal to the “Participating in PCSC” date
+                        • “Participating in HFW” date should be less than or equal
+                            to the “Participating in PCSC” date
+                ▪ Navigate to the “Custody Placement” tab to ensure the youth
+                    is in an approved home-like setting
+The work and programs of the Palmetto Coordinated System of Care are guided by the following Core Values: family
+driven and youth guided; home and community based; strengths based and individualized; culturally and linguistically
+competent; coordinated across systems and services; connected to natural helping networks; data driven and outcome
+oriented; and trauma-informed. Visit https://scdhhs.gov/pcsc to learn more about the Palmetto Coordinated System of
+Care.
+                      ▪
+
+
+
+
+    • When the conditions above are met, navigate to the “Applications” tab on
+      the carousel
+         o The PCSC application status should be “Participating”; the
+            corresponding date will be the assignment date of the PCSC RSP in
+            MMIS
+    • Before exiting Phoenix, navigate to “Participant Information” on the
+      carousel
+         o Navigate to the “General Information” tab (far right) to determine
+            the Medicaid ID number for the youth; this number will be used to
+            search the applicant in MMIS
+                          ----PCSC Staff activity in Phoenix ends----
+MMIS Tasks
+When PCSC staff determines the youth/applicant meets waiver enrollment
+criteria the following steps are taken:
+    •   Log in to MMIS
+    •   Enter the recipient Medicaid Number
+    •   Navigate to the RSP Update Screen
+    •   Add the date that appears on the Phoenix – Applications tab as referenced
+        in the highlighted section above.
+                            ---PCSC Staff activity in MMIS ends----
+                     ----The youth is now enrolled in the PCSC Waiver---
+                  ---COC can begin submitting claims for this participant---
+
+
+
+
+The work and programs of the Palmetto Coordinated System of Care are guided by the following Core Values: family
+driven and youth guided; home and community based; strengths based and individualized; culturally and linguistically
+competent; coordinated across systems and services; connected to natural helping networks; data driven and outcome
+oriented; and trauma-informed. Visit https://scdhhs.gov/pcsc to learn more about the Palmetto Coordinated System of
+Care.
+        Initial waiver claims are not to be submitted for a date preceding the
+        PCSC “Participating” status date. Per the following statement found on
+        page 87 of page 192 of the CMS-approved amended waiver, “HCBS
+        eligibility begins on the earliest date that all three of the following are in
+        place: the participant is found to meet the targeting, risk factors and level
+        of care (LOC); the participant has a provisional plan of care (crisis plan) or
+        final person-centered plan; and a financial eligibility determination is
+        effective. The provisional plan of care (crisis plan) may be in effect for no
+        more than 60 days. Participants who have agreed to community-based
+        services under the waiver and meet all LOC and financial eligibility
+        requirements are placed in a waiver slot, when there is one available. COC
+        informs the family of their eligibility status for the waiver.”
+
+        SPECIAL NOTE:
+        SCDHHS may require additional COC action before a youth is assigned the
+        PCSC RSP in MMIS. For example, SCDHHS accesses the client record of
+        Youth ABC from the “No RSP/Participating” screen in Phoenix. Upon review
+        it is discovered a provisional plan of care has been uploaded for Youth DEF.
+        SCDHHS will email a request for the correct provisional plan of care to be
+        uploaded before the RSP will be added to the record in MMIS.
+                                           ----END----
+
+
+
+
+The work and programs of the Palmetto Coordinated System of Care are guided by the following Core Values: family
+driven and youth guided; home and community based; strengths based and individualized; culturally and linguistically
+competent; coordinated across systems and services; connected to natural helping networks; data driven and outcome
+oriented; and trauma-informed. Visit https://scdhhs.gov/pcsc to learn more about the Palmetto Coordinated System of
+Care.
+

@@ -1,0 +1,1893 @@
+HOME AND COMMUNITY-BASED SERVICES PROVIDER MANUAL              July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES   Program Overview
+
+
+
+
+HOME AND COMMUNITY-BASED
+SERVICES (HCBS)
+PROVIDER MANUAL
+JULY 1, 2024
+
+South Carolina Department of Health and Human Services
+
+
+
+
+                                                                              1
+HOME AND COMMUNITY-BASED SERVICES PROVIDER MANUAL                                                                          July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                                               Program Overview
+
+
+
+Contents
+  1 PROGRAM OVERVIEW ........................................................................................................................... 3
+
+ 2 COVERED POPULATIONS ELIGIBILITY/ SPECIAL POPULATIONS ……………………………………..8
+
+  3 ELIGIBLE PROVIDERS .......................................................................................................................... 10
+
+  4 QUALITY ASSURANCE ......................................................................................................................... 12
+
+  5 COVERED SERVICES AND DEFINITIONS ........................................................................................... 16
+
+  6 UTILIZATION MANAGEMENT................................................................................................................ 34
+
+  7 REPORTING/DOCUMENTATION .......................................................................................................... 36
+
+  8 BILLING GUIDANCE .............................................................................................................................. 38
+
+
+
+
+                                                                                                                                           2
+HOME AND COMMUNITY-BASED SERVICES PROVIDER MANUAL                                           July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                Program Overview
+
+
+
+
+1 PROGRAM OVERVIEW
+Program Description
+
+       The South Carolina Department of Health and Human Services (SCDHHS) oversees the provision of
+       Home and Community-Based Services (HCBS) delivered to eligible participants with long term care
+       needs, if they choose, allowing them to remain in a community-based environment. The South
+       Carolina Department of Health and Human Services (SCDHHS) administers and operates several
+       1915(c) HCBS waiver programs: Community Choices waiver (CC); HIV/AIDS waiver; Medically
+       Complex Children’s waiver (MCC), and Mechanical Ventilation Dependent waiver (Vent). SCDHHS
+       also administers the following HCBS programs/services: Children’s Personal Care (CPC), Private
+       Duty Nursing (PDN), and Program for All-Inclusive Care for the Elderly (PACE).
+
+       SCDHHS retains administrative authority for the following waivers: Head and Spinal Cord Injury
+       (HASCI), Intellectual Disability/Related Disabilities (ID/RD), and Community Supports (CS). SCDHHS
+       has delegated operational authority to the South Carolina Department of Disabilities and Special
+       Needs (SCDDSN) for operation of these waivers.
+
+       SCDHHS retains administrative authority for the Palmetto Coordinated System of Care (PCSC)
+       waiver. SCDHHS has delegated operational authority to the South Carolina Continuum of Care for
+       operation of this waiver.
+
+       HCBS waiver programs allow participants who meet an institutional level of care to receive services
+       and supports not covered through the South Carolina Medicaid State Plan. These services and
+       supports are provided through the waiver programs to assist participants in remaining in their own
+       home or other community setting. Pursuant to 42 CFR 441.301(a)(3), the state refuses entrance to the
+       waiver to any otherwise eligible participant when the state reasonably expects that the cost of the
+       home and community-based services furnished to that participant would exceed 100% of the cost of
+       the level of care specified for the waiver, or for the CS waiver, when the state reasonably expects that
+       the cost of home and community-based services furnished to that individual would exceed the amount
+       specified by the state that is less than the cost of a level of care specified for the waiver. The HCBS
+       Provider Manual is complementary to SCDHHS’s general policies and procedures detailed in the
+       Provider Administrative and Billing Manual. It provides policies and requirements specific for HCBS
+       providers for the HCBS waiver programs, CPC, PDN, and PACE programs.
+
+       HCBS providers must review, reference, and comply with the HCBS Provider Manual, the Provider
+       Administrative and Billing Manual, and all appendices and supplements.
+
+SCDHHS Operated Waivers
+
+   Community Choices (CC) Waiver
+
+       The Community Choices (CC) waiver is designed to serve Medicaid-eligible participants who
+       are age 18 or older, have long term care needs and meet nursing home level of care. To avoid
+       or delay costly nursing home admission, participants can access the services necessary to
+       receive care at home through careful assessment, service planning, care coordination and
+                                                                                                           3
+HOME AND COMMUNITY-BASED SERVICES PROVIDER MANUAL                                             July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Program Overview
+
+
+
+       monitoring.
+
+   HIV/AIDS Waiver
+
+       The Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome (HIV/AIDS) waiver is
+       designed to serve Medicaid-eligible participants with HIV/AIDS, regardless of age, who choose to live
+       at home but have long term care needs and are at risk for hospitalization.
+
+   Mechanical Ventilator Dependent (Vent) Waiver
+
+       The Mechanical Ventilator Dependent waiver (Vent) waiver is designed to serve Medicaid-eligible
+       participants aged 21 or older who are dependent on mechanical ventilation at least 6 hours per day
+       and have long term care needs. Participants can receive services to supplement care in their home to
+       avoid or delay costly nursing home admission, through careful assessment, service planning and
+       service coordination.
+
+   Medically Complex Children (MCC) Waiver
+
+       The Medically Complex Children (MCC) waiver is designed to serve children up to age 21 diagnosed
+       with a serious illness or condition expected to last at least twelve (12) months. The waiver participants
+       must meet the following state defined medical criteria, which identify the child as being dependent
+       upon the evaluation of medications, hospitalizations, skilled nursing services, specialists, and ancillary
+       services. The MCC waiver serves children who meet hospital level of care.
+
+   Program of All-Inclusive Care for the Elderly (PACE)
+
+       PACE is a federal Medicaid and Medicare capitated program serving participants in the greater
+       Columbia area (Richland and Lexington counties) who meet all the following criteria:
+
+          •   Are age 55 or older;
+
+          •   Meet nursing home level of care;
+
+          •   Wish to remain in the community; and,
+
+          •   Choose to participate in the program.
+
+       Participants in PACE receive all services through PACE either directly from PACE staff, health care
+       professionals or through subcontracted health care entities. Many of the services provided are
+       centered in the PACE Adult Day Health Centers.
+
+State Plan Services
+
+   Children's Personal Care (CPC) Services
+
+       CPC services provide personal care services in the community to Medicaid-eligible children under the
+       age of 21 years of age who meet established medical necessity criteria of at least one functional
+       deficit.
+
+
+                                                                                                             4
+HOME AND COMMUNITY-BASED SERVICES PROVIDER MANUAL                                                July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                     Program Overview
+
+
+
+   Private Duty Nursing Services
+
+       Private Duty Nursing is available for children under the age of 21 who meet established medical
+       necessity criteria as outlined in the Children’s Private Duty Nursing Checklist.
+
+Externally Operated Waivers
+
+   Palmetto Coordinated System of Care (PCSC)
+
+       SCDHHS contracts with the South Carolina Department of Children’s Advocacy’s Continuum of Care
+       (COC) program to provide High Fidelity Wraparound services for children under the age of 21. Based
+       on national research for children’s system of care and the approved waiver application, SCDHHS will
+       only contract with entities employing High Fidelity Wraparound supervisors and coaches credentialed
+       by the National Wrapround Implementation Center (NWIC).
+
+       The PCSC waiver was developed for youth with significant behavioral health challenges or co-
+       occurring conditions who are in, or at imminent risk of out-of-home placement. The PCSC waiver is an
+       evidence-based approach that is part of a national movement to develop family-driven and youth
+       guided care and keep youth at home, in school, and out of the child welfare and juvenile systems.
+
+SCDDSN Operated Waivers
+
+   Head and Spinal Cord Injury (HASCI) Waiver
+
+       The HASCI waiver provides a broad range of HCBS to Medicaid-eligible participants with the most
+       severe physical impairments involving head and spinal cord injuries, regardless of age. The HASCI
+       waiver is designed to help participants who would otherwise require services in a nursing facility or
+       Intermediate Care Facility for Individuals with Intellectual Disabilities (ICF/IID) to remain independent
+       in the community.
+
+   Intellectual Disability/Related Disabilities (ID/RD) Waiver
+
+       ID/RD waiver services are provided based on identified needs of the participant and the
+       appropriateness of the service to meet the need regardless of age. Participants must meet SCDDSN
+       ICF/IID level of care criteria to qualify for the service. A list of enrolled and qualified providers of ID/RD
+       waiver services can be located at the DDSN website (www.ddsn.sc.gov) or by contacting the local
+       DSN Board in the county in which the participant lives or the participant’s Waiver Case Manager/Early
+       Intervention provider is located.
+
+   Community Supports (CS) Waiver
+
+       The CS waiver allows participants ages 3 and older with an ID/RD to choose to receive care at home
+       rather than in an ICF/IID. Although the participants may choose to receive care at home, he/she must
+       require the level of care that would be provided in an ICF/IID. The CS waiver has an individual cost
+       limit within which services are provided.
+
+SCDHHS Money Follows the Person Demonstration Grant (Home Again)
+
+       Home Again serves Medicaid participants who are older adults, have physical disabilities, or
+                                                                                                                5
+HOME AND COMMUNITY-BASED SERVICES PROVIDER MANUAL                                               July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                    Program Overview
+
+
+
+       intellectual disabilities who have resided in a Medicaid funded skilled nursing facility or hospital for 60
+       days or more that wish to transition to a community setting. Home Again funds the first year of
+       services before transitioning participants into one of the qualifying HCBS waivers in SCDHHS.
+       Participants must meet the NF level of care.
+
+Waiver Case Management and Care Coordination Functions
+
+   Case Management
+
+       Case management is a vital part of the HCBS program that is provided for all waiver participants.
+       Case management for HASCI, CS and ID/RD waiver participants are provided by the DDSN network
+       of qualified providers
+
+       Case management ensures continued access to the HCBS programs. It also enables case managers
+       to advise, support and assist participants and their families in coping with changing needs and in
+       making decisions regarding long-term care.
+
+       Case management includes the following five activities: service counseling, service planning, service
+       coordination, monitoring, and annual re-evaluation. Included in these activities is the requirement for
+       quarterly face-to-face visits with the participant in their home.
+
+       The case management provider and its staff must be independent of the service delivery system and
+       not a provider of services that could be incorporated into a SCDHHS/SCDDSN participant's plan of
+       care ("conflict free case management"). These services include, but are not limited to,
+       SCDHHS/SCDDSN waiver services, home health services, and hospice services. SCDHHS is the
+       final decision authority regarding questions concerning conflict free case management. This is a
+       requirement of the federal regulation 42 CFR 441.301(c)(1)(vi).
+
+   Intake
+
+       The intake process identifies participants who may be eligible for the program and serves as an
+       information and referral source for those who do not meet intake criteria. The SCDHHS CLTC Area
+       Office and the local DSN board ensure that all participants with perceived long term care needs
+       receive every opportunity for exposure to the waiver, identified state plan services and grant funded
+       programs. For MCC and PCSC, intake is completed by SCDHHS. The intake telephone numbers are
+       as follows:
+
+       For all DHHS waiver participant referrals, complete referral form at
+       https://phoenix.scdhhs.gov/cltc_referrals/new.
+
+       For all DDSN waiver participant referrals, call 1-800-289-7012.
+
+   Assessment
+
+       Assessment uses a comprehensive standard instrument to determine a participant’s current long term
+       care needs. Information obtained during the assessment process will assist staff in making a level of
+       care decision and initiating a plan of service for discussion with the participant and/or family.
+
+
+
+                                                                                                               6
+HOME AND COMMUNITY-BASED SERVICES PROVIDER MANUAL                                          July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                               Program Overview
+
+
+
+    Service Planning
+
+       Service planning encompasses a comprehensive review of the participant’s problems and strengths
+       utilizing a person-centered approach. Mutually agreed-upon goals are set based on identified needs.
+       This service planning process allows for participation of the participant and/or family, physician,
+       service providers, children’s personal care monitoring vendors, care coordinators, and/or the
+       SCDHHS case management team. Service planning provides participants with information necessary
+       to make an informed choice regarding the location of care and services to be utilized. The outcome of
+       this process is a written plan of service.
+
+       For further clarification regarding policies and standards for DDSN operated waivers, please see
+       https://ddsn.sc.gov/.
+
+       NOTE: References to supporting documents and information are included throughout the manual.
+       This information is found at the following locations:
+
+•   Provider Administrative and Billing Manual
+
+•   Procedure Codes
+
+•   Forms
+
+
+
+
+                                                                                                          7
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                     July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                               Covered Populations
+
+
+
+
+2 COVERED POPULATIONS ELIGIBILITY/ SPECIAL
+POPULATIONS
+Beneficiary Requirements
+
+   The South Carolina Department of Health and Human Services (SCDHHS) Home and Community-
+   Based Services provides reimbursement for medically necessary services for full-benefit Medicaid-
+   eligible participants who are determined to meet the level of care as specified for the program in the
+   list below:
+
+                                                                          Child &
+                Medical
+                                                                        Adolescent
+               Eligibility        NF Level of       DDSN ICF-IID
+ Program                                                                  Service            Hospital
+              Assessment             Care           Level of Care
+                                                                         Intensity
+                  Tool
+                                                                        Instrument
+                                    Skilled or
+    CC
+                                  Intermediate
+                                    Skilled or
+   Vent
+                                  Intermediate
+
+                                                                                            At risk for
+ HIV/AIDS
+                                                                                          hospitalization
+                                                                                            At risk for
+   MCC         8 or above
+                                                                                          hospitalization
+                                                                      Meet criteria in      At risk for
+  PCSC
+                                                                      one category        hospitalization
+                                    Skilled or
+  HASCI                                                 Meets
+                                  Intermediate
+
+  ID/RD                                                 Meets
+
+    CS                                                  Meets
+
+  Home                              Skilled or
+  Again                           Intermediate
+
+       For CC, HIV/AIDS, Vent waivers, the level of care determination is the process of identifying the
+       extent of a participant’s medical, psycho-behavioral, and functional disability in keeping with the South
+       Carolina level of care Criteria for Medicaid-Sponsored Long-Term Care. For ID/RD, CS, and HASCI,
+       the disability would have to meet DDSN ICF/IID level of care criteria.
+
+
+
+                                                                                                            8
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                     July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                               Covered Populations
+
+
+
+       The CASII has six dimensions that are used to determine the intensity of needed services which are:
+
+          •   Risk of Harm
+          •   Functional Status,
+          •   Co-Morbidity
+          •   Recovery Environment
+          •   Resilience and Treatment History
+          •   Acceptance and Engagement
+
+       Each dimension has a five-point rating scale. For each of the five possible ratings within each
+       dimension, a set of criteria is clearly defined. Only one criterion needs to be met for that rating to be
+       selected. The CASII LOC determination is set at the same levels as the South Carolina hospitals level
+       of care.
+
+Verifying Beneficiary’s Eligibility
+
+       Participating Healthy Connections providers must access beneficiary eligibility information through the
+       SCDHHS’ Medicaid Web Portal Customer Service Center. Beneficiaries must be eligible on the date
+       of service for payment to be made.
+
+
+
+
+                                                                                                            9
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                   July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                               Eligible Providers
+
+
+
+
+3 ELIGIBLE PROVIDERS
+Provider Qualifications
+
+       All HCBS services have prerequisites for participation and require enrollment/contracts with SCDHHS.
+       Certain licensing requirements may also exist. Please see the Provider Administrative and Billing
+       Manual for general Medicaid enrollment and licensing requirements.
+
+       For general information regarding provider qualifications and enrollment in the South Carolina Healthy
+       Connections Medicaid program please refer to the Provider Administrative and Billing Manual. Specific
+       provider qualifications for HCBS vary depending on the service. Qualifications for each provider can
+       be found in HCBS Scopes and Standards linked below.
+
+        •    ADHC Nursing
+        •    Adult Day Health Care
+        •    Advanced Pest Control Standards
+        •    Attendant Care (Self-Directed)
+        •    Case Management
+        •    Companion (Agency)
+        •    Companion (Self-Directed)
+        •    Environmental Modifications Standards
+        •    Home Delivered Meals
+        •    Institutional Respite
+        •    Nursing Services
+        •    Pediatric Medical Day Care
+        •    Personal Care, Children's Personal Care HASCI Attendant Care, ID/RD Respite, CS Respite,
+             PCSC Respite, MCC Unskilled Respite
+        •    Personal Emergency Response System (PERS)
+        •    Pest Control Standards
+        •    Residential Personal Care
+        •    Respite CRCF
+        •    Skilled In-Home Respite Vent
+        •    Skilled Respite MCC
+        •    Telemonitoring
+        •    Transition Coordination
+
+       HCBS providers must meet all applicable Medicaid provider qualifications and state licensure
+       regulations specified by the South Carolina Department of Labor, Licensing and Regulation (LLR).
+       Medicaid reimbursement is available for Home and Community-Based Services when provided
+       by the qualified Home and Community-Based Services provider per the prior authorization
+       process.
+
+                                                                                                          10
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                     July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                 Eligible Providers
+
+
+
+       Services rendered by the HCBS provider must conform to the federal and state laws, rules, and
+       regulations.
+
+       The providers whose scopes are listed above are eligible to enroll with SCDHHS to bill HCBS
+       delivered to eligible members. Providers for Adult Day Health Care, Nursing Services, Personal Care
+       Services, Pest Control, Personal Emergency Response System, and In-Home Respite Providers can
+       also provide HCBS to eligible members in a DDSN-operated waiver.
+
+       For specific requirements on Provider enrollment refer to SCDHHS’s website at:
+       https://www.provider/scdhhs.gov/providers/become-provider
+
+       For any other SCDDSN waiver service, providers must be SCDDSN qualified. Please refer to the
+       SCDDSN website at https://ddsn.sc.gov/ for more information. Please note that Companion Services
+       for SCDHHS does not allow providers to provide services for SCDDSN participants. Adult Companion
+       Service providers must be qualified through SCDDSN
+
+       Enrolled providers are prohibited from using their NPI to bill Medicaid for services rendered by a non-
+       enrolled, terminated or excluded provider.
+
+
+
+
+                                                                                                            11
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                      July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                 Quality Assurance
+
+
+
+
+4    QUALITY ASSURANCE
+
+
+       SCDHHS and SCDDSN have implemented Quality Assurance processes to ensure that providers are
+       following the requirements as outlined in policy and scopes of services.
+       Note: SCDDSN has a separate Quality Management process. Information regarding their Quality
+       Assurance Process can be found here: https://ddsn.sc.gov/ddsn-divisions/quality-management
+
+Overview of SCDHHS compliance review process
+
+       For Adult Day Health Care (ADHC), Personal Care Services (PCS), and Nursing Services (NS) only,
+       SCDHHS has developed this provider compliance policy. The policy gives detailed information on how
+       provider compliance sanctions are implemented. Provider reviews receive a score based on a
+       sanctioning scale; review scores will determine if the provider receives a sanction and if so, the level
+       of the sanction. The sanction scoring process was developed to ensure that reviews are equitable and
+       for providers to know what to expect when they are reviewed.
+             The following chart outlines how reviews are scored:
+
+   Sanction Level
+
+       Provider compliance review questions in the Scope of Services are classified into three severity levels,
+       based on (1) the significance of the question regarding to the services, and (2) the potential influences
+       on providers and participants if the requirement was not met. See the example below:
+
+       Severity level: 1= less serious, 2 = serious, 3 = very serious
+
+
+                      Participant Service Questions            Possible           Severity
+                                                               Answers            Level
+                      Was supervisory visit made within 30
+                                                               Y, N, NA           3
+                      days after PCPC services initiated?
+
+                      Was the initial supervisory visit
+                      documented in Electronic Visit           Y, N, NA           3
+                      Verification (EVV) System?
+
+                      Does provider maintain individual
+                                                               Y, N               2
+                      participant records?
+
+                      Did provider give participant written
+                      information regarding advanced           Y, N, NA           1
+                      directives?
+
+
+
+                      Sanctions:
+
+              •   Corrective Action Plan (CAP) - This is the lowest sanction and indicates the
+                                                                                                             12
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                       July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Quality Assurance
+
+
+
+                  provider is in substantial non-compliance with the contractual requirements.
+                  Providers with an initial compliance score of 50 or more will be required to submit a
+                  plan of correction outlining the deficiency(ies), the detailed plan to correct the
+                  deficiency (ies) and the effective date the plan will be implemented. A CAP
+                  Template is in Phoenix Help Documents under Miscellaneous Forms that providers
+                  may choose to use. If the corrective action plan is not approved, the Provider will
+                  be given an additional ten (10) business days to submit another corrective action
+                  plan for review and approval. If the second submitted corrective action plan is not
+                  approved, the provider will be suspended from providing new referrals until the
+                  corrective action plan has been received and approved. Please note, any
+                  documentation that was not available during the compliance visit will not be
+                  accepted as a part of the plan of correction. All documentation must be in the
+                  appropriate record at the time of the review.
+              •   Educational Intervention- At this level, the provider is requested to have the
+                  appropriate staff attend training by the South Carolina Department of Health and
+                  Human Services to improve knowledge of HCBS policies and procedures/Scope of
+                  Services. Educational Intervention is required if the compliance score is 100 or
+                  more points. If Educational Intervention training has not been received within 30
+                  days of sanction, the provider will be suspended from receiving new referrals until
+                  the educational training is received.
+
+                  Providers may request educational training provided by SCDHHS at any time by
+                  sending an email request to: provider-distribution@scdhhs.gov
+              •   90-day suspension – Indicates an initial (interim) review with four hundred (400) or
+                  more points indicating serious and widespread deficiencies, new referrals are
+                  suspended for ninety (90) days.
+              •   Termination – Indicates a routine review final review score of four hundred (400) or
+                  more points or very serious and widespread deficiencies. Providers who have been
+                  terminated due to a compliance review cannot reapply to be a provider of
+                  SCDHHS/SCDDSN services for three (3) years from the date of termination.
+                  Providers who have two (2) consecutive reviews with a score of 100 or more, will be
+                  terminated if the third consecutive review has a final score of 100 and above.
+
+   Calculating process
+
+       SCDHHS has developed a system to score reviews based on the percentage of the identified
+       deficiency and number of participants surveyed. Following is an outline of how reviews will be scored:
+
+       The level of sanction will be decided based on the total score of the provider’s current review and the
+       provider’s review history, which is converted from the deficiency percentage.
+
+              Every 5% deficiency counts for 1 point in each class; the total score comes from the total
+              points from each level.
+
+              Since each level has different severity, multiple points will be added to each class’s score.
+              Final score = level 3 = unweighted points x 3 + level 2 = unweighted basic points x 2+ level 1 =
+                                                                                                              13
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                       July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Quality Assurance
+
+
+
+              unweighted points x 1
+
+          Example:
+
+
+              Level                        Deficiency percentage        Basic points    Final points
+
+              Level 1 (less serious)       28%                          5               5x1=5
+              Level 2 (serious)            20%                          4               4x2=8
+
+              Level 3 (major)              35%                          7               7x3=21
+
+              Final score                                                               34
+
+
+       Based on the total score a sanction level is determined. If a provider has no deficiencies, they
+       will not be subject to a sanction. Below is a chart that illustrates the sanction that will be
+       imposed based on the final review score:
+
+              Score                              w/ Good History*                Sanction
+              0-50                               0-99                            No further
+                                                                                 sanction
+              51-99                              100-149                         Corrective Action
+                                                                                 Plan
+              100-399                            150-449                         Mandatory
+                                                                                 educational
+                                                                                 training
+              Initial Review 400 or              n/a                             90-day suspension of new
+              above                                                              referrals and mandatory
+                                                                                 educational training
+              Routine Review 400                 Routine Review 450              Termination
+              or above                           or above
+
+            *Good History is determined based on previous review scores of 50 or below. For
+            example, if a provider’s previous review had a total score of 50 and their current review
+            has a score of 120, the sanction for the current review will be corrective action rather than
+            mandatory educational training based on the previous review score.
+       Scores are automatically calculated using a computer-generated compliance review program.
+       Provider records will be reviewed periodically at the provider’s office or obtained from the
+       provider’s office for later review. Onsite visits are unannounced. If a reviewer (HCBS, Program
+       Integrity or any other government entity) arrives at the provider’s office to conduct a
+       survey/visit and/or obtain records for a survey and no one is there, the following sanctions will
+       be imposed:
+                 •    First time – thirty (30) day suspension of new referrals
+
+                 •    Second time – ninety (90) day suspension of new referrals
+                                                                                                              14
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                    July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                               Quality Assurance
+
+
+
+                •   Third time – contract termination
+
+Note ADHC Providers Only:
+
+       Center for Medicare and Medicaid Services (CMS) requires Adult Day Health Care Centers servicing
+       HCBS (waiver) participants to be in compliance with their settings requirements.
+
+       Providers of Adult Day Health Care Services must meet all requirements as outlined in 42 CFR §
+       441.301(c) (4)). These requirements have been integrated into the HCBS Adult Day Health Care
+       Provider Scope of Services.
+
+       SCDHHS will terminate contracts with existing ADHC providers whose settings do not meet all the
+       requirements outlined by CMS for the settings rule.
+
+       New providers are trained on all ADHC Setting requirements and settings are reviewed in a site visit to
+       ensure that the ADHC is 100% compliant with these requirements prior to enrollment to provide
+       services. After the initial enrollment, compliance surveys will ensure continued compliance with these
+       requirements. Any non-compliance with these requirements the compliance survey process will result
+       in remediation and possible sanctions up to termination of your contract with SCDHHS for the non-
+       compliant setting
+
+
+
+
+                                                                                                           15
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                           July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                        Covered Services
+
+
+
+
+5       COVERED SERVICES AND DEFINITIONS
+
+
+A table displaying the waiver program to which the SCDHHS covered services are
+associated with is included here with their associated definitions to follow.
+
+
+                                                                                                   Mechanical
+                                       Community
+                               State                CS      HASCI    HIV/AIDS   Home    ID/RD      Ventilator     MCC      PCSC
+                                        Choices
+                               Plan                Waiver   Waiver    Waiver    Again   Waiver     Dependent      Waiver   Waiver
+                                         Waiver
+                                                                                                    Program
+
+ Adult Day Health Care
+                                          X          X                           X        X
+ (ADHC) Nursing
+
+ ADHC Services                            X          X                           X        X
+
+ Adult Dental                                                                             X
+
+ Adult Vision                                                                             X
+
+ Assistive Technology and
+                                                     X
+ Appliances
+ Assistive Technology and
+ Appliances Assessment/                              X
+ Consultation
+
+ Attendant Care Services                  X                   X         X        X        X             X
+
+ Audiology Services                                           X                           X
+
+ Behavior Support Services                           X        X                           X
+
+ Career Preparation Services                         X        X                           X
+
+ Case Management                          X          X        X         X        X        X             X
+
+ Children's Personal Care       X
+
+ Community Services
+                                                     X                                    X
+ (Individual and/or Group)
+
+                                          X                             X        X        X
+ Companion Services
+
+ Day Activity                                        X        X                           X
+
+ Employment Services                                 X        X                           X
+
+ Environmental
+                                          X          X        X         X        X        X             X           X
+ Modifications
+ Environmental Modification,
+ Specialized Supplies, and                X                             X        X                      X
+ Adaptations
+ Expanded Goods and
+                                                                                 X
+ Services
+
+
+                                                                                                            16
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                               July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                            Covered Services
+
+
+
+
+                                                                                                       Mechanical
+                                           Community
+                                 State                  CS      HASCI    HIV/AIDS   Home    ID/RD      Ventilator     MCC      PCSC
+                                            Choices
+                                 Plan                  Waiver   Waiver    Waiver    Again   Waiver     Dependent      Waiver   Waiver
+                                             Waiver
+                                                                                                        Program
+ Habilitation Services (Day)                                                X
+
+ Habilitation Services
+ (Prevocational)
+ Habilitation Services
+                                                                  X                           X
+ (Residential)
+
+ High Fidelity Wrap Around                                                                                                       X
+
+ Health Education for
+                                                                  X
+ Consumer-Directed Care
+
+ Home Delivered Meals                         X                             X        X                      X
+
+ In-Home Supports                                        X
+
+ Incontinence Supplies             X
+
+ Individual Directed Goods
+                                                                                                                                 X
+ and Supplies (IDGS)
+                                X (up to
+ Nursing Services                                                 X         X                 X             X
+                                  21)
+
+ Occupational Therapy                                             X
+
+ Pediatric Medical Day Care                                                                                             X
+
+ Peer Guidance for
+                                                                  X
+ Consumer-Directed Care
+ Personal Care Services
+                                              X          X                  X        X        X             X
+ (PCS)
+ Personal Emergency
+                                              X          X        X                  X        X
+ Response System (PERS)
+ Pest Control and Advanced
+                                              X                             X        X                      X
+ Pest Control Treatment
+
+ Physical Therapy                                                 X
+
+ Private Vehicle Modification                            X        X                           X
+
+ Private Vehicle Modification
+ Assessment/Consultation
+
+ Psychological Services                                           X
+
+ Respite (In-Home)                                       X                                    X             X           X
+
+ Respite (Institutional/NF)                   X          X        X                           X             X
+
+ Respite Care in a
+ Community Residential                        X
+ Care Facility
+
+ RN Care Coordination                                                                                                   X
+
+ Specialized Medical
+ Supplies, Equipment and                                                                      X
+ Assistive Technology
+
+                                                                                                                17
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                        July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                     Covered Services
+
+
+
+
+                                                                                                Mechanical
+                                    Community
+                            State                CS      HASCI    HIV/AIDS   Home    ID/RD      Ventilator     MCC      PCSC
+                                     Choices
+                            Plan                Waiver   Waiver    Waiver    Again   Waiver     Dependent      Waiver   Waiver
+                                      Waiver
+                                                                                                 Program
+ Specialized Medical
+ Supplies, Equipment and
+                                                                     X                 X
+ Assistive Technology
+ Assessment/Consultation
+
+ Skilled Respite Services
+
+ Speech and Hearing
+                                                           X                                                     X
+ Services
+
+ Support Center Services                          X                                    X
+
+ Transition Coordination                                                      X
+
+ Tele-Monitoring                       X                                      X
+
+ Unskilled Respite                                                                                                        X
+
+
+
+
+Adult Day Health Care Services
+
+          Services generally furnished five or more hours per day on a regularly scheduled
+          basis, for one or more days per week, or as specified in the service plan, in a licensed
+          non-institutional, community-based setting, encompassing both health and social
+          services needed to ensure the optimal functioning of the participant. This includes off-
+          site outings and other efforts designed to provide socialization and integrate
+          participants into the community. Meals provided as a part of these services shall not
+          constitute a “full nutritional regimen” (3 meals per day).
+
+Adult Day Health Care-Nursing Services
+
+          Licensed nursing services provided on a part-time or intermittent basis while the
+          participant is attending SMA sponsored ADHC. Nursing procedures are limited to
+          ostomy care, urinary catheter care, decubitus and/or wound care, tracheostomy care,
+          tube feedings, and nebulizer treatments which require medication. This service must
+          be ordered by a physician to meet the participant’s care needs.
+
+Adult Dental Services
+
+          Adult dental services are defined and described in the approved Medicaid State Plan.
+          ID/RD waiver funded adult dental services will not duplicate any service available to
+          adults aged 21 and older in the State Plan. Items/services allowed under the waiver
+          are the same as the standard items/services for children under age 21.
+
+Adult Vision Services
+
+          Adult vision services are included in the ID/RD waiver as an extension to the vision
+          services included in the State Plan. In the Medicaid State Plan, specified vision
+          services are only available to Medicaid participants who are under age 21. The ID/RD
+                                                                                                         18
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                              July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                           Covered Services
+
+
+
+
+       waiver removes the age restriction making the same vision services available to those
+       who are over age 21 and enrolled in the waiver.
+
+Assistive Technology and Appliances
+
+       Assistive Technology and Appliances is a device, an item, piece of equipment, or
+       product system that is used to increase or improve functional capabilities of
+       participants thereby resulting in a decrease or avoidance of need for other waiver
+       services.
+
+       For SCDDSN, this service may include training or technical assistance for the
+       participant, or, where appropriate, the family members, guardians, advocates, or
+       authorized representatives of the participant. Appliances intended for general
+       household utility that do not result in a decrease in need for other waiver services are
+       not covered. This service is not intended to replace traditional household appliances
+       for the convenience of family/household members or caregivers. Additionally, devices,
+       items, equipment and/or product systems not proven effective, or deemed trial or
+       experimental are not covered. Repairs not covered by warranty are covered, and
+       replacement of parts/equipment are covered, if these repairs or parts/equipment are
+       not related to abuse, mistreatment or carelessness. The lifetime limit on repairs (not
+       covered under warranty) and/or replacement of parts/equipment is $1,000. To the
+       extent that any listed services are covered under the state plan, the services under
+       the waiver would be limited to additional services not otherwise covered under the
+       state plan, but consistent with waiver objectives of avoiding institutionalization.
+
+
+Assistive Technology and Appliances Assessment/Consultation
+
+       Assistive Technology and Appliances Assessment/Consultation may be provided (if
+       not covered under the State Plan Medicaid) once a participant's specific need has
+       been identified and documented in the Support Plan. The scope of the work and
+       specifications must be determined. Consultation and assessment may include specific
+       needs related to the participant's disability for which assistive technology and/or
+       appliances will assist the participant to function more independently. Appliances
+       intended for general household utility that do not result in a decrease in need for other
+       waiver services are not covered. This service is not intended to replace traditional
+       household appliances for the convenience of family/household members or
+       caregivers. Additionally, devices, items, equipment and/or product systems not
+       proven effective, or deemed trial or experimental are not covered.
+
+       Assistive technology and assessments/consultations must be provided by Medicaid
+       enrolled Occupational or Physical Therapists, Medicaid enrolled Rehabilitation
+       Engineering Technologists, Assistive Technology Practitioners and Assistive
+       Technology Suppliers certified by the Rehabilitation Engineering Society of North
+       American (RESNA), Medicaid enrolled Environmental Access/Consultants/contractors
+       certified by Professional Resource in Management (PRIME).
+
+
+
+
+                                                                                               19
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                              July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                           Covered Services
+
+
+
+
+Attendant Care Services
+
+       Self-directed hands-on care of both a supportive and health related nature.
+       Supportive services are those which substitute for the absence, loss, diminution, or
+       impairment of a physical or cognitive function. This service may include skilled or
+       nursing care to the extent permitted by state law. Limited housekeeping activities,
+       which are incidental to the performance of care, may also be furnished as part of this
+       activity.
+
+Audiology Services
+
+       Audiology Services are included in the ID/RD waiver as an extension to the audiology
+       services included in the State Plan. In the State Plan, specified audiology services are
+       only available to Medicaid beneficiaries who are under age 21. The ID/RD waiver
+       removes the age restriction, making the same audiology services available to those
+       who are over age 21 and enrolled in the ID/RD waiver. This service will not duplicate
+       any services available to adults in the State Plan.
+
+Behavior Support Services
+
+       Behavior Support are those services which use current, empirically validated
+       practices to identify functions of target behaviors, prevent the occurrence of problem
+       behavior, teach appropriate, functionally equivalent replacement behavior and react
+       therapeutically to problematic behavior. These services include:
+
+                  a. Initial behavioral assessment for determining the need for and
+                     appropriateness of behavior support services and for determining the
+                     function of the behaviors. Behavioral assessment (i.e., functional
+                     assessment and/or analysis) includes direct observation and collection
+                     of antecedent-behavior-consequence data, an interview of key
+                     persons, a preference assessment, collection of objective data
+                     (including antecedent-behavior-consequence data) and analysis of
+                     behavioral/functional assessment data to determine the function of the
+                     behaviors
+
+                  b. Behavioral intervention (including staff/caregiver training), based on
+                     the functional assessment, that is primarily focused on replacement
+                     and prevention of the problem behavior(s) based on their function; and
+
+                  c. An assessment of the success of the intervention through progress
+                     monitoring that includes analysis of behavioral data, any changes
+                     (including medication) and any needed modifications.
+
+Career Preparation Services
+
+       Career preparation services are time-limited and aimed at preparing individuals for
+       competitive employment and engaging a participant in identifying a career direction.
+       These services can include experiences and exposure to careers and teach such
+                                                                                                20
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                               July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                            Covered Services
+
+
+
+
+       concepts as attendance, task completion, problem solving, interpersonal relations and
+       safety as outlined in the individual's person-centered plan. Services are designed to
+       create a path to integrated community-based employment for which an individual is
+       compensated at or above minimum wage. On-site attendance at the licensed facility
+       is not required to receive services that originate from the facility. The cost for
+       transportation is included in the rate paid to the provider.
+
+       Transportation will be provided from the individual’s residence to the habilitation site
+       when the service start time is before 12:00 noon. Transportation will be available from
+       the individual’s habilitation site to their residence when the service start time is after
+       12:00 noon.
+
+Case Management (SCDHHS)
+
+       Services that assist participants in gaining access to needed waiver and other state
+       plan services, as well as medical, social, educational, and other services regardless
+       of the funding source for the services accessed. Case managers are responsible for
+       ongoing monitoring and the coordination of the provision of services included in the
+       participant’s person-centered service plan.
+
+       At a minimum, case management activities include initial visit, monthly contact,
+       quarterly visit, and re-evaluation visit. At least one of these case management
+       activities must be completed every month and documented appropriately.
+
+       Case management providers are not permitted to provide other direct waiver services
+       or other services that are part of a participant’s person-centered service plan. Case
+       managers are not allowed to receive any gifts or anything else of value from providers
+       of waiver services. During case management orientation training, case managers are
+       informed of conflict-of-interest requirements and must sign a disclosure form
+       indicating understanding and agreement.
+
+Case Management (SCDDSN)
+
+       Services that assist participants in gaining access to needed waiver and other State
+       Plan services, regardless of the funding sources for the services to which access is
+       gained. Waiver case managers are responsible for initiating and/or conducting the
+       process to evaluate and/or re-evaluate the individual’s level of care as specified in
+       waiver policy. Waiver case managers are responsible for conducting assessments
+       and developing service plans as specified in waiver policy. This includes the ongoing
+       monitoring of the provision of services included in the participant’s service plan.
+       Waiver case managers are responsible for the ongoing monitoring of the participant’s
+       health and welfare, which may include crisis intervention, and referral to non-waiver
+       services.
+
+       The waiver also includes transitional waiver case management. Transitional WCM is
+       used when a person in an institutional setting is being discharged from the setting and
+       entering a waiver program. Persons served under the waiver may receive case
+       management services while they are still institutionalized, for up to 180 consecutive
+       days prior to discharge. The state can choose a limit of less than 180 days.
+                                                                                                21
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                             Covered Services
+
+
+
+
+Community Services (Participant and Group)
+
+       Community services are aimed at developing one’s awareness of interaction with
+       and/or participation in their community through exposure to and experience in the
+       community and through teaching such concepts as self- determination, self-advocacy,
+       socialization and the accrual of social capital. Services will be provided in facilities
+       licensed by the state. On-site attendance at the licensed facility is not required to
+       receive services that originated from the facility.
+
+       Transportation will be provided from the individual’s residence to the habilitation site
+       when the service start time is before 12:00 noon. Transportation will be available from
+       the individual’s habilitation site to their residence when the service start time is after
+       12:00 noon. The cost for transportation is included in the rate paid to the provider.
+
+Companion (Agency or Self-Directed)
+
+       Non-medical care, supervision, and socialization provided to a functionally impaired
+       adult. Companions may assist or supervise the participant with light housekeeping
+       tasks. Providers may also perform light housekeeping tasks that are incidental to the
+       care and supervision of the participant. The provision of companion services does not
+       entail hands-on care or assistance with activities of daily living; the companion care
+       service does not duplicate the provision of the Personal Care service. This service is
+       provided in accordance with a therapeutic goal in the service plan. There is a self-
+       directed option for companion services.
+
+Day Activity
+
+       Supports and services provided in therapeutic settings to enable participants to
+       achieve, maintain, improve, or decelerate the loss of personal care, social or adaptive
+       skills. Services are provided in non-residential settings that are licensed by the state.
+       Community activities that originate from a facility licensed by the state will be provided
+       and billed as day activity. On-site attendance at the licensed facility is not required to
+       receive services that originate from the facility.
+
+       Transportation will be provided from the participant's residence to the habilitation site
+       when the service start time is before 12:00 noon. Transportation will be available from
+       the participant's habilitation site to their residence when the service start time is after
+       12:00 noon. The cost for transportation is included in the rate paid to the provider.
+
+Employment Services (Individual)
+
+       Employment services (Individual) are the ongoing supports to individuals who,
+       because of their disabilities, need intensive on-going support to obtain and maintain
+       an individual job in competitive or customized employment, or self-employment, in an
+       integrated work setting in the general workforce for which an individual is
+       compensated at or above the minimum wage, but not less than the customary wage
+       and level of benefits paid by the employer for the same or similar work performed by
+
+                                                                                                 22
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                   July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                Covered Services
+
+
+
+
+       individuals without disabilities. Transportation is not included as part of the service, or
+       the rate paid for individual job placement.
+
+Employment Services (Group)
+
+       Employment services - group is the on-going supports to individuals who, because of
+       their disabilities, need intensive ongoing support to obtain and maintain an individual
+       job in competitive or customized employment, or self- employment, in an integrated
+       work setting in the general workforce for which an individual is compensated at or
+       above minimum wage, but not less than the customary wage and level of benefits
+       paid by the employer for the same or similar work performed by individuals without
+       disabilities. Employment services – group is provided in group settings, such as
+       mobile work crews or enclaves and employees may be paid directly by the
+       employer/business or by the employment services – group provider.
+
+       Employment services - group is not a prerequisite for employment services –
+       individual.
+
+       Transportation will be provided from the individual’s residence to the habilitation site
+       when the service start time is before 12:00 noon. Transportation will be available from
+       the individual’s habilitation site to their residence when the service start time is after
+       12:00 noon.
+
+Environmental Modification and Adaptations (SCDHHS)
+
+       Those physical adaptations to the private residence of the participant or the
+       participant’s family, required by the participant’s service plan, that are necessary to
+       ensure the health, welfare, and safety of the participant or that enable the participant
+       to function with greater independence in the home. Such adaptations include the
+       installation of ramps and grab-bars, widening of doorways, modification of bathroom
+       facilities, provision of air conditioning units, and installation of specialized electric and
+       plumbing systems necessary to accommodate the medical equipment and supplies
+       required for the welfare of participants.
+
+       These services may only be authorized based on a health and/or safety related issue.
+       Case managers must evaluate the expressed need prior to authorizing the service.
+       During this process, the case manager determines that there is an assessed need for
+       the items, updates appropriate sections of Phoenix (the case management system
+       used by case managers and SMA staff) to indicate the need for the items, updates
+       the participant’s service plan, and requests prior approval in the service approval
+       section of the service plan (including date the last item was received (if applicable).
+
+       Per policy, the service justification for air conditioning units must emphasize the need
+       based on health and safety related issues with specific information provided
+       associating requests with a medical condition. The provision of air conditioning units
+       is not intended for general utility and shall not be executed as such. SMA Regional
+       Office staff review related requests and either approve or deny, utilizing medical
+       expertise offered through Lead Team Nurses in Regional SMA offices, and/or SMA’s
+       Medical Director in SMA Central Office, as needed. Following SMA approval the case
+                                                                                                    23
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                               July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                            Covered Services
+
+
+
+
+       manager may begin the authorization process.
+
+       This service is limited to additional services not otherwise covered under the state
+       plan, including EPSDT, but consistent with waiver objectives of avoiding
+       institutionalization.
+
+Environmental Modifications (SCDDSN)
+
+       Those physical adaptations to the home, required by the individual's plan of care,
+       which are necessary to ensure the health, welfare and safety of the individual, or
+       which enable the individual to function with greater independence, and without which,
+       the individual would require institutionalization. Home is defined as non-government
+       subsidized living quarters, and modifications to any government-subsidized housing
+       (i.e., group homes or community residential care facilities) are not permitted. Such
+       adaptations may include the installation of ramps and grab-bars, widening of
+       doorways, modification of bathroom facilities, or installation of specialized electric and
+       plumbing systems, which are necessary to accommodate the medical equipment and
+       supplies which are necessary for the welfare of the individual. Environmental
+       modifications may also include consultation and assessments to determine the
+       specific needs and follow-up inspections upon completion of the project. Excluded are
+       those adaptations or improvements to the home, which are of general utility, and are
+       not of direct medical or remedial benefit to the individual, such as carpeting, roof
+       repair, central air conditioning, etc. Adaptations that add square footage to the home
+       are excluded from this benefit. All services shall be provided in accordance with
+       applicable State or local building codes. Approval of a request for environmental
+       modification is a multi-step process. The modification is initially determined by the
+       case manager based on the participant's need as documented in the plan of care.
+       Three bids for the modification are obtained by the case manager and submitted with
+       documentation of the need. The consultation/assessment does not require the
+       submission of bids. This information is reviewed by SCDDSN staff for programmatic
+       integrity and cost effectiveness. To the extent that any listed services are covered
+       under the state plan, the services under the waiver would be limited to additional
+       services not otherwise covered under the state plan, but consistent with waiver
+       objectives of avoiding institutionalization.
+
+Expanded Goods and Services
+
+       Home Again provides expanded goods and services to assist participants in being
+       prepared for the transition into the community. These services include furniture,
+       appliances, groceries, security deposits, utility deposits, household items, and other
+       non-covered items up to a cap of $6000 per participant.
+
+Habilitation Services (Residential)
+
+       Residential habilitation services include the care, skills training, and supervision
+       provided to participants in a non-institutional setting. The degree and type of care,
+       supervision, skills training, and support of participants will be based on the plan of
+       service and the participant’s individual needs. Services include assistance with the
+       following:
+                                                                                                24
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                  July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                               Covered Services
+
+
+
+
+       The acquisition, retention, or improvement of skills related to activities of daily living,
+       such as:
+
+           •   Personal grooming and cleanliness;
+
+           •   Household chores and bed-making;
+
+           •   Eating and preparation of food; and
+
+           •   Social and adaptive skills necessary to enable the participant to reside in a
+               non-institutional setting.
+
+       Other than costs that are for modifications or adaptations to a facility required to
+       assure the health and safety of residents or meet the requirements of the applicable
+       life safety codes, payments for residential habilitation are not made for the following:
+
+           •   Room and board;
+
+           •   Costs of facility maintenance;
+
+           •   Upkeep; and
+
+           •   Improvement.
+
+       Payments for residential habilitation do not include those made, directly or indirectly,
+       to members of the participant’s immediate family. Payments will not be made for the
+       routine care and supervision provided by a family or group home provider or for
+       activities or supervision covered by a source other than Medicaid.
+
+Health Education for Participant-Directed Care
+
+       Health education for participant-directed care prepares capable individuals who desire
+       to manage their own personal care or a family member or other responsible party who
+       desires to manage the personal care of an individual not capable of self-management.
+
+       Health education for participant-directed care is instruction provided by a licensed
+       registered nurse who is provided the “Key to Independence Manual” from the
+       Shepherd Center in Atlanta, Georgia and/or other curricula approved by
+       SCDDSN/SCDHHS in the provision of this service. The training provided by an RN
+       will regard the nature of specific medical conditions, the promotion of good health,
+       and the prevention/monitoring of secondary medical conditions.
+
+High Fidelity Wraparound
+
+       High fidelity wraparound (HFW) is a team-based approach to caring for families with
+       complicated needs. The function of performing wraparound facilitation is to identify
+                                                                                                     25
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                 July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                              Covered Services
+
+
+
+
+       who should be involved in producing a community-based, person-centered plan to
+       meet the needs of the participant. Those identified family, extended family and other
+       community members comprise the participant and family team and play a vital role in
+       the development of the person-centered plan.
+
+       The wraparound facilitator guides the person-centered plan development process,
+       assures that waiver rules are followed and is responsible for reassembling the team
+       when subsequent person-centered plan review and revision are needed.
+       Reassembling happens with warranted changes in the participants’ circumstances.
+       The wraparound facilitator emphasizes building collaboration and coordination among
+       family-identified caretakers, service providers and other formal and informal
+       community resources. The participant and family team meet with the wraparound
+       facilitator to perform the four functions of home and community-based services
+       (HCBS) care management: assessment, person-centered planning, referral to
+       services and monitoring of health and welfare and service delivery. Wraparound
+       coordination with other child serving systems should occur as needed. All
+       coordination must be documented in the participant’s medical record. The high-fidelity
+       entity must ensure that all participant and family team members adhere to the HCBS
+       requirements found at 42 CFR 441.301(c).
+
+       Participant and family teams receive regular clinical supervision by a Licensed
+       Practitioner of the Healing Arts employed by the HFW entity. Wraparound coaches
+       and trainers credentialed by the National Wraparound Implementation Center (NWIC)
+       must be members of HFW teams. Further, HFW teams must demonstrate continued
+       use of evidence-based wraparound standards as approved by SCDHHS through
+       ongoing participation in wraparound fidelity monitoring.
+
+       SCDHHS contracts solely with the COC to perform the HFW service. The COC
+       implemented the wraparound model in 2014 and is the only provider of HFW in the
+       state of South Carolina.
+
+Home Delivered Meals
+
+       Prepared meals sent to a participant's residence provide a minimum of one-third of
+       the current recommended dietary allowance, but not comprising a full nutritional
+       regimen. These can be hot, shelf-stable, refrigerator-fresh, or blast-frozen meals.
+
+In-Home Support (Self-Directed)
+
+       Care, supervision, teaching and/or assistance provided directly to or in support of the
+       participant and provided in the participant's home, family home, the home of others,
+       and/or in community settings. Community activities that originate from the home will
+       be provided and billed as in-home support. These services are necessary to enable
+       the person to live in the community by enhancing, maintaining, improving or
+       decelerating the rate of regression of skills necessary to continue to live in the
+       community.
+
+       If the caregiver or participant incurs cost for vehicle operation to or from activities or
+       other transportation costs, additional reimbursement beyond the payment of the
+
+                                                                                                    26
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                               July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                            Covered Services
+
+
+
+
+       hourly rate paid to the in-home support provider will not be made.
+
+Independent Living Skills
+
+       Services that develop, maintain and improve the community-living skills of a waiver
+       participant. The service includes direct training from a qualified staff person to
+       address the identified skill development needs of a waiver participant in the areas of:
+
+                  a. communication skills;
+
+                  b. community living and mobility;
+
+                  c. interpersonal skills;
+
+                  d. reduction/elimination of problem behavior;
+
+                  e. self-care; and
+
+                  f.   sensory/motor development involved in acquiring functional skills.
+
+Individual Directed Goods and Supplies
+
+       Individual directed goods and services are services, equipment or supplies not
+       otherwise provided through this waiver or through the Medicaid State Plan that
+       address an identified need in the person-centered plan in service of improving and
+       maintaining the participant opportunities for full membership in the community.
+
+       Individual directed goods and services must meet the following requirements: the item
+       or service decreases the need for other Medicaid services; and/or promotes inclusion
+       in the community; and/or increases the participant’s safety in the home environment;
+       and funds to purchase the item or service is not available through another source.
+       Experimental or prohibited treatments are excluded. Individual directed goods and
+       services must be documented in the person-centered plan.
+
+       The services under this waiver are limited to additional services not otherwise
+       covered under the state plan, including EPSDT, but consistent with waiver objectives
+       of avoiding institutionalization.
+
+       The goods and services purchased under the authority must be documented and
+       clearly linked to an assessed participant need established in the service plan.
+
+Nurse Care Coordination
+
+       For MCC participants, nurse care coordination is to assist participants in facilitating
+       access to health services; promoting continuity of care; improving health,
+       developmental, psychosocial and functional outcomes; maximizing efficient and
+       effective use of resources; gaining access to skilled medical monitoring, and
+       intervention to maintain the participant through home support.
+
+
+                                                                                                 27
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                              July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                           Covered Services
+
+
+
+
+              Minimum limits of:
+                    Face-to-face - quarterly
+                    Telephone contact - monthly
+
+       Care advocate contact is contact by a professional who assists nurse care
+       coordinators by facilitating access to health services and interventions to maintain the
+       participant through home support.
+
+Nursing Services
+
+       Individual and continuous care (in contrast to part time or intermittent care) provided
+       by licensed nurses within their scope of practice in the state’s Nurse Practice Act.
+       These services are provided to a participant in their home. Continuous and individual
+       skilled care is provided by a licensed registered nurse or a licensed practical nurse,
+       under the supervision of a registered nurse, licensed in accordance with the state’s
+       Nurse Practice Act, and in accordance with the participant's plan of care as deemed
+       medically necessary by an authorized health care provider. Services are not allowable
+       when a participant is in an institutional setting.
+
+Occupational Therapy
+
+       Occupational therapy is a treatment used to restore or improve fine motor functioning.
+
+Pediatric Medical Day Care
+
+       Services furnished on an hourly basis, or as specified in the person-centered service
+       plan, in a licensed, integrated, community-based setting, encompassing both health
+       and social services needed to ensure the optimal functioning of the participant. Meals
+       provided as a part of these services shall not constitute a full nutritional regiment (3
+       meals per day).
+
+Peer Guidance for Participant-Directed Care
+
+       Peer guidance for participant-directed care is information, advice, and encouragement
+       provided by a peer to a participant with severe cognitive and/or severe physical
+       impairment to recruit, train, and supervise caregivers.
+
+Personal Care Services (PCS)
+
+       Active, hands-on assistance in the performance of Activities of Daily Living (ADLs) or
+       Instrumental Activities of Daily Living (IADLs) provided to the waiver participant in or
+       outside their home. Personal care services can be provided on a continuing basis or
+       on episodic occasions. Under no circumstances will any type of skilled medical
+       service be performed by an aide.
+
+Personal Emergency Response System (PERS)
+
+       This service involves installation of the Personal Emergency Response System
+                                                                                               28
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                    July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                 Covered Services
+
+
+
+
+       (PERS). The unit must have three components: 1. small radio transmitter (a help
+       button carried or worn by the user) 2. A console when emergency help (medical, fire,
+       or police) is needed 3. Emergency Response Center to determine the nature of the
+       calls. The service includes installation, participant instruction and maintenance of
+       devices/systems. The service includes monitoring. The response center is staffed by
+       trained professionals twenty-four hours a day, seven days a week
+
+Pest Control Treatment and Advanced Pest Control
+
+       Pest control includes services to remove pests, such as cockroaches, from
+       participant's residence. Services are provided based on the demonstrated need to
+       ensure participant's health, safety and welfare. Providers inspect participant’s
+       residence, confirm existent pests, and treat the residence (interior and exterior) to
+       eliminate infestation.
+
+       Pest control-advanced services aid in maintaining an environment free of bed bugs to
+       promote safety, sanitation, and cleanliness of the participant's residence. Once the
+       existence of bedbugs is established in the home, providers treat the residence to
+       eliminate infestation. The provider must return to the home and provide retreatment
+       as necessary within a one-year warranty time frame from the authorization of initial
+       treatment.
+
+       Service does not include snakes, termites, or rodent removal.
+
+Physical Therapy
+
+       Physical therapy (PT) is a treatment to prevent, alleviate, or compensate for
+       movement and/or mobility impairments, motor dysfunction, and related functional
+       problems resulting from physical injury or illness. It uses physical agents, mechanical
+       methods/devices, and other remedial treatments to restore or improve functioning.
+       The service includes evaluation, therapy sessions, and consultation with caregivers or
+       service providers. PT funded by HASCI waiver is an extended state plan service.
+
+Private Vehicle Modifications
+
+       Private vehicle modifications to a privately-owned vehicle is used to transport the
+       participant (e.g. installation of a lift, tie downs, lowering the floor of the vehicle, raising
+       the roof, etc.); limit of $7,500 per vehicle with a lifetime cap of 2 vehicles.
+
+Private Vehicle Assessment/Consultation
+
+       Private vehicle assessment/consultation is used to determine the specific
+       modifications/equipment, any follow-up inspection after modifications is completed,
+       and training in use of equipment for a private vehicle modification.
+
+Psychological Services
+
+       Psychological services address the affective, cognitive, and substance abuse
+                                                                                                     29
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                               July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                            Covered Services
+
+
+
+
+       problems of a HASCI waiver participant aged 21 years or older. This service includes
+       psychiatric, psychological, and neuropsychological evaluation; development of
+       treatment plans; participant/family counseling to address the participant’s affective,
+       cognitive, and substance abuse problems; cognitive rehabilitation therapy; and
+       alcohol/substance abuse counseling.
+
+Respite (In-Home)
+
+       Short-term services provided because a support person is absent or needs relief
+       provided in a person's home or apartment when relieving the support person is the
+       primary purpose of the service.
+
+       For CC, in-home respite will not exceed two days in any given week and eight days in
+       any given year.
+
+Institutional Respite Care
+
+       Short-term services provided because a support person is absent or needs relief.
+       Services expressly are not provided in a person's home or apartment when relieving
+       the support person is the primary purpose of the service.
+
+       For CC, this service is limited to 28 days of respite per year outside of the home. Of
+       those 28 days, no more than 14 days will be allowed in a hospital or nursing facility.
+
+Respite Care in a Community Residential Care Facility
+
+       Short-term services provided because a support person is absent or needs relief
+       provided in a Community Residential Care Facility (CRCF) when relieving the support
+       person is the primary purpose of the service.
+
+       Total patient days allowed per fiscal year (July 1 – June 30) is twenty-eight (28). This
+       includes any institutional respite days, if applicable.
+
+Specialized Medical Equipment, Supplies and Assistive Technology
+
+       Specialized medical equipment and supplies include: (a) devices, controls, or
+       appliances, specified in the plan of care, that enable participants to increase their
+       ability to perform activities of daily living; (b) devices, controls, or appliances that
+       enable the participant to perceive, control, or communicate with the environment in
+       which they live; (c) items necessary for life support or to address physical conditions
+       along with ancillary supplies and equipment necessary to the proper functioning of
+       such items; (d) such other durable and non-durable medical equipment not available
+       under the state plan that is necessary to address participant functional limitations;
+       and, (e) necessary medical supplies not available under the state plan. Items
+       reimbursed with waiver funds are in addition to any medical equipment and supplies
+       furnished under the state plan and exclude those items that are not of direct medical
+       or remedial benefit to the participant. All items shall meet applicable standards of
+       manufacture, design and installation. Items available in this service include nutritional
+
+                                                                                                30
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                               July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                            Covered Services
+
+
+
+
+       supplements and handheld shower.
+
+       Providers must fill orders from their own inventory or contract with other companies
+       for the purchase items necessary to fill the order. Providers must notify participants of
+       warranty coverage and honor all warranties under applicable state law, and repair or
+       replace free of charge SMA-covered items that are under warranty. In addition,
+       providers must employ adequate staff to coordinate service delivery, package
+       products according to service authorizations, and respond to complaints and
+       grievances received from participants.
+
+       This service is limited to additional services not otherwise covered under the state
+       plan, including EPSDT, but consistent with waiver objectives of avoiding
+       institutionalization.
+
+Skilled Respite
+
+       Respite services provided to participants unable to care for themselves and furnished
+       on a short-term basis because of the absence or need for relief of those persons who
+       normally provide care for the participant. Skilled respite services will be offered to
+       those children needing skilled care undersigned physician orders. For skilled respite,
+       either a RN or LPN may provide this service such as, checking vitals, administering
+       medication and medical supervision. Unskilled respite services will be offered to those
+       children with only unskilled care (ADL's and IADL's) needs provided by a personal
+       care aide.
+
+       The location(s) where respite care can be provided include, for example, the
+       participant's home or private place of residence, the private residence of a respite
+       care provider, a foster home, or a Medicaid certified hospital.
+
+Specialized Medical Equipment, Supplies and Assistive Technology
+Assessment/Consultation
+
+       Specialized medical equipment, supplies, and assistive technology
+       assessment/consultation may be provided (if not covered by Medicaid State Plan) to
+       determine specific needs related to the participant’s disability for which specialized
+       medical equipment and assistive technology will assist the participant to function
+       more independently.
+
+Speech and Hearing Services
+
+       Speech and hearing services funded by the HASCI waiver is an extended state plan
+       service. Speech and hearing services is a treatment to alleviate or compensate for
+       speech and hearing impairments resulting from physical injury or illness. It includes
+       the full range of activities provided by a licensed speech-language pathologist or a
+       licensed audiologist. The service includes evaluation, development of therapeutic
+       treatment plans, therapy sessions, training to use augmentative communication
+       devices, and consultation with caregivers or service providers. Medicaid State Plan
+       provides medically necessary private rehabilitative therapy and audiological services
+       to children under age 21 years. This includes speech-language pathology services
+                                                                                                31
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                               July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                            Covered Services
+
+
+
+
+       and audiology services. The HASCI waiver makes the same benefits available to
+       adults aged 21 years and older.
+
+Support Center Services
+
+       Support center services include non-medical care, supervision and assistance
+       provided in a non-institutional, group setting outside of the participant’s home to
+       individuals who, because of their disability, are unable to care for and supervise
+       themselves. Services provided are necessary to prevent institutionalization and
+       maintain the participant’s health and safety. The care, supervision and assistance will
+       be provided in accordance with a plan of care. An array of non-habilitative activities
+       and opportunities for socialization will be offered throughout the day but not as
+       therapeutic goals. Activities can occur in natural settings that do not isolate
+       participants from others without disabilities.
+
+       Transportation will be provided from the individual’s residence to the service provision
+       site when the service starts before 12:00 noon. Transportation will be available from
+       the individual’s service provision site to his/her residence when the service start time
+       is after 12:00 noon. The cost for transportation is included in the rate paid to the
+       provider.
+
+Transition Coordination
+
+       Transition coordination is to provide assistance with the transition process to Home
+       Again participants. The transition coordination service will support the participants to
+       make a successful transition into the community. The transition coordination service
+       will also ensure continued access to appropriate and available services for
+       participants to remain in the community. Transition coordination is available as a
+       Home Again grant funded service.
+
+Tele-Monitoring
+
+       Monitoring service utilizing technologies which measure and report the health status
+       of at-risk waiver participants. This is done remotely by utilizing either existing
+       telephone infrastructure or wireless communication technology in collecting and
+       transmitting physiological data between the provider and participant. Monitoring is the
+       primary purpose of this service. Remote monitoring will assist the individual to fully
+       integrate into the community, participate in community activities, and avoid isolation.
+
+       Participants receiving the telemonitoring service must have a primary care physician
+       that approves the use of the telemonitoring service and is solely responsible for
+       receiving and acting upon the information received via the telemonitoring service.
+
+       Telemonitoring equipment located in the participant’s home must, at a minimum, be
+       an FDA Class II Hospital grade medical device that includes a computer/monitor that
+       is programmable for a variety of disease states and for rate and frequency. The
+       equipment must have a digital scale that measures accurately to at least 400 lbs. that
+       is adaptable to fit a glucometer and a blood pressure cuff. All installed equipment
+       must be able to measure, at a minimum, blood pressure, heart rate, oxygen
+                                                                                                  32
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                              July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                           Covered Services
+
+
+
+
+       saturation, blood glucose, and body weight. Telephones, facsimile machines, and
+       electronic mail systems do not meet the requirements of the definition of
+       telemonitoring but may be utilized as a component of the telemonitoring system. As
+       communication of data occurs at scheduled daily "appointment times" and the
+       information collected/sent is neither visible to others or remains stored on the device,
+       the participant maintains constant control of their personal information within the
+       residential environment.
+
+Unskilled Respite
+
+       In-home respite services provide temporary care in the home for Medically Complex
+       Children and PCSC waiver participants living at home and cared for by their families
+       or other informal support systems. These services maintain participants and provide
+       temporary relief for the primary caregivers.
+
+
+
+
+                                                                                               33
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                         July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                              Utilization Management
+
+
+
+
+6 UTILIZATION MANAGEMENT
+For general policies regarding Program Integrity, Utilization Management, Fraud, Waste and Abuse
+providers must refer to the Provider Administrative and Billing Manual.
+
+Prior Authorization
+
+   Authorization of Services
+
+       Services must be prior authorized by the case manager or care coordinator based on the
+       participant’s plan of service. Prior authorizations are required for all waiver services. For
+       SCDHHS operated services, authorization will be transmitted to the provider by the
+       completion of an SCDHHS Service Provision Form (DHHS Form 175). Accompanying the
+       authorization will be a copy of the plan of service and, if appropriate, a copy of the
+       physician’s order.
+
+       (For an example of this form, please see the Forms information located on the provider
+       portal.) For SCDDSN-operated waiver services, authorization will be transmitted through
+       Therap.
+
+   Participant Choice of Providers
+
+       SCDHHS-operated waiver participants are required to choose a service provider from a
+       Service Provider Report, which lists available providers of each service for the participant’s
+       waiver of participation. The Participant Choice of Provider(s) Form will identify the referring
+       entity and SCDHHS provider(s) already involved in the care of the participant. The following
+       services require a preferred provider to participate in a bid process and are excluded from
+       this policy: Environmental modifications, ramps, vehicle modifications. For bid process
+       services, the provider submitting the lowest bid will be awarded the referral. If the provider
+       submitting the lowest bid cannot provide the service, the referral will be awarded to the next
+       lowest bidder.
+
+   Authorization Periods
+
+       Authorizations will be issued for all SCDHHS and SCDDSN services indicating the beginning
+       date of the service, the days of the week that the service will be provided, and the number of
+       units of service to be provided. Frequency varies depending on the type of service. Please
+       see scope of service for authorization guidelines for each service. The hours of service will
+       be indicated only if specific times are essential to meeting the participant’s service needs.
+       For SCDHHS personal care and companion services, the authorization will designate that
+       the service is to be provided during the morning, afternoon, or evening. If the authorization
+       indicates multiple times of day this indicates that the participant requires services more than
+       one time a day. The authorization period ending date may or may not be indicated on the
+       service provision form. Authorizations without an ending date will be valid until a revised
+       service provision form is issued to the provider.
+                                                                                                          34
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                          July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                               Utilization Management
+
+
+
+
+   Changes in Services Within an Authorization Period
+
+       If the participant’s needs change during an authorization period, a revised service provision
+       form will be sent to the provider. Changes in frequency of a particular service do not require
+       a new physician’s order.
+
+   Interruption of Services
+
+       Previously authorized services will be placed on hold if the participant enters a hospital or
+       institution for a temporary stay or temporarily chooses not to receive services. The
+       interruption of services does not require a revised service provision form unless the service
+       is to be interrupted for a full calendar month.
+
+   Termination of Authorized Services
+
+       Service must be officially terminated whenever it is determined that the participant no longer
+       requires an authorized service, becomes either medically or financially ineligible or has not
+       received a service within thirty (30) days. Both the participant and the provider must be
+       notified of the termination of services. This verbal notification must be followed with a written
+       confirmation of termination of the service.
+
+   Prior Authorization for Hospice Participants
+
+       In certain situations, Medicaid beneficiaries receiving the State Plan hospice benefit may
+       receive some waiver services. Prior authorization by the hospice provider is required in
+       cases where waiver services are authorized for Medicaid hospice beneficiaries. The prior
+       authorization number must be placed on the claim for the provider to receive reimbursement.
+       The case manager obtains the prior authorization number from the hospice provider and
+       gives it to the provider of the authorized service. Providers submitting hard copy CMS-1500
+       claims must place the prior authorization number in field 19. Providers submitting claims
+       electronically by diskette or magnetic tapes will place the prior authorization number in field
+       10. Providers who receive the 976 edit (hospice beneficiary/service requires prior approval)
+       may resolve the edit by submitting a new claim with the corrected information.
+
+       For specific information regarding DDSN waiver services, please see https://ddsn.sc.gov/.
+
+
+
+
+                                                                                                           35
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                     July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                      Reporting and Documentation
+
+
+
+
+7 REPORTING/DOCUMENTATION
+       General policies for Medicaid beneficiaries’ health records requirements and documentation
+       are detailed in the Provider Administrative and Billing Manual. In addition to the general
+       policies, HCBS providers must comply with specific policies for participant and employee
+       records requirements and documentation in their Scopes and Standards.
+
+HIPAA Confidentiality Requirements
+
+       Providers must maintain records per the HIPAA Confidentiality Requirements as outlined in
+       the Administrative and Billing Manual. Records must be maintained in a secure manner to
+       ensure the maintenance of confidentiality.
+
+Signature Policy
+
+       The signature of the provider rendering or authorizing the services may be handwritten,
+       electronic or digital. Stamped signatures are unacceptable. For acceptable electronic
+       signatures, refer to the SCDHHS Provider Administrative and Billing Manual, section
+       “Electronic Signatures”.
+
+Electronic Record Keeping
+
+       Providers can utilize electronic record keeping methods. Providers must ensure that they
+       utilize a backup storage system. The provider must also ensure that all scopes requirements
+       can be met in the electronic record-keeping system.
+
+Mandatory Reporter
+
+       In accordance with the S. C. Code of Laws, § 43-35-25, HCBS providers and their staff are
+       mandatory reporters of abuse, neglect or exploitation of vulnerable adults. Allegations must
+       be reported to the South Carolina Department of Social Services (SCDSS) within twenty-four
+       (24) hours or within the next business day of receipt of the allegation or of witnessing the
+       abuse, neglect or exploitation. Reports must be made in writing, or orally by telephone or
+       otherwise.
+
+       HCBS providers and their staff are also mandatory reporters of abuse, neglect, or
+       exploitation of children when in a professional capacity under S.C. Code of Laws, § 63-7-
+       310. HCBS providers and their staff must report any information received that suggests the
+       following:
+
+           •   The reporter believes a child has been or may be abused or neglected as defined in
+               § 63-7-20
+
+           •   The reporter believes a child’s physical or mental health or welfare has been or may
+               be adversely affected by acts or omissions considered to be child abuse or neglect if
+               committed by a responsible party (parent, guardian, or other person responsible for
+                                                                                                      36
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                     July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                      Reporting and Documentation
+
+
+
+
+               the child’s welfare), but the acts or omission were committed by a person other than
+               a responsible party. The reporter must notify the appropriate law enforcement
+               agency.
+
+       Reports of child abuse or neglect may be made orally by telephone or otherwise to the
+       Department of Social Services county office or to a law enforcement agency in the county
+       where the child resides or is found.
+
+
+
+
+                                                                                                      37
+HOME AND COMMUNITY-BASED SERVICES MANUAL                                                       July 1, 2024
+SOUTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES                                   Billing Guidance
+
+
+
+
+8 BILLING GUIDANCE
+Electronic Visit Verification (EVV) and Phoenix Billing Procedures and Service
+Monitoring
+
+       The provider must agree to participate in all components of SCDHHS’ Electronic Visit
+       Verification (EVV) system or Phoenix monitoring and payment system when providing
+       services for participants of the CC, HIV/AIDS, Vent, and MCC waivers. The EVV system is
+       an automated system used for service documentation and Medicaid Management
+       Information System (MMIS) billing. Phoenix is a system that is used for service monitoring,
+       web-based reporting, and billing to MMIS.
+
+       For monitoring of service delivery and reporting, real-time reports allow providers, case
+       managers, and/or nurses to monitor participants more closely to ensure receipt of services.
+       The EVV system generates electronic billing to MMIS for services provided 6 days a week.
+       Only authorized services and the total units provided (up to the maximum
+       authorization) are submitted to MMIS for payment. If resolutions are submitted for billing
+       through Phoenix, they must be uploaded in Phoenix within 2 weeks of service delivery to
+       receive payment without a worker strike per the Strike Policy. This billing ensures accuracy
+       of claim processing.
+
+       SCDHHS reserves the right to perform onsite reviews during normal business hours to
+       ensure compliance with policies and procedures.
+
+Medicaid Web-based Claim Submission Tool Billing Procedures
+
+       The ID/RD, CS and HASCI waivers currently do not require the use of the EVV billing system
+       and claims may be submitted electronically via the South Carolina Medicaid Web-based
+       Claim Submission Tool.
+
+       Providers will be required to bill claims on this website in a timely manner. Claims, at a
+       minimum, must be entered into the website within the quarter after the date of service. In all
+       cases, services documented are compared with prior authorizations in the system to
+       determine if the services were provided appropriately. Claims rejected for payment must be
+       resubmitted through the local SCDHHS area office.
+
+       For additional information regarding billing please see the following:
+
+       Strike Policy
+
+       Medicaid Web Tool Training
+
+
+
+
+                                                                                                        38
+

@@ -1,0 +1,105 @@
+Autoregistro del ID del dispositivo
+AuthentiCare® 3.0
+
+
+
+                                                                                                                               Last Updated: 3/16/2026
+© 2025 First Data Government Solutions/Fiserv. All Rights Reserved. All trademarks, service marks and trade names referenced in this material are the property of their
+respective owners.
+Document Version: 10.11, Revision Date: 01/21/2026.
+                                                                            AuthentiCare® 3.0 – Autoregistro del ID del dispositivo
+
+
+Bienvenido a AuthentiCare 3.0!
+Por favor, siga las siguientes instrucciones para iniciar sesión en la nueva aplicación móvil.
+
+      1. Abra la aplicación móvil AuthentiCare 3.0 e ingrese su ID del trabajador y contraseña.
+
+
+      2. Haga clic en ‘Ingresar.’
+
+
+
+
+             Si tiene una dirección de correo electrónico válida registrada en AuthentiCare, al ingresar
+             sus credenciales recibirá un mensaje en la pantalla de la aplicación indicando que se ha
+             detectado un nuevo dispositivo.
+
+© 2026 First Data Government Solutions/Fiserv. All Rights Reserved. All trademarks, service marks and trade names referenced in this material are the property of their
+respective owners.                                                                                                                                                        2
+                                                                            AuthentiCare® 3.0 – Autoregistro del ID del dispositivo
+
+
+      3. Haga clic en ‘Continuar’ para recibir un nuevo PIN por correo electrónico y autenticar
+         su dispositivo.
+
+
+
+
+             Recibirá un correo electrónico automatizado en la dirección de correo electrónico
+             registrada en el perfil del trabajador. Ese correo electrónico contiene un PIN de seis
+             dígitos.
+
+
+
+
+      4. Deberá ingresar el PIN de seis dígitos en la pantalla de la aplicación y hacer click en
+         “Enviar.”
+
+
+
+
+© 2026 First Data Government Solutions/Fiserv. All Rights Reserved. All trademarks, service marks and trade names referenced in this material are the property of their
+respective owners.                                                                                                                                                        3
+                                                                            AuthentiCare® 3.0 – Autoregistro del ID del dispositivo
+
+
+
+
+             Al hacer clic en “Enviar” con el nuevo PIN, el sistema asociará el ID del dispositivo
+             actual a su perfil del trabajador en AuthentiCare.
+
+             Además, se enviará un segundo correo electrónico automatizado de confirmación del
+             cambio a la dirección de correo electrónico oficial asociada a su perfil del trabajador.
+
+
+
+
+             Deberá elegir si desea habilitar el inicio de sesión biométrico, o puede hacer clic en
+             “Cancelar.”
+
+
+
+
+© 2026 First Data Government Solutions/Fiserv. All Rights Reserved. All trademarks, service marks and trade names referenced in this material are the property of their
+respective owners.                                                                                                                                                        4
+                                                                            AuthentiCare® 3.0 – Autoregistro del ID del dispositivo
+
+
+             Al completar estos pasos, será dirigido a la página de inicio para establecer una sesión
+             en AuthentiCare 3.0.
+
+
+
+
+             NOTA: Al momento de buscar el apellido del cliente en AuthentiCare, usted podrá
+             ingresar las primeras letras del inicio del apellido. Por ejemplo, es posible ingresar
+             “Gonz” o “Gonza”, etc., para buscar a una persona de apellido “González”.
+
+
+                        Recordatorio importante: Tras la migración a la aplicación 3.0, los
+                        usuarios ya no podrán acceder a la aplicación 2.0, incluso con un ID de
+                        trabajador y contraseña válidos (vea la captura de pantalla a
+                        continuación).
+
+
+
+
+             Por favor, comuníquese con su contacto de su agencia si tiene alguna pregunta o
+             dificultad.
+
+
+
+© 2026 First Data Government Solutions/Fiserv. All Rights Reserved. All trademarks, service marks and trade names referenced in this material are the property of their
+respective owners.                                                                                                                                                        5
+

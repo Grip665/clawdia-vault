@@ -1,0 +1,281 @@
+4/23/2020
+            Creating an Assessment
+  From the Participant’s dashboard, click “Assessment”
+
+
+
+
+4/23/2020
+            Creating an Assessment
+  Click “Create a New Assessment”
+
+
+
+
+4/23/2020
+             Creating an Assessment
+  Clicking the “Question Mark” icon will display general instructions on
+     how to create an assessment
+
+
+
+
+4/23/2020
+                Creating an Assessment
+  From the “Assessments” screen, select program from drop box. Note: Only the programs
+     with an open “Application” will be displayed as a choice
+  Enter date in the “Assessed on” Field
+  Select the appropriate “Assessment Type” (Face to Face, Phone, or Paper Review)
+  Click “Create Assessment” Note: Assessments are tailored to the program (i.e. HIV
+     has all sections, NHT has less sections)
+
+
+
+
+4/23/2020
+            Creating an Assessment
+  The “Assessment” screen contain tabs and sub tabs
+  On the Assessment screen, ALL the red lights for each tab
+     must be green in order to have a completed assessment
+
+
+
+
+4/23/2020
+            Creating an Assessment
+  At the bottom of each Assessment tab, there are two options:
+       “Save”- Save function allow the user to save the data entered, make edits,
+        visit other sections, and complete the assessment later. Note: The lights
+        will remain red until the section is “Save and Complete”
+       “Save and Complete” - Saves data on each completed Assessment tab.
+        The lights will turn green when the section is “Save and Complete” Note:
+        Edits can be made to Assessment tabs until the Assessment is signed
+        and saved
+
+
+
+
+4/23/2020
+                 Assessment-Medical
+  Under the Medical tab of the Assessment, there are 3 sub tabs:
+       •“Diagnoses/Conditions”
+       •“Treatments and Therapies”
+       •“Risk Factors”
+
+  Any previous diagnoses will be displayed in the “Previous” section
+  Information regarding participant’s vitals can be entered under the “Current
+     Data” section
+
+
+
+
+4/23/2020
+                   Assessment-Medical
+  The participant’s past vital data is displayed in the “Past Data” section
+  Participant’s height and weight can be entered in the “Height and Weight” section
+  Previous height and weight data will be displayed in the “Past Height and Weight”
+     section
+
+
+
+
+4/23/2020
+                   Assessment-Medical
+  The participant’s past vital data is displayed in the “Past Data” section
+  Participant’s height and weight can be entered in the “Height and Weight” section
+  Previous height and weight data will be displayed in the “Past Height and Weight”
+     section
+
+
+
+
+4/23/2020
+                 Assessment-Medical
+  Any previous information will be displayed
+  Information regarding participant’s vitals can be entered under the “Current
+   Data” section
+  Comments can be made in the “Comments” section
+  Enter appropriate information for each sub tab then click “Save” or “Save and
+   Complete” for each sub tab
+
+
+
+
+4/23/2020
+            Assessment-Skin/Nutrition
+  Under the “Skin/Nutrition” tab of the Assessment, there are 2 sub tabs:
+       Nutrition
+       Skin Condition
+  Previous information will be displayed if any
+  Comments can be made in the “Comments” section
+  Enter the appropriate information for each sub tab then click “Save” or “Save
+     and Complete” for each sub tab
+
+
+
+
+4/23/2020
+            Assessment-Skin/Nutrition
+  Under the “Skin Condition” sub tab, a front and back diagram of the human body
+   is available to mark any skin condition
+      Click on skin condition below then mark on the body where the occurrence is
+        present. Note: Whatever Skin condition is marked on the body, it MUST
+        be selected on the Skin Condition menu below
+  Previous information will be displayed if any
+  Comments can be made in the “Comments” section
+  When finish, click “Save” or “Save and Complete”
+
+
+
+
+4/23/2020
+                  Assessment-ADLs
+  Under the ADLs tab of the Assessment, there are 7 sub
+     tabs:
+       Transfer
+       Locomotion
+       Bathing
+       Dressing
+       Toileting
+       Eating
+       Bowel/Bladder
+  Enter the appropriate information in the fields. Note: A
+     rating MUST be entered for each ADL in order for an
+     assessment to be complete
+
+4/23/2020
+                   Assessment-ADLs
+  Select the appropriate “Rating” and/or “Conditions” for each “ADL” sub tab
+  Previous information will be displayed if any
+  Comments can be made in the “Comments” section
+  Click “Save” or “Save and Complete” Note: “Save and Complete” function
+     will turn the lights green
+
+
+
+
+4/23/2020
+             Assessment-
+        Communication/Psychosocial
+  Under the ADLs tab of the Assessment, there are 7 sub
+     tabs:
+       Communication
+       Vision
+       Memory
+       Cognitive
+       Mood/Behavior
+       Problem Behavior
+       MSQ
+  Enter the appropriate information in the fields.
+
+4/23/2020
+                  Assessment-
+            Communication/Psychosocial
+  Previous information will be displayed if any
+  Comments can be made in the “Comments” section
+  Click “Save” or “Save and Complete” Note: “Save and Complete” function
+     will turn the lights green
+
+
+
+
+4/23/2020
+                Assessment-IADLs
+  Under the IADLs tab of the Assessment, there is only 1
+     sub tab:
+       IADL
+
+
+
+
+  Enter the appropriate information in the fields.
+
+
+4/23/2020
+                  Assessment-IADLs
+  Previous information will be displayed if any
+  Comments can be made in the “Comments” section
+  Click “Save” or “Save and Complete” Note: “Save and Complete” function
+     will turn the lights green
+
+
+
+
+4/23/2020
+               Assessment-Review
+  The Review Section is a reminder to the user to visit Participant Information,
+   Medication, Caregiver Supports, Home Assessment and Budget section. Note:
+   These sections may have an impact on the Participant’s Level of Care
+  Click “Save” or “Save and Complete” Note: “Save and Complete” function
+   will turn the lights Green
+  Selecting “Save and Complete” function in the Assessment “Review” section
+   is confirming that the sections have been visited
+
+
+
+
+4/23/2020
+                 Assessment-
+     Source of Information/Level of Care
+  The “Level of Care” section is locked until all lights are Green in the Assessment
+  Under the Source of Information/LOC tab of the Assessment, there is only 1 sub tab:
+       General
+    Enter the appropriate Source of Information
+    A recommended Level of Care is displayed. Note: A different Level of Care may be selected.
+    Enter “Level of Care”
+    Enter “Level of Care Date”
+
+
+
+
+4/23/2020
+                 Assessment-Signature
+  The assessor fills out the “Assessor Signature and Date” field then the
+   reviewer fills out the “Review Signature and Date” field. Note: The assessor
+   can not complete the assessment until the reviewer signs in the “Review
+   Signature and Date” field.
+  Once the Assessor and Review has signed and dated, click “Save” or “Save and
+   Complete” “Save and Complete” function will turn the light green
+  Not using the recommended LOC may require a 3rd signature from Central
+   office
+
+
+
+
+4/23/2020
+             Assessment-Signature
+  The Assessor and Reviewer do not have to sign the
+   Assessment from the same computer.
+  Once the Assessor signs the “Assessor Signature and
+   Date” field then the Review can open the assessment and
+   sign the “Review Signature and Date” field from another
+   computer
+  Once the “Review Signature and Date” is signed, click
+   “Save and Complete”
+
+
+
+
+4/23/2020
+                          Assessment
+  Once Assessment is completed, the options are:
+     “Review”
+       “View PDF”
+       “Create Service Plan”, “Edit Service Plan” or “View Service Plan”
+
+
+
+
+4/23/2020
+                                  Assessment
+  Any Assessment that is incomplete will be displayed
+  Incomplete Assessments options are:
+       Edit
+       View PDF
+               Viewing PDF files requires a password (The Participant’s CLTC Number)
+
+
+
+
+4/23/2020
+

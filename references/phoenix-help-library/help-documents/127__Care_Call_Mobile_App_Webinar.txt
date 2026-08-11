@@ -1,0 +1,289 @@
+Care Call Mobile Application
+      (Authenticare)
+                                  Provider Webinars
+                                   March 16, 2016
+                                   March 18, 2016
+
+                                    Presented by
+                               Community Long Term Care
+                                         And
+                                      First Data
+    Objectives
+
+
+
+
+The objectives of this meeting are to:
+•   Provide a brief overview of Care Call
+•   Provide training on the Care Call mobile
+    application
+•   Address provider concerns
+   Care Call History
+
+
+
+
+Care Call was implemented in October, 2002
+as an IVR system that:
+• Provided prior approval for CLTC waiver
+   services
+• Allowed providers to document service
+   delivery by calling a phone number to check
+   in/out
+• Submitted claims to MMIS on behalf of
+   providers
+• Allowed providers to do reporting
+Biggest challenge in 2002
+
+     ROTARY PHONES
+  and Care Call required a
+    touch tone phone
+ Care Call 2016
+
+
+
+
+Care Call 2016
+• Provides prior approval for CLTC waiver
+   services
+• Allows providers to document service
+   delivery by calling a phone number to
+   check in/out
+• Allows providers to document service
+   delivery by using a smart phone mobile
+   application (Authenticare)
+Biggest challenge
+     in 2016
+    •    No rotary phone
+•       No touchtone phone
+•       No stationary phone
+            in the home
+2016 Challenges
+
+
+
+
+Causes of the 2016 Challenges
+
+• Trend away from landlines toward use
+  of cell phones
+• Acceleration of free cell phones
+• Smart phones and tablets becoming
+  common
+    2016 Challenge
+
+
+How CLTC is addressing the 2016 Challenge
+
+• Development of a mobile application with the Care Call
+  vendor, First Data
+• Providers were informed of the mobile app in 2013
+  during CLTC regional training sessions
+• An Android version of the mobile app was implemented
+  in 2014 while work continued on the iPhone app
+• Providers were informed when the iPhone app
+  becomes available, the mobile app will be required for
+  participants without a landline phone
+• Memo to providers on 12/3/15 with notification that
+  the iPhone app is now available and will be required
+  effective 04/01/16
+December 3 Memo
+  Care Call Mobile App
+
+
+
+
+What providers need to do:
+• Review the manuals located in Phoenix
+  Provider Portal (there is a different manual
+  for Android and iPhone)
+• Set up workers and devices in Phoenix
+• Train workers
+ Registering Workers in
+ Phoenix Provider Portal
+
+ The following slides are in
+the Mobile App User Guide
+    Mobile App
+Walkthrough and Tips
+Device Requirements
+
+
+
+
+Go Forward Device Requirements
+ •     Only iPhone and Android phones are supported
+ •     10 MB of storage for AuthentiCare; up to 300 MB of storage for
+       Google Play services
+ •     Data consumption: Less than 5MB/Mo.
+              (3 visits/day, 5 days per week)
+ •     Q/R code read app installed (usually standard)
+ •     Android phone must be version 4.4 or higher (Heartbleed fix)
+              (Some Providers running Android 4.1)
+ •     Android must have Google Play Services installed, enabled, and
+       fully up to date (Settings -> Apps) – should come with phone
+ •     iPhone must be iOS 8.0 or greater
+              (Latest version recommended.)
+       Downloading the App
+
+
+
+       Downloading the Mobile App
+        Android                                            iOS
+
+    • Phone settings must allow                            •   Install from the Apple app store
+      “non-market” apps to install                         •   Start the app
+    • Navigate web browser to:                             •   Accept free license agreement
+https://www.authenticare.com/scdhhs/mobile/download.html   •   Enter setup code
+    • Accept free license agreement
+    • Download and install
+    • Start the app and enter setup code
+
+
+
+                                      Codes:
+                                      Production – SCDHHSPRD
+                                      Training -- SCTRAINPRD
+       Mobile Security
+
+
+
+Finding Device Id to put into Phoenix
+Android                                         iOS
+• Go to Mobile App Login page               • Go to Mobile App Login page
+• Find and press Android menu button        • Find and press information icon
+(Consult phone manual – Samsung hides.)     • Device Id appears at bottom of display
+• Device Id appears at bottom of display    • Enter into Phoenix exactly as displayed
+• Enter into Phoenix exactly as displayed     (e.g. 0A88817C-261D-495E-B1BE-D0FE06E8AC23)
+   (e.g. A1000020B7FB47                     • 36 character Hexadecimal with hyphens
+         99000213309510)                      (Uses “0” and “1”, NOT “O” or “I”)
+• Usually 14 character Hexadecimal          • If App is deleted and re-installed, Apple
+   (Uses “0” and “1”, NOT “O” or “I”)         generates a different device id.
+ Training Environment
+
+
+
+Training System Adaptations for Mobile
+ • Automatic setup: Device Id’s copied from Production every 20 minutes
+       during the business day. (No device id or worker set up needed.)
+ • Training scenarios shared statewide for all users.
+ • 30 minute checkout window. Scenario self clears every 30 minutes.
+ • Multiple sets of same scenarios for common services (e.g. In-Home Agency)
+ • Phone location is simulated – does not use actual GPS coordinates
+ • All scenario worker id passwords are Pass22!!
+ • User can lock themselves out or change passwords. Both are reset every
+       20 minutes during the business day.
+ • Some presentation differences between IVR, Android, and iOS
+  In-Home Agency Services
+
+  First Four Digits of   Last Four Digits of   Sample      Training Scenario                Client Names, CLTC Numbers, and
+  Worker Id              Worker Id             Worker Id                                    Authorized Services
+
+  0010 - 0019            1111 – English        00121111    One client with authorized       Mary Brown     Personal Care 2
+                         2111 – Spanish                    service in the home.             1111011
+
+  0010 - 0019            1112 – English        00121112    Two clients with an authorized   Mary Brown     Personal Care 2
+                         2112 - Spanish                    service in the home.             1112011
+
+                                                                                            Joe Brown      Personal Care 2
+                                                                                            1112012
+    Mobile App Workflow
+
+
+
+  Using AuthentiCare Mobile App
+                                   Start of day:
+                Start of           • Establish daily session
+               Day Login           • Download Worker profile
+                                   • Initialize app configuration
+
+                          No Data Service          Tips and notes for best use:
+                                                   • Try to use where there is signal
+                                                    (Step out onto porch or stoop if needed)
+                                                   • GPS works like satellite radio
+                                                    (Best fix when there is view of the sky)
+Check In and                Check In and           • If indoors stand near a window
+ Check Out                   Check Out             • Beware of “Faraday cages”
+                                                    (Metal buildings or aluminum trailers)
+
+
+                                   End of day:
+                                   • Upload queued check ins
+               End of Day             and check outs.
+                                   • Session expires at 2:00 AM
+           Q/R Card
+
+
+Q/R Card                                          Sample Letter and Card:
+
+Use: Clients with no land line or cell coverage
+     Worker needs to check in and out with
+      no data service available
+     Card stays in Client home
+     Worker scans card at check in and out
+
+Process:
+• Option to order card is presented to the
+    worker when checking in or out
+• Worker orders card from Mobile App
+• Worker explains card to Client or family
+    member
+• Card arrives in US Mail 5-10 days later
+• Client uses magnet to attach to
+    refrigerator or somewhere handy
+• Worker scans card at check in and
+    check out
+
+NOTE: If you are using a cell phone to check
+ in and out today, you should have data
+ coverage and not need a Q/R card.
+Using The App
+   Tips and Tricks
+
+
+Key Tips, Tricks, and Notes
+  • Get both your phones and workers registered in Phoenix now
+
+  • Use the menu button on the phone to get the Device Id in the app
+     (NOT the “about this phone” page in settings)
+  • Device Id’s have 0’s and 1’s, NOT O’s and I’s. Apple Id’s have hyphens.
+
+  • On Android, when the user changes password on the phone during the
+     work day, the OLD password works for the rest of the day. The new
+     password takes over the next day. (This will be changed in new release.)
+  • On iOS, user password changes take effect immediately.
+
+  • Always log into the app in an area where you have good data signal at the
+      beginning of the day and the end of the day.
+  • If you don’t have data connection when you want to check in or out, try
+       to move somewhere where you do connect. Step outside if necessary.
+
+  • Practice, practice, practice on the Training site. There are scenarios for
+      all the main types of services.
+
+  • Report problems so we can fix them and make this successful.
+ Mobile Support
+
+
+
+First Data Mobile Support
+    • Access: Phone: 800-441-4667
+              Email: AuthentiCare.Support@firstdata.com
+    • Please be prepared to provide:
+              Name and call or email back contact information
+              Description of the problem or question
+              Date/time of problem
+              Phone model number, Android or iOS version
+              AuthentiCare app version
+              Connected to data or not when problem occurred
+              Location of issue (office, home, outdoors, etc.)
+              Worker id
+              CLTC number
+    • Response:
+              Initial responder handles simple questions
+              More complex issues escalated to Tier 2 or 3 or
+                the Product Team
+              Severe issues (e.g. outages) addressed immediately
+              Initial response to other issues within 24 hours
+Questions
+

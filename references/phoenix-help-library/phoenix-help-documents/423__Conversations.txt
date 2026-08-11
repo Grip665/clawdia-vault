@@ -1,0 +1,65 @@
+             Conversations
+
+
+
+
+10/16/2020
+                            Conversations
+Creating a Conversation the Dashboard
+▪ Users that have a Participant dashboard can send communication to assigned providers
+  state staff through Phoenix.
+▪ From the “Active Applications” section, click the Conversations icon   to create or
+  respond to a conversation.
+                                     Conversations
+
+▪ Select the service from the drop-
+  down list
+▪ Subject field will be prefilled;
+  subject line can be edited
+▪ Click “Add Party” to include any
+  user(s) to the conversation
+     ▪   Select user from drop down list
+▪ Type comments in the
+  “Message” section then click
+  “Send”
+                              Conversations
+
+▪ Message will be displayed
+  in the “Inbox” section
+▪ User can repeat the
+  previous steps and send
+  another message
+▪ Conversations can be
+  removed by clicking
+  “Archive”
+                          Conversations
+Viewing Conversations from the Narrative
+▪ From the “Narrative” section, Conversation(s) will be displayed
+▪ Click Checklist drop down arrow to view comment(s)
+                        Conversations
+Alternative way to create a Conversation
+▪ Users that do not have a Participant dashboard can send a
+  conversation from the “Narrative” tab
+▪ From the Participant’s narrative, click “Conversations”
+                                Conversations
+
+▪ Any conversation can be
+  filtered by entering the
+  (Provider #, Start Date, or End
+  Date), then click “Search”
+▪ To create a conversation
+  click “New Conversation”
+                                     Conversations
+
+▪ Select the service from the drop-
+  down list
+▪ Subject field will be prefilled;
+  subject line can be edited
+▪ Click “Add Party” to include any
+  user(s) to the conversation
+     ▪   Select user(s) from drop down
+         list
+▪ Type comments in the
+  “Message” section then click
+  “Send”
+

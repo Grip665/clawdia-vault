@@ -1,0 +1,20 @@
+                                Adding a Claim
+ From the Phoenix “Home”
+  screen. Click “Add a Claim”
+                          Adding a Claim
+ From the Phoenix “Add Claims” screen. Users can enter the default information. Click
+  “Apply Defaults”
+ Any default information entered will auto populate in the claim entry section below.
+ Enter all or the remaining information that was not auto populated
+     (Sub Service for CM services, Check in, and Check out times).
+ Units will calculate automatically. Select “Save” under the “Action” dropdown box
+ If finished, click “Submit”.
+                            Adding a Claim
+ If another claim needs to be added for the worker, click “Add Claim”
+ A new claim entry line will be displayed. Default information from the first entry will auto
+  populate in the new claim entry line
+ When the claim information for all services have been entered, click “Submit”
+                           Adding a Claim
+ Once completed, user will see a confirmation screen with the claims that have been created.
+ Users can print screen information for documentation purposes.
+

@@ -1,0 +1,415 @@
+       Optional Supplemental Care for Assisted Living Participants (OSCAP) Services
+                             Internal Policies and Procedures
+
+
+The Optional Supplemental Care for Assisted Living Participants (OSCAP) service provides
+additional reimbursement to facilities that aid with personal care for Optional State
+Supplementation (OSS) residents who meet the medical criteria required for participation.
+
+Confidentiality
+
+Information about Medicaid applicants and recipients shall be safeguarded in accordance with
+the provisions of the Department of Health and Human Services regulations governing
+confidentiality and HIPAA (Regulations 126-170, et, seq., Refer to local CLTC office
+procedures). Confidential information includes, but is not limited to:
+
+1. The name and address of the individual served, and the service received.
+2. Medical data, including diagnosis and history of disease or disability.
+3. Agency evaluation of information about a person.
+4. The identity of persons or institutions that furnished health services to a person.
+5. The social and economic conditions or circumstances of any person served.
+6. Federal program information identified as confidential by the appropriate federal authority.
+
+OSCAP Referral and Intake
+
+Referral Sources for new OSCAP referrals
+
+A referral to the Optional Supplemental Care for Assisted Living Participants (OSCAP) services
+may originate from sources such as:
+
+   •    OSCAP enrolled CRCF (Community Residential Care Facility)
+
+CRCFs with an OSCAP contract should refer all OSS residents to OSCAP. Due to the large
+volume of OSS residents in OSCAP contracted CRCFs, the SCDHHS regional nurse contacts the
+CRCF administrator prior to anticipated assessment completion to prompt the administrator of
+their future visit.
+
+Referral Process
+
+Referrals for the OSCAP service may be submitted electronically via the following link:
+https://phoenix.scdhhs.gov/eref/electronic_referrals/new
+
+Select reason for referral: OSCAP
+
+To expedite the referral process, SCDHHS encourages electronic completion of referrals. By
+using electronic referral system, demographic information is captured earlier, which initiates the
+client assessment process.
+
+Referrals may also be made at the county Medicaid eligibility office. Phone referrals will also be
+accepted utilizing the following number: Phone: 888-971-1637
+
+1 OSCAP Policy and Procedures
+      Optional Supplemental Care for Assisted Living Participants (OSCAP) Services
+                            Internal Policies and Procedures
+
+
+OSCAP Intake Criteria
+
+The following criteria must be met for a participant to be considered appropriate for intake:
+
+   1. Must be an OSS participant
+   2. Residing in an OSCAP enrolled Community Residential Care Facility
+
+If the OSCAP applicant is not verified by MMIS (pay category 85/86), the referral will be
+terminated. The CRCF can reapply once the resident is OSS approved.
+
+When a completed referral is made to the OSCAP service, the case will be assigned to a
+SCDHHS Nurse Consultant for assessment completion.
+
+Applicants who do not meet Intake Criteria
+
+When a person does not meet OSCAP intake criteria, the application is closed and notated.
+
+
+ASSESSMENT SCHEDULING PROCEDURES
+
+   1. Calls CRCF to schedule assessment visit.
+
+   2. Annotates the Phoenix narrative and notifies facility and OSS program manager, if an
+      assessment visit is delayed or cancelled (by email)
+
+   3. Request a TAD for CRCF(s) 72 hours prior to scheduled visit. If the nurse consultant is
+      planning to assess multiple residents at the CRCF
+
+   4. Request assessment assistance from other SCDHHS nurses when needed.
+
+OSCAP POLICIES
+
+Timeliness Standard for Completion of an Assessment
+
+The Nurse Consultant must visit the resident and complete the assessment within ten (10)
+business days of the case assignment. A level of care is determined within five (5) business days
+after receiving all information needed. Any exception to these timeframes must be documented
+in the Phoenix narrative.
+
+Assessment Completion
+
+The assessment form must be completed accurately, obtaining all available information. Only
+pertinent information obtained and verified by the Nurse Consultant will be entered into the
+Phoenix System. Each time the assessment information is reevaluated the new information must
+
+
+2 OSCAP Policy and Procedures
+       Optional Supplemental Care for Assisted Living Participants (OSCAP) Services
+                             Internal Policies and Procedures
+
+be recorded in Phoenix. It is the Nurse Consultant’s responsibility to ensure that the assessment
+is properly completed before a level of care decision is determined.
+
+The assessment information may be obtained from a combination of the following sources:
+resident records and staff, family, and most importantly, the resident interview. Accurate
+observation can only be made when the Nurse Consultant sees and speaks to the resident. The
+Nurse Consultant must attempt to involve the resident as much as possible in the assessment
+process.
+
+When a resident is physically or mentally unable to participate in an interview, a relative,
+guardian, responsible person or staff member can be interviewed for completion of the
+assessment. Narrate in Phoenix who the information was obtained from and include the title
+and/or relationship. The SCDHHS Nurse should try to complete the Mental Status Questionnaire
+(MSQ) initially to aide in the determination of the resident’s mental awareness.
+
+Medically Ineligible Residents
+
+When an OSCAP applicant has been found to be medically ineligible, the case should be team
+staffed with another Nurse Consultant. The assessing Nurse Consultant should review the
+information that has been provided. All OSCAP assessments should have narratives including
+location, date, and staff on duty, and dependencies, medical conditions, impairments, and LOC.
+
+Assessment Completion for the OSCAP Service
+
+The assessment must be completed by a Nurse Consultant for a resident who applies for the
+OSCAP service. The Nurse Consultant will need:
+
+
+   •    Copy of Medication Administration Report (MAR)/Physicians Orders
+   •    Copy of Individual Care Plan (ICP) for the last six months
+   •    Resident’s chart
+   •    Recent height, weight, and vital signs
+   •    Interview with direct care staff
+   •    Interview resident
+
+When the resident has been determined to meet level of care, the service care plan is routed to
+the facility within five (5) business days of the assessment completion.
+
+
+
+
+3 OSCAP Policy and Procedures
+      Optional Supplemental Care for Assisted Living Participants (OSCAP) Services
+                            Internal Policies and Procedures
+
+Optional Supplemental Care for Assisted Living Participants Assessment Instructions:
+
+OSCAP Level of Care
+
+The Level of Care (LOC) determination is the process of identifying the extent of a person’s
+cognitive impairments and functional dependencies. The OSCAP service utilizes the South
+Carolina Level of Care Criteria for Medicaid-Sponsored Long-Term Care as the foundation for
+determining level of care. The Criteria used primarily by CLTC have been adapted by OSCAP
+for determining medical necessity for OSCAP services.
+
+Medical Necessity
+
+Medical necessity determination for OSCAP services includes the following:
+  1. The person must have a cognitive impairment and one functional dependency, or
+  2. The person must have two functional dependencies.
+
+Functional Dependency
+
+A functional dependency is an inability to perform an activity of daily living (ADLs)
+independently, thereby requiring limited assistance from another person to perform the activity.
+
+The seven functional areas of ADL are:
+           o Transferring
+           o Locomotion
+           o Bathing and personal grooming
+           o Dressing
+           o Eating
+           o Toileting and maintaining continence
+           o Incontinence Care
+
+Cognitive Impairment
+
+Persons are eligible for OSCAP services when they have at least one functional dependency and
+one or more of the following for cognitive impairment:
+       1. Supervision of moderate/severe memory loss, either long or short-term, manifested by
+           disorientation, bewilderment, and forgetfulness, which requires significant
+           intervention in overall care planning.
+       2. Supervision of moderately impaired cognitive skills manifested by decisions which
+           may reasonably be expected to affect an individual’s own safety.
+       3. Supervision of moderate problem behavior manifested by verbal abusiveness,
+           physical abusiveness, or socially inappropriate/disruptive behavior, and frequent
+           mood episodes.
+
+
+
+
+4 OSCAP Policy and Procedures
+       Optional Supplemental Care for Assisted Living Participants (OSCAP) Services
+                             Internal Policies and Procedures
+
+The Level of Care Determination Process
+
+Once the Nurse Consultant determines that adequate information has been received to make a
+level of care decision, the assessment must be reviewed in Phoenix. A recommended level of
+care will be made my Phoenix. If the LOC determined by the Nurse Consultant is not what was
+recommended by Phoenix, the LOC must be team conferenced with another Nurse Consultant.
+Signatures of both nurses are required, and the conference annotated in the narrative by the
+assessing Nurse Consultant. If the team was unable to determine level of care, the team should
+confer with their supervisor. The supervisor will make the final LOC decision and act as the third
+signature.
+
+The level of care and the justification for the level of care determination must be properly
+documented by the Nurse Consultant in the Phoenix. The Nurse Consultant should inform the
+referral source of the level of care using the OSCAP Status Forms. The Nurse Consultant emails
+the OSCAP Status Form to NEATO RSP group.
+
+If the applicant is determined by the Nurse Consultant to meet intermediate LOC, and referral
+will be made in Phoenix for the Assisted Living Waiver service to CLTC by the Nurse
+Consultant.
+
+
+Service Care Planning
+
+The service plan is a document, developed in Phoenix, by the Nurse Consultant following the
+assessment of each OSS participant who meets the OSCAP or Intermediate Level of Care. It
+identifies the Activities of Daily Living, (ADL) dependencies for each participant.
+
+The service plan is sent to the participating facility with the Service Authorization within five (5)
+business days of completing the assessment. The service plan will be mailed, emailed or faxed to
+the facility. A copy must be kept in the resident’s file and available to any SCDHHS staff upon
+request.
+
+The service plan will not be developed for those OSS participants determined to be medically
+ineligible, or for non-contracted facilities.
+
+The service plan will be incorporated into the Individual Care Plan, (ICP), by the Facility
+Nurse, who will, also, create the Monthly Care Log for the Resident Aide who Documents direct
+care rendered.
+
+   •    A service plan will be individualized for each OSCAP participant by the SCDHHS nurse.
+   •    Service plans will be mailed, emailed, or faxed to the facility following the assessment
+        and level of care determination.
+   •    Service plan must be used as guidance to revise individual care plans and to create the
+        Resident Monthly Task Log.
+   •    A copy must be kept in the resident’s file and available to any SCDHHS staff upon
+        request
+
+5 OSCAP Policy and Procedures
+      Optional Supplemental Care for Assisted Living Participants (OSCAP) Services
+                            Internal Policies and Procedures
+
+
+Service Authorization/Termination
+
+Authorization of OSCAP Services
+
+Service authorization is the process of issuing a written document which enables the service
+provider’s authorization for the participants into the OSCAP program. Implementation of the
+OSCAP service begins with the date on the signed authorization. The service plan date should be
+used for all authorization purposes.
+
+
+OSCAP Services and Bed Holds
+
+An interruption of OSCAP Services occurs for one of the following reasons:
+
+Medical Bed Hold:
+  • The OSCAP resident enters the hospital or institution (rehabilitation Center or NH for a
+      temporary stay of 30 days or less)
+
+Non-Medical Bed Hold
+   • The OSCAP resident remains in the CRCF but does not receive the OSCAP services
+     (resident visits family or refuses services)
+
+The effective date of the interruption is the first date the service was not provided regardless of
+when the OSS/OSCAP program office is notified of the interruption. The interruption is
+documented on the monthly Census Log and the CRCF-01. The CRCF will not bill for OSCAP
+services on those days the resident is out of the facility or did not receive services. If services are
+not given/ received for more than 30 days, the case must be closed in Phoenix. Failure to inform
+the Nurse Consultant of interruption of services will be considered Medicaid fraud.
+
+Transfer of an OSCAP Resident
+
+OSCAP services will transfer with the resident to OSCAP enrolled providers. Providers are
+responsible for contacting the SCDHHS nurse to inform him or her of the transfer. If an OSCAP
+resident is transferred to a non-approved facility, the resident must be informed by staff of the
+discharging facility and allowed to choose another participating facility if desired. The
+authorization will be terminated, and the case closed in Phoenix, if the resident moves to a non-
+contracted CRCF.
+
+Transfer of a Case to another Nurse Consultant
+
+If a resident should transfer from one facility to another CRCF in a different region, the case will
+be transferred to the new area Nurse Consultant.
+
+
+
+
+6 OSCAP Policy and Procedures
+       Optional Supplemental Care for Assisted Living Participants (OSCAP) Services
+                             Internal Policies and Procedures
+
+**Participants may be reassigned to a Nurse Consultant for assistance in large facilities. The
+participants should be reassigned to the appropriate Nurse Consultant following the completion
+of assessment and level of care determination.
+
+
+Termination of OSCAP Services
+
+Reasons for terminations of OSCAP residents:
+
+   •    The resident no longer requires the service or if the resident becomes medically or
+        financially ineligible to receive the service.
+
+   •    If a facility has been terminated from the OSCAP Program for any reason, services must
+        be terminated for each OSCAP resident.
+
+   •    If a resident is transferred from one CRCF to another facility. A new referral should be
+        made by the admitting facility if resident is transferred to a participating CRCF. If the
+        admitting facility is not a participating OSCAP CRCF OSCAP services will be
+        terminated.
+
+   •    If a resident leaves the CRCF for more than 30 days such as returning home or admission
+        to a nursing home the participant will no longer be eligible for OSCAP services and will
+        be terminated.
+
+   •    Death
+
+   •    If a resident exceeds SCDHEC guidelines for determining appropriate CRCF placement
+        and no effort is made to seek alternative placement by the CRCF.
+
+   •    If a resident is receiving Hospice services
+
+
+Authorization of OSCAP Services
+
+
+   •     Fill in the appropriate information on the Authorization form including social security
+        number and Medicaid number.
+
+   •    Mails/Faxes a copy of the service authorization and service plan to the CRCF and email a
+        copy of the authorization to the Program Assistant at Neatorsp@scdhhs.gov
+
+   •    Places a copy of these documents in the resident’s file
+
+
+
+
+7 OSCAP Policy and Procedures
+       Optional Supplemental Care for Assisted Living Participants (OSCAP) Services
+                             Internal Policies and Procedures
+
+Termination of Services Procedures
+
+If the nurse consultant is informed of the termination the following steps should occur:
+
+   •    An OSCAP status form should be sent to the facility.
+
+
+   •    Fax/mail/email service termination to CRCF and program assistant, if applicable.
+
+
+   •    If the participant is found to be ineligible for the program but still resides in the facility
+        with the OSS rate the participant is reassigned to the program supervisor. The participant
+        status in Phoenix should be changed to “medically ineligible.”
+
+
+   •    OSS only participants in facilities not participating in OSCAP will no status changes and
+        no notifications sent.
+
+   •    Narrate in Phoenix the reason for termination of services
+
+
+
+CRCF that Closes or no Longer OSCAP Program Participant
+
+   •    Termination forms will be sent to the involved facility with copies to the OSS/OSCAP
+        program coordinator and the resident/responsible party.
+
+   •    Narrate in Phoenix
+
+   •    For each resident indicate the reason for termination
+
+   Note: This procedure will also apply when a facility’s license is suspended or revoked
+   and/or when the OSS enrollment or IPC contract is terminated.
+
+
+Phoenix Monitoring
+
+Nurse consultants must monitor their caseload using their Phoenix dashboard monthly to ensure
+the OSCAP participants are pay category 85 or 86, and financially eligible. If the participant, no
+longer meets the qualification the information should be narrated in Phoenix and the OSCAP
+case closed.
+
+
+
+
+8 OSCAP Policy and Procedures
+      Optional Supplemental Care for Assisted Living Participants (OSCAP) Services
+                            Internal Policies and Procedures
+
+                                     Timeliness Chart
+
+  •    Assessment within ten (10) business days of the case assignment.
+  •    A level of care is determined within five (5) business days after receiving all information
+       needed.
+  •    The service plan is sent to the participating facility with the Service Authorization within
+       five (5) business days of completing the assessment.
+  •    Re-evaluate OSCAP participants every 18 months or soon if level of care changes.
+
+
+
+
+9 OSCAP Policy and Procedures
+

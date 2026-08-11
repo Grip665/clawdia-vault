@@ -1,0 +1,85 @@
+Narratives
+                 Creating a Narrative
+• On the carousel, click “Narratives”
+
+
+
+
+                                        2
+            Creating a Narrative
+
+➢ Click “New Narrative”
+
+
+
+
+                                   3
+             Creating a Narrative
+➢ Select Narrative type
+
+
+
+
+                                    4
+                          Creating a Narrative
+
+For a Monthly Activity:
+➢ A checklist drop down box will
+   appear for (Waiver Initial,
+   Monthly, Quarterly, Re-eval, and
+   Nursing Home Cert & Close, Pre-
+   Disaster Preparedness, Post
+   Disaster, Narrative, CPC/IS
+   Attempted Contact)
+➢ Fill in information in the
+   appropriate fields
+
+
+
+
+                                                 5
+                            Creating a Narrative
+For a Monthly Activity:
+➢ Fill in information in the appropriate fields
+➢ Click “Save” or “Save and Complete”
+     ➢   “Save” will save the narrative. The narrative will disappear at midnight, if the narrative is not “Save and
+         Complete”
+     ➢   “Save and Complete” will save and lock the narrative. No changes can be made after the narrative has been
+         “Save and Complete”
+
+
+
+
+                                                                                                          6
+                           Creating a Narrative
+For a Monthly Activity (Billable Narrative):
+➢   For Monthly Contacts, users will need to select “Record Billable Activity” to complete a narrative
+    billing
+
+
+
+
+                                                                                                7
+                            Creating a Narrative
+For a Monthly Activity (Billable Narrative):
+➢ Enter information in the appropriate fields
+➢ Once finished, click “Save” or “Save and Complete”
+     ➢   “Save” will save the narrative. The narrative will disappear at midnight, if the narrative is not “Save and
+         Complete”
+     ➢   “Save and Complete” will save and lock the narrative. No changes can be made after the narrative has been
+         “Save and Complete”
+
+
+
+
+                                                                                                          8
+                           Creating a Narrative
+For a Monthly Activity (Billable Narrative):
+➢   For billable narratives, a claim number will be generated and displayed
+
+
+
+
+                                                                              9
+10
+

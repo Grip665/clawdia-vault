@@ -1,0 +1,63 @@
+                PCSC WAIVER TERMINATION GUIDANCE
+  Terminating PCSC Applications During the COVID-19 Public Health Emergency
+
+
+General Rule
+PCSC applications require review by SCDHHS staff prior to closure or termination.
+Continuum of Care staff should email a list of pending closures to PCSC Waiver
+Administrator on Thursday of each week. The pending closure list must contain
+the Phoenix ID number, the termination reason and the proposed effective date
+of the termination. The PCSC application must remain open until denial or
+approval for closure is received.
+Allowable PHE Termination Reasons and Phoenix Process
+The following waiver terminations are allowed during the public health
+emergency:
+    •   Death
+    •   Voluntary disenrollment
+    •   Completion of waiver program
+    •   Participant moved out of state
+When a request for termination is approved by SCDHHS for one of the reasons
+above, the following steps must be taken:
+    • Complete the PCSC Case Closure checklist in Phoenix
+         o This step is taken in addition to other routine case closure activities
+            performed by COC staff
+    • Change the PCSC application status to “Terminated” and select the
+      pertinent reason
+The work and programs of the Palmetto Coordinated System of Care are guided by the following Core Values: family
+driven and youth guided; home and community based; strengths based and individualized; culturally and linguistically
+competent; coordinated across systems and services; connected to natural helping networks; data driven and outcome
+oriented; and trauma-informed. Visit https://scdhhs.gov/pcsc to learn more about the Palmetto Coordinated System of
+Care.
+    • Complete and upload the Notice of Disenrollment Form into the participant
+      record
+    • ***COC PROCESS ENDS***
+    • SCDHHS Staff will initiate final termination workflow in MMIS
+All Other Pending Closures
+COC will submit a pending applicant closure list to SCDHHS for review on Thursday
+of each week. The list must include the Phoenix ID number, requested
+termination reason and proposed effective date of the termination. Applications
+receiving a denial must remain “open” or in “Participating” status.
+When a request for termination is denied by SCDHHS, the following steps must
+be taken:
+    • Navigate to the Applications Carousel Item in Phoenix
+    • Select “New Family First Act Application”/FFA
+    • In the application:
+          o Enter Application Date
+                  The day after the participant would have been terminated
+    • Enter Assigned Worker
+    • Skip all other fields
+    • Select “Create”
+    • Change the status of the FFA to participating/enrolled
+    • ***COC PROCESS ENDS***
+HFW waiver billing is not allowed for participants with an open FFA application.
+All other MTCM current billing guidance applies to participants with an open FFA.
+
+
+
+
+The work and programs of the Palmetto Coordinated System of Care are guided by the following Core Values: family
+driven and youth guided; home and community based; strengths based and individualized; culturally and linguistically
+competent; coordinated across systems and services; connected to natural helping networks; data driven and outcome
+oriented; and trauma-informed. Visit https://scdhhs.gov/pcsc to learn more about the Palmetto Coordinated System of
+Care.
+

@@ -1,0 +1,141 @@
+                               PCSC Waiver Phoenix IDGS Workflow
+
+
+Initiate Request – COC
+    1. Add the specific IDGS to the Strategy section of the Plan of Care
+    2. Complete all required fields
+    3. Save
+Additional Hints
+   Description: Add a brief description
+   Type of Support: Waiver
+   Service: Choose the relevant IDGS service
+   Request Units: 1.0 (this will ALWAYS be 1.0 for IDGS requests)
+   Tasks: Add relevant information
+   Each request will be evaluated independently
+   Individual request limit is $500.
+
+Receive Request – SCDHHS
+   1. Approve or deny request (executed in Phoenix by SCDHHS)
+          a. Approval – COC creates an authorization (see steps below)
+          b. Denial – no further action required
+
+
+General Rules for authorizations
+   1. Each IDGS approved request requires two authorizations.
+          a. Authorization #1 – SC State HLTH & Human Svcs (Provider EA9005)
+          b. Authorization #2 - Jeff Morris Furniture & Appliance Co (Provider HA0011)
+   2. The amount or “Rate” for Authorization #1 (to SCDHHS) must ALWAYS include the
+      vendor’s $25 administrative processing fee; this fee is not deducted from the
+      participant’s$2,000 lifetime limit
+   3. The amount or “Rate” for Authorization #2 (to Jeff Morrison) must ALWAYS be $1
+
+
+The work and programs of the Palmetto Coordinated System of Care are guided by the following Core Values: family
+driven and youth guided; home and community based; strengths based and individualized; culturally and linguistically
+competent; coordinated across systems and services; connected to natural helping networks; data driven and outcome
+oriented; and trauma-informed. Visit https://scdhhs.gov/pcsc to learn more about the Palmetto Coordinated System of
+Care.
+Create Authorization #1 – COC
+    1. Select waiver supports -> New Authorization
+    2. Select Service from the drop-down menu -> Next
+           o Only services for which SCDHHS approval has been granted will appear
+    3. Select Provider -> Next
+           o For Authorization #1 “SC State HLTH & Human Svcs” must be selected
+    4. Complete the Notes field
+           o Add the Vendor information (name and #)
+           o Describe the request (bedding, etc.)
+    5. Complete Check Memo field
+           o Vendor name and #
+           o Describe the request (bedding, etc.)
+           o Add “PCSC” and the Client/Participant ID#
+    6. Complete the Rate field
+           o Enter the amount of the good or service; this is an estimate
+           o Add the $25 administrative fee
+    7. Complete the Start and End Date fields
+           o Start Date - enter the current date
+           o End Date – the end date is always five business days from the begin date
+    8. Complete Termination Reason field
+           o Enter “One time authorization”
+    9. Select “Create Authorization”
+
+
+Create Authorization #2 – COC
+    1. Select waiver supports -> New Authorization
+    2. Select Service from the drop-down menu -> Next
+           o Only services for which SCDHHS approval has been granted will appear
+    3. Select Provider -> Next
+           o For Authorization #2 “Jeff Morris Furniture & Appliance Co” must be selected
+    4. Complete the Notes field – Reference details in Authorization #1
+    5. Complete Check Memo field – Reference details in Authorization #1
+The work and programs of the Palmetto Coordinated System of Care are guided by the following Core Values: family
+driven and youth guided; home and community based; strengths based and individualized; culturally and linguistically
+competent; coordinated across systems and services; connected to natural helping networks; data driven and outcome
+oriented; and trauma-informed. Visit https://scdhhs.gov/pcsc to learn more about the Palmetto Coordinated System of
+Care.
+    6.   Complete the Rate field – This figure will ALWAYS be $1
+    7.   Complete the Start and End Date fields – Same as Authorization #1
+    8.   Complete Termination Reason field – Same as Authorization #1
+    9.   Select “Create Authorization”
+
+
+    Submit the Claim - COC
+    1. Navigate to the Phoenix Home Screen -> Claims Section -> Select “Add a Claim”
+    2. Enter the date of service, Client ID, (worker auto populates #90059999), service from
+       drop down menu and units (the unit is always “1”) from Authorization #1
+    3. Select save
+    4. Select submit; the claim will be transmitted to MMIS
+    5. Print the claim result
+    6. Upload the claim in the Client Record via the Scan Tab
+    7. Document in case notes
+
+
+Monitor Claims Processing, Purchases and Receipt of Gift Cards– SCDHHS
+    1.   Log into MMIS to monitor claim submission
+    2.   Monitor MMIS to monitor successful claim processing, payment and receipt
+    3.   Initiate purchase of gift card by Vendor
+    4.   Coordinate retrieval of gift card from Vendor
+
+
+Coordinate Delivery to Participant – SCDHHS and COC
+    1.   Identify process to deliver gift card to Wraparound Facilitator - SCDHHS
+    2.   Identify process to deliver gift card to participant/family – COC
+    3.   Document delivery of gift card to family; obtain and scan copies of receipts
+    4.   Document pertinent details and monitoring in case notes (substitutions - if applicable,
+         remaining balances, etc.)
+
+
+
+The work and programs of the Palmetto Coordinated System of Care are guided by the following Core Values: family
+driven and youth guided; home and community based; strengths based and individualized; culturally and linguistically
+competent; coordinated across systems and services; connected to natural helping networks; data driven and outcome
+oriented; and trauma-informed. Visit https://scdhhs.gov/pcsc to learn more about the Palmetto Coordinated System of
+Care.
+                                           IDGS (cont.)
+                                           Self-direct
+                                         request (Par�cipant)
+
+                 Ongoing Monitoring                                Ini�ate Request
+                         (COC)                                                 (COC)
+
+
+
+                Receive Good                                        Approve (SCDHHS)
+                      (Par�cipant)
+
+
+                Purchase and                                           Engage FMS
+                   Deliver                                                   (SCDHHS)
+                   (SCDHHS + COC)
+
+
+                                                                                                    19
+
+
+
+
+The work and programs of the Palmetto Coordinated System of Care are guided by the following Core Values: family
+driven and youth guided; home and community based; strengths based and individualized; culturally and linguistically
+competent; coordinated across systems and services; connected to natural helping networks; data driven and outcome
+oriented; and trauma-informed. Visit https://scdhhs.gov/pcsc to learn more about the Palmetto Coordinated System of
+Care.
+

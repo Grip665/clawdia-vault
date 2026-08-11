@@ -1,0 +1,3305 @@
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                                                            July 1, 2023
+
+
+
+                                                        Table of Contents
+
+        07.10       Introduction .............................................................................................................. 3
+
+        07.20       Service Authorization Policy and Procedure ........................................................... 4
+                  07.21 Waiver Services ........................................................................................... 4
+                  07.22 Choice of Waiver Service Provider(s) ......................................................... 5
+                  07.23 Authorization of Waiver Services ................................................................ 8
+                  07.24 Verifying Service Delivery of Authorized Services .................................. 10
+                  07.25 Change/Termination of Waiver Service .................................................... 10
+                   07.25.10 Temporary increase in services ............................................................ 12
+                  07.26 Rationale for Increased Service Units ........................................................ 12
+                  07.27 Justifications for Prior Approval Requests ................................................ 13
+                   07.27.10 Timeliness Standards of Justifications for Prior Approval Requests
+                   ................................................................................................................................. 14
+                   07.27.20 Pend or Deny a Justification .............................................................. 14
+
+        07.30      Waiver Interactions with Other Programs .............................................................. 16
+                  07.31 Waiver Interactions with Community Residential Care Facility ............... 16
+                   07.31.10 Waiver Participants Residing in a Community Residential Care . 16
+                   Facility (CRCF) ..................................................................................................... 16
+                   07.31.20 Relocation/ Termination of a Participant in a Non-Compliant ..... 17
+                   Community Residential Care Facility ................................................................. 17
+                  07.32 Waiver Interactions with Medicaid State Plan Incontinence Supplies ...... 17
+                  07.33 Waiver Interactions with Hospice .............................................................. 21
+
+        SERVICE ADDENDUMS .................................................................................................. 22
+           7A Adult Day Health Care .......................................................................................... 22
+           7B Adult Day Health Care-Nursing ............................................................................ 24
+           7C Attendant Care ....................................................................................................... 26
+           7D Handheld Shower .................................................................................................. 36
+           7E Case Management .................................................................................................. 37
+           7F Companion Services ............................................................................................ 39
+           7G Environmental Modifications ................................................................................ 43
+           7G 1 Fans/Air Conditioners ........................................................................................ 44
+           7G 2 Ramps ................................................................................................................. 45
+           7G-3 Enhanced Environmental Modifications ............................................................ 48
+           7G 4 Enhanced Environmental Modifications and a Ramp ........................................ 50
+           7H Advanced Pest Control .......................................................................................... 53
+           7I Home Delivered Meals ........................................................................................... 56
+           7J Nutritional Supplements ......................................................................................... 57
+           7K Personal Care Services .......................................................................................... 60
+
+Chapter 7 – Service Authorization                                                                                                         Page 1
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                                                 July 1, 2023
+
+                7L Personal Emergency Response System .............................................................. 62
+                7M Pest Control ....................................................................................................... 64
+                7N Respite - Community Residential Care Facility................................................. 66
+                7O Respite Care - Institutional (Nursing Home or Hospital) .................................. 68
+                7P Telemonitoring ................................................................................................... 70
+                7Q Community Residential Care Facility Interactions with Home and Community
+                Based Waiver Programs November 2022 ................................................................ 72
+                7RHospice Benefit Interactions ............................................................................... 73
+
+
+
+
+Chapter 7 – Service Authorization                                                                                             Page 2
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+
+07.10    Introduction
+
+          Service authorization is the process of issuing a written document, which enables
+          enrolled service providers to initiate home and community-based services for
+          participants. The service authorization is based on the finalized service plan for an
+          individual CLTC participant.
+
+          The CLTC Participant's Rights and Responsibilities Statement includes several
+          expectations that both a participant and CLTC must abide by if the participant
+          receives waiver services. These expectations are critical to the effective delivery of
+          services and should be carefully communicated to the participant.
+
+          Restrictions on amount of services that a waiver participant receives may be
+          necessary. If this is determined to be the situation, such restrictions will be
+          communicated to staff as interim policy and procedures.
+
+
+
+
+Chapter 7 – Service Authorization                                                              Page 3
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+07.20    Service Authorization Policy and Procedure
+
+     07.21       Waiver Services
+
+             The purpose of waiver services is to provide realistic options for participants who
+             choose to remain at home and thus avoid unnecessary or premature nursing home
+             placement.
+
+             Waiver services are provided by contracted and enrolled Medicaid providers to
+             eligible participants and may include:
+
+             •        Adult Day Health Care *
+             •        Adult Day Health Care Nursing*
+             •        Attendant Care
+             •        Handheld Shower
+             •        Case Management *
+             •        Companion Services: Individual and Agency (* agency only)
+             •        Environmental Modifications
+             •        Enhanced Environmental Modifications
+             •        Advanced Pest Control
+             •        Home Delivered Meals *
+             •        Nutritional Supplements
+             •        *
+             •        Personal Care Services *
+             •        Personal Emergency Response System
+             •        Pest Control
+             •        Respite Care: Institutional *, Community Residential Care Facility *
+             •        Telemonitoring
+
+             * indicates a scope of service is available
+
+             A scope of service exists for many of the waiver services and is part of the agreement
+             which defines both provider and CLTC's responsibilities in the provision of waiver
+             services. See the Chapter 7 Service Addendums for more information.
+
+             Self-Directed Waiver Services may not be provided by the following individuals:
+             1.     A parent, stepparent, or foster parent of a minor Medicaid participant;
+
+             2.       Any person who the legal responsibility of utilize their own assets for the care
+                      of the Medicaid Participant. (legally responsible adults)_
+
+
+             All other Waiver services may not be provided by the following individuals:
+
+             1.       The spouse of the Medicaid participant (including married but separated).
+Chapter 7 – Service Authorization                                                              Page 4
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                        July 1, 2023
+
+                      Common law marriage is not recognized in South Carolina effective July 24,
+                      2019; therefore, a significant other residing in a participant’s household could
+                      be a paid caregiver if all other requirements are met.
+
+             2.       A parent, stepparent, or foster parent of a minor Medicaid participant;
+
+             3.       Any other legally responsible guardian (court ordered) of a Medicaid
+                      participant. Power of Attorney (POA) alone does not equate to being the
+                      legally responsible guardian;
+
+             4.       A person who is the primary caregiver cannot be paid to provide respite. The
+                      reason for this is these two services are primarily designed to give relief to the
+                      primary caregiver.
+
+
+             Note: The Authorized Representative cannot serve as the supervisor of the paid
+             caregiver and be the paid caregiver. This would mean the person was supervising
+             himself/herself. Should there be any question as to whether a paid caregiver falls in
+             any of the above listed categories, contact the Area Administrator of the Area
+             Office servicing the participant.
+
+             Several factors influence authorization of waiver services. These factors include:
+
+             1.       The participant’s type of support system and the assistance provided.
+
+             2.       The degree of assistance needed, and the time required to complete the care.
+
+             3.       The participant’s cognitive ability and its impact on the degree of assistance
+                      required and the time required to complete the care.
+
+             4.       The participant’s expressed need for assistance and the value the participant
+                      assigns to these needs.
+
+             5.       The availability of other resources to meet these needs.
+
+             6.       The most cost-effective way to meet these needs.
+
+             In summary, waiver services should only be authorized when there is a lack of
+             available Non-Medicaid services to meet the participant's needs as specified in the
+             CLTC Service Plan.
+
+ 07.22     Choice of Waiver Service Provider(s)
+
+             A participant, and/or Authorized Representative must make a choice of provider for
+             each waiver service. Note: If contacted by a non-Authorized Representative,
+Chapter 7 – Service Authorization                                                                Page 5
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+             information can be obtained from this person, but information cannot be given or
+             discussed with this person. Information regarding the participant can only be shared
+             with the participant or Authorized Representative. Information discussed with a non-
+             Authorized Representative is considered a HIPAA violation.
+
+             When the initial assessment is completed by in-home visit, the choice of case
+             management provider is documented on the participant's Service Provider Report
+             (Provider Choice Form) during the SCDHHS worker’s assessment visit.
+
+             When the initial assessment is completed by phone, the choice of case management
+             provider will be obtained by the Case Manager II when the case is transferred for
+             enrollment.
+
+             The Case Manager II will document the provider choice(s) in order of preference in
+             the narrative record. The provider choice form should be scanned into Phoenix. The
+             remaining waiver services will be explained to the participant, Authorized
+             Representative, and/or other permitted caregiver supports during the Case Manager’s
+             initial phone contact or visit at which time the participant, Authorized Representative,
+             and/or other permitted caregiver supports may make a verbal choice of provider for a
+             needed service or services.
+
+             •        The verbal choice must be annotated on the Service Provider Report (Provider
+                      Choice Form) scanned into Phoenix and documented in the narrative record
+                      in order of preference.
+
+             •        If a verbal choice cannot be obtained, a participant’s Service Provider Report
+                      (Provider Choice Form) will be mailed to the participant and/or Authorized
+                      Representative. (Refer to Chapter 5, 05.20 Waiver Enrollment for more
+                      information.)
+
+             The participant Service Provider Report (Provider Choice Form) is discussed with the
+             participant, Authorized Representative, and/or other permitted caregiver supports
+             during the Case Manager’s Initial Visit.
+
+             During this visit, the signature is secured for previous verbal choice(s).
+
+             •        Subsequent changes or additions of providers are made verbally and
+                      documented in the narrative and need not be documented on the participant
+                      Service Provider Report (Provider Choice Form).
+             •        The participant, Authorized Representative, and/or other permitted caregiver
+                      supports are to make all decisions regarding provider choice independently.
+             •        The Case Manager must not influence a participant’s choice of providers.
+             •        If a participant is not physically or mentally able to complete and/or sign the
+                      participant Service Provider Report (Provider Choice Form), the Authorized
+                      Representative or other permitted caregiver supports may sign for the
+
+Chapter 7 – Service Authorization                                                             Page 6
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+                      participant.
+             •        The lack of a signature on the form will not preclude the participant from
+                      receiving waiver services.
+
+             Any time the participant, Authorized Representative, and/or other permitted caregiver
+             support request an additional waiver service or a change in providers, the Case
+             Manager will inform the participant, Authorized Representative, and/or other
+             permitted caregiver supports of all available providers of the service(s). The Case
+             Manager must narrate this information exchange as well as the choice of provider(s),
+             in order of preference in the narrative record. The participant, Authorized
+             Representative, and/or other permitted caregiver supports may request a change of
+             provider for any service, including Case Management, at any time.
+
+              When creating a referral, the Case Manager will enter the provider choices in order
+             of preference. Phoenix will automatically refer and notify the next Provider of Choice
+             if a referral is declined, or an affirmative response has not been received from the first
+             chosen provider within forty-eight (48) business hours.
+
+             Note: When a participant is subject to a waiting period for Medicaid Eligibility,
+             the Case Manager will add a comment to the referral stating, “Participant is
+             subject to a waiting period for Medicaid Eligibility and payment may be
+             delayed.”
+
+             It is the responsibility of Central Office to keep a continuously updated Resource
+             Directory for each waiver service available in that region.
+
+             PROCESS:
+
+             •        SCDHHS worker will provide CLTC Brochure and CLTC Choosing a Case
+                      Manager brochure and secure participant/Authorized Representative signature
+                      on the initial Case Management Provider Choice Form if a home visit is
+                      completed.
+
+             •        If the initial assessment is completed by phone, the Case Manager II will
+                      obtain the Case Management Provider Choice verbally during the enrollment
+                      process. These choices must be documented on the Service Provider Report
+                      (Provider Choice Form) and in the narrative record in order of preference. The
+                      provider choice form should also be scanned into Phoenix. The Case
+                      Manager will provide the CLTC Brochure and the CLTC Choosing a Case
+                      Manager Brochure at the Initial Visit.
+
+             •        Upon enrollment, the Case Manager II will contact                      or     visit
+                      participant/Authorized Representative for service planning.
+
+             •        If service provider choices cannot be made by phone, Case Manager II will
+                      send appropriate Service Provider Report (Provider Choice Form) for the
+Chapter 7 – Service Authorization                                                                 Page 7
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+                      negotiated services. Case Manager II will contact the participant and/or
+                      Authorized Representative within seven (7) business days from mailing the
+                      list regarding choice of providers. A copy of the signed provider choice form
+                      with the choice date should be scanned in Phoenix Scans under the Provider
+                      Scan Tag. Upon Initial Visit by the Case Manager, this form will be signed
+                      and dated by participant/Authorized Representative. If contact to complete
+                      service planning is by visit, the Case Manager II will have the choice form
+                      signed when choice is made.
+
+             •        New cases may be transferred to the on-going Case Manager at any time
+                      during the month; however, the Initial Visit time frame requirements must be
+                      considered. Adequate time must be allowed for the Case Manager to
+                      complete the Initial Visit within the thirty (30) day timeliness requirement.
+
+             *Exception: If the Initial Visit is due within five (5) business days of the Case
+                        Management referral, the Case Manager must complete the visit within
+                        ten (10) days of accepting the referral. The late visit activity will not be
+                        subject to sanction for timeliness if the Initial Visit is made within ten
+                        (10) business days of the referral acceptance.
+
+             •        Assigned Case Manager will follow up on service provider choices and
+                      referrals/authorizations in process by the State Case Manager.
+
+     07.23       Authorization of Waiver Services
+
+             Before any waiver services are authorized, it is crucial that the Case Manager be
+             familiar with all scopes of services and standards of services. Waiver services are
+             based on a participant’s needs as documented in the Service Plan. Services must
+             receive prior approval from a designated State Worker. Waiver services for waiver
+             participants of the Medicare-Medicaid Managed Plans (MMP) program are prior
+             approved by the MMP designee.
+
+             Upon receipt of a participant’s choice of provider (Section 07.22) and prior approval
+             of a service (Section 07.27), the Case Manager must initiate referrals to the chosen
+             providers within two (2) business days.
+
+             The referral process is completed in Phoenix and must include any special needs or
+             preferences of the participant. A chosen provider must be given the opportunity to
+             accept or reject the referral. Providers must respond within 48 business hours. Once
+             a start date has been negotiated with a provider, the case manager has two (2) business
+             days to complete and send the service provision form to the provider. (Exceptions to
+             this policy is Adult Day Health Care which is referred but not authorized until receipt
+             of the physician’s order.) All waiver services are authorized by completion of the
+             service provision form.
+
+Chapter 7 – Service Authorization                                                            Page 8
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+             It is acceptable to authorize waiver services on the day of admission to or discharge
+             from an institution (i.e., hospital, nursing home, rehabilitation center, psychiatric
+             facility) The narrative must clearly document the need for such services.
+
+             Weekly services must have a Sunday start date for a change in service and not for the
+             initial authorization for service.
+
+             The authorization period end date may or may not be indicated on the Service
+             Provision Form. An end date is included when the service is required for a known
+             duration, if less than thirty (30) days from the start date. The authorized end date is a
+             valid date of service delivery. Authorizations without an end date are valid until a new
+             service authorization or termination is issued to the provider.
+
+             PROCESS:
+
+             The assigned Case Manager:
+
+             •        Contacts participant to discuss specific needs, provider choice and schedule of
+                      services.
+
+             •        Updates appropriate sections of Phoenix to indicate need for services.
+
+             •        Updates service plan as needed.
+
+             •        Documents provider choices in the narrative in the order of preference.
+
+             •        Requests prior approval in the service approval section of the service plan
+                      located under the Complete tab of the service plan.
+
+             •        Once reviewed, Case Manager receives a notification on his/her dashboard.
+                      When this notification is received, the Case Manager will review the prior
+                      approval section (complete tab of the service plan) to determine subsequent
+                      actions.
+
+             •        Begins referral process in Phoenix within two (2) business days, listing all
+                      provider choices in order of participant’s preference.
+
+             •        When notification of referral acceptance is received, negotiates start of
+                      services with the provider and participant/ Authorized Representative and
+                      completes service provision form within two (2) business days. It is crucial
+                      that the provision form be specific and accurate.
+
+             •        Once the authorization is completed, the provider will have immediate access
+                      to the authorization in Phoenix.
+
+Chapter 7 – Service Authorization                                                              Page 9
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+             •        Service plans are available to providers in the Phoenix Provider Portal on a real
+                      time basis. Exceptions to this are attendant care and respite care. These
+                      processes are noted in the corresponding addendum.
+
+             •        Verifies implementation of the service with participant or Authorized
+                      Representative no later than the next scheduled contact. Environmental
+                      Modifications and Handheld Shower is verified at the next contact following
+                      the authorization end date. Verification of services must be documented in the
+                      narrative.
+
+             •        The case manager must CONSULT SERVICE ADDENDUMS TO
+                      ENSURE     COMPLIANCE      WITH   SPECIFIC  SERVICE
+                      REQUIREMENTS.
+
+     07.24       Verifying Service Delivery of Authorized Services
+
+             The Case Manager must address service delivery with the participant, and/or
+             Authorized Representative during each scheduled contact. Care Call claims must be
+             reviewed, and activities and observations reports run and reviewed. Follow-up with
+             the provider(s) may be necessary to resolve questions or concerns related to service
+             delivery. Problematic patterns noted in Care Call claims must be addressed. Refer to
+             the P&P Chapter 5, Section 05.35, for more information regarding monitoring service
+             delivery.
+
+     07.25       Change/Termination of Waiver Service
+
+             A change in service request should be initiated by the participant and/or Authorized
+             Representative, not the service provider. If a service request/change comes from a
+             provider, a telephone contact must be made to the participant or Authorized
+             Representative for confirmation of need/choice. This must be documented in Phoenix
+             narratives.
+
+
+             When an existing service authorization requires a change, other than a change of
+             provider, the Case Manager completes a service termination and creates a new
+             service authorization. An increase in service levels requires approval by designated
+             State Worker or MMP designee for MMP waiver participants.
+             When a provider of services changes, the Case Manager must terminate the Service
+             Provision Form with the previous provider and initiate a new service authorization
+             for the chosen provider. The terminated Service Provision Form and the new Service
+             Provision Form can be accessed in the Phoenix provider portal with the exception of
+             Attendants, Individual Companion, and respite services.
+
+             When a service is changed for a weekly service, but the provider does not change, the
+             authorization start date must be Sunday.
+Chapter 7 – Service Authorization                                                               Page 10
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+
+             Services must be terminated if a participant no longer requires the service or if the
+             participant becomes ineligible to receive the service. Waiver services may be
+             terminated at any time during a re-evaluation cycle. Termination of a service will
+             necessitate a revision of the service plan. Services will remain in effect through the
+             date of termination on the Service Provision Form.
+
+             When services are involuntarily suspended, reduced, or terminated, the participant
+             must be given a written appeal notice, as well as a written ten (10) business day
+             notice prior to the service being terminated. The participant and/or Authorized
+             Representative may file an appeal within thirty (30) calendar days of the CLTC
+             Notification. The participant may be eligible to receive continued benefits/services
+             pending an appeal hearing decision. The participant/ Authorized Representative must
+             request an appeal and notify the assigned Case Manager or the CLTC Representative
+             that he/ she wants services to continue prior to the date of action on the Notification
+             form. Services may also be requested to be reinstated. The appeal request and
+             reinstatement of benefits request must be received within ten (10) calendar days of
+             the date of action indicated on the Notification form. Services will not be resumed
+             while a participant’s case is pending an appeal hearing if the date of action has passed.
+             The participant and/or Authorized Representative will be informed that the participant
+             may be responsible for the cost of services received during this period, if the appeal
+             decision is not in the participant’s favor.
+
+             The Notification Form is sent when services are being terminated, reduced,
+             suspended, or denied. The notice must cite the specific federal regulation which
+             supports CLTC’s decision. These regulations will auto-populate on the Notification
+             Form when the box is checked on the form to indicate these actions.
+
+             When a participant is determined to be financially ineligible, waiver services must be
+             terminated on the last date of eligibility. This action must be documented in the
+             narrative. A CLTC Notification Form will be sent to the participant/Authorized
+             Representative; however, the Appeals Notice will not be included. Both the participant
+             and provider must be notified verbally at the time of service termination if the
+             termination is immediate. This verbal notification must be followed with a service
+             termination to the provider and a notification form to the participant and appropriate
+             parties. The Conversation feature in Phoenix may be used in instances where
+             immediate information is not required and when appropriate.
+
+             When a medically ineligible decision is final for a waiver participant, waiver services
+             must be terminated in accordance with proper notice to the provider.
+
+             When services are voluntarily suspended, reduced, or terminated, an appeals notice is
+             not to be sent to the participant/ Authorized Representative. A CLTC Notification
+             Form must be sent stating the change was made at the request of the participant and/
+             or Authorized Representative.
+
+Chapter 7 – Service Authorization                                                              Page 11
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+
+             If a requested service is denied, a CLTC Notification Form must be sent stating what
+             service was denied and the appeals notice must be given. A ten (10) day notice is not
+             required.
+
+             Notification Forms must be mailed within two (2) business days.
+
+         07.25.10 Temporary increase in services
+
+                      The case manager may do an authorization for up to 10 units above the current
+                      approved level for an authorization that is not longer than one-week (seven
+                      (7) business days). The authorization must have a start and end date. For
+                      example, if the approved level for personal care services is 10 hours per week,
+                      the case manager can authorize 20 hours of personal care services with an end
+                      date no more than seven business days after the start date. In instances where
+                      the participant receives multiple services ( personal care services,
+                      companion), the total for all combined services can only be increased up to 10
+                      units. For example, if a participant receives, 10 hours per week personal care
+                      services, and 5 hours per week companion services, the Case Manager may
+                      increase the personal care services up to 20 hours (increase of 10 units) with
+                      an end date no more than seven business days after the start date while keeping
+                      all other service levels the same.
+
+                      Note: If an increase is needed for longer than one week for units greater
+                      than the current approved level, a new service level must be approved.
+
+     07.26     Rationale for Increased Service Units
+
+             For Adult Day Health Care, Personal Care Services, Agency Companion, Individual
+             Companion and/or Attendant Care:
+
+             When a participant is determined to need a change in the level of services provided, the
+             Case Manager must review all services and strive to meet the needs of the
+             participant. The need for the increase in service units must be justified by the
+             assessment, narrative and service plan.
+
+             If the participant is not authorized for Adult Day Health Care OR the participant is
+             authorized for Adult Day Health Care two (2) days or less per week, the services of
+             Personal Care Services, Agency Companion, Individual Companion and/or Attendant
+             Care can be approved by the State Reviewers in any combination not to exceed twenty
+             (20) hours per week. The Area Administrator or Lead Team may approve any
+             service combination up to 40 hours per week. Service combinations over 40 hours
+             require Central Office approval.
+
+             If the participant is authorized for Adult Day Health Care three (3) or more days per
+Chapter 7 – Service Authorization                                                             Page 12
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+             week, the services of the Personal Care Services, Agency Companion, Individual
+             Companion and/or Attendant Care can be approved by the State Reviewers in any
+             combination not to exceed fifteen (15) hours per week. The Area Administrator or
+             Lead Team may approve any service combination up to 35 hours per week. Service
+             combinations over 35 hours require Central Office approval.
+
+             The Case Manager must provide justification of the need for increased service units
+             in the comments section of the approval request section of the Service Plan (located
+             under the Complete tab) and submit the request through Phoenix to the Area
+             Administrator or Lead Team for approval. The Area Administrator or Lead Team
+             reviewing the request will enter a comment indicating approval or denial. If the
+             request exceeds the number of hours which may be approved by the Area
+             Administrator or Lead Team and the need is justified, the request is sent to the
+             Central Office Waiver Service Exceptions for review. The Case Manager will
+             send an email request to WES@scdhhs.gov asking for review of the request after
+             approval from the Area Administrator or Lead Team is obtained. The Central
+             Office Waiver Service Exception Team will review the request in Phoenix,
+             complete the review column and indicate the decision in the comment section. The
+             Case Manager will be notified by email from the Central Office Waiver Service
+             Exceptions once the request has been reviewed.
+
+             When Central Office Service Exception is needed for any service, the Area Office
+             reviewers will review the request and enter a comment with the recommendation
+             regarding the request. The reviewer will leave the review column
+             blank. The Case Manager must email the Central Office Waiver Service
+             Exceptions at WES@scdhhs.gov to request review of the exception following the
+             Area Office review. The Central Office Designee will either approve or deny the
+             exception request and will notify the Case Manager by email.
+
+             Note: The prior approval review for Medicare-Medicaid Managed Plans (MMP)/
+             waiver participants will be completed by the MMP Care Coordinator. The Case
+             Manager will use the Phoenix Conversation feature to communicate the need for
+             review by the MMP Care Coordinator. MMP Care Coordinators may approve
+             service levels of Personal Care Services/ Attendant/ Companion/ Nutritional
+             Supplements, etc. above the levels the CLTC Area Office may approve. A
+             separate Central Office review is not needed in these cases.
+
+     07.27     Justifications for Prior Approval Requests
+
+             This policy describes the participant-specific information and justification required
+             to be completed by the assigned case manager for the approval of a waiver service.
+             Also included is the justification for Incontinence Supplies, a nonwaiver service.
+
+             The State approver will not require any additional information in the service
+             justification section of the Service Plan, as this may inhibit person-centered
+Chapter 7 – Service Authorization                                                            Page 13
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+             planning and/or delay service provision to the participant.
+
+             In addition to the justification, each prior approval service request requires a
+             narrative documenting that the participant/Authorized Representative made
+             the request. There should also be a narrative entry stating the outcome of the
+             request and confirming that the referral process was initiated. Sections of the
+             assessment – especially Home Assessment/Home Needs – as well as Service Plan
+             Interventions should be updated to reflect service needs BEFORE the prior approval
+             request is submitted.
+
+
+             NOTE: Diagnoses should not be listed in the justification unless related to a specific
+                  task for which the service is needed. Also, all service exceptions should be
+                  sent to the Area Administrator – or to the Lead Team in the Area
+                  Administrator’s absence -- for review prior to submitting to the Central
+                  Office Waiver Service Exceptions email group.
+
+             For service specific justification information refer to the service addendums at the end
+             of this chapter.
+
+         07.27.10     Timeliness Standards of Justifications for Prior Approval Requests
+
+                      To ensure timely provision of services to participants, the following timeliness
+                      standards apply:
+
+                      •       When a case manager submits a justification request and no additional
+                              information is required, the state approver has three (3) business
+                              days from the date of the request to respond with an approval or
+                              denial.
+
+                      •       The case manager has three (3) business days to respond to
+                              request for additional information.
+
+
+                      •       If no response is received from the case manager within three (3)
+                              business days, the state approver can deny the request.
+
+
+                      •       Failure of the case manager to respond timely to a service level
+                              request (without a valid reason) is sanctionable and a complaint
+                              should be submitted in Phoenix.
+
+          07.27.20     Pend or Deny a Justification
+
+                      The following steps should be followed if the submitted justification does not
+Chapter 7 – Service Authorization                                                             Page 14
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                         July 1, 2023
+
+                      include all information required for a service (i.e., narratives, failure to update
+                      service plan or home assessment, etc.):
+
+                      •       The state approver should pend the request and notify the case
+                              manager of the missing information by email. An email must be sent
+                              to the case manager by his or her preferred email address as listed in
+                              Phoenix. Emails to the case manager must be copied to the case
+                              management provider and/or the case manager’s supervisor.
+
+                      •       To pend the request: State approver flags the request by entering
+                              initials in the Worker Flag column. While in pending status, the state
+                              approver should not enter units (including zero) in the review column.
+                              Entering a “0” results in a denied service.
+
+                      •       If justification is complete and correct but the narrative and/or
+                              Service Plan is not, the state approver will pend the request until the
+                              case manager completes the narrative and/or updates the Service
+                              Plan.
+
+                      •       If a state approver is denying an increase in services, the state
+                              approver should enter the current amount authorized in the review
+                              column.
+
+                      •       Failure of the case manager to respond timely to a service level
+                              request (without a valid reason) is sanctionable and a complaint
+                              should be submitted in Phoenix.
+
+
+
+
+Chapter 7 – Service Authorization                                                                Page 15
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                         July 1, 2023
+
+
+
+
+ 07.30    Waiver Interactions with Other Programs
+
+     When a waiver participant is enrolled in or receives services from other programs, it creates
+     special circumstances that dictate which services may be authorized. It is important to review
+     these interactions to ensure appropriate and allowed services are being provided.
+
+     Note: The Hospice Benefit Interactions service limitations and the CRCF service
+     restrictions do not apply for MMP/ waiver participants.
+
+
+         07.31     Waiver Interactions with Community Residential Care Facility
+
+
+             07.31.10     Waiver Participants Residing in a Community Residential Care
+                            Facility (CRCF)
+
+                      A waiver participant may continue waiver services while residing in a CRCF if that
+                      specific facility meets waiver requirements. Prior to authorizing waiver services for
+                      the participant residing in a CRCF, the following questions must be asked of the
+                      CRCF Administrator or designee. This information must be documented in the
+                      narrative. If any answer is no, first determine why the answer is no. It may require
+                      working with the CRCF to see what can be accommodated, or reviewing the
+                      participant’s documentation to determine that a “no” answer is appropriate. The
+                      preference is to keep a person in the waiver and explore other alternatives, such as
+                      looking for a different residential setting for the participant.
+
+                      Note: A Boarding Home considered a community location. Since the
+                      Boarding Home is not licensed it is considered a normal rental residence.
+                      The following questions do not apply for boarding home residents.
+
+                      All residential settings must have the following qualities:
+                      a)      Legally enforceable agreement with same responsibilities and protections
+                              from eviction that tenants have under landlord/tenant law.
+                      b)      Privacy in sleeping/living unit- Is there a curtain or other separation
+                              between sleeping units?
+                      c)      Room entrance doors lockable by participant with only appropriate staff
+                              having keys.
+                      d)      Choice of roommate or option to change rooms if roommate not
+                              compatible.
+                      e)      Freedom to furnish and decorate their sleeping/living units.
+                      f)      Freedom and support to control their own schedules/activities.
+
+Chapter 7 – Service Authorization                                                                 Page 16
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+                      g)      Freedom to have access to food at any time? Substitute meal available
+                              upon return if out of the facility at meal time?
+                      h)      Able to have visitors, of their choosing, at any time.
+                      i)      Physically accessible- handicapped accessible?
+
+             07.31.20      Relocation/ Termination of a Participant in a Non-Compliant
+                             Community Residential Care Facility
+
+                       Should relocation of a waiver participant be required in cases where the CRCF is
+                       not in compliance with waiver requirements, the Case Manager or Nurse
+                       Consultant will discuss all options with the participant, Authorized
+                       Representative and CRCF.
+
+                       The Case Manager or Nurse Consultant will notify the Area Administrator
+                       and/or Lead Team if it is determined that a CLTC waiver participant is residing
+                       in a non-compliant CRCF. The Area Administrator or Lead Team will notify
+                       Central Office Designee.
+
+                       The Case Manager or Nurse Consultant will:
+
+                       •   Provide a list to the participant of compliant CRCFs from the Nursing
+                           Facility Bed Locator.
+
+                       •   Explain alternative options for care including other non-waiver
+                           community resources or aging services.
+
+                       •   Explain the need to re-locate to a compliant facility in order to remain
+                           enrolled in waiver.
+
+                       •   Document all decisions. Send a CLTC Notification to participant and/or
+                           Authorized Representative providing a thirty (30) day notice indicating the
+                           need to move to a compliant setting.
+
+                      •
+                 Refer to Waiver Interactions with Community Residential Care Facility (Refer to
+                 Service Addendum 7S.)
+
+ 07.32     Waiver Interactions with Medicaid State Plan Incontinence Supplies
+
+             Note: Please refer to the State Plan Medicaid Incontinence Supplies Policy and
+                   Procedure Manual located in Phoenix HELP for complete information
+                   regarding case management of non-waiver Incontinence Supplies. Refer
+                   to the Medicare-Medicaid Managed Plans (MMP) Incontinence Supplies
+                   guidance for complete information regarding participants enrolled in
+                   MMP.
+
+             The information below is specific to CLTC waiver/Medicaid State Plan Incontinence
+Chapter 7 – Service Authorization                                                               Page 17
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+             Supplies interactions.
+
+             When a recipient of State Plan Incontinence Supplies, is enrolled in a CLTC waiver
+             program, the Incontinence Supplies application will be transferred from an
+             Incontinence Supplies Vendor to the assigned Waiver Case Manager or Area Office
+             State Staff worker. The Case Manager or Area Office State Staff worker will
+             ensure the Incontinence Supplies monitoring authorization has been terminated.
+
+              If there is an open waiver case assigned to a Case Manager or Area Office State
+             Staff worker and the participant needs incontinence supplies, the Case Manager or
+             Area Office State Staff worker will create an Incontinence Supplies Application in
+             Phoenix under the application tab. An e-Referral or Centralized Intake referral
+             should not be made.
+
+             Creating an IS Application for a current waiver participant:
+
+             •        Create an Incontinence Supplies application under “Applications” in Phoenix.
+                      The worker will indicate the participant is Medicaid eligible.
+
+             •        Assign the application to the same CLTC worker assigned to the waiver
+                      application.
+
+             •        The Assigned Case Manager or Area Office State Staff worker will
+                      complete the Incontinence Supplies assessment. The Case Manager or Area
+                      Office State Staff worker should indicate the assessment is a “phone
+                      assessment” by clicking the phone assessment box in Phoenix. The
+                      bowel/bladder section of the Community Choices waiver assessment can be
+                      used to complete the Incontinence Supplies assessment.
+
+             •        Do not complete the separate Incontinence Supplies Service Plan.
+
+             •        Add Incontinence Supplies to the Waiver Service Plan.
+
+             •        Request prior approval via the service request section of the Service Plan in
+                      Phoenix.
+
+             Note: For CC waiver applicants, the Area Office State Staff worker assessing the case
+                   will proceed with completing the Incontinence Supplies referral and assessment,
+                   and then transfer the case to the Case Manager II/Lead Team Case Manager for
+                   enrollment.
+
+             Service Justification: State frequency of bowel or bladder incontinence and include
+             “Assessment updated” if applicable. If participant has ostomy or catheter or both,
+             include need due to leakage.
+
+             •        Create the Incontinence Supplies referral. The worker will include a comment
+Chapter 7 – Service Authorization                                                            Page 18
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+                      on the Incontinence Supplies referral notifying the IS provider when there is
+                      a 30 day wait.
+
+             •        The Incontinence Supplies provider will obtain the Physician’s Certification
+                      of Incontinence after receiving the referral.
+
+             •        The Case Manager or Area Office State Staff worker will create the
+                      Service Provision Form (authorization) after receiving notification of
+                      acknowledgment from the provider that the Physician’s Certification of
+                      Incontinence has been obtained, which can be found under Forms in Phoenix.
+
+             •        The Physician Certification of Incontinence Statement must be obtained by
+                      the IS provider prior to the Case Manager or Area Office State Staff worker
+                      creating and sending the Initial Service Provision Form (authorization) for
+                      Incontinence Supplies. It is the responsibility of the Case Manager or Area
+                      Office State Staff worker to make sure the provider acknowledgement in
+                      Phoenix states the initial Physician Certification of Incontinence Statement
+                      has been obtained by the provider prior to authorizing IS. The assigned Case
+                      Manager or Area Office State Staff worker will receive a Phoenix
+                      notification when the provider indicates the certification has been received.
+
+             The Case Manager or Area Office State Staff worker may view the
+             acknowledgement in Phoenix Forms.
+
+             The initial Physician Certification of Incontinence Statement is valid up to 12 months
+             for waiver participants. The provider is responsible for obtaining an updated
+             Physician Certification of Incontinence Statement and notifying the Case Manager
+             or Area Office State Staff worker through Phoenix when the updated form is
+             received. It is the Incontinence Supplies provider responsibility to request
+             termination of Incontinence Supplies if the Physician Certification of Incontinence
+             form expires and is not renewed.
+
+             •        A waiver participant may receive Incontinence Supplies in a Community
+                      Residential Care Facility.
+
+             •        When Incontinence Supplies are being terminated the Case Manager or Area
+                      Office State Staff worker will send a CLTC Notification Form with a ten
+                      (10) business day notice to the participant/Authorized Representative prior to
+                      termination of IS. The notice must indicate the reason the supplies are being
+                      terminated.
+
+             When a waiver participant, who receives Incontinence Supplies, becomes a MMP
+             member, the Case Manager will:
+
+             •        Manage Incontinence Supplies application during the six (6) month continuity
+                      of care period. The six (6) month continuity of care period begins when the
+Chapter 7 – Service Authorization                                                            Page 19
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                    July 1, 2023
+
+                      participant becomes a MMP member.
+
+             The MMP Care Coordinator will:
+
+             •        Contact the waiver Case Manager thirty (30) days prior to the end of the six
+                      (6) month period to inform the Case Manager when the MMP Care
+                      Coordinator will begin managing Incontinence Supplies for the participant.
+                      This discussion will be documented in the narrative by the Case Manager.
+
+             •        Contact the waiver Case Manager when it is time for the Incontinence
+                      Supplies application to be transferred to the MMP Care Coordinator.
+
+             The waiver Case Manager will:
+
+             •        Send a CLTC Notification to the participant explaining the Incontinence
+                      Supplies application will now be managed by the MMP Care
+                      Coordinator. The notification will include the MMP Care
+                      Coordinator’s contact information.
+
+             •        Terminate the Incontinence Supplies authorizations.
+
+             •        Request the CLTC Area Office Support Staff re-assign the
+                      Incontinence Supplies application to the MMP Care Coordinator.
+
+             •        Document all actions in the narrative.
+
+             The MMP Care Coordinator will terminate the Incontinence Supplies application in
+             Phoenix.
+
+             When waiver applications are terminated but the participant remains Medicaid Eligible
+             and continues to need Incontinence Supplies:
+
+             •        The Incontinence Supplies Application and Incontinence Supplies Service
+                      Provision Forms will remain open in Phoenix.
+
+             •        The Waiver Case Manager or Area Office State Staff worker will ensure
+                      an Initial Incontinence Supplies Assessment has been completed in Phoenix.
+                      If not present, the assessment must be completed prior to re-assigning the
+                      Incontinence Supplies Application.
+
+             •        Any hard copy documents must be scanned into Phoenix Scans.
+
+             •        The incontinence Supplies Application will be re-assigned to an Incontinence
+                      Supplies vendor for service coordination. The Case Manager will notify the
+                      Central Office Incontinence Supplies Specialist of the need to re-assign the
+                      application to the vendor via email.
+Chapter 7 – Service Authorization                                                           Page 20
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+             Note: If the participant is transferring to a DDSN waiver, the Case Manager or Area
+                  Office State Staff worker will terminate the IS Application and authorizations.
+                  DDSN will then manage the Incontinence Supplies.
+
+
+ 07.33     Waiver Interactions with Hospice
+
+             Waiver participants who are enrolled in Hospice Care may receive limited waiver
+             services only. Participants receiving palliative care and are not enrolled in Hospice are
+             eligible for all waiver services.
+
+             Service limitations apply regardless of whether Hospice is being
+             providing under Medicare or Medicaid payment. Please refer to the
+             waiver service matrix under Service Addendum 7T.
+
+
+
+
+Chapter 7 – Service Authorization                                                            Page 21
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+
+                                     SERVICE ADDENDUMS
+
+                                    7A Adult Day Health Care
+
+      One (1) unit of service is a participant-day of Adult Day Health Care (ADHC) service,
+      consisting of a minimum of five (5) hours in the care of the Adult Day Health Care Center.
+
+      Exceptions: The following are examples of cases where CLTC may consider a request for
+                   reimbursement even though the participant was not under the care of the center
+                   for the entire five (5) hours. In all such cases, the provider must advise the
+                   Case Manager. The Case Manager must notify the CLTC Area Office
+                   Administrator/Lead Team Case Manager. The contact must be documented
+                   in Phoenix.
+
+     •       If the participant has a medical emergency, non-scheduled medical/doctor’s visit, or
+             need for urgent care.
+
+     •       Inclement weather affecting the safe transport of participants, emergency evacuations
+             such as for hurricanes, disasters, or when the Governor declares weather or other
+             emergency.
+
+     •       If an emergency arises where the staff must accompany the participant to receive
+             medical attention.
+
+     •       If the ADHC is transporting the participant to a medical appointment, then a four (4)
+             hour stay is acceptable.
+
+     These cases must be approved by the CLTC Area Office and will be addressed on a case-by
+     case basis upon receipt of a request describing the circumstances. The Area Administrator or
+     Designee will enter a narrative note indicating request and/or approval.
+
+    The Case Manager will create the Service Provider Report (Provider Choice Form) in
+    Phoenix. The Case Manager will obtain the provider choice(s) from the participant and/or
+    Authorized Representative in the order of preference. These choices may be obtained verbally,
+    by mail or during an in-home visit. If the choices are made verbally, the choices are
+    documented in the narrative in order of preference.
+
+     The Case Manager will update the Service Plan to include the need for Adult Day Health
+     Care.
+
+     Prior approval must be requested via the service request section of the Service Plan (under the
+     Complete tab) in Phoenix.
+
+
+Chapter 7 – Service Authorization                                                            Page 22
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+
+    Service Justification: Emphasize socialization needs and/or caregiver relief and/or need for
+    supervision, etc.
+
+    The Case Manager will create a referral to the chosen providers in order of preference via
+    Phoenix.
+
+     If the referral is accepted, the Case Manager notifies the ADHC of the pertinent participant
+     information including the contact information for the physician. The ADHC must obtain the
+     physician orders for the participant to attend ADHC utilizing the DHHS Adult Day Health
+     Care Form 122DC. The ADHC can locate this form in the Phoenix provider portal. Once the
+     ADHC has obtained the physician’s order, the ADHC must notify the Case Manager to
+     negotiate the start date for services to begin.
+
+     The Case Manager will authorize the amount, frequency, and duration of services in
+     accordance with the participant’s Service Plan.
+
+     The Service Provision Form must be sent to the provider via Phoenix to initiate services. The
+     initial Service Plan and the new Service Plan created following re-evaluation will be available
+     to the provider via Phoenix.
+
+    If a participant transfers from one ADHC provider to another, the participant’s existing
+    Physician order for ADHC remains effective only if it is current and completed within
+    the last two years. The transferring facility will send a copy of the Physician order to the
+    accepting facility.
+
+
+
+
+Chapter 7 – Service Authorization                                                            Page 23
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                    July 1, 2023
+
+                                7B Adult Day Health Care-Nursing
+
+     One (1) unit of service includes any one or more of the allowed ADHC-Nursing Services
+     during one (1) day’s attendance at the ADHC.
+
+      This service is provided by a licensed nurse in the ADHC. ADHC-Nursing is limited to the
+      following skilled procedures:
+
+     •        Ostomy care
+
+     •        Urinary catheter care
+
+     •        Decubitus ulcer/wound care
+
+     •        Tracheostomy care
+
+     •        Tube feeding
+
+     •        Nebulizer treatment that requires medication
+
+      The Case Manager will update the Service Plan to include the need for Adult Day Health
+      Care-Nursing.
+
+      Prior approval must be requested via the service request section of the Service Plan in
+      Phoenix.
+
+      Note: An intervention for at least one of the skilled procedures must be included on the
+            Service Plan in order to request prior approval.
+
+      Service justification: State skilled procedure(s) that are requested for MD to order. (Note:
+      These may differ from what the MD actually orders but allows the referral to go forward.
+      Any differences on signed MD Order as shared by ADHC Nurse should be narrated.)
+
+      The Case Manager will create a referral to the chosen ADHC provider.
+
+      The ADHC provider must obtain the physician orders utilizing DHHS Form 122DC, prior to
+      the initiation of the service, for the participant to receive ADHC Nursing. The ADHC is
+      responsible for obtaining the initial order as well as the direct care and ongoing orders
+      including changes in frequency. Once the ADHC has obtained the physician’s orders, the
+      ADHC must notify the Case Manager to negotiate the start date for services to begin.
+
+      The Case Manager will authorize the amount, frequency, and duration of services in
+      accordance with the participant’s Service Plan. The authorization is not day specific. There
+      is one (1) procedure code for ADHC-Nursing regardless of the procedure to be completed.
+
+Chapter 7 – Service Authorization                                                           Page 24
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                    July 1, 2023
+
+      The authorization should include the number of units per week.
+
+      An authorization change is not necessary for a change in the days of the week the procedure
+      will be provided unless a change in the frequency is needed.
+
+      If there is a change in frequency, the ADHC will obtain updated physician’s order and will
+      notify the Case Manager. The Case Manager will issue a new Service Provision Form, if
+      necessary. For example, the Procedure was ordered to be done two (2) times per week and is
+      now needed five (5) times per week.
+      If there is a change in the Procedure, the ADHC will notify the Case Manager. The Case
+      Manager will document the contact with the provider in the narrative or through the
+      Conversation section in Phoenix. The Case Manager will update the Service Plan if
+      indicated. A new Service Provision Form is not needed. For example, the participant was
+      receiving nebulizer treatments and now urinary catheter care was added. The change would
+      require documentation of the contact and an update in the Service Plan but would not require
+      a new Service Provision Form.
+
+      The Service Provision Form must be sent to the provider via Phoenix to initiate services. The
+      initial Service Plan and the new Service Plan created following re-evaluation will be
+      available to the provider via Phoenix.
+
+
+
+
+Chapter 7 – Service Authorization                                                           Page 25
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+                                        7C Attendant Care
+
+    The unit of service is one (1) hour. This service may be authorized in one-half (1/2) hour
+    increments after a minimum of one (1) hour.
+
+    The objectives of the Attendant Care Service are to restore, maintain, and promote the health
+    status of Medicaid Home and Community Based waiver participants through home support,
+    medical monitoring, and assistance with activities of daily living.
+
+    Attendant Care is a service to assist with ADL and IADL care. This service is self-directed by
+    the participant or directed by someone who is able and willing to be the Employer of Record
+    (EOR) for Attendant services.
+
+    The Attendant must demonstrate an ability to read, write and communicate effectively with the
+    Participant and/or their Representative.
+
+    No Physician Order is required for this service.
+
+    Prior Approval is required before sending a referral to UAP. If Attendant Care will replace
+    existing agency personal care services, this will be indicated in the prior approval request.
+
+    Service Justification: Include a condition or conditions affecting participant’s ability to
+    perform ADL’s and IADL’s. (Examples: Shortness of breath related to COPD; unsteady on
+    feet due to diabetic neuropathy; frailty due to advanced age). Include circumstances that may
+    indicate need for high or increased service levels, such as recent hospitalization, physical
+    decline of participant or caregiver, caregiver’s need for respite, or loss of caregiver. Note: Do
+    not include number of hours in the comments on the service plan or desired weekly
+    schedule.
+
+   Note: When Attendant Care is replacing existing agency personal care services, the
+         authorization for the agency services will remain in effect until the Attendant Care start
+         date. The agency personal care services will be terminated effective the day prior to the
+         start date of Attendant Care.
+
+
+   If the Attendant is unable to or fails to check-in or check-out when providing service, the
+   Attendant must complete a Resolution Log acknowledging the service was provided and the
+   reason for the resolution. Refer to the 12 Strike Policy in Phoenix Help for additional
+   requirements.
+
+
+
+
+Chapter 7 – Service Authorization                                                              Page 26
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+                Participants must be present while services are being provided.
+
+   Attendant Care activities include:
+
+     a.      Support of activities of daily living, e.g., assistance with bathing, dressing, feeding,
+             personal grooming, personal hygiene, transferring and mobility;
+
+     b.      Meal or snack preparation, planning and serving, cleaning up afterwards, following
+             specially prescribed diets as necessary and encouraging participants to adhere to any
+             specially prescribed diets;
+
+     c.      General housekeeping includes cleaning (such as sweeping, vacuuming, mopping,
+             dusting, taking out the trash, changing bed linens, defrosting and cleaning the
+             refrigerator, cleaning the stove or oven, cleaning bathrooms) and activities as needed
+             to maintain the participant in a safe and sanitary environment. Housekeeping only
+             includes areas specific to the participant such as the participant’s bedroom, bathroom,
+             etc.
+
+     d.      Shopping assistance, essential errands, and escorting participant to medical services.
+             Attendants are not allowed to provide transportation.
+
+     e.      Assistance with communication, which includes, but is not limited to placing a phone
+             within participant’s reach and physically assisting participant with the use of the
+             phone, and orientation to daily events.
+
+     f.      Monitoring medication, e.g., the type that would consist of informing the participant it
+             is time to take medication as prescribed by the physician and as written directions on
+             the box or bottle indicate. It does not mean that the attendant is responsible for giving
+             the medicine; however, it does not preclude the attendant from handing the medicine
+             container or medicines already set up in daily containers to the participant.
+
+     Skilled Services Provided by an Approved Attendant
+
+     The waiver service definition for “Attendant” allows a participant or the designee to self-
+     direct “skilled service activities” performed by the Attendant with approval from the
+     participant’s physician. These activities are considered “health maintenance activities” which
+     could be performed by the participant if the individual were physically and mentally capable.
+     With Physician approval, Attendants may provide skilled services which are considered
+     health maintenance activities for participants in all Community Long Term Care Home and
+     Community Based Services Waivers.
+
+
+
+
+Chapter 7 – Service Authorization                                                              Page 27
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                   July 1, 2023
+
+
+     When a referral is being made to UAP for Attendant Care and it is being requested the
+     Attendant provide Skilled Service Activities, the Case Manager will include a comment on
+     the referral stating “Participant/Authorized Representative has requested a skilled service
+     to be provided.”
+
+     For existing referrals, already in process with UAP, where a skilled service need has been
+     identified, the Case Manager will note in the comment section on the referral,
+     “Participant/Authorized Representative has requested a skilled service to be provided.”
+     AND email UAP (UAP@scdhhs.gov) to notify them of the change in the referral. UAP
+     will not receive a Phoenix notification that there is a change to the referral.
+
+     UAP will send the “MEDICAID HOME COMMUNITY BASED WAIVERS PHYSICIAN
+     STATEMENT FOR PARTICIPANT DIRECTED ATTENDANT CARE” and a copy of the
+     legislation to the assigned Case Manager, who will provide the form and a copy of the
+     legislation to the Participant or Attendant’s Employer of Record. The Participant or Employer
+     of Record or Designee is responsible for obtaining the physician approval/signature.
+
+     Once the signed Physician’s Statement has been received, the Case Manager will scan the
+     form into Phoenix scans under the Attendant scan tag and email UAP to notify the form has
+     been returned and scanned. UAP will complete the Attendant match visit once this
+     notification is received by email.
+     The following list of services are examples of activities which may be appropriate for
+     the Attendant to perform. This list is not all inclusive.
+
+     •       Tracheostomy care
+
+     •       Ventilator Care - taking on and off the vent
+
+     •       Suctioning- tracheostomy/ oral
+
+     •       Finger stick blood glucose monitoring
+
+     •       Wound care
+
+     •       Enteral feedings (PEG or Nasogastric)
+
+     •       Bowel program
+
+     •       Ostomy care
+
+     •       Catheter care
+
+     Any other skilled service requested by the participant/Employer of Record/Designee or
+     physician requires Central Office approval.
+Chapter 7 – Service Authorization                                                          Page 28
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                   July 1, 2023
+
+
+     NOTE: If the participant changes physicians and the physician who signed the Physician
+         Statement is no longer involved in the participant’s care, a new Physician’s Statement
+         is required. If the service is directed by the Employer of Record (EOR) instead of the
+         participant and the Employer of Record is no longer able to direct the skilled service
+         activities performed by the Attendant, a new physician statement is required.
+
+ Discussion & Selection of an Employer of Record (EOR) for Attendant Care Services
+
+     If the Case Manager and participant and/or Authorized Representative identify Attendant
+     Care as a need, the Case Manager will discuss the need to identify an Employer of Record
+     (EOR). For the participant to be approved for Attendant Care services, the participant or
+     designee will serve as the Employer of Record (EOR). The EOR for attendant service must
+     be knowledgeable and involved in the participant's day to day care.
+
+     The Authorized Representative cannot serve as the Attendant unless there is an
+     approved designated Employer of Record (EOR) who assumes the responsibility of all
+     attendant care related contacts with the Case Manager.
+
+     The EOR should reside within a 50-mile radius of the participant’s home. Any exceptions
+     must be approved by UAP and Waiver Service Exceptions. Waiver Service Exceptions
+     requests should be emailed to WES@scdhhs.gov.
+
+     Steps to request an exception for EOR over 50 miles:
+
+     1.      Case Manager narrate the EOR will be over 50 miles away.
+
+     2.      Case Manager confirm and narrate that the EOR is the only person available to perform
+             the task and has agreed to do so and that the EOR understands and has agreed to assume
+             the roles and responsibilities.
+
+     3.      Documentation must be present that the Area Administrator or Lead Team agrees with
+             the justification and gives approval for the request to be sent to Waiver Service
+             Exceptions for review.
+
+     The Employer of Record (EOR)
+
+     •       Must be willing and able to interview prospective Attendants;
+
+     •       Meet with UAP in the home for all match visits and when follow-up visits are
+             necessary;
+
+     •       Discuss the participant's attendant care needs by telephone with the appropriate CLTC
+             staff or Case Manager;
+
+Chapter 7 – Service Authorization                                                          Page 29
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+     •       Meet with the Case Manager in the participant’s home for the Initial Visit if available;
+
+     •       Meet with the Case Manager in the participant’s home for quarterly visits if available;
+
+     •       Meet with the Case Manager in the participant’s home for annual re-evaluation visits;
+
+     •       Attend the initial Attendant/EOR Care Call training if available.
+
+     •       Must provide regular supervision of the Attendant;
+
+     •       Must provide guidance, direction and assistance with problems related to the
+             participant’s care to the Attendant;
+
+     •       Must review and sign the Attendant Logs at least monthly, acknowledging that
+             services were or were not provided by the attendant on the days notated on the logs;
+
+     •       Must be present to observe the care provided by the Attendant at least monthly;
+
+     •       Must review and sign the Resolution Form completed by Attendant, acknowledging
+             that the service was provided if the Attendant is unable to or fails to check-in or check-
+             out on the designated landline phone or Mobile App.
+
+     •       The signed Resolution Log must be received by the CLTC Area Office within
+             thirty (30) days of the date of the Attendant Care service or a strike will be
+             issued.
+
+     •       The CLTC Area Office Support Staff will work resolutions within 10 business days
+             of submission.
+
+     Note: When a vision impaired participant self-directs Attendant Care, UAP initially reads
+           related forms to the Participant and instructs Attendants to read the Daily Logs to the
+           Participant, prior to signing.
+
+
+ Referrals to University Affiliated Program (UAP) for Attendant Care
+
+     Once a prospective EOR is identified, and the prospective EOR has identified a prospective
+     Attendant, the prospective EOR will discuss the choice of provider with the participant and
+     Case Manager. If the Case Manager agrees that this is a reasonable option for participant
+     care, the Case Manager will:
+
+     •       Document the choice of provider.
+
+     •       Complete a referral to UAP in Phoenix. Choose “Approval Request” on the carrousel
+             to complete the appropriate sections of “Participant Directed Care” or
+
+Chapter 7 – Service Authorization                                                               Page 30
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+             “Representative Directed Care”. The Case Manager should alert UAP of any
+             concerns when sending the form to UAP, such as APS involvement, etc. in the
+             comment section.
+
+     •       UAP sends an information packet to the EOR and an enrollment packet to the
+             Attendant. An UAP Nurse contacts the participant’s prospective EOR to discuss
+             Attendant Care service.
+
+     •       UAP will make arrangements to visit the participant and the prospective EOR &
+             Attendant in the participant’s home after the Attendant meets the requirements to
+             enroll. Match Visits by UAP must include observation of the ADL care as outlined in
+             the service plan.
+
+     •       Upon completion of a match visit, UAP will notify the Case Manager by approving
+             the match via Phoenix.
+
+     •       Case Manager will review any comments provided by UAP at the Match Visit.
+
+     •       After receiving notification of approval in Phoenix from UAP, the Case Manager
+             will check the resource directory to verify the Attendant’s enrollment and review the
+             first and/or second light(s) are green in Phoenix. If enrolled and the appropriate lights
+             are green in Phoenix, the Area Office Attendant Care Trainer determines if training
+             is necessary. Refer to the CLTC Standardized Attendant Care Training Manual for
+             additional guidance.
+
+
+     Note: If Care Call training has been attended by the chosen provider within the past 6
+     months, it is not necessary to repeat the training unless a refresher session is requested.
+     Care Call training may need to be repeated if the Attendant has not provided services in
+     the last 6 months.
+
+     •       If the Attendant has not been enrolled, an enrollment notification will be sent from
+             Central Office when the provider has been enrolled and is in the Resource Directory.
+
+     •       When the provider has been enrolled, Attendant Care Trainer sends an e-mail to
+             the Case Manager to notify of the status of the Attendant’s enrollment.
+
+     •       UAP instructs the Attendant to contact the Case Manager to schedule Care Call
+             Training after the Attendant receives a provider number.
+
+     •       If Phoenix shows the red stop light under “ok to authorize” Attendant services, do not
+             authorize the service. View status screen to determine the enrollment information
+             that is missing.
+
+     •       Case Manager reviews the specific attendant information in the Participant’s
+             Phoenix case in the Attendant Care Request section.
+Chapter 7 – Service Authorization                                                              Page 31
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                    July 1, 2023
+
+
+     •       If Phoenix shows the green light under “ok to authorize” Attendant services, and Care
+             Call training is needed; the CLTC Trainer should arrange Attendant/EOR Care Call
+             Training.
+     •        The Case Manager Authorizes the total number of hours per week. The EOR and
+             Attendant will negotiate the appropriate days and times of service to meet the
+             participant’s needs as outlined by the Participant’s Service Plan.
+
+     •       The Case Manager reviews the service plan and duties with the Attendant during the
+             Care Call Training.
+
+     •      The Case Manager reviews the authorization with the Attendant. Unless otherwise
+            approved by the Area Administrator or Lead Team,
+     Attendant Care services will be started with the following Sunday’s date. The Service
+            Provision Form designates the units per week, not specific days.
+
+     •       The Case Manager provides the attendant with a Service Provision Form.
+
+     •       The Case Manager provides the attendant with a copy of the Service Plan.
+
+ When Attendant Care service is terminated, the Case Manager:
+
+     •       Sends a copy of the service termination form to the Attendant provider.
+
+     •       Contacts the Attendant provider by phone if the termination is effective immediately.
+
+     •       Notifies UAP of the termination of the service.
+
+     •       Updates the Service Plan to reflect the change in service.
+
+     •       Terminates the authorization when/if the attendant is terminated.
+
+     •       Completes a Notice of Discontinued Employment Form and faxes to Financial
+             Management Service.
+
+     •       The Notice of Discontinued Employment Form is only to be completed when the
+             Attendant is fired and never going to be requested back for employment. A copy of
+             the Notice of Discontinued Employment Form should be uploaded in Phoenix and
+             narrated when it was sent to Financial Management Service.
+
+ When there is a request to change Attendant Care Provider choice, the Case Manager:
+
+     •       Receives and discusses the selection of the new prospective Attendant with the EOR.
+
+     •       Complete a new pre-screen under the Approval Request tab in Phoenix.
+
+Chapter 7 – Service Authorization                                                           Page 32
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                   July 1, 2023
+
+     •       Awaits UAP approval of the match with the new Attendant in Phoenix.
+
+     •       Works with CLTC staff in Area Office who provide Attendant training to schedule
+             training, if needed.
+
+     •       If Phoenix shows the green light under “ok to authorize” Attendant services, and Care
+             Call training is needed; the CLTC Trainer should arrange Attendant/EOR Care Call
+             Training.
+
+     •       Authorizes the total number of hours per week. The EOR and Attendant will negotiate
+             the appropriate days and times of service to meet the participant’s needs as outlined
+             by the Participant’s Service Plan.
+
+  When more than one Attendant is authorized for a participant
+
+     When more than one Attendant provides services on a regular basis, all Attendants will be
+     authorized the total amount of Attendant Care hours approved to provide services on an
+     ongoing basis. A comment is included on the authorization stating the total combined Attendant
+     hours cannot exceed the total hours approved. For example: If fifteen (15) units authorized
+     between two (2) Attendants and primary Attendant provided twelve (12) hours; this leaves only
+     three (3) units for the second (2nd) Attendant. The EOR must closely work with the two (2)
+     Attendants regarding the specific times that each will provide service since the total hours
+     cannot exceed fifteen (15). The Case Manager must monitor hours closely to ensure the fifteen
+     (15) hour total is not exceeded.
+
+     Exception: If both attendants provide a specific number of units each week, the hours can be
+                divided and authorized specific to the EOR’s designation of the break-out of
+                hours. The comment section will be used to communicate this information to the
+                provider.
+
+     If only a one-time/temporary backup Attendant is necessary, the service is authorized at the
+     time of the usage. The EOR or Attendant should notify the Case Manager in advance, if
+     possible. If the one-time/temporary backup Attendant is necessary when the CLTC Area
+     Office is closed and
+     unable to provide prior approval, the EOR must call as soon as the CLTC office reopens. The
+     authorization must specify the number of hours worked and have a start and end date. The
+     primary authorization is left open. The Attendant should check-in and check-out in Care Call.
+     It is the Case Manager’s responsibility to assure the approved number of hours are not
+     exceeded.
+
+  Case Manager On-going Responsibilities:
+
+             1.   Daily Logs
+
+             •        The Daily Attendant Log is an important documentation tool used by all
+                      Attendants to record services provided.
+Chapter 7 – Service Authorization                                                          Page 33
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                        July 1, 2023
+
+
+                       The log is to be completed daily by the Attendant outlining only the specific
+                       tasks performed on the noted date as part of the participant’s care. The log is to
+                       be signed weekly by the EOR and to be received in the CLTC Area Office that
+                       serves the participant by the fifteenth (15th) of the following month. The CLTC
+                       Support Staff will receive the attendant logs and securely forward to the
+                       assigned Case Manager.
+
+             •        The assigned Case Manager will review all information on the log to ensure
+                      that the Attendant Care services notated as provided to the Participant are in
+                      compliance with the Participant’s Service Plan and match the Care Call
+                      information through Phoenix. The Case Manager should also make sure the
+                      logs have the required signature of the Attendant and the EOR and that they
+                      are not copies of previously submitted logs. The Case Manager is
+                      responsible for uploading the daily logs into Phoenix to the appropriate
+                      “Attendant” scan tag.
+
+             •        Receipt and review of the logs, as well as any Attendant comments showing
+                      problems or changes in the condition of the participant, should be narrated in
+                      Phoenix no later than the twenty-second (22nd) day of the month. The
+                      completed logs will be scanned into Phoenix scans under the “Attendant” scan
+                      tag. If the logs are not received with appropriate signatures by both the
+                      Attendant and Employer of Record by the fifteenth (15th) of the month, the
+                      Case Manager will complete and mail a CLTC Notification Form to the
+                      Participant/Authorized Representative and EOR no later than the twenty-
+                      second (22nd) of that month. The termination date (often (10) business days
+                      from the date mailed) and reason for the termination is to be included in the
+                      CLTC Notification Form. If the logs are received by the deadline, the Service
+                      Provision Form will remain open.
+
+             •        Should the Attendant fail to properly submit the logs within the time frame a
+                      second time for the same participant, the Attendant service for that Participant
+                      will be terminated and not reinstated for that participant/attendant match. The
+                      Case Manager should offer other services to the participant/Authorized
+                      Representative to meet the participant’s service needs.
+
+             •        If the logs are not received with proper signature by the end of the ten (10)
+                      business day notice, no further extension is required by the Case Manager.
+                      The attendant service is immediately terminated.
+
+             •        If the Attendant is serving another participant, and is timely for that
+                      Participant, services for the second Participant may continue.
+
+             •        Discrepancies or differences in services provided and those indicated on the
+                      service plan, Attendant Care Logs, or in Care Call should be investigated and
+                      resolved by the Case Manager.
+Chapter 7 – Service Authorization                                                               Page 34
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+
+             2.       If participant or EOR is suspected of no longer being capable of supervision,
+                      UAP will be informed by the Case Manager.
+
+             3.       If the EOR dies or is no longer able or willing to provide weekly supervision,
+                      the Attendant Service must be immediately terminated. In this situation, the
+                      participant/Authorized Representative and the Attendant are to be notified by
+                      phone of the termination. A copy of the termination form is mailed to the
+                      Attendant.
+
+             4.       Any changes in the EOR must be referred as a new match visit to determine
+                      the prospective EOR’s ability to direct care and to establish the Attendant as
+                      the Employee of the EOR with the fiscal agent.
+
+             5.       Case Manager will notify UAP of any changes in the participant’s condition
+                      or situation that may impact the Attendant Care services. (Example: Attendant
+                      is no longer providing care to participant).
+
+             6.       The CLTC Area Office Representative will receive written Care Call
+                      Resolution Forms and will contact the Case Manager for confirmation that
+                      the service was provided. All requests for confirmation of resolutions should
+                      be reviewed and investigated, and the Case Manager must respond to the
+                      CLTC Area Office Representative for approval/denial within seven (7)
+                      business days. Any delay in response back to the CLTC Area Office
+                      Representative should be narrated, giving reason for the delay. Prompt action
+                      to finalize the resolution is expected.
+
+             7.       If UAP inactivates a match and the attendant is suspended or terminated, UAP
+                      will inform the assigned Case Manager. The Case Manager will notify the
+                      participant, attendant and EOR of the suspension or termination. The Case
+                      Manager will terminate the authorization. UAP will confirm the termination
+                      and will contact the Lead Team Case Manager or Area Administrator, if
+                      needed.
+
+ Monitoring of Service by UAP
+
+     Problem resolution visits by the UAP Nurse may be requested by the participant, Authorized
+     Representative, EOR, Attendant, Case Manager, Lead Team Case Manager or Area
+     Administrator. All appropriate parties will be consulted for problem resolution.
+
+     Service level approvals are time limited until the next re-evaluation or as indicated by the
+     Reviewer in approval comments.
+
+
+
+
+Chapter 7 – Service Authorization                                                              Page 35
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+                                       7D Handheld Shower
+
+  One (1) unit of service includes one Handheld Shower. One unit allowed per year.
+
+  Handheld Shower must be installed/adjusted by the provider. Items may not be dropped shipped
+  to the participant.
+
+
+  The need for this equipment must be evaluated in the home prior to authorizing the service. The
+  need for this service must be documented in the Home Assessment section of Phoenix.
+
+
+  The Case Manager will create the Service Provider Report (Provider Choice Form) in Phoenix.
+  The Case Manager will obtain the provider choice(s) from the participant and/or Authorized
+  Representative in order of preference. These choices may be obtained verbally, by mail or during
+  an in-home visit. If the choices are made verbally, the choices are documented in the narrative in
+  order of preference.
+
+  The Case Manager will update the Service Plan to include the need for Handheld Shower.
+
+  Prior approval must be requested via the service request section of the Service Plan in Phoenix.
+  The Case Manager will create a referral to the chosen provider in order of preference via Phoenix.
+
+  Service Justification: Handheld Shower: Focus on weakness, poor endurance. Include date
+  last item was received.
+
+  No Physician Order is required for this service.
+
+  The Case Manager will authorize the services in accordance with the participant’s Service Plan.
+  This Service Provision Form will include a start date and an end date which will be thirty (30) days
+  later.
+
+  The Service Provision Form must be sent to the provider via Phoenix to initiate services. The
+  Service Plan is not required to be sent to the provider for this service.
+
+  The cost of Handheld Shower is not included in the $7,500.00 lifetime cap for Environmental
+  Modification services.
+
+                         CLTC STANDARDS FOR HANDHELD SHOWER
+
+Specs for Handheld Shower:
+Minimum 6’ hose Pause/
+shut off function
+Installation with Teflon tape
+
+ Chapter 7 – Service Authorization                                                             Page 36
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                        July 1, 2023
+
+
+                                      7E Case Management
+
+ Case management is a waiver service that is provided to all participants who participate in the
+ CLTC program. It is the process of discussing and coordinating services to enable the participant
+ to remain in the home. Case management begins on the date the participant enters the program
+ and continues through the date of application closure. It is a vital part of the long-term care service
+ system. Some participants may choose and/or need only case management services. In such
+ situations, the value of case management is in the continued follow-up, coordination, and
+ monitoring of services other than CLTC waiver services. On-going case management enables the
+ Case Manager to evaluate changes in the participant’s service needs.
+
+ A unit of service is one (1) month of Case Management.
+
+ The intensity of Case Management services provided to each participant is dependent upon the
+ individual participant’s needs as set forth in the participant’s Service Plan.
+
+ The Service Plan will include the Case Management Service.
+
+ Prior approval must be requested via the service request section of the Service Plan in Phoenix.
+ A written justification reason is not required. Prior approval will be obtained for one (1) unit of
+ Case Management monthly.
+
+ At a minimum, case management requires a participant contact monthly. The contact types include
+ Initial Visit, Monthly Contact, Quarterly Visit and Re-evaluation Visit. One of these contact types
+ must be provided and documented every month.
+
+ A referral is created and sent to the chosen providers in order of preference via Phoenix.
+
+ Service Justification: No justification needed.
+
+ If the referral is accepted, the on-going Case Manager has forty-eight (48) business hours to
+ contact the Case Manager II to receive the case. The case will be discussed with the on-going
+ Case Manager. The Case Manager II will complete the Service Provision Form for Case
+ Management. Documentation of the case referral and acceptance must be made in Phoenix by
+ the Case Manager II.
+
+ Case Management Services must be provided Monday through Friday between the hours of
+ 7:00am- 7:00pm. If the participant and/or Authorized Representative request case management
+ contact or visit outside of these hours for the participant’s benefit, approval must be received
+ from and narrated in Phoenix by the Area Administrator.
+
+
+
+
+Chapter 7 – Service Authorization                                                                Page 37
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 7 – Service Authorization Procedures                                July 1, 2023
+
+   Case Management shall include the following activities:
+
+      A.      Person Centered Service Planning
+
+      B.      Service Coordination
+
+      C.      Monitoring
+
+      D.      Re-evaluation
+
+      E.      Service Plan Evaluation
+
+      F.      Service Counseling
+
+      G.      Initial Authorization of Waiver Service
+
+      H.      Changes in Services within an Authorization Period
+
+      I.      Termination of Waiver Services
+
+      J.      Application or Case Termination and/or Transfer
+
+      K.      Documentation of each activity reflecting date of occurrence.
+
+      Note: Case Management providers should refer to other related chapters as well as the
+            requirements of the Community Long Term Care Case Management Contract and
+            the Case Management Scope of Services at:
+
+ https://www.scdhhs.gov/provider-type/community-long-term-care-provider-manual-070119-
+edition-posted-070119
+
+
+
+
+ Chapter 7 – Service Authorization                                                       Page 38
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+                                    7F Companion Services
+
+ The unit of service is one (1) hour (not including time for transportation to and from participant’s
+ residence, breaks or meals). This service may be authorized in one-half (½) hour increments after
+ a minimum of one (1) hour.
+
+ Companion services are provided in the participant’s residence and are intended to provide relief
+ for caregivers with needed supervision of participants. The service does not include hands on
+ care.
+
+ Participants must be present when this service is being
+
+ provided. Companion activities include:
+
+ 1.      Socialization – reading, conversation, assistance with participant’s mail or newspaper;
+
+ 2.      Assistance with meal or snack preparations, serving and cleaning up afterwards;
+
+ 3.      Incidental housekeeping including sweeping, dusting, assistance with or supervision of
+         the participant’s laundry or linens, and other light chores needed to maintain the
+         participant in a safe and sanitary environment. Housekeeping is only for the areas specific
+         to the participant such as the participant’s bedroom, bathroom, etc.
+
+ 4.      Shopping assistance, essential errands, and escorting participant to medical services.
+         Companions are not allowed to provide transportation.
+
+ 5.      Sitting service focusing on the participant including supervision, orientation, and
+         observation for basic safety to include making emergency contact if needed.
+
+ Companion services can be provided by an agency provider or Medicaid enrolled individual
+ companion provider.
+
+ A person who is the primary caregiver cannot be paid to provide companion services. A primary
+ caregiver is someone who provides hands-on care as a natural support to the participant. There
+ could be more than one primary caregiver identified. The reason for this is the service is primarily
+ designed to give relief to the primary caregiver(s).
+
+ The Case Manager will create the Service Provider Report (Provider Choice Form) in Phoenix.
+ The Case Manager will obtain the provider choice(s) from the participant and/or Authorized
+ Representative in the order of preference. These choices may be obtained verbally, by mail or
+ during an in-home visit. If the choices are made verbally, the choices are documented in the
+ narrative in order of preference.
+
+ The Case Manager will update the Service Plan to include the need for Companion Service.
+
+Chapter 7 – Service Authorization                                                             Page 39
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+
+   Prior approval must be requested via the service request section of the Service Plan in Phoenix.
+
+   Service Justification: Agency or Individual: State type of activity or activities needed, such
+   as socialization, supervision, respite for caregiver, essential errands, etc. Note: Do not include
+   number of hours, desired time of day, or desired days of week/weekly schedule.
+
+   The Case Manager will create a referral to the chosen providers in order of preference via Phoenix.
+
+   If the referral is accepted, the Case Manager will negotiate the start date for services to begin.
+
+   No Physician Order is required.
+
+   The Case Manager will authorize the amount, frequency, and duration of services in accordance
+   with the participant’s Service Plan.
+
+   The Service Provision Form must be completed. The duties of the Companion- Individual must
+   be listed in the Comments section of the Service Provision Form. The Service Provision Form
+   must be given to the Companion- Individual by mail or hand delivery.
+
+   The Service Provision Form must be sent to the Companion Agency via Phoenix. The Service
+   Plan is available to the provider in Phoenix.
+
+   Service level approvals are time limited until the next re-evaluation or as indicated by the Reviewer
+   in approval comments.
+
+Companion Services Provided by Individual Companion Providers
+
+       The Companion Individual Service is authorized by the week.
+
+      If the Case Manager and participant/Authorized Representative identify Companion
+      (Individual) as a need, then the Case Manager will:
+
+       •      Complete the Pre-screening in Phoenix for Participant Directed Care (UAP Form 1)
+              OR Pre-screening for Assessment for Representative Directed Care (UAP Form 2).
+
+       •      Obtain a Choice of Provider.
+
+       •      Make a referral to UAP if the pre-screening is passed. The referral is made by
+              emailing UAP the participant’s name and Client ID.
+
+
+
+
+ Chapter 7 – Service Authorization                                                              Page 40
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+     •       UAP conducts the enrollment review process (PPD, SLED check, Fiscal Agent
+             paperwork) and notifies the Case Manager of the findings.
+
+     •       UAP notifies the participant and/or Authorized Representative of the SLED check
+             results.
+
+     •       If approved by UAP, monitor Phoenix for approval and for the CLTC Central Office
+             notification of enrollment.
+
+ The CLTC Area Office Support Staff will:
+
+     •       Check the Resource Directory to verify companion’s enrollment as a provider after
+             receiving email from UAP.
+
+     •       Verify if the training box has been completed if the companion is enrolled. If the
+             companion has not been enrolled, an enrollment notification will be sent from Central
+             Office when the provider has been enrolled and is on the Resource Directory.
+
+     •       Send an email notification to the Case Manager when the companion is enrolled.
+
+ The Case Manager will then review the specific Individual Companion information in the
+ Participant’s Phoenix record under the Attendant Care Request section.
+
+     •       If the light under “ok to authorize” for companion services in Phoenix is red, do not
+             authorize the individual companion services. View status screen to determine what
+             enrollment information is missing.
+
+     •       When the light under “ok to authorize” companion services in Phoenix is green,
+             proceed to arrange billing training for the provider in the CLTC Area Office with the
+             CLTC Area Office Attendant Care Trainer. During training, the Case Manager to
+             review the activities to be performed by the Companion.
+
+             Note: If billing training has already been attended by the chosen provider, it is not
+             necessary to repeat the training. The service authorization including the activities to
+             be completed in the comments section, may be mailed to the companion provider.
+
+     •       Completes Service Provision Form in Phoenix and sends a copy to the provider and
+             UAP.
+
+
+
+
+Chapter 7 – Service Authorization                                                            Page 41
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 7 – Service Authorization Procedures                                  July 1, 2023
+
+
+      •       The Companion does NOT complete Daily Logs.
+
+      •       Completes a service termination in Phoenix when the service is terminated and sends
+              a service termination to the companion provider. Also, UAP must be notified of the
+              termination date of the companion service. The Service Plan must be updated
+              accordingly.
+
+      •       Completes a Notice of Discontinued Employment Form and faxes to Financial
+              Management Services
+
+
+      After the Companion service starts: The Case Manager should make every effort to
+      schedule the next quarterly home visit during a time when the companion provider is
+      available. The Case Manager should review the service expectations with the companion
+      and participant and/or Authorized Representative and monitor for quality and
+      appropriateness.
+
+Companion Services Provided Through an Agency
+
+      The Companion Agency Service is authorized by the day.
+
+      Service Provision Form must be sent to the provider designating the units per day. It is
+      important that the Case Manager coordinate this service with other services going into the
+      home as well as with the companion’s supervisor.
+
+
+
+
+ Chapter 7 – Service Authorization                                                         Page 42
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                   July 1, 2023
+
+
+                                    7G Environmental Modifications
+
+ This service must be participant specific and for the benefit of the participant. Environmental
+ Modification must be necessary to ensure health, welfare and safety and enable the participant to
+ function with greater independence in the home without which, the participant would require
+ institutionalization.
+
+ The service must be cost effective. The Case Manager must exercise professional judgment
+ regarding the appropriateness of the service. The service is not intended for major home
+ improvement, remodeling, or cosmetic improvements. The Case Manager must explore other
+ available community resources prior to requesting approval for this service.
+
+ The need for Environmental Modifications including bath safety equipment must be evaluated in
+ the home by the Case Manager prior to requesting approval. The need for this service must be
+ documented in the Home Assessment section of Phoenix. During the home visit, the Case
+ Manager must explain and obtain appropriate signatures on the Participant or Landowner
+ Consent Form for all the environmental modification services.
+
+ Exception: Authorization of fans or air conditioners does not require a Participant or Landowner
+            Consent Form. A home visit is not required for fans, or air conditioners. A phone
+            call will be acceptable for these items only.
+
+ The Case Manager will update the Service Plan to include the need for Environmental
+ Modification.
+
+ Prior approval must be requested via the service request section of the Service Plan in Phoenix.
+ The service prior approval is required prior to sending the request to the Environmental
+ Modification Specialist.
+
+ Note: There is a lifetime cap of $7,500. This includes the costs for ramps and enhanced
+       environmental modifications. Requests to exceed this amount must be sent to Central
+       Office for consideration and approval.
+
+
+
+
+Chapter 7 – Service Authorization                                                          Page 43
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+                                    7G-1 Fans/Air Conditioners
+
+ One (1) unit of service includes one of the allowed items of Fans or Air Conditioners.
+
+ The need for this equipment can be evaluated and assessed by a phone call. A home visit is not
+ required for fans or air conditioners. The need for this service must be documented in the Home
+ Assessment section of Phoenix.
+
+ One (1) Fan and one (1) Air Conditioner can be authorized every two (2) years, if needed. No
+ exception shall be granted.
+
+ The Participant or Landowner Consent Form is not required for this service.
+  The Case Manager will update the Service Plan to include the need for Fan/Air Conditioner.
+
+ Prior approval must be requested via the service request section of the Service Plan in Phoenix.
+
+ Service Justification: Emphasize need based on health and safety related issues. Include date last
+ item was received.
+
+ The Case Manager will create the Service Provider Report (Provider Choice Form) in Phoenix.
+ The Case Manager will obtain the provider choice(s) from the participant and/or Authorized
+ Representative in order of preference. These choices may be obtained verbally, by mail or during
+ an in-home visit. If the choices are made verbally, the choices are documented in the narrative in
+ the order of preference.
+
+ The Case Manager will create a referral to the chosen providers in order of preference via Phoenix.
+
+ The Case Manager will authorize the amount, frequency, and duration of service in accordance
+ with the participant Service Plan. This Service Provision Form will include a start date and an
+ end date which will be thirty (30) days later.
+
+ The modification specifics must be clearly stated:
+ •     Air conditioners must be 10,000 BTU. This unit includes installation and a one-year in-
+       home warranty. During this one-year warranty period, it is the responsibility of the
+       provider to replace and/or repair the unit. The unit must be present at the home and not
+       discarded.
+
+ •       Box fans must have three (3) speeds.
+
+
+ The Case Manager must verify service and satisfaction with the work completed by the provider,
+ as appropriate, on the next scheduled contact after the authorization end date. If there are problems,
+ the Case Manager shall negotiate resolution of the problems and/or complaint with the provider.
+
+
+
+Chapter 7 – Service Authorization                                                               Page 44
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+                                         7G-2 Ramps
+ This policy is to be used when a ramp is needed, and no other Environmental Modifications are
+ needed.
+
+ The need for this service must be evaluated in the home prior to authorizing the service. The Case
+ Manager will visit participant’s home to assess the need for a ramp. This visit may be completed
+ at the next regularly scheduled home visit unless there is a critical need requiring an earlier visit.
+
+ Only one ramp may be authorized at a time for a participant. If a participant changes location and
+ requests a new ramp or a participant’s current ramp is deemed unsafe, the Case Manager may make
+ a home visit to assess need. An additional ramp may be approved if the participant has not exceeded
+ the $7500 lifetime cap.
+
+ The need for this service must be documented in the Home Assessment section of Phoenix.
+
+ During the home visit, the Case Manager must explain and obtain appropriate signatures on the
+ Participant or Landowner Consent Form. The consent form signature is to be obtained in Phoenix.
+ If a hard copy form is used, the signed form must be scanned into Phoenix under the Environmental
+ Modification Scan Tag.
+
+ The Case Manager will create the Service Provider Report (Provider Choice Form) in Phoenix.
+ The Case Manager will obtain provider choice(s) from the participant and/or Authorized
+ Representative in order of preference. These choices may be obtained verbally, by mail or during
+ an in-home visit. If the choices are made verbally, the Case Manager will document the choices
+ in the narrative, in the order of preference. The participant and/or Authorized Representative
+ should be encouraged to contact chosen provider(s) to determine if the provider is willing to
+ accept the referral and to determine how long it will take the provider to complete the work.
+ Under no circumstances shall a Case Manager assist the participant in choosing a provider.
+
+ The Case Manager will update the Service Plan to include the need for a ramp.
+
+ Prior approval must be requested via the “New Ramp Request” section from the Home
+ Assessment screen in Phoenix. Answering the ramp request questions in Phoenix regarding the
+ door, yard size, and home elevation will determine whether the ramp request is referred to the
+ Ramp Provider or Environmental Modification Specialist.
+
+ Prior to submitting pictures in the Phoenix ramp workflow, make sure of the following:
+
+ •       Pictures need to be at a wide angle to show where the new ramp will need to be placed.
+
+ •       Take the pictures from the street and include the house and yard in the pictures. Pictures
+         that are taken too close to the house are not acceptable.
+
+ •       Include multiple angles of the new ramp location in the pictures.
+Chapter 7 – Service Authorization                                                               Page 45
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+
+
+ When taking threshold measurements, measure in inches from the door threshold to the
+ landing. This is usually only 1”-3” to the outside structure (landing, porch, steps).
+ Measurements from the door threshold to the ground are not acceptable.
+ Refer to the Ramp Referrals – Case Manager guidance in Phoenix Help for more information.
+
+ Service Justification: State need based on mobility, accessibility, and/or health and safety issues.
+ State Participant or Landowner Consent Form was signed, and the document is in Forms or has
+ been scanned. If ramp was provided at a previous address, include date. Include amount currently
+ spent to date towards lifetime cap.
+
+ The Case Manager will complete the ramp form in the Home Assessment section in Phoenix.
+ Click on “Refer to Providers”. Notate if the Environmental Modifications Specialist should
+ review “difficult situation” such as homes that are elevated and high off the ground, homes with
+ small yards and when there is a discrepancy about which door is to be used.
+
+ The Case Manager will create a referral to the chosen provider in the order of preferences via
+ Phoenix.
+
+ Note: Do not put an end date on this referral. Send the referral from the Home Assessment section
+       in Phoenix. Complete all fields of the referral.
+
+
+ When the referral is accepted, the Case Manager will receive notification in the Notification
+ section in Phoenix. No further action is needed by the Case Manager until the provider submits
+ the Ramp Completion Form via Phoenix.
+
+ When the ramp is completed, the provider must submit the Ramp Completion Form in Phoenix.
+ Upon notification of receipt of the Ramp Notification Form via Phoenix, the Case Manager must
+ complete the Service Provision Form. The start date is the date the Service Provision Form is
+ created, and the end date is thirty (30) days later. The dollar amount to be entered on the Service
+ Provision Form is the dollar amount indicated by the provider via the Ramp Completion Form.
+
+ If a ramp and an Enhanced Environmental Modification are being requested at the same time for
+ the same participant, see Chapter 7, Section 7H-4.
+
+ If the participant and/or Authorized Representative is dissatisfied or complains about the ramp
+ and an inspection by the Environmental Modification Specialist is needed, the Case Manager
+ will email EVIR to request an inspection. The Case Manager will proceed with creating and
+ sending the Service Provision Form to the provider while the Environmental Modification
+ Specialist is reviewing the complaint. Provider payment should not be delayed pending
+ review by the Environmental Modification Specialist.
+
+
+
+
+Chapter 7 – Service Authorization                                                             Page 46
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+ All charges in the “other” category must be pre-approved by the Environmental Modification
+ Specialist.
+
+ It is the responsibility of the provider to construct all jobs to the required code of the Americans
+ with Disabilities Act (ADA), as well as meeting specific requirements stipulated by CLTC. In
+ addition, all required permits are the responsibility of the provider.
+
+ Participants are responsible for ramp maintenance. The Case Manager may request ramp
+ inspection by the Environmental Modification Specialist if a ramp is deemed unsafe or the structure
+ is compromised. The Environmental Modification Specialist will determine whether or not to
+ approve ramp repair or replacement.
+
+ The cost of Ramps service is included in the $7,500.00 lifetime cap for Environmental
+ Modification services.
+
+
+
+
+Chapter 7 – Service Authorization                                                             Page 47
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                    July 1, 2023
+
+
+                          7G-3 Enhanced Environmental Modifications
+
+ Enhanced Environmental Modifications needs may be requested for participants who own their
+ own home/property, or the home is owned by a family member where no rent is paid to the family
+ member. Rent to own is considered renting and requires documentation.
+
+ The need for this service must be evaluated in the home prior to authorizing the service. The Case
+ Manager will visit participant’s home to assess the need for the Enhanced Environmental
+ Modifications. The need for this service must be documented in the Home Assessment section
+ of Phoenix.
+
+ During the home visit, the Case Manager must explain and obtain appropriate signatures on the
+ Participant or Landowner Consent Form.
+
+ Prior approval must be requested via the service request section of the Service Plan in Phoenix.
+ The service prior approval is required prior to sending the request to the Environmental
+ Modification Specialist.
+
+ Service Justification: State need based on mobility, accessibility, and/or health and safety
+ issues. State Participant or Landowner Consent Form was signed, and the document is in Forms
+ or has been scanned. Include amount currently spent to date towards lifetime cap.
+
+ The Case Manager will complete the Environmental Needs Tab of the Home Assessment section
+ in Phoenix. The Case Manager will indicate the type of Enhanced Environmental Modification
+ needed from the list in Phoenix and will send the request to the Environmental Modification
+ Specialist via Phoenix.
+
+ The Environmental Modification Specialist will assess the request and indicate via Phoenix when
+ the request is ready for bidding.
+
+ The providers serving the geographical area of the participant will receive an email and a Phoenix
+ Notification inviting them to bid on the Enhanced Environmental Modification. Providers will
+ have access to details of the job including location and pictures in Phoenix.
+
+ Note: If the Environmental Modification Specialist specifies other waiver services to be provided
+ by the environmental modification provider in the bid, the provider will not include the cost of
+ these items in the bid amount. The Case Manager will create separate Service Provision Forms
+ for each waiver service. For example, the environmental modification specialist may indicate in
+ the bid proposal that the provider will provide a shower chair. The provider will not include the
+ cost of the shower chair in the bid amount. The Case Manager will create separate
+ authorizations for the environmental modification and the shower chair.
+
+
+
+
+Chapter 7 – Service Authorization                                                           Page 48
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                   July 1, 2023
+
+ Once the bid period is closed, the Environmental Modification Specialist will award the job by
+ notifying the winning bidder. The Case Manager will be notified via Phoenix Notifications.
+
+ The Enhanced Environmental Modification provider indicates via Phoenix that the Enhanced
+ Environmental Modification project has been completed. The Case Manager will be notified of
+ the awarded bid dollar amount and the provider information upon the project completion. The
+ Case Manager will be able to see this information both at the point of bid award and at the point
+ of job completion. The Case Manager must click on the notification to see the Enhanced
+ Environmental Modification project screen where the awarded bid dollar amount is shown. The
+ Case Manager will click “Create Authorization.”
+
+ The Case Manager will create a Service Provision Form via Phoenix. The start date will be the
+ date the Service Provision Form is created, and the end date will be thirty (30) days later.
+
+ The Enhanced Environmental Modification provider will bill through Care Call.
+
+ If the participant and/or Authorized Representative is dissatisfied or complains about the
+ Enhanced Environmental Modification and an inspection by the Environmental Modification
+ Specialist is needed, the Case Manager will email EVIR to request an inspection. The Case
+ Manager will proceed with creating and sending the Service Provision Specialist Form to the
+ provider while the Environmental Modification Specialist is reviewing the complaint. Provider
+ payment should not be delayed pending review by the Environmental Modification
+ Specialist.
+
+ The cost of Enhanced Environmental Modifications service is included in the $7,500.00 lifetime
+ cap for Environmental Modification services.
+
+
+
+
+Chapter 7 – Service Authorization                                                          Page 49
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                   July 1, 2023
+
+                  7G-4 Enhanced Environmental Modifications and a Ramp
+
+ Enhanced Environmental Modification may be requested for participants who:
+
+ •       Own their own home/property or
+
+ •       Live in a home which is owned by a family member where no rent is paid.
+
+ •       Rental property can have a ramp, with landowner consent.
+
+ Assessment of Need
+
+ The Case Manager will visit participant’s home to assess the need for Enhanced Environmental
+ Modification and ramp.
+
+ This may be completed at the next regularly scheduled home visit. If there is an immediate need,
+ the Case Manager will complete an in-home visit as soon as possible.
+
+ During the home visit, the Case Manager must explain and obtain appropriate signatures on the
+ Participant Homeowner/Family Member Homeowner Consent Form.
+
+ The need for this service must be documented in the Home Assessment section of Phoenix.
+
+ Prior Approval
+
+ Prior approval for the environmental modification and the ramp must be requested separately in
+ the service request section of the Service Plan in Phoenix. Prior approval is required prior to
+ sending the request to the Environmental Modification Specialist.
+
+ Environmental Modification Specialist
+
+ The Case Manager will:
+
+ •       Complete the Environmental Needs Tab of the Home Assessment section in Phoenix.
+
+ •       Complete the ramp form in the Home Assessment section in Phoenix.
+
+ •       Indicate the type of Enhanced Environmental Modification needed from the list in Phoenix.
+
+ •       Send the request to the Environmental Modification Specialist via Phoenix.
+
+ •       Wait for a response from the Environmental Modification Specialist through Phoenix
+         before proceeding.
+
+
+Chapter 7 – Service Authorization                                                          Page 50
+    SCDHHS
+    Community Choices Policy and Procedure Manual
+    Chapter 7 – Service Authorization Procedures                                    July 1, 2023
+
+
+    The Environmental Modification Specialist will assess the request and indicate via Phoenix
+    when the request is ready for bidding.
+
+    Note: If there is a critical need for the ramp and the participant cannot wait for the bid
+    process for the Enhanced Environmental Modification, the Case Manager will authorize
+    the ramp in accordance with the participant’s choice of provider and follow the process for
+    the ramp service. Enhanced Environmental Modifications and the ramp can be provided
+    by two different providers of choice. Both services do not have to be provided by the same
+    provider.
+
+Environmental Modification Provider Bidding Process
+
+The providers serving the geographical area of the participant will:
+
+•        Receive email and Phoenix notification inviting them to bid on the enhanced environmental
+         modification.
+
+•        Access to details of the job including location and pictures in Phoenix.
+
+•        Submit a bid via Phoenix within one week.
+
+Once the bid period is closed, the Environmental Modification Specialist will award the job by
+notifying the winning bidder. The Case Manager will be notified via Phoenix Notifications.
+
+The Case Manager must click on the notification to see the Enhanced Environmental Modification
+project screen where the awarded bid dollar amount is shown.
+
+    •      If the bid indicates the winning environmental modification provider must build the
+           ramp, the Case Manager will send a ramp referral to the winning environmental
+           modification provider.
+
+    •      If the bid does not indicate the winning environmental modification provider must
+           build the ramp, the Case Manager will send a ramp referral to the ramp providers of
+           participant’s choice, in the order of preference.
+
+Service Authorization for Environmental Modification
+
+The Enhanced Environmental Modification Provider indicates via Phoenix when the project(s)
+is completed.
+
+The Case Manager will:
+
+•        Click on the notification to see the Enhanced Environmental Modification project screen
+         where the awarded bid dollar amount is shown.
+
+ Chapter 7 – Service Authorization                                                             Page 51
+    SCDHHS
+    Community Choices Policy and Procedure Manual
+    Chapter 7 – Service Authorization Procedures                                  July 1, 2023
+
+•        Click “Create Authorization.”
+
+       oCreate a Service Provision Form for the environmental modification. The start date will
+         be the date of the Service Provision Form is created and the end date will be thirty (30)
+         days later.
+Service Authorization for Ramp
+
+When the ramp is completed, the provider must submit the Ramp Completion Form in Phoenix.
+
+If there are any additional items listed on the Ramp Completion Form under “other” column, the
+Ramp Completion Form will be sent to the Environmental Modification Specialist in Phoenix first
+for approval before going to the Case Manager for the authorization process.
+
+The Case Manager will:
+
+•        Click on the notification of receipt of the Ramp Completion Form via Phoenix,
+
+•        Click “Create Authorization”
+
+         o    Complete a Service Provision Form for the ramp. The start date is the date the Service
+              Provision Form is created, and the end date is thirty (30) days later.
+
+         o    The dollar amount of the Service Provision Form is the amount indicated by the
+              provider via the Ramp Completion Form.
+
+The provider will bill through Care Call.
+
+The cost of Enhanced Environmental Modifications and a Ramp service is included in the
+$7,500.00 lifetime cap for Environmental Modification services. (The lifetime cap is $6,000.00 for
+environmental modifications).
+
+
+
+
+Chapter 7 – Service Authorization                                                            Page 52
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                    July 1, 2023
+
+                                    7HAdvanced Pest Control
+
+If there is a known or suspected active bedbug infestation at the time of a scheduled visit,
+including the initial assessment and initial visit, the Nurse Consultant or Case Manager
+may request Area Administrator approval to complete the visit outside the home. This
+approval must be documented in the participant’s narrative. In rare cases, the Case
+Manager’s cell phone may be used as a last resort to check in and out of the visit is the
+mobile app is unavailable.
+
+A unit of service is one (1).
+
+Advanced Pest Control service is exclusively for the treatment of bed bug infestation.
+
+Advanced Pest Control cannot be authorized for a participant residing in an apartment
+complex, boarding house, or Community Residential Care Facility (CRCF). However,
+authorization may be considered for a participant residing in a single dwelling rental house or a
+duplex dwelling rental house that is not managed by a governmental entity such as the Housing
+Authority.
+
+In the case of a rental single house or rental duplex and the landlord does not provide Advanced
+Pest Control (bed bug infestation treatment) the Case Manager must obtain permission from the
+participant and/or Authorized Representative to speak to the landlord about Advanced Pest Control
+treatment.
+
+If the participant and/or Authorized Representative refuses to allow the Case Manager to contact
+the landlord, the Case Manger will deny the Advanced Pest Control request. This information
+must be clearly documented in the narrative including the participant and/or Authorized
+Representative’s permission to contact the landlord, the landlord’s full name, the contact with the
+landlord and the landlord’s response. A CLTC Notification Form will be sent stating the reason
+the service is denied. An Appeals Notice will not be included when the service is denied for this
+reason.
+
+If the landlord refuses to provide the Advanced Pest Control for the participant, the Case Manager
+will proceed with the approval and authorization process.
+
+If the landlord refuses to allow Advanced Pest Control treatment to be provided, Advanced Pest
+Control should not be authorized, and the Case Manager will send CLTC Notification Form stating
+the reason the service is denied. An Appeals Notice will not be included when the service is denied
+for this reason.
+
+The need for Advanced Pest Control must be documented in the Home Assessment section in
+Phoenix.
+
+The Case Manager will update the Service Plan to include the need for Advanced Pest Control.
+
+
+Chapter 7 – Service Authorization                                                           Page 53
+    SCDHHS
+    Community Choices Policy and Procedure Manual
+    Chapter 7 – Service Authorization Procedures                                July 1, 2023
+
+
+The Case Manager requests initial approval in the Prior Approval section of the Service Plan. The
+CLTC Area Administrator/Lead Team (or MMP Care Coordinator for MMP participants) approves
+the initial request to allow the case manager to make referral to chosen provider.
+
+The Case Manager explains to the participant and/or Authorized Representative that if a Pest
+Control provider is already in place and if that Pest Control provider is also an Advanced Pest
+Control provider, the same provider will provide the Advanced Pest Control (bedbug infestation
+treatment) if the treatment is approved.
+
+If the participant does not currently receive Pest Control service or the current Pest Control
+provider does not also provide Advanced Pest Control, the Case Manager will create the Service
+Provider Report (Provider Choice Form) in Phoenix. The Case Manager will obtain the provider
+choice(s) from the participant and/or Authorized Representative in order of preference. The
+choices may be obtained verbally, by mail or during an in-home visit. If the choices are made
+verbally, the choices are documented in the narrative in order of preference. The Case Manager
+will create a referral to the chosen providers for Advanced Pest Control in order of preference in
+Phoenix.
+
+NOTE: The Case Manager will not create the service authorization until the Area Office
+Designee has approved the request and the provider has confirmed bedbug eradication.
+
+The Advanced Pest Control provider visits the participant’s home to verify bed bug infestation. If
+bedbug infestation is confirmed, Advanced Pest Control provider enters the following
+information into Phoenix:
+
+•        Confirms bedbug infestation;
+
+•        Informs the specific type of treatment to be used;
+
+•        Provides photo or photos of bedbugs found;
+
+•        States the total cost of treatment;
+
+•        Describes the steps that must be taken by the participant in preparation for successful
+         treatment;
+•        Describes the likelihood of successful eradication;
+
+•        Agrees to provide fitted mattress covers for affected areas;
+
+•        Provides a one-year written warranty of service.
+
+
+
+
+Chapter 7 – Service Authorization                                                          Page 54
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+When the Advanced Pest Control provider provides all of the above required documentation, the
+Area Office Administrator will verify the bid is less than $1,000 and the warranty is included, then
+will approve or deny the request in Phoenix. :
+
+        •   Case manager follows up with the provider and verifies the home is ready for treatment.
+
+        •   Discusses the option of authorizing Personal Care services with the participant and/or
+            Authorized Representative if help is needed to prepare the home for successful
+            treatment.
+
+        •   Send CLTC Notification Form to the participant, including the Appeals Notice, if the
+            service is denied.
+
+        •   The service provision form for Advanced Pest Control will be completed in
+            Phoenix when notification is received from the Advanced Pest Control Provider
+            that bedbugs have been eradicated. The start date is the date the notification of
+            completed treatment and eradication and the end date is thirty (30) days from the start
+            date. The dollar amount entered is the dollar amount that was approved by Area Office
+            Administrator.
+The cost of Advanced Pest Control is $1,000 and is not included in the $7,500 lifetime cap for
+Environmental Modification Service.
+
+Advanced Pest Control may only be authorized once in a lifetime. If a re-infestation occurs and is
+impacting the health, safety and welfare of a participant, then a request for exception may be sent to
+the Waiver Exceptions Group at WES@scdhhs.gov for consideration. The Case Manager must
+document the Waiver Exception denial/approval in the narrative once received.
+
+The Advanced Pest Control provider must return to the home and provide re-treatment as necessary
+within the one (1) year warranty timeframe which begins on the start date of the authorization.
+
+When re-treatment is necessary, the Case Manager will complete the additional follow-up tab for
+documentation in Phoenix. The Advanced Pest Control provider will document subsequent
+treatment in Phoenix.
+
+
+
+
+Chapter 7 – Service Authorization                                                            Page 55
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+
+                                     7I Home Delivered Meals
+
+A unit of service is one (1) meal delivered to a participant’s residence. Each meal provides a
+minimum of one-third the current recommended dietary allowance (RDA) for the age group as
+adopted by the United States Department of Agriculture.
+
+A maximum of 14 meals may be authorized per week (2 meals/ day), according to the participant’s
+needs. If the participant attends Adult Day Health Care, a meal should not be provided while the
+participant is at the facility. For example, if the participant attends daycare 3 days per week, he/she
+will only be authorized 11 meals per week. 14 maximum per week – 3 meals provided at daycare
+= 11 meals may be authorized.
+
+The Case Manager will create the Service Provider Report (Provider Choice Form) in Phoenix.
+The Case Manager will obtain the provider choice(s) from the participant and/or Authorized
+Representative in the order of preference. The choice may be obtained verbally, by mail or during
+an in-home visit. The choices will be documented in the narrative in order of preference.
+
+The Case Manager will update the Service Plan to include the need for Home Delivered Meals.
+
+Prior approval must be requested via the service request section of the Service Plan in Phoenix.
+
+Service Justification: Focus on nutritional needs and/or inability to afford nutritional foods and/or
+inability to physically prepare a meal, etc.
+
+The Case Manager will create a referral to the chosen providers in order of preference via Phoenix.
+
+No Physician’s Order is required for this service.
+
+When the referral is accepted, the Case Manager will create the Service Provision Form.
+
+The Case Manager will authorize the amount, frequency, and duration of the services in
+accordance with the participant’s Service Plan. The start date for this service will be Sunday.
+
+The Service Provision Form must be sent to the provider via Phoenix to initiate services. This
+service does not require a Service Plan be sent to the provider.
+
+
+
+
+Chapter 7 – Service Authorization                                                               Page 56
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+
+                                    7J Nutritional Supplements
+
+
+A unit of service is one (1) case of Nutritional Supplements per month.
+
+Waiver participants who have a need for nutritional supplements, may be authorized for up to two
+(2) cases per month. Two cases per month is the maximum amount allowed. No exceptions may
+be made.
+
+The Nutritional Supplement must contain at least two hundred twenty (220) calories per two hundred
+fifty (250) milliliters.
+
+The Case Manager will update the Service Plan to include the need for Nutritional Supplements.
+
+Prior approval must be requested and approved via the service request section of the Service Plan
+in Phoenix.
+
+NOTE: Prescriber’s Order Form is to be obtained PRIOR to submitting prior approval.
+
+Service Justification: State that Prescriber’s Order Form was received and scanned in Phoenix.
+
+A Physician’s Order is required for this service. The SCDHHS Prescriber’s Order Form must be
+completed by the participant’s physician in order for this service to be authorized. Order must be
+signed by a primary authorized healthcare provider. Note: Physician Assistant and Nurse
+Practitioner signatures ARE acceptable.
+
+The primary authorized healthcare provider must indicate the needs for the supplement and indicate
+at least one of the qualifying conditions:
+
+1.      Wasting (loss of ten percent (10%)) body mass in the last sixty (60) days.
+
+2.      Severe dental or gum problems that prevent the participant from chewing.
+
+3.      Has a condition that requires a protein supplement.
+
+4.      Has a swallowing problem that prevents the participant from achieving adequate weight.
+
+5.      Due to a medical condition, the participant cannot maintain adequate weight.
+
+If it is determined that a participant does not meet the criteria for Nutritional Supplements but needs
+the service, a request for an exception may be sent to the Central Office Waiver Exceptions Group
+at WES@scdhhs.gov for review.
+
+The Case Manager must document the Waiver Exception denial/approval in the narrative once
+received.
+Chapter 7 – Service Authorization                                                               Page 57
+    SCDHHS
+    Community Choices Policy and Procedure Manual
+    Chapter 7 – Service Authorization Procedures                                 July 1, 2023
+
+
+Note: If an exception needs to be approved by the Central Office Waiver Exceptions Group, the
+     Area Office reviewer will review the request and enter a comment regarding the service
+     justification in the comment section. The assigned Case Manager will send an email
+     requesting the Central Office Waiver Exceptions Group to review the approval request.
+     Once a response is received from the Waiver Exceptions Group, the Case Manager must
+     document the exception approval/denial in a narrative.
+
+When the Central Office Waiver Exceptions Group has granted an exception for Nutritional
+Supplements, an additional review is not required by Central Office upon re-evaluation if the
+following conditions are met:
+
+•        The original Central Office approval was not time limited.
+
+•        There is no change in the condition(s) which justified the need for the original exception
+         approval.
+
+•        There has been no change in the participant’s level of care.
+
+If the participant is receiving tube feedings, Nutritional Supplements may not be authorized.
+Tube feeding supplies should be obtained through Medicaid State Health Plan. Any
+exceptions to this must be approved by Central Office.
+
+The Case Manager will create the Service Provider Report (provider choice form) in Phoenix.
+The Case Manager will obtain the provider choice(s) from the participant and/or Authorized
+Representative in the order of preference. The choice may be obtained verbally, by mail or during
+an in-home visit. The choices will be documented in the narrative in order of preference.
+
+The Case Manager will create a referral to the chosen provider in order of preference in Phoenix.
+
+The Case Manager will authorize the amount, frequency, and duration of the service in accordance
+with the participant’s service plan. The completed Prescriber’s Order Form must be scanned into
+Phoenix Scans prior to creating the service provision form for this service.
+
+The Service Provision Form must be sent to the provider via Phoenix to initiate service. A copy of
+the signed Prescriber’s Order Form must be faxed or mailed to the provider.
+
+This service does not require a Service Plan be sent to the provider.
+
+A new Prescriber’s Order Form is not required at the re-evaluation. However, if the participant’s
+condition changes and the change impacts the need for Nutritional Supplement (type), a new
+Prescriber’s Order Form must be obtained.
+
+
+
+
+Chapter 7 – Service Authorization                                                           Page 58
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                  July 1, 2023
+
+If the participant’s waiver application is terminated and then re-enrolled and the need for
+Nutritional Supplements continues, a new Prescriber’s Order Form must be obtained. If the service
+for Nutritional Supplements is terminated for any reason, a new Prescriber’s Order Form must be
+obtained to re-start the service.
+
+There are two types of nutritional supplements that can be authorized:
+
+1.     Diabetic nutritional Supplements
+
+2.     Regular Nutritional Supplements case.
+
+
+
+
+Chapter 7 – Service Authorization                                                         Page 59
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+
+
+
+                                    7K Personal Care Services
+
+    A unit of service is one (1) hour. This service can be authorized in one-half (1/2) hour in
+    increments above a one (1) hour minimum.
+
+    Personal Care Servicesservice is provided in the participant residence (except when shopping,
+    laundry service, etc. must be done off-site or escort services are provided.)
+
+   Personal Care Servicesis not allowed to provide any skilled service at any time under any
+   circumstances.
+
+    The Case Manager will update the Service Plan to include the need for Personal Care Services.
+
+    Prior approval must be requested via the service request section of the Service Plan in Phoenix.
+
+    Service Justification: Include a condition or conditions affecting participant’s ability to
+    perform ADL’s and/or IADL’s. (Examples:Gait disturbance related to Parkinson’s Disease;
+    poor balance and fall risk due to vertigo; assistance with housekeeping and chores due to
+    chronic pain from spinal stenosis; tires easily due to CHF; poor fine motor skills caused by
+    rheumatoid arthritis). Include circumstances that may indicate need for high or increased
+    service levels, such as recent hospitalization, physical decline of participant or caregiver,
+    caregiver’s need forassistance with care, or loss of caregiver. Note: Do not include number
+    of hours, desired time of day, or desired days of week.
+
+    No Physician’s Order is required for this service.
+
+   The Case Manager will create the Service Provider Report (Provider Choice Form) in
+   Phoenix. The Case Manager will obtain the provider choices from the participant and/or
+   Authorized Representative in the order of preference. The choices may be obtained verbally,
+   by mail, or during an in-home visit. The choices will be documented in the narrative in order of
+   preference.
+
+   The Case Manager will create a referral to the chosen provider in order of preference in
+   Phoenix.
+
+    The Case Manager will authorize the amount, frequency, and duration of the service in
+    accordance with the participant’s Service Plan.
+
+    The authorization for this service is specific. The PCPC service authorization must be specific
+    regarding the preferred time of day – morning, afternoon, or evening - that the service is need.
+    These times are defined as:
+
+    Morning 3:00 am – 12:00 noon
+Chapter 7 – Service Authorization                                                            Page 60
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+    Afternoon 12:01pm – 6:00 pm
+    Evening 6:01pm – 2:59 am
+
+    The time of day is negotiated with the provider and participant as necessary and the agreed
+    upon time of day must be indicated on the Service Provision Form. The specific time of day
+    for the service (such as 10:00am to 12:00pm) should appear on the Service Provision Form
+    ONLY if it is essential in meeting the participant’s service needs.
+
+    If the participant receives the service more than one (1) time per day, each appropriate time
+    should be indicated on the Service Provision Form and a comment must be made in the
+    comment section. The participant whose needs are such that the absence of the Personal Care
+    Serviceswould have a substantial impact on the participant’s health and safety is identified as
+    being “At Risk for Missed PC Visit.” The Case Manager must discuss any special needs or
+    preferences of the participant with the PC provider prior to authorization. In these cases, the
+    Service Provision Form will state that the participant is “At Risk for Missed PC Visit.”
+
+    It is acceptable to authorize Personal Care Services service for a participant on the date of
+    admission to or discharge from an institutional such as a hospital, nursing home, rehabilitation
+    center, or psychiatry facility. The record must clearly document the need for such service.
+
+    The Service Provision Form must be sent to the provider via Phoenix to initiate service. The
+    initial Service Plan and the new Service Plan created following re-evaluation will be available
+    to the provider via Phoenix. If a revision is made to the Service Plan that affects the
+    provider’s service delivery, the provider must be notified of the change via phone or
+    conversation feature.
+
+   Service level approvals are time limited until the next re-evaluation or as indicated by the
+   Reviewer in approval comments.
+
+
+
+
+Chapter 7 – Service Authorization                                                            Page 61
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                       July 1, 2023
+
+
+                            7L Personal Emergency Response System
+
+A unit of service is one (1) month.
+
+A Personal Emergency Response System (PERS) is an electronic device which enables a
+participant to secure help in the event of an emergency.
+
+PERS may be authorized for those participants with an identified need who lives alone or who are
+alone for a substantial period of time. A substantial period of time is defined as being alone six
+(6) or more consecutive hours three (3) or more days per week. Any deviation from these criteria
+requires Central Office Designee approval.
+
+The Case Manager will update the Service Plan to include the need for Personal Emergency
+Response System.
+
+Prior approval must be requested via the service request section of the Service Plan in Phoenix.
+
+Service Justification: State that participant lives alone or is alone at least six or more consecutive
+hours on three or more days per week.
+
+The Case Manager will create the Service Provider Report (Provider Choice Form) in Phoenix.
+The Case Manager will obtain the provider choices(s) from the participant and/or Authorized
+Representative in the order of preferences. The choices may be obtained verbally, by mail, or
+during an in-home visit. The choices will be documented in the narrative in order of preference.
+
+The Case Manager will create a referral to the chosen provider for PERS installation and PERS
+on going in order of preference in Phoenix.
+
+The Case Manager will authorize the amount, frequency, and duration of the service in accordance
+with the participant’s Service Plan.
+
+The PERS Installation Service Provision Form will be completed with a start date and an end date.
+The start date and the end date for PERS installation authorization must be in the same month. The
+Case Manager should negotiate with the provider to make sure the installation occurs within the
+same month. Depending on the time of the month when prior approval is given for the service, the
+provider may not be able to install the PERS during the current month. In this case, authorization
+would need to be completed for the next month. The Service Plan is not sent to the provider for
+this service.
+
+The PERS on-going Service Provision Form start date will be the same day as the PERS installment
+start date and will not have an end date.
+
+
+
+
+Chapter 7 – Service Authorization                                                              Page 62
+    SCDHHS
+    Community Choices Policy and Procedure Manual
+    Chapter 7 – Service Authorization Procedures                                 July 1, 2023
+
+
+
+
+If it is determined that a participant does not meet the criteria for Personal Emergency Response
+System but needs the service, a request for an exception may be sent to the Central Office Waiver
+Service Exceptions email group at WES@scdhhs.gov for review.
+
+
+Note: If an exception needs to be approved by Central Office, the Area Office reviewer will
+      review the request and enter a comment regarding the service justification in the comment
+      section. The assigned Case Manager will send an email to the Waiver Exceptions Group
+      requesting review and approval of the exceptions request. The Case Manager must
+      document the Waiver Exception denial/approval in the narrative once received.
+
+When Central Office has granted an exception for Personal Emergency Response System, an
+additional review is not required by Central Office upon re-evaluation if the following conditions
+are met:
+
+•        The original Central Office approval was not time limited.
+
+•        There is no change in the condition(s) which justified the need for the original exception
+         approval.
+
+•        There has been no change in the participant’s level of care.
+
+
+
+
+Chapter 7 – Service Authorization                                                           Page 63
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+
+
+
+                                        7M Pest Control
+
+A unit of service is one (1) every other month.
+
+Pest Control cannot be authorized for a participant residing in an apartment complex or a Community
+Residential Care Facility (CRCF). However, authorization may be considered for a participant
+residing in a single dwelling rental house or a duplex dwelling rental house that is not managed by
+a governmental entity such as the Housing Authority.
+
+In the case of a rental single house, rental duplex, boarding house or room rental and the landlord
+does not provide Pest Control, the Case Manager must obtain permission from the participant
+and/or Authorized Representative to speak to the landlord about Pest Control treatment. If the
+participant and/or Authorized Representative refuses to allow the Case Manager to contact the
+landlord, the Case Manager will deny the Pest Control request. A CLTC Notification Form will
+be sent stating the reason the service is denied. An Appeals Notice will not be included when the
+service is denied for this reason. The participant’s permission to contact the landlord and the
+discussion with the landlord must be clearly documented in the narrative. This documentation is
+to include the full name, the contact with the landlord and the landlord’s response.
+
+If the landlord refuses to provide the Pest Control for the participant, the Case Manager will
+proceed with the approval and authorization process.
+
+If the landlord refuses to allow Pest Control to be provided, Pest Control should not be authorized,
+and the Case Manager will send CLTC Notification Form stating the reason the service is denied.
+An Appeals Notice will not be sent when the service is denied for this reason.
+
+The need for Pest Control must be documented in the Home Assessment section in Phoenix.
+
+Pest control service does not cover the removal of snakes, termites, or rodents.
+
+The Case Manager will update the Service Plan to include the need for Pest Control.
+
+Prior approval must be requested via the service request section of the Service Plan in Phoenix.
+
+Service Justification: Specify type of pest. Include home ownership status. If renting, state
+landlord was contacted and will not provide -- but will allow – treatment.
+
+The Case Manager will create the Service Provider Report (Provider Choice Form) in Phoenix.
+The Case Manager will obtain the provider choices from the participant and/or Authorized
+Representative in the order of preference. The choices may be obtained verbally, by mail or during
+and in-home visit. The choices will be documented in the narrative in order of preference.
+
+The Case Manager will create a referral to the chosen providers for Pest Control in order of
+Chapter 7 – Service Authorization                                                             Page 64
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+preference in Phoenix.
+
+The Case Manager will authorize the amount, frequency, and duration of the service in accordance
+with the participant’s service plan.
+
+The Service Provision Form must be sent to the provider via Phoenix to initiate the service. This
+authorization will be completed with a start date and will not have an end date.
+
+Exception:     If a one (1) time treatment is authorized the Case Manager will indicate a start date
+               and an end date.
+
+A maximum of six (6) treatments can be authorized within a twelve (12) month period, no
+exceptions will be granted. Pest Control may be authorized with a frequency of every other month
+at a maximum. Pest Control treatment must be completed by the provider within fourteen (14)
+calendar days of the acceptance of the authorization. This service does not require a Service Plan
+be sent to the provider.
+
+In the event more than one participant resides in the same residence, Pest Control must only
+be authorized for one of the participants.
+
+The cost of Pest Control service is not included in the $7500.00 lifetime cap for Environmental
+Modification services.
+
+
+
+
+Chapter 7 – Service Authorization                                                            Page 65
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+
+                       7N Respite - Community Residential Care Facility
+
+A unit of service is a patient day. A patient day is defined as a twenty-four (24) hour period
+including the day of admission and excluding the day of discharge. A participant may use twenty-
+eight (28) days of respite-Community Residential Care Facility per fiscal year July 1st through June
+30th.
+
+Participants may receive respite services in Community Residential Care Facilities (CRCFs) that
+are enrolled with SCDHHS as respite providers.
+
+Participants not eligible for respite in the CRCF:
+
+1.     Participants who are dependent on oxygen or mechanical ventilation.
+
+2.     Participants who require tube feedings.
+
+3.     Participants who are diagnosed with dementia and have a history of wandering, unless prior
+       approved by Central Office.
+
+4.     Participants who are at skilled level of care, unless prior approved by Central Office.
+
+The Case Manager will update the Service Plan to include the need for Community Residential
+Care Facility Respite.
+
+Prior approval must be requested via the service request section of the Service Plan.
+
+Service Justification: State reason needed (family’s vacation, caregiver hospitalization, etc.).
+Include the number of days and type of respite already used during that fiscal year.
+
+The Case Manager will contact the participant’s choice of provider for availability on requested
+dates.
+
+A Physician’s Order is required for this service.
+
+The Case Manager will create the Service Provider Report (Provider Choice Form) in Phoenix.
+The Case Manager will obtain the provider choice(s) from the participant and/or Authorized
+Representative in the order of preference. The choices may be obtained verbally, by mail, or during
+an in-home visit. If the choices are made verbally, the choices are documented in the narrative in
+the order of preference.
+
+A 2-step PPD is required prior to authorization of the service. The first step of the PPD must be
+completed prior to admission and the second step may be completed after admission.
+
+
+
+Chapter 7 – Service Authorization                                                            Page 66
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+
+The Case Manager must obtain the completed Respite Form, which includes the participant’s
+medical history, physical examination report and Physician’s Order. The Respite Form must be
+completed no more than thirty (30) days prior to respite admission date.
+
+Note: If it is not possible to obtain the Respite Form prior to admission, the provider may accept
+       the medical information from the CLTC Assessment in lieu of the Respite Form. In such
+       cases, the provider must obtain the Respite Form within forty-eight (48) hours of the respite
+       admission.
+
+The Case Manager will authorize the amount, frequency, and duration of the services in
+accordance with the participant’s Service Plan.
+
+The authorization for this service is day specific. The start date is the date of admission and the
+end date is the day before the discharge date. The comment section of the authorization should
+specify the number of days the participant will be in respite as well as the discharge date.
+
+The Service Provision Form must be completed and sent to the provider along with the Service
+Plan and Respite Form via fax or mail.
+
+The reimbursement will include all those items and supplies associated with patient care except
+prescribed medications and personal items. These items cannot be billed by the provider to
+Medicaid or the participant.
+
+Examples of items to be supplied by the provider include Durable Medical Equipment,
+nonprescription medications, med pads, suctioning equipment and supplies, tube feeding
+equipment and feeding supplies, dressing change supplies, ostomy supplies, catheters, and
+tracheostomy supplies.
+
+Participant and/or Authorized Representative will be responsible for supplying prescribed
+medications and personal care items such as soap, mouthwash, deodorant, shampoo, and clothing
+during the participant’s respite stay.
+
+Participants are allowed a total of twenty-eight (28) days of Community Residential Care
+Facility Respite during a fiscal year, but no more than fourteen (14) of those days can be
+respite in a nursing home or hospital during a fiscal year.
+
+
+
+
+Chapter 7 – Service Authorization                                                            Page 67
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                    July 1, 2023
+
+                  7O Respite Care - Institutional (Nursing Home or Hospital)
+
+A unit of service is a patient day. A patient day is defined as a twenty-four (24) hour period
+including the day of admission and excluding the day of discharge. A participant may use fourteen
+(14) days of Respite-Institutional (Nursing Home or hospital) per fiscal year July 1st through June
+30th.
+
+Participants may receive respite services in nursing homes or hospitals that are enrolled with
+SCDHHS as respite providers.
+
+The Case Manager will update the Service Plan to include the need for Respite Care-Institutional.
+
+Prior approval must be requested via the service request section in the Service Plan in Phoenix.
+
+Service Justification: State reason needed (family’s vacation, caregiver hospitalization, etc.).
+Include the number of days and type of respite already used during that fiscal year.
+
+A Physician’s Order is required for this service.
+
+The Case Manager will create the Service Provider Report (Provider Choice Form) in Phoenix.
+The Case Manager will obtain the provider choices from the participant and/or Authorized
+Representative in the order of preference. The choices may be obtained verbally, by mail, or during
+and in-home visit. If the choices are made verbally, the choices are documented in the narrative in
+the order of preference.
+
+The Case Manager will contact the participant’s choice of provider for availability on requested
+dates.
+
+A 2-step PPD is required prior to authorization of the service. The first step of the PPD must be
+completed prior to admission and the second step may be completed after admission.
+
+The Case Manager must obtain the completed Respite Form which includes the participant’s
+medical history, physical examination report and Physician’s Order. The Respite Form must be
+completed no more than five (5) days prior to the Institutional (nursing home or hospital)
+Respite admission.
+
+Note: If it is not possible to obtain the Respite Form prior to admission, the provider may accept
+      the medical information from the CLTC Assessment in lieu of the Respite Form. In such
+      cases, the provider must obtain the Respite Form within forty-eight (48) hours of the respite
+      admission.
+
+
+
+
+Chapter 7 – Service Authorization                                                           Page 68
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+
+The Case Manager must contact Area Office staff to request a PASRR be completed by the Nurse
+Consultant prior to admission for the Respite – Institutional service for a participant who will be
+receiving Respite service in a nursing home. Respite PASRR application will be created by Area
+Office staff and request should not be sent to Centralized Intake for the PASRR application to be
+created.
+
+The Case Manager will authorize the amount, frequency, and duration of the service in accordance
+with the participant’s Service Plan.
+
+The authorization for this service is day specific. The start date is the date of admission, and the
+end date is the day before the discharge date. The comment section of the authorization should
+specify the number of days the participant will be in respite as well as the discharge date.
+
+The Service Provision Form must be completed and sent to the provider along with the Service
+Plan, Respite Form and PASRR via fax or mail.
+
+The reimbursement will include all those items and supplies associated with patient care except
+prescribed medications and personal items. These items cannot be billed by the provider to
+Medicaid or the participant.
+
+Examples of items to be supplied by the provider include Durable Medical Equipment,
+nonprescription medications, med pads, suctioning equipment and supplies, tube feeding
+equipment and feeding supplies, dressing change supplies, ostomy supplies, catheters, and
+tracheostomy supplies.
+
+Participant and/or Authorized Representative will be responsible for supplying prescribed
+medication and personal care items such as soap, mouthwash, deodorant, shampoo, and clothing
+during the participant’s respite stay.
+
+Participants are allowed a total of twenty-eight (28) days of respite during a fiscal year, but
+no more than fourteen (14) of these days can be Institutional Respite in a nursing home or
+hospital.
+
+
+
+
+Chapter 7 – Service Authorization                                                            Page 69
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+                                        7P Telemonitoring
+
+A unit of service is a participant day of telemonitoring.
+
+Telemonitoring is a service to monitor body weight, blood pressure, blood glucose level, oxygen
+saturation, and basic heart rhythm information, for Community Choices participants who meet
+specific criteria.
+
+Community Choices Waiver participants must meet the following criteria in order to be considered
+for the Telemonitoring service:
+
+1.     Have a primary diagnosis of Insulin Dependent Diabetes Mellitus, Hypertension, Chronic
+       Obstructive Pulmonary Disease, and/or Congestive Heart Failure; and
+
+2.     Have a history of at least two hospitalizations and/or emergency room visits in the past
+       twelve (12) months; and
+
+3.     Be capable of using the telemonitoring equipment and transmitting the necessary data or
+       have an individual available that is capable of utilizing the telemonitoring equipment and
+       transmitting the necessary data to the telemonitoring provider; and
+
+4.     Have a primary care physician that approves the use of the telemonitoring service and who
+       is solely responsible for receiving and acting upon the information via the telemonitoring
+       service.
+
+The Case Manager must complete the Community Choices Pre-Screening for telemonitoring
+Form to assure the participant meets the criteria.
+
+If the participant meets the criteria and chooses to receive the service, the Case Manager will update
+the Service Plan to include the need for Telemonitoring.
+
+The Case Manager will update the Service Plan to include the need for telemonitoring.
+
+Prior approval must be requested via the service request section of the Service Plan in Phoenix.
+
+Service Justification: State that Pre-screen has been completed and scanned in Phoenix.
+
+A Physician Order is required for this service.
+
+The Case Manager will contact the participant’s choice of provider for availability. The Case
+Manager will send a copy of the Community Choices Pre-Screening for telemonitoring Form to
+the chosen provider when the referral is accepted.
+
+
+
+
+Chapter 7 – Service Authorization                                                            Page 70
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                      July 1, 2023
+
+The telemonitoring provider must contact the participant’s physician to obtain the orders to
+participate utilizing the approved SCDDHS Form. Upon receipt of the orders, the telemonitoring
+provider must notify the Case Manager and negotiate a start date. If notification by the provider
+has not been received within thirty (30) days of the referral, the Case Manager must call the
+telemonitoring provider to follow up on the status.
+
+The Case Manager will authorize the amount, frequency, and duration of services in accordance
+with the participant’s Service Plan.
+
+The Service Provision Form must be sent to the provider by fax or mail. The initial Service Plan
+and the new Service Plan created following re-evaluation will be sent to the provider by fax or
+mail.
+
+If upon Re-evaluation, the participant no longer meets the initial criteria due to no hospitalization
+or no Emergency Department visits, the Telemonitoring service may continue.
+
+
+
+
+Chapter 7 – Service Authorization                                                             Page 71
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+
+ 7Q Community Residential Care Facility Interactions with Home and Community Based
+                         Waiver Programs November 2022
+
+
+Incontinence Supplies can be authorized for participants residing in a residential care facility.
+Waiver services that may be routinely authorized by CLTC, if appropriate:
+
+
+            Community Choices                               HIV/AIDS
+                Case Management                                 Case Management
+   Personal Care Services up to 1 hour/day, 7      Personal Care Services up to 1 hour/day, 7
+                  days/week                                                 days/week
+             Nutritional Supplements                         Nutritional Supplements
+
+Waiver services that may not be routinely authorized by CLTC, but may be given special consideration
+on a case by case basis and require Central Office approval:
+
+            Community Choices                               HIV/AIDS
+                    ------------                                Medicaid Nursing
+Waiver services that will not be authorized by CLTC:
+
+
+            Community Choices                               HIV/AIDS
+                Personal Care                                     Personal Care
+             Adult Day Health Care                           Adult Day Health Care
+         Adult Day Health Care Nursing                   Adult Day Health Care Nursing
+                  Attendant Care                                 Attendant Care
+             Home Delivered Meals                            Home Delivered Meals
+             Pest Control/Advanced                           Pest Control/Advanced
+                  Pest Control                                    Pest Control
+                     PERS                                           ---------
+                 Environmental                                   Environmental
+             Modification/Enhanced                           Modification/Enhanced
+                 Environmental                                   Environmental
+                  Modification                                    Modification
+                   Companion                                       Companion
+                 Telemonitoring                                      ---------
+
+
+
+Chapter 7 – Service Authorization                                                            Page 72
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 7 – Service Authorization Procedures                                     July 1, 2023
+
+
+
+
+                                    7RHospice Benefit Interactions
+
+Waiver services that may be routinely authorized by CLTC, if appropriate:
+    Community Choices                   HIV                            Vent
+    Case Management                     Case Management                Case Management
+    Home Delivered Meals                Home Delivered Meals           Home Delivered Meals
+    Nutritional Supplements             Nutritional Supplements        Nutritional Supplements
+    PERS                                --                             PERS
+    Pest Control                        Pest Control                   Pest Control
+
+Waiver services that may not be routinely authorized by CLTC, but may be given special
+consideration on a case by case basis and require Central Office approval:
+      Community Choices             HIV                               Vent
+ Environmental Modification          Environmental Modification      Environmental Modification
+
+   Enhanced Environmental              Enhanced Environmental          Enhanced Environmental
+        Modifications                      Modifications                    Modifications
+     Advanced Pest Control               Advanced Pest Control          Advanced Pest Control
+
+Waiver services that will not be authorized by CLTC:
+  Community Choices                 HIV                                 Vent
+  Adult Day Health Care             --                                  --
+  Adult Family Home                 --                                  --
+  Attendant                         Attendant                           Attendant
+  Companion                         Companion                           -----------
+  Incontinence Supplies             Incontinence Supplies               Incontinence Supplies
+  Personal Care Services            Personal Care Services              Personal         Care
+                                                                        Services
+   --                                  Private Duty Nursing             Private Duty Nursing
+   Respite                             --                               Respite
+   Specialized Medical                 Specialized Medical              Specialized Medical
+   Equipment                           Equipment                        Equipment
+   Telemonitoring                      -----------                      -----------
+
+   Self-Directed Services              Self-Directed Services           Self-Directed Services
+
+
+
+
+Chapter 7 – Service Authorization                                                            Page 73
+

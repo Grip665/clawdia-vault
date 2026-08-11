@@ -1,0 +1,31 @@
+      Adding/Terminating Users
+ New provider case managers and DHHS state workers will be added to Phoenix by CLTC
+  Central Office
+ Phoenix users that are no longer working with CLTC, will be terminated by CLTC Central
+  Office
+ Case Management Providers and CLTC Area Offices will need to fill out a Phoenix Access
+  Request form in order to add or terminate any user(s) from Phoenix and email it back to
+  CLTC Central Office
+     Adding/Terminating Users
+ Once the user’s access is created, the Phoenix Access Request form is
+  emailed back to the requester and new user along with the login
+  information
+ New users will be required to change login password and setup security
+  questions and answers
+    Security questions and answers is necessary if login password is forgotten
+     and needs to be reset
+    Instructions for changing or resetting passwords see (Editing User
+     Information)
+ Once a Phoenix user is terminated, the Phoenix Access Request form is
+  emailed back to the requester
+ Granting Access To Another Area
+ If a current user needs access to a different area office
+  then access is granted by CLTC Central Office
+ When a user no longer needs access for an area office,
+  access will be removed by CLTC Central Office
+ Providers and CLTC Area Offices must submit a
+  Phoenix Access Request form to in order to complete
+  request
+ The requester will receive the Phoenix Access Request
+  form back from CLTC Central Office
+

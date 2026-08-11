@@ -1,0 +1,249 @@
+                   Ramp Referrals
+                     Table of Contents
+1.      Creating a Ramp Referral ….………………….………………….……. 3 - 27
+     1.    Service Plan ………………………………………………………………………… 4
+     2.    Ramp Request ……………………………..………………………….…….……. 5 - 9
+     3.    Home Assessment ………………...…….……………………………….……. 10
+     4.    Ramp Completion Form ….……………………………………………….… 11 - 16
+     6.    Ramp Authorization ………………………………………………………….. 17 – 19
+     7.    Ramp Request Referred to E-Mod Spec …………..…………..… 20 – 27
+Ramp Referral Process
+                           Ramp Referral Process
+Creating a ramp referral
+Service Plan
+• The Case Manager must have the
+  “Interventions” and “Prior Approvals”
+  completed in the Service Plan before a
+  ramp referral can be created.
+                           Ramp Referral Process
+Creating a ramp referral
+Ramp Request
+• Click “Home Assessment”
+• From the Home Assessment screen, click
+  “New Ramp Request”
+                               Ramp Referral Process
+Creating a ramp referral
+Ramp Request
+• Enter information into the
+  ramp request section
+• Answering the questions
+  regarding the door, yard
+  size, and home elevation
+  will determine whether
+  the ramp request is
+  referred to the Ramp
+  Provider or EMOD
+  Specialist
+                               Ramp Referral Process
+Creating a ramp referral
+Ramp Request - Uploading Images
+from computer
+• Must upload at least one (1) image.
+• Click “Browse” to retrieve image from
+   the computer
+• Click “Add Image” to upload
+   additional images
+• Images must be in jpeg format
+                              Ramp Referral Process
+Creating a ramp referral
+Ramp Request - Uploading
+Images from mobile devices
+• Users that can access Phoenix
+  from a mobile phone or tablet
+  can use the camera on the
+  mobile device to upload
+  pictures directly to the ramp
+  request
+• From the Image section, click
+  “Browse”
+• Users will have the option to
+   • Take Photo (access the device’s
+     camera to take a picture)
+   • Photo Library (select a picture
+     from the device’s photo album)
+   • Browse (search the device’s
+     folders and select an image)
+                                  Ramp Referral Process
+Creating a ramp referral
+Saving Ramp Request form
+• When all required information has been
+  entered, the case manager will have the
+  options to:
+   • “Save” – Allows the user to save the
+     information without finalizing the ramp
+     request. Users can go back and make any
+     changes and finalize the ramp request later
+   • “Save and Complete” – allows the ramp
+     request to be completed and forwarded to the
+     Ramp Provider when the ramp referral is
+     created
+                     OR
+   •   “Save and Refer to Emod Specialist” –
+       sends ramp request to the Emod Specialist to
+       review. Ramp Referral can’t be created until
+       the Emod Specialist approves the ramp
+       request. A note is displayed when a ramp
+       request must be reviewed by the Emod
+       Specialist
+                               Ramp Referral Process
+Creating a ramp referral
+Home Assessment
+• Once Ramp Request information has been
+  entered, click “Save and Complete”
+• Completed Ramp Requests are displayed
+  under the “Ramp” sub-tab
+• Now, the case manager will need be able to
+  create the ramp referral from the “Waiver
+  Supports” tab
+• When the ramp referral is created and sent
+  to the Provider, the Ramp Request form is
+  attached to the referral along with the
+  Ramp Completion form
+• Ramp Requests more than 90 days from
+  the “Create At” date will not process.
+  The case manager will have to create a
+  new ramp request.
+                                    Ramp Referral Process
+Creating a ramp referral
+Notification
+• “Referral needs approval” link will be
+  displayed on the CM’s dashboard
+  notification
+    •   No action needed until the Provider
+        completes the ramp project and
+        Ramp Completion form
+                           Ramp Referral Process
+Creating a ramp referral
+Ramp Completion Form
+• Click “Show Ramp Completion”
+  button
+                                Ramp Referral Process
+Creating a ramp referral
+Ramp Completion Form
+• Open file
+• Enter password (The password to view a
+  Ramp Completion form is the participant’s
+  CLTC number)
+                             Ramp Referral Process
+Creating a ramp referral
+Ramp Completion Form
+• Ramp Completion form can also be
+  viewed in the “Forms” tab on the
+  participant’s carousel
+                                    Ramp Referral Process
+Creating a ramp referral
+Ramp Completion Form
+• If the provider enters other charges,
+  then the Ramp Completion will
+  automatically go to the E-Mod
+  Specialist’s dashboard for review and
+  approval
+    •   The ramp authorization can’t be created
+        until the E-Mod Specialist approves the
+        Ramp Completion form with the
+        additional charges.
+                                     Ramp Referral Process
+Creating a ramp
+referral
+Ramp Completion Form
+•   Once the provider completes
+    the Ramp Completion form, a
+    notification link will be
+    displayed on the case
+    manager’s dashboard
+    notifications
+•   Click the notification link to
+    go to the referral screen and
+    begin creating the
+    authorization
+                                  Ramp Referral Process
+Ramp Authorization
+•   From the referral screen, click
+    “Approve Provider”
+                                 Ramp Referral Process
+Ramp Authorization
+•   The Rate, Start and End Date will automatically be entered by Phoenix
+•   The user will need to enter a description in the “Termination Reason”
+    field in order to validate the authorization
+•   Click “Create Authorization”
+                                   Ramp Referral Process
+Ramp Authorization
+•   Click “Submit to Provider”
+•   An authorization is sent to the
+    Provider portal for the provider to
+    accept and bill for the service.
+                              Ramp Referral Process
+Creating a ramp referral
+Ramp Request – Referred to E-Mod Specialist
+• Answering these ramp request questions
+  will refer the ramp request to the E-Mod
+  Specialist if:
+   • The questions regarding the door conflict
+     with one another
+   • The home has a small or no yard
+   • The home is elevated high off the ground
+                                   Ramp Referral Process
+Creating a ramp referral
+Ramp Request – Referred to E-Mod
+Specialist
+• Once the questions have been answered
+  and at least 1 image uploaded, click “Save”
+  or “Save and Refer to Emod Specialist”
+    •   The ramp request is not finalized and
+        referred to the E-Mod Specialist until it is
+        “Save and Refer to Emod Specialist”
+                                      Ramp Referral Process
+Creating a ramp referral
+Ramp Request – Referred to E-Mod
+Specialist
+•   Completed Ramp Requests are
+    displayed under the “Ramp” sub-tab
+     •   No action needed until the E-Mod
+         Specialist approves the ramp request
+                              Ramp Referral Process
+Creating a ramp referral
+Ramp Request – Referred to E-Mod Specialist
+• When the E-Mod Specialist have acted on the
+  ramp request, a notification link will be
+  displayed on the dashboard
+• Case manager can click the link to view
+                               Ramp Referral Process
+Creating a ramp referral
+Ramp Request – Referred to E-
+Mod Specialist
+• Case manager can click the
+  notification link to view the
+  Ramp Request, images, and
+  comments
+• If the Ramp Request has been
+  approved, then the case manager
+  can create the referral and send
+  it to the Ramp provider
+                               Ramp Referral Process
+Creating a ramp referral
+Ramp Request – Referred to E-Mod Specialist
+• Once the referral has been created and
+  accepted, no action needed until the Provider
+  completes the ramp project and Ramp
+  Completion form
+                                Ramp Referral Process
+Creating a ramp referral
+Ramp Request – Referred to E-Mod
+Specialist
+• When the Ramp provider completes the
+  Ramp Completion form, a notification is
+  displayed on the case managers dashboard
+• Case manager can click the notification to
+  view the Ramp Completion form
+                                  Ramp Referral Process
+Creating a ramp referral
+Ramp Request – Referred to E-Mod
+Specialist
+•   When the Ramp provider completes the Ramp
+    Completion form, a notification is displayed on
+    the case managers dashboard
+•   Case manager can click the notification to view
+    the Ramp Completion form (see pg. 12-14)
+•   After reviewing the documents, the case manager
+    can create the authorization (see pg. 16-19)
+

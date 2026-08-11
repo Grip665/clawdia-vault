@@ -1,0 +1,62 @@
+   Program for All Inclusive Care for the Elderly (PACE) Intake Workflow
+                                July 2019
+
+                    PACE designee makes referral via Centralized Intake
+                          https: phoenix.scdhhs.gov/newreferral
+
+
+
+
+                   Centralized Intake checks Phoenix and MMIS for other
+                            open Phoenix Medicaid applications
+
+
+
+
+    No open applications                                      Open Phoenix Applications
+
+
+
+
+                                                              CI releases PACE case to the
+CI releases case to the
+                                                                  area office with active
+PACE area
+                                                                       application.
+
+
+
+                                                           AO PACE access worker retrieves
+ The PACE worker retrieves                                   case from the Unassigned CI
+case from the Unassigned CI                                          workflow tab
+        workflow tab
+
+
+                                                             CLTC AO PACE access worker
+                                                              assigns application to the
+ The PACE worker contacts                                     designated CLTC AO staff
+the designated CLTC worker
+         to sign off
+
+                                                              CLTC AO designee reviews
+                                                              case/signs off and give LOC
+
+
+
+
+                                                            CLTC designee discusses needed
+                                                              actions with PACE designee
+
+
+
+
+                                                             AO re-assigns case to PACE
+                                                                     designee
+
+
+
+
+                                                                  PACE coordinates
+                                                           waiver/program transition only
+                                                           for those enrolled in the waiver
+

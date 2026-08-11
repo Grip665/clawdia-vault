@@ -1,0 +1,24 @@
+                               1-888-978-CARE (2273)
+Personal Care
+20 – Bathing and Grooming                    28 – Medication Reminder
+21 – Dressing or Undressing                  29 – Feeding
+22 – Toileting                               30 – Transfer
+23 – Ambulation and Mobility                 31 – Housekeeping
+24 – Meal Preparation and Set up             32 – Incontinence Care
+25 – Shopping and Errands                    33 – Transport to Medical
+26 – Accompany to Medical Appt.                   Appointment or Service
+27 – Laundry                                 34 – Report Changes in Condition
+
+Nursing
+35 – Administer Medication                   39 – Tracheostomy Care
+36 – Skin/Decubitus Care                     40 – Wound Care
+37 – Tube Feeding                            41 – Ventilator Care
+38 – Catheter Care
+
+Case Management
+50 – Monthly Contact                         55 – Participant or Primary Contact Call
+51 – Provider Contact                        56 – Claim Exception Follow-up
+52 – Service Authorizations                  57 – Adult Protective Services Activity
+53 – Assessment or Level of Care Review      58 – Case Closure
+54 – Service Plan Review or Update           59 - Other
+

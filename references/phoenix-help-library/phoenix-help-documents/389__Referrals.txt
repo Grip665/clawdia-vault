@@ -1,0 +1,212 @@
+Referrals
+                                      Referrals
+
+▪Reminder: Electronic referrals can only be made for services included in the service plan
+▪A “proposed” service schedule is entered for the referral information
+▪If a provider declines a referral or does not respond within 48 hours, Phoenix automatically
+sends the referral to the next provider.
+▪Phoenix checks the status of referrals at the top of every hour
+▪Providers can accept, decline, or ignore a referral
+▪When the provider accepts a referral, the CM needs to “Accept” the provider. If the provider
+accepts, comments can be included which might change the start date.
+▪Authorization should be created from referrals that they are associated and NOT by selecting a
+“New Authorization”
+
+
+
+
+                                                                                        2
+                        Service Authorization
+
+▪If a service is not included in the service plan it CANNOT be authorized.
+▪If you need to authorize a service that is not included in the service plan, you need to
+edit the service plan to include interventions for service.
+▪For electronic referrals, the schedule on the authorization defaults to what was in the
+referral and can be changed
+▪When a referral for Environmental Modification, Ramps, or Enhanced Pest Control is
+accepted, the case manager will not create the service authorization until the work
+has been completed
+▪Once the work has been completed, the case manger will complete the
+authorization
+
+
+
+
+                                                                                  3
+                         Referrals
+
+▪ On the Participant’s dashboard screen, click “Waiver Supports”
+
+
+
+
+                                                             4
+                         Referrals
+▪ On the Waiver Supports screen, click “Service Provider
+  Report”
+
+
+
+
+                                                           5
+                                     Referrals
+• Select service(s) from Provider Service List then click “Create Report” at the bottom
+  of the screen
+• Once the Provider List is completed, click “Print Service Providers
+• Provider list requires a password
+     •   Password is the Participant’s CLTC number
+
+
+
+
+                                                     (EX0000)Provider
+                                                     (EX0001)Provider
+                                                     (EX0002)Provider
+                                                     (EX0003)Provider
+                                                     (EX0004)Provider
+                                                     (EX0005)Provider
+                                                     (EX0007)Provider
+                                                     (EX0006)Provider
+                                                     (EX0008)Provider
+
+
+
+                                                                                    6
+                                      Referrals
+• From the “Waiver Supports” section, click “New Referral”
+• Select the service from the drop-down list
+    •   If the service(s) is not shown in the drop-down list, then check the Service Plan to
+        verify the Intervention(s) that was selected
+• Click “Next”
+
+
+
+
+                                                                                               7
+                                       Referrals
+• Select Provider(s) from “Available Providers” column
+• Selected Provider(s) will move over to the “Proposed Providers” column
+• The “Proposed Providers” order can be changed or deleted by clicking
+• When finished selecting Providers, click “Next” at the bottom of the screen
+                                                (EX0034)Provider
+                                                (EX0072)Provider
+                                                (EX0092)Provider
+                                                (EX0012)Provider
+                                                (EX0022)Provider
+                                                (EX0008)Provider
+                                                (EX0048)Provider
+                                                (EX0027)Provider
+                                                (EX0052)Provider
+(EX0007)Provider    (EX0000)Provider
+(EX0003)Provider    (EX0005)Provider
+(EX0001)Provider    (EX0002)Provider
+(EX0002)Provider    (EX0001)Provider
+(EX00005)Provider
+(EX00004)Provider
+(EX0000)Provider
+
+
+
+
+                                                                                8
+                                       Referrals
+• Select Units/Hours and time of day the service is to be performed
+• Select “Start Date” then click “Create Referral”
+• 1st Provider will have 48 hours excluding weekends and State holidays to accept
+  referral or the referral will be forfeited and sent to the next Proposed Provider
+
+
+
+
+                    (EX0000)Provider
+                    (EX0002)Provider
+                    (EX0005)Provider
+                    (EX0001)Provider
+
+
+
+
+                                                                                      9
+                                   Referrals
+• Notification will be sent to the 1st Proposed Provider’s dashboard awaiting action
+• Proposed Provider can accept, decline, or accept the referral with conditions such
+  as (starting on a different date)
+• 1st Proposed Provider will have 2 business days excluding weekends and State
+  holidays to accept referral or the referral will be forfeited and sent to the next
+  Proposed Provider
+• If the referral is sent to the next Proposed Provider, then the referral acceptance
+  process start over again until all Proposed Providers options are exhausted
+      • Participants should be encouraged to select multiple Providers from the
+        Provider Choice List to ensure finding a Provider to perform the service(s)
+
+
+
+
+                                                                                        10
+                 Referrals-Provider Portal
+• Providers accept referrals from the Phoenix Provider Portal
+• From the “Provider’s Dashboard”, referrals will be displayed under the
+  “Notifications” Tab
+• To view the referral, click the referral link
+
+
+
+
+                                                                           11
+                  Referrals-Provider Portal
+
+• Certain information about the participant such as gender, age, zip code,
+  pets, household type, etc. will be displayed on referral
+    •   Participant’s street address, name, contact number will not be listed in the
+        referral.
+    •   Detailed information will be listed in authorization
+
+
+
+
+                                                                                       12
+                                 Referrals
+• The Provider can “Accept” or “Decline” the referral
+• Providers can accept referral with conditions such as starting on a different
+  date
+    •   Providers can make request by entering comments in the “Comments” section
+
+
+
+
+                                                                              13
+                               Referrals
+• Click “Submit”
+• Once the referral is accepted or declined, a notification will be sent to Case
+  Manager’s dashboard alerting them of referral response
+
+
+
+
+                                                                            14
+                               Referrals
+• Once the referral has been accepted by the Provider, the Case Manager will
+  have to finalize the referral in order to submit an Authorization
+• From the “Waiver Supports” screen      click “Active Referrals” or “All
+  Referrals” tab
+• Select referral and click “View”
+
+
+
+
+                                                                            15
+                                Referrals
+• The Case Manager will see any comments regarding referral from the Provider
+• The Case Manager will have the option to:
+    1.   “Approve Provider”
+    2.   “Decline Provider”
+    3.   “Terminate Referral”
+• Once Referral is completed, a new Authorization is generated for completion
+   For instructions on Authorizations see (Authorizations)
+
+
+
+
+                                                                                16
+17
+

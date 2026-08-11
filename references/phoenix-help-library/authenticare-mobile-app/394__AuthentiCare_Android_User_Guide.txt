@@ -1,0 +1,888 @@
+     Android
+    Version 2.0
+
+February 26, 2020
+Contents
+AuthentiCare Mobile Application .......................................................................................... 3
+Android Operating System ................................................................................................... 3
+   Introduction ........................................................................................................................ 3
+   Service Zones .................................................................................................................... 3
+Application Setup .................................................................................................................. 4
+   Core AuthentiCare Preparation ........................................................................................ 4
+Application Setup Done by Providers .................................................................................. 4
+   One Time Application Settings ......................................................................................... 4
+   Requirements .................................................................................................................... 4
+Provider Mobile App Worker Registration - Phoenix Provider Portal ................................ 5
+Registering Agency Owned Phones/Mobile Devices in the Phoenix Provider Portal ....... 9
+AuthentiCare Mobile App Fundamentals ........................................................................... 12
+   For Workers: Downloading, Installing and Setting Up the AuthentiCare Mobile App 12
+   Initial Setup ...................................................................................................................... 12
+   To Find a Device ID from the Settings Menu................................................................. 17
+   Clearing Data to Change from One Environment to Another ....................................... 18
+To Log In to the Mobile App – First Use ............................................................................ 20
+To Log Out of the Mobile App ............................................................................................ 21
+To Access the Calendar ..................................................................................................... 22
+Worker Check-In: One-Client Service Visit, One Service................................................ 23
+   The Check-In ................................................................................................................... 23
+   No Clients Found............................................................................................................. 26
+   To Enter the CLTC Number ............................................................................................ 27
+   To Scan a Client’s QR Card ........................................................................................... 28
+   Worker Check-In: Multiple Clients Service Visit ........................................................... 29
+   Worker Check-In: Multi-Services Service Visits ........................................................... 30
+   Worker Check-Out: Multiple Clients Service Visits ...................................................... 30
+   Worker Check-In: Clients in a Location of Separate Living Quarters .......................... 31
+   Worker Check-In: Order a QR (Quick Response) Card ............................................... 32
+Worker Check-Out: For One or More Clients ................................................................... 35
+
+                                                                                                                                        1
+                  ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+                  products referenced in this material may be trademarks or registered trademarks of their respective companies.
+AuthentiCare Mobile App Basics ....................................................................................... 36
+  See Device Identifier ....................................................................................................... 36
+  Offline Reminder ............................................................................................................. 36
+  Call Office ........................................................................................................................ 36
+  Force Check-Out ............................................................................................................. 36
+  Change Password ........................................................................................................... 36
+  Reset and Change Setup Code...................................................................................... 36
+  Rate Us ............................................................................................................................ 36
+  End User License Agreement......................................................................................... 36
+  Logout .............................................................................................................................. 36
+  Two Different Menus ....................................................................................................... 37
+
+
+
+
+                                                                                                                                        2
+                 ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+                 products referenced in this material may be trademarks or registered trademarks of their respective companies.
+AuthentiCare Mobile Application
+
+Android Operating System
+Introduction
+First Data offers an Android and an iOS mobile application (app) for workers to use as a
+means of Check-In/Check-Out, both in English and in Spanish. These AuthentiCare
+mobile applications provide the same capabilities as the Interactive Voice Response
+(IVR) and, with GPS technology, have the ability to base their validation process on the
+location of the mobile device. The following sections detail features of each
+AuthentiCare mobile app, and list the setup processes to prepare providers and workers
+for mobile application operation and the steps for workers to utilize AuthentiCare mobile
+app features to process Check-Ins/Check-Outs of client service visits.
+
+Note: The AuthentiCare Mobile Application is available for use on Android operating
+systems 5.0 and newer. Users of mobile phones with operating systems prior to 5.0 are
+not able to log in to the AuthentiCare Mobile Application 2.0.
+
+Service Zones
+In a Standard Service Zone, GPS location coordinates can be determined. GPS
+coordinates are captured and used to match (verify) the location of the device during
+Check-In/Check-Out against the client’s GPS coordinates on record. The mobile app
+does not validate the clients’ locations against their physical addresses. Instead the
+mobile app is being sent the GPS coordinates to validate each client’s location.
+In a Limited Service Zone, there is no internet access/data coverage. GPS location
+coordinates can still be captured most of the time. The banner on the mobile app screen
+displays in a dark red color in a Limited Service Zone with the message, “No data
+connection.”
+If the worker gets to a client visit location that is outside the Standard Service Zone, the
+worker will proceed through the same Check-In and Check-Out steps. The data is
+stored on the mobile device as the Check-In and Check-Out are completed. The visit
+will display as “Not synced.” Intermittently flashing on the screen will be “Sync failed. No
+data connection.”
+A Warning Message is displayed after 60 minutes when there are claims not synced on
+the mobile device informing the user to return to a Standard Service Zone with internet
+coverage.
+
+When the mobile device detects its return to a Standard Service Zone, a sync of the
+Check-In/Check-Out data will automatically begin. Once the data is synced, the banner
+on the screen will return to its original color, and the visit will display as Completed.
+
+                                                                                                                                3
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+Application Setup
+Core AuthentiCare Preparation
+The following settings have been set by First Data at the application jurisdiction level,
+typically across the whole state:
+
+• The mobile messaging feature has been turned on.
+
+• Messaging from the provider to the worker is enabled.
+
+• Message expiration has been enabled.
+
+• The Consumer ID (QR) card order and scan is enabled.
+
+• The GPS geo-fence distance has been set so that there is a defined maximum
+distance surrounding the Client’s location that can be acquired on the application
+without creating an exception on the claim. An Exception is an indicator that a worker is
+found outside of the specific radius of a Client’s home. Exceptions are triggered on
+Check-In and Check-Out.
+
+• The timeout duration is set (in minutes) before the mobile app logs the worker out of
+the system due to inactivity. The timeout duration is 60 minutes.
+
+• The worker’s mobile app session token expires every night at 4 AM ET.
+
+
+Application Setup Done by Providers
+One Time Application Settings
+• The Provider and Worker must be active within Phoenix and have active IDs.
+
+Requirements
+1. The worker must be active within Phoenix with an active ID.
+
+2. The worker must have access to an Android phone 5.0 or newer with network
+   access.
+
+3. A network must be available to log in.
+
+4. GPS must be enabled.
+
+Workers planning to use their personal cellular phones or other mobile devices will be
+required to have installed the AuthentiCare Mobile App 2.0 prior to registration in the
+
+
+
+                                                                                                                                4
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+Phoenix system. Please see the instructions, For Workers: Downloading, Installing and
+Setting Up the AuthentiCare Mobile App in this guide for this information.
+
+
+Provider Mobile App Worker Registration - Phoenix Provider Portal
+Before a worker can use the AuthentiCare Mobile App 2.0, the provider must log in to
+the Phoenix Provider Portal and register the worker and the worker’s phone or other
+mobile device. From the Phoenix Provider Portal, the user will click the Workers Tab.
+
+
+
+
+                                                                                                                                5
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+Click the Edit button beside the worker being set up for the mobile app.
+
+
+
+
+                                                                                                                                6
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+Here is a closer view of the Mobile Password instructions and Mobile Password fields
+and the Email Address instructions and Email Address field:
+
+
+                                                                                                                                7
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+1. Enter a mobile password to be used by the worker for the initial login to the mobile
+  app. Mobile passwords must follow the password rules located above the password
+  fields.
+2. Select Show Password for displaying the password as it is typed. You will be
+   Required to re-enter or “confirm” the new password.
+3. Enter a worker’s email address to be used by the worker for requesting a
+   passcode in order to reset a password without contacting the provider.
+4. You must select Save for these changes to take effect. Once the user saves the
+   mobile app information, the password entered will no longer display on the screen.
+   The user may also use this field to reset a worker’s mobile password.
+5. Click the Add mobile device link.
+
+  The office number in Phoenix is not required.
+
+
+
+
+                                                                                                                                8
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+6. Enter the mobile device’s number, without parentheses and/or dashes, and the
+   Device ID for the worker’s mobile device. The user may click the Add another
+   mobile device link to add additional devices for the worker, if needed.
+7. Once all information has been entered, click Save.
+
+8. The user may sign into the mobile app with this device after the information is saved.
+
+
+Registering Agency Owned Phones/Mobile Devices in the Phoenix
+Provider Portal
+1. The user must log into the Phoenix Provider Portal and click the Profile tab.
+
+2. From that tab, the user will click the Mobile Devices sub tab.
+
+
+
+
+                                                                                                                                9
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+3. Click the Edit button, and then click Add mobile device.
+
+
+
+
+                                                                                                                           10
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+4. Enter the phone or mobile device number, without parentheses or dashes, and the
+   Device ID.
+5. If more than one worker will use the device, click the Shared? check-box.
+
+6. To add additional devices, click the Add another mobile device link.
+
+7. Once all information has been keyed, click Save.
+
+
+
+                                                                                                                           11
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+Each worker will have to be marked as mobile enabled and given a password on the
+Workers Tab.
+
+
+AuthentiCare Mobile App Fundamentals
+For Workers: Downloading, Installing and Setting Up the AuthentiCare
+Mobile App
+The AuthentiCare application is a free mobile app.
+
+Steps for Workers to download the AuthentiCare Mobile App from the Google Play
+Store are:
+
+1. Open the Google Play Store on the mobile device.
+
+2. Select the AuthentiCare Mobile App for download.
+
+3. Tap ALLOW for the app to make and manage phone calls.
+
+4. Tap ALLOW for the app to access the mobile device’s location.
+
+These terms and conditions must be accepted prior to the app opening on the mobile
+device.
+
+Initial Setup
+Once the mobile app is installed, initial setup needs to occur. In order for the worker to
+use the AuthentiCare Mobile App, the worker will need to:
+
+1. Confirm the Provider has entered the mobile device/phone number, email address
+   and Device ID in Phoenix.
+
+2. Use the Setup Code to choose the environment.
+
+When the worker first opens the AuthentiCare Mobile App, the worker will see a screen
+that requires the entry of a Setup Code. The AuthentiCare Mobile App allows the use of
+one or two modes (called environments):
+
+      the Test/Training Environment, (used for practicing and learning about how to
+       use the app), or
+      the Live Production Environment (used when you are going to perform actual
+       client care)
+
+The worker will choose which option to use by entering one of the codes below:
+
+        Test/Training SCTRAINPRD or Live/Production SCDHHSPRD
+
+
+                                                                                                                           12
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+The link to the End User License Agreement is on the Setup Code screen.
+
+The worker will:
+
+1. Enter the choice of environment in the Setup Code field.
+
+2. Review the End User License Agreement from the agreement link.
+
+3. Tap SUBMIT which saves the Setup Code and signifies the acceptance of the End
+   User License Agreement.
+
+The Worker ID Login and Password screen displays.
+
+
+
+
+                                                                                                                           13
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+The choices of FORGOT PASSWORD? and Settings are also found on this screen.
+
+A worker who has forgotten the password can tap FORGOT PASSWORD? The Forgot
+Password? screen displays, complete with instructions.
+
+To recover a password, the worker must have an email address listed in Phoenix.
+
+   1. Input Worker ID.
+
+   2. Tap FORGOT PASSWORD?
+
+   3. Input Worker ID.
+
+   4. Tap REQUEST PASSCODE.
+
+
+
+
+                                                                                                                          14
+           ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+           products referenced in this material may be trademarks or registered trademarks of their respective companies.
+If the worker’s email address is not in Phoenix, the following screen will display.
+
+
+
+
+Once the worker’s email address is in Phoenix, the following screen will display:
+
+
+
+
+                                                                                                                           15
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+Tap OK.
+
+The Change Password screen displays.
+
+
+
+
+                                                                                                                          16
+           ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+           products referenced in this material may be trademarks or registered trademarks of their respective companies.
+The worker will:
+
+   1. Enter the passcode sent through email in the Enter Passcode field.
+   2. Enter the new password in the New Password field. The password rules are
+      listed on the screen.
+   3. Confirm the new password by entering the new password again in the Confirm
+      New Password field.
+
+   4. Scroll down to tap SUBMIT.
+
+If there is a need to start the process again, the worker could scroll further down to tap
+REQUEST NEW PASSCODE found at the bottom of the screen.
+
+To Find a Device ID from the Settings Menu
+After entering the Setup Code, the worker will be taken to the login screen.
+
+To find the mobile device’s Device ID:
+
+1. Tap Settings at the bottom right of the screen. The Menu displays.
+
+2. Tap See Device Identifier in the Menu. The Device ID displays.
+
+3. Tap OK to close the window.
+
+4. Assure the provider has the correct Device ID. (The worker can tap Copy, and then
+   send an email to the provider with the Device ID.)
+
+
+
+
+                                                                                                                           17
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+Clearing Data to Change from One Environment to Another
+In order to switch from one environment to the other, the worker will be required to clear
+the data from the app.
+
+• Clearing data is necessary only when switching between environments.
+
+• Remember that if the data is cleared from the live environment, the worker will
+lose any data that has not been uploaded to Care Call.
+
+The worker will need to make sure that all data has been uploaded before leaving the
+Live/Production environment. To clear the data:
+
+1. Tap Settings at the bottom right of the screen. The Menu displays.
+
+2. Tap Reset and Change Setup Code in the Menu.
+
+3. Tap OK. The data is removed.
+
+
+
+
+                                                                                                                           18
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+4. Enter the next Training or Production environment in the Setup Code field.
+
+5. Tap Done on the keyboard to display the bottom half of the Setup Code screen or
+   Simply tap SUBMIT.
+
+6. Tapping SUBMIT indicates agreement with the End User License Agreement.
+
+
+                                                                                                                           19
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+To Log In to the Mobile App – First Use
+Change the temporary password assigned by the provider to log in.
+
+On the Login screen:
+
+1. Enter the Worker ID.
+
+2. Tap the          icon which opens the “eye”         to display the password as typed or
+   after the full password is fully typed. Tap the icon again to cancel the display of the
+   password.
+
+3. Click Done on the keyboard to display the full screen or scroll to reveal SIGN IN.
+
+4. Tap SIGN IN. Tapping SIGN IN logs the worker into the app for the session.
+
+
+
+
+After 6 unsuccessful attempts to log in, the worker’s account will be locked. The worker
+will have to:
+1. Call the provider to unlock the account.
+
+2. Enter the new temporary password assigned by the provider.
+
+3. Begin the process again of entering and confirming a new password.
+
+Once the Worker ID and Password are entered, the worker’s session begins.
+
+                                                                                                                           20
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+PLEASE NOTE:
+Workers can log in to create a session for the day when and where they have internet
+access, and then drive to the client’s location to process a Check-In for client service
+delivery. Logging in to begin a session is not the same as processing a Check-In for
+client service delivery.
+
+
+
+To Log Out of the Mobile App
+A Log Out of the mobile app is different than a Check-Out of a service visit. There are
+reasons for a worker to log out of the mobile app:
+
+      The worker is done for the day, OR
+      Another worker will be using the same mobile device to perform a Check-In or a
+       Check-Out.
+
+PLEASE NOTE:
+Before performing a logout, the worker needs to ensure all Check-Ins and Check-Outs
+are complete. At the end of the day the worker will need to return to a place where
+there is data connection in order for the data to be sent to the Care Call system.
+To log out of the AuthentiCare Mobile App, the worker will:
+
+1. Tap SETTINGS found at the bottom right of the screen.
+
+2. From the Settings Menu, tap Logout.
+
+3. The Confirm Logout message displays. Tap OK to log out.
+
+
+
+
+                                                                                                                           21
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+To Access the Calendar
+To access the calendar, workers will:
+
+1. Log in to the mobile app using the Worker ID and Password.
+
+2. Tap the current date (Today) at the top of the mobile screen to open the calendar.
+
+3. The calendar defaults to the current date. Tap OK to view the list of any visits
+   completed and/or pending for the day.
+
+4. Tap and scroll to display past dates. Tap OK on the chosen date to view the list of
+   completed and/or pending visits for that date.
+
+
+
+
+                                                                                                                           22
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+Worker Check-In: One-Client Service Visit, One Service
+The Check-In
+When the worker arrives at the client location, the worker will:
+
+1. Open the AuthentiCare Mobile App.
+
+2. Input Worker ID and Password to begin the session.
+
+3. Tap Done on the keyboard to remove the keyboard or tap SIGN IN, or
+
+
+
+
+                                                                                                                           23
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+4. Once the keyboard is removed, tap SIGN IN.
+
+5. “You have 0 appointments” displays in the date banner. The worker will tap NEW
+   CHECK-IN.
+
+
+
+
+                                                                                                                          24
+           ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+           products referenced in this material may be trademarks or registered trademarks of their respective companies.
+6. The Select Client screen displays with a list of any clients found near the current
+   location of the mobile device. If the client’s name is on the list, tap that client’s
+   name.
+
+7. Tapping a client name displays the Check-In screen.
+
+8. Tap the Services field to display a list of services on the Select Services screen.
+
+
+
+
+9. Tap the Service for the worker visit that day. Authorized found next to a service title
+   indicates the service that has been authorized to be provided.
+
+10. Tap DONE.
+
+11. The client name appears on the Check-In screen. Tap the client name field.
+
+12. Tap SUBMIT CHECK-IN.
+
+The Check-In Success page displays with GPS Location coordinates and the Check-In
+Time.
+
+15. Tap OK to display the visit check-in details on the Check-Out screen.
+
+
+
+
+                                                                                                                            25
+             ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+             products referenced in this material may be trademarks or registered trademarks of their respective companies.
+16. Follow Check-Out process described in Worker Check-Out: For One or More
+Clients.
+
+No Clients Found
+When processing a Check-In, and a tap of NEW CHECK-IN does not display a client
+list, or if the client’s name is not among those clients listed on this screen, the screen
+will display “No clients found.”
+
+
+
+
+                                                                                                                           26
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+The worker will:
+
+1. Tap either LOOKUP CLIENT and SCAN QR CARD found at the bottom of the
+   screen to process the Check-In.
+
+
+To Enter the CLTC Number
+The worker will:
+
+1. Tap LOOKUP CLIENT to open the Lookup Client screen.
+
+2. Input the CLTC Number.
+
+3. Tap LOOKUP.
+
+
+
+
+                                                                                                                           27
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+Follow the remainder Check-In process steps detailed in Worker Check-In: One-Client
+Service Visit, One Service.
+
+
+To Scan a Client’s QR Card
+Scanning the QR Card is a solution to the absence of a landline in an area with no cell
+coverage, (data connection), and/or when GPS coordinates may not be determined.
+
+1. Tap SCAN QR CARD.
+2. Follow the prompt to download and install the barcode scanner.
+3. Hold the phone/mobile device up to the code on the QR Card approximately 4 to 6
+   inches away.
+      The Mobile device will turn on the Camera function and a flashing red line will
+       appear.
+
+
+
+
+                                                                                                                           28
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+4. Place the code from the QR Card                              inside the viewfinder rectangle to
+   scan.
+
+
+
+
+      The QR code can be scanned regardless of the orientation of the QR Card (right
+       side up, on its side, or upside down), as long as the code is located in the
+       viewfinder. The camera will actively scan the code and there is no need to "take
+       a picture" of the code.
+
+      The screen will indicate it has identified the QR code.
+
+      Follow the remainder of Check-In process steps detailed in Worker Check-In:
+       One Client Service Visit, One Service.
+
+      GPS coordinates from the Check-In are displayed to the mobile device user
+       when GPS coordinates are found. (This is the process if the client lives in a
+       Standard Service Zone.)
+
+      Note: If the worker is consistently having issues obtaining GPS coordinates or is
+       in a “Limited Service Zone”, the worker will have the option of requesting a QR
+       Card.
+      Note: If the worker needs to do multi-services for that client, they will need to do
+       separate Check-Ins with the QR Card. Without a data connection, the app
+       cannot check to see if the client is authorized for multi-service(s).
+
+
+Worker Check-In: Multiple Clients Service Visit
+After logging in, the worker will:
+
+
+                                                                                                                            29
+             ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+             products referenced in this material may be trademarks or registered trademarks of their respective companies.
+   1. Tap on the first client’s name.
+
+   2. Select the service(s) that will be performed by checking the box to the left of the
+      service name.
+
+   3. Tap ADD CLIENT from the list of available clients to add the other client the
+      worker is there to serve.
+
+   4. Select the service that will be performed for the client just added. The original
+      service and the service for the added client must be services that can be paired.
+
+   5. Continue adding clients until all clients and services to be provided are added.
+
+   6. Scroll through to make sure all clients are listed with the correct service(s).
+
+   7. When finished, tap SUBMIT CHECK-IN. All clients selected will be checked in.
+
+   8. Tap OK on the Check-In Success screen.
+
+
+Worker Check-In: Multi-Services Service Visits
+The mobile app allows workers to perform multi-service visits. Multiple check boxes are
+available in the Service List if a service may be paired. “Authorized” displays to the right
+of the service name if the service is authorized for that client. After logging in, the
+worker will follow the process steps in Worker Check-In: One-Client Service Visit, One
+Service, and then:
+
+1. Tap OK after selecting two services that can be paired.
+
+2. Tap the Submit Check-In button.
+
+
+
+Worker Check-Out: Multiple Clients Service Visits
+A multiple client Check-Out is handled the same as a one-client Check-Out.
+
+The worker will:
+
+   1. Access Check-In information from the Appointment screen.
+
+   2. Tap Observations to select either “No observations to report” or one of the
+      observations from the list; tap DONE.
+
+   3. Tap Activities to select one or more of the Activities from the list; tap DONE
+
+
+                                                                                                                           30
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+   4. Tap SUBMIT CHECK-OUT.
+
+   5. Follow the same procedure with the remainder of the client list.
+
+   6. When finished, tap SUBMIT CHECK-OUT.
+
+   7. The application will display Check-Out Success. Tap OK.
+
+   The Appointment screen will then display that all clients’ visits are in Completed
+   status.
+
+
+
+
+Worker Check-In: Clients in a Location of Separate Living Quarters
+If there are multiple Clients at a location such as an apartment complex, the worker will
+need to do a New Check-In to find his/her specific client. After logging in, the worker
+will:
+
+1. Tap on New Check-In.
+
+2. On the Select Client screen, select the first client for the visit.
+
+3. Choose service for the client, and then tap DONE.
+
+4. Tap ADD CLIENT.
+
+7. Follow steps 2 – 4 to add the second client.
+
+8. Tap SUBMIT CHECK-IN.
+
+                                                                                                                            31
+             ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+             products referenced in this material may be trademarks or registered trademarks of their respective companies.
+9. Process the Check-Out by tapping SUBMIT CHECK-OUT after entering all Activities
+   and Observations, if required. Repeat for each client.
+
+If there are no clients found at the mobile device’s current location, the Select Client
+screen will display, “No clients found.” The worker will:
+
+1. Tap LOOKUP CLIENT found at the bottom of the screen, and follow the steps to
+   enter the client’s CLTC number found in To Enter the CLTC Number.
+
+2. Tap on the client’s name to process a Check-In.
+
+3. Repeat the process to check in additional clients.
+
+
+Worker Check-In: Order a QR (Quick Response) Card
+The Client ID card uses the technology of QR codes (2D barcode) to allow client
+verification and works in conjunction with the AuthentiCare Mobile Application.
+
+To begin the daily session, workers will need to log in to the app in an area with a data
+connection, even if they are not yet at the client’s home. When they arrive at the client’s
+home the worker will perform a Check-In whether or not there is a data connection.
+
+When the login occurs with no data connection, the worker will follow the process steps
+in To Enter the CLTC Number. The screen will display with the banner message, “No
+data connection.”
+
+      The client name is NOT displayed because the app does not have a data
+       connection in order to research the name and to determine whether or not the
+       name should be displayed.
+      The CLTC number can be displayed.
+
+
+
+
+                                                                                                                           32
+            ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+            products referenced in this material may be trademarks or registered trademarks of their respective companies.
+The worker will:
+
+1. Slide the button to the right to Request QR Card.
+
+2. Add the Service(s) for the client visit.
+
+3. Tap SUBMIT CHECK-IN.
+
+As long as the mobile device has no internet access, all screens throughout the Check-
+In and Check-Out process will display the banner message, “No data connection.”
+
+
+
+
+                                                                                                                            33
+             ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+             products referenced in this material may be trademarks or registered trademarks of their respective companies.
+   The worker will continue with each action to progress throughout the Check-In to
+    Check-Out for the service visit.
+   The message, “Sync failed. No data connection” flashes on the screen.
+   Since there is no data connection, the Check-In, the QR Card order, and the
+    Check-Out are queued until the mobile device enters a location where internet
+    connection is available.
+   When the mobile device returns to a location with a data connection, all visit data
+    transmits to the Care Call system.
+   When the visits have been transmitted to Care Call, the Status for the visit(s) will
+    change to Completed.
+   Once visits are marked as Completed, the QR Card also has been ordered.
+
+
+
+
+                                                                                                                        34
+         ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+         products referenced in this material may be trademarks or registered trademarks of their respective companies.
+        It typically takes 5 to 10 days to process the QR Card order and get the card
+         mailed to the Client
+       At the end of the day the worker will need to return to a place where there is a
+        data connection in order for the claims to be sent to the Care Call system.
+
+
+Worker Check-Out: For One or More Clients
+For each client served, the worker will:
+
+   1. Access Check-In information from the Visits screen.
+   2. Tap Activities to select one or more of the Activities from the list; tap DONE.
+   3. If required, tap Observations to select one or more of the Observations; tap
+      DONE.
+   4. Depending on the service, multiple selections on both Activities and
+      Observations are possible. Check these as required.
+   5. Tap SUBMIT CHECK-OUT.
+   6. Follow the same procedure with the remainder of the client list.
+   7. When finished, tap SUBMIT CHECK-OUT.
+   8. The screen will display Check-Out Success. Tap OK.
+
+   The Visits screen will then display that all clients’ visits are in Completed status.
+
+
+
+                                                                                                                            35
+             ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+             products referenced in this material may be trademarks or registered trademarks of their respective companies.
+AuthentiCare Mobile App Basics
+There is an abbreviated Menu accessed from Settings even before a worker logs in.
+After a Worker Login, the worker will tap Settings at the bottom right on the screen to
+open the Menu with a full array of choices. The following choices display:
+
+See Device Identifier
+A tap of this choice allows the mobile device’s Device ID to display.
+
+Offline Reminder
+A slide of this button allows the worker to receive a reminder of the mobile device’s
+offline status.
+
+Call Office
+A tap on this choice automatically makes a call from the worker’s mobile device to the
+agency telephone number registered in Phoenix.
+
+Force Check-Out
+A tap on this choice allows a capture of the time and location of a visit for a Check-Out
+when the worker has forgotten, or has been unable, to process a Check-In.
+
+Change Password
+A tap on this choice enables the worker to process a password change, before being
+locked out, without having to call the agency for a temporary password reset. Once the
+worker is locked out of the mobile app, the worker will have to contact the provider to
+reset the password.
+
+Reset and Change Setup Code
+A tap on this choice allows the worker to reset the app from one jurisdiction to another.
+
+Rate Us
+A tap on this choice allows the worker to rate the AuthentiCare Mobile App.
+
+End User License Agreement
+A tap of this choice displays the full agreement for the worker’s review.
+
+Logout
+A tap of this choice enables the worker to log out of the mobile app. All needed data
+should be saved before a log out.
+
+
+
+
+                                                                                                                             36
+              ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+              products referenced in this material may be trademarks or registered trademarks of their respective companies.
+Two Different Menus
+Abbreviated Menu Before Log In:                      Full Menu After Log In:
+
+
+
+
+                                                                                                                         37
+          ©2020 Fiserv, Inc. or its affiliates. All rights reserved. Fiserv is a registered trademark of Fiserv, Inc. Other
+          products referenced in this material may be trademarks or registered trademarks of their respective companies.
+

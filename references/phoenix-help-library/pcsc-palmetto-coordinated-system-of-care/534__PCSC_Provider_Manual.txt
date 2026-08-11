@@ -1,0 +1,2384 @@
+PALMETTO COORDINATED
+SYSTEM OF CARE SERVICES
+PROVIDER MANUAL
+JANUARY 1, 2021
+
+South Carolina Department of Health and Human Services
+PALMETTO COORDINATED SYSTEM OF                                                      SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                                          HEALTH AND HUMAN SERVICES
+
+
+
+
+CONTENTS
+
+1. Program Overview ......................................................................................................................1
+
+     •    Palmetto Coordinated System of Care .................................................................................. 1
+
+     •    Waiver Description……………………………………………………………………………………1
+
+     •    Administration…………………………………………………………………………………………1
+
+     •    Assurances…………………………………………………………………………………………….2
+
+     •    Freedom of Choice……………………………………………………………………………………5
+
+2. Covered Populations ...................................................................................................................7
+
+     •    Eligibility/Special Populations ................................................................................................ 7
+
+3. Eligible Providers ...................................................................................................................... 10
+
+     •    General Provider Qualifications ........................................................................................... 10
+
+     •    Service-Specific Qualifications ............................................................................................ 12
+
+     •    Additional Requirements………………………………………………………………………….. 21
+
+4. Covered Services and Definitions ............................................................................................. 25
+
+     •    Covered Services ................................................................................................................ 25
+
+5. Utilization Management. ............................................................................................................ 36
+
+     •    Prior Authorization ............................................................................................................... 36
+
+6. Reporting/Documentation………………………………………………………………………………37
+
+     •    Cost Reports………………………………………………………………………………………...37
+
+     •    Documentation Requirements…………………………………………….……………………….37
+
+7. Discharge…………………………………………………………………………………………………42
+
+
+                                                                                                                                               i
+PALMETTO COORDINATED SYSTEM OF                                                      SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                                          HEALTH AND HUMAN SERVICES
+
+
+
+
+     •    Reasons for Discharge…………………………………………………………….……….………42
+
+     •    Discharge Protocol…..…………………………………………………………….……….……….42
+
+8. Billing Guidance . ...................................................................................................................... 46
+
+     •    General Billing Guidance………………………………………………………………...…………46
+
+     •    Service-Specific Billing Guidance…………………………………………….……………………46
+
+     •    Billable Codes ………………………………………………………………….……………………47
+
+
+
+
+                                                                                                                                              ii
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+1
+PROGRAM OVERVIEW
+PALMETTO COORDINATED SYSTEM OF CARE
+The State of South Carolina is developing the Palmetto System of Care (PCSC) for South Carolina’s
+children and youth with significant behavioral health challenges or co-occurring conditions in or at
+imminent risk of out-of-home placement. PCSC is an evidenced-based approach that is part of a
+national movement to develop family-driven and youth-guided care, and keep children at home, in
+school, and out of the child welfare and juvenile justice systems. The PCSC goal is for children and
+families to receive services when needed and as indicated by medical necessity, to support safe
+and healthy functioning.
+
+The purpose of this PCSC Waiver Manual is to outline services available under the Waiver, to
+include home and community-based supports and services to children with mental illness who
+would otherwise be served in inpatient general and psychiatric hospitals. Families and youth are
+offered the choice of behavioral health services and supports to permit the youth to remain in, or
+return to, the least restrictive environment preferably their homes.
+
+WAIVER DESCRIPTION
+PCSC services are provided using a system of care approach. There are four regional points of
+entry across the state for all waiver participants. Applicants are evaluated regionally to determine
+eligibility for the waiver. Families and youth who enter the waiver participate in person-centered plan
+development meetings made up of individuals involved with the family and any representatives the
+family chooses to attend. During the meeting, a person-centered plan is developed. The family may
+choose from enrolled qualified providers that are composed of both public and private providers. If
+the family has a provider who they have been working with who is not a qualified Medicaid provider,
+efforts are made to contact the provider to discuss their interest in enrolling. The child and family
+team also known as the service plan development team, meets at least every 90 days to discuss
+treatment progress and any changes that are requested or more often as needed or requested.
+Annual reevaluations are conducted to determine continued eligibility for waiver participation.
+
+ADMINISTRATION
+The PCSC Waiver is operated by South Carolina Continuum of Care (COC) and administered by
+SCDHHS, the state Medicaid Agency. SCDHHS will provide guidance and oversight to participating
+agencies. This ensures compliance with waiver requirements and other rules and regulations under
+the provisions of the approved 1915(c) and of the approved 1915(b)(4) home- and community-
+based waivers.
+
+
+                                                                                                     1
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+COC, a provider of High Fidelity Wrap-around services affords waiver participants and their families
+intensive care coordination, advocacy and support. Intake functions for the waiver are conducted by
+COC staff. COC uses the Child and Adolescent Service Intensity Instrument (CASII) screening tool
+to assess the prospective participant’s intensity of need and eligibility for waiver services. If it is
+determined that a prospective youth is not eligible for the waiver services, COC will refer the
+individual to other appropriate services that can meet their needs. In order to qualify for waiver
+services, the child must meet Medicaid financial eligibility, meet the age requirements for the waiver
+and meet the waiver level of care requirement and high-fidelity wraparound eligibility requirements.
+
+If the CASII assessment indicates that the participant needs waiver services, COC will discuss the
+service options with the family. Families who opt for waiver services can begin receiving services
+once they have signed the Rights and Responsibilities form and the Grievance and Appeals form.
+Samples of the form can be found in the Forms sections of this manual and can be accessed via
+Phoenix. Families seeking waiver services will be assigned a Wrap Facilitator before they are
+eligible to begin receiving services.
+
+ASSURANCES
+SCDHHS and COC must guarantee that waiver services are inclusive of the HCBS assurances.
+
+Waiver Administration and Operations
+As the administrative authority, SCDHHS exercises oversight of the waiver program by monitoring
+the performance of waiver functions performed by other state agencies and contracted entities.
+SCDHHS demonstrates adherence to approved rules, policies and procedures governing the waiver
+program by COC and other contracted entities through documenting:
+
+•   Number of waiver policy changes approved by SCDHHS prior to implementation
+
+Evaluation of Need/Level of Care
+COC Providers assure an initial evaluation (and periodic reevaluations, at least annually) of the
+need for a level of care specified for this waiver, when there is a reasonable indication that an
+individual might need such services in the near future (one month or less) but for the receipt of
+home and community-based services under this waiver. The COC demonstrates implementation of
+approved processes and instruments for evaluating and re-evaluation level of care through
+documenting:
+
+•   Number and percent of youth with initial level of care determinations reviewed that were
+    completed using the process required by the approved waiver
+
+•   Number and percent of applicants referred for LOC assessment with a brief screen indicating
+    applicant could meet inpatient hospital LOC.
+
+Choice of Alternatives
+COC assures that when an individual is determined to be likely to require the level of care specified
+for this waiver and is in a target group the individual (or, legal representative, if applicable) is:
+
+                                                                                                      2
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+
+Informed of any feasible alternatives under the waiver; and, given the choice of either institutional or
+home and community-based waiver services.
+
+
+Waiver Enrollment
+When capacity is available, entry to the waiver is offered to individuals on the date of their
+application for the waiver (first come first served basis). Eligible applicants will be placed on a
+waiting list when capacity is not available. Reserve capacity when available, allows priority
+admission to the waiver for the purpose of diverting youth from institutionalization or serving youth
+leaving institutions. Reserve capacity or “crisis slots” are designated in the Phoenix system.
+
+COC assures the selection of applicants are enrolled in the waiver program in accordance with the
+state’s policies by ensuring applicants are enrolled according to date of eligibility.
+
+
+HCBS Settings Compliance
+SCDHHS and COC assure waiver services are provided in HCBS-compliant settings by
+documenting:
+• Number and percent of participants residing in traditional households meeting home and
+community-based settings at enrollment and annually.
+
+• Number and percent of participants residing in non-traditional settings that meet DSS licensing
+standards as outlined in the approved waiver at enrollment and annually.
+
+
+Service Plan Development
+All waiver participant service plans must meet applicable standards. Enrolled waiver Medicaid
+providers, including COC and respite providers, are responsible for ensuring compliance with the
+following assurances during the service plan development process and throughout service delivery:
+
+•   Number and percent of participants whose person-centered plans address their needs, and
+    personal goals identified during the assessment process.
+
+•   Number and percent of service plans that involved participants and/or responsible parties in the
+    development process during the waiver year.
+
+•   Number and percent of person-centered plans updated every six months.
+
+•   Number and percent of person-centered plans updated as participants needs change.
+
+•   Number and percent of participants who received services and, in the amount, type, frequency
+    and duration as identified in the person-centered plan.
+
+
+
+
+                                                                                                        3
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+Qualified Providers
+Waiver services must be provided by qualified providers. SCDHHS and COC assures licensed and
+non-licensed providers meet and adhere to required standards and are trained in accordance with
+the approved waiver. The following must be documented:
+
+•   Number and percent of new HCBS providers that meet initial and ongoing licensure and/or
+    certification enrollment requirements.
+
+•   Number and percent of enrolled licensed and non-licensed HCBS providers completing annual
+    background/registry check waiver requirements.
+
+•   Number and percent of HCBS providers whose staff meet training requirements.
+
+
+Health, Safety and Welfare
+Providers assure that necessary safeguards have been taken to protect the health and welfare of
+persons receiving services under this waiver. These safeguards include:
+
+•   Assurance that the standards of any state licensure or certification requirements specified in
+    Appendix C (which details provider standards for credentialing) are met for services or for
+    individuals furnishing services that are provided under the waiver. The state assures that these
+    requirements are met on the date that the services are furnished; and,
+
+•   Assurance that all facilities subject to §1616(e) of the Act where home and community-based
+    waiver services are provided comply with the applicable state standards for board and care
+    facilities as specified in Appendix C (which details licensing of facilities).
+
+SCDHHS and COC further monitors participant health and welfare through documenting:
+
+•   Number and percent of new participants or guardians acknowledging receipt of information on
+    how to report abuse, neglect, exploitation and other reportable incidents.
+
+•   Number and percent of suspected cases of abuse, neglect and exploitation where
+    recommended actions to protect health and welfare were implemented.
+
+•   Number and percent of critical incidents reported in required time frame as specified in state
+    policy, aggregated by incident type-abuse, neglect, exploitation, or misappropriation of funds.
+
+•   Number and percent of critical incidents that were monitored by the Critical Incident Specialist
+    (CIS) until appropriate resolution.
+
+•   Number and percent of participants with a critical incident (CI) with a prevention plan due to
+    abuse, neglect, exploitation, (ANE) or misappropriation of funds.
+
+
+
+                                                                                                       4
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+•   Number and percent of participant deaths with a determined need for investigation that were
+    investigated.
+
+•   Number and percent of participants with an identified need for medication administration during
+    the waiver year.
+
+•   Number and percent of instances of restraint, seclusion or other restrictive intervention with a
+    prevention plan developed as a result of the incident.
+
+•   Number and percent of participants in need of medication administration with a resulting
+    medication administration plan during the waiver year.
+
+Financial Accountability
+SCDHHS must demonstrate an adequate system has been developed to ensure financial
+accountability of the waiver program. The following must be documented:
+
+•   Number and percent of claims for authorized waiver services submitted with the correct service
+    code.
+
+•   Number and percent of HCBS claims verified through the claims compliance audit to have paid
+    in accordance with the participant’s waiver plan of care during the waiver year.
+
+•   Percent of claims paid for participants who were eligible for services and when the services
+    were provided by a qualified provider during the waiver year.
+
+•   Number and percent of providers who have payment recouped for waiver services due to a lack
+    of proper supporting documentation during the waiver year.
+
+•   Number and percent of waiver claims submitted with the correct rate as specified in the waiver
+    application.
+
+SCDHHS and COC monitor the waiver assurances via the Phoenix system to guarantee they are
+being met. Providers who are not in compliance may not receive reimbursement for services.
+
+FREEDOM OF CHOICE
+Freedom of choice, for waiver participants, means that an individual can choose to receive home
+and community-based services, rather than receiving services in an inpatient hospital or other out-
+of-home placement. Waiver participants can also choose to make informed decisions regarding staff
+and provider changes, when they are no longer satisfied with the supports and services they are
+receiving.
+
+Eligible Medicaid beneficiaries who are enrolled in the waiver services, and who meet the level of
+care for the waiver, have the right to choose regarding the environment in which services are
+delivered, as well as a choice of who delivers the services. Eligible Medicaid beneficiaries, who will
+be enrolled in the PCSC Waiver, are informed about South Carolina’s service options. This allows
+
+                                                                                                         5
+PALMETTO COORDINATED SYSTEM OF                             SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                              HEALTH AND HUMAN SERVICES
+
+
+
+
+them to make an informed decision about how they want their services delivered. Waiver
+participants have the right to discontinue waiver services at any time, and for any reason. There are
+no restrictions on how often a family can change providers. When a family requests a change in a
+waiver service provider, the request will be processed by COC. At the time of the request, the COC
+will be available to discuss the repercussions of changing providers; for example, the impact that a
+provider change might have on the treatment that the participant receives. Families will never be
+discouraged from changing providers; however, efforts will be made to resolve any issues or
+concerns between the family and the current provider.
+
+If a family determines that they would like to discharge from the waiver, or change providers, they
+should communicate their preference to their COC Wrap Facilitator. If the COC Wrap Facilitator fails
+to complete the task or is not otherwise available, the family can communicate with SCDHHS.
+
+The 1915(b)(4) waiver allows South Carolina to selectively contract with the South Carolina
+Continuum of Care for High Fidelity Wraparound services approved under the concurrent 1915(c)
+HCBS waiver and provides a waiver of section 1902(a)(23) related to freedom of choice. As a result,
+waiver participants will receive High Fidelity Wraparound services from the South Carolina
+Continuum of Care.
+
+When identified on the person-centered plan of care, waiver participants will be able to choose from
+among qualified respite providers.
+
+A sample of the Freedom of Choice form can be accessed via Phoenix.
+
+
+
+
+                                                                                                    6
+PALMETTO COORDINATED SYSTEM OF                                SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                 HEALTH AND HUMAN SERVICES
+
+
+
+
+2
+COVERED POPULATIONS
+ELIGIBILITY/SPECIAL POPULATIONS
+Eligibility for Services
+Targeting and Clinical Criteria
+COC staff will determine that the applicant meets the clinical and targeting criteria for the waiver.
+
+If the individual meets the following criteria, they may receive PCSC Waiver services.
+
+Medicaid-eligible individuals must meet the following clinical eligibility to be considered:
+
+•   Age: A youth must be up to 21 years old.
+
+•   Diagnosis: a primary mental health diagnosis meeting the targeting criteria
+
+• Functional Assessment: All youth on the waiver must meet minimum scores for the hospital level
+of care as determined by the Child and Adolescent Service Intensity Instrument (CASII).
+
+A clinical redetermination occurs annually.
+
+Financial Eligibility
+If a youth is not already eligible for Medicaid, a financial eligibility determination for Medicaid is
+completed by SCDHHS following the level of care determination. A financial redetermination occurs
+annually.
+
+Applicants who meet all eligibility requirements will be approved by the SCDHHS for enrollment
+and participation in PCSC Waiver services.
+
+Grievances and Appeals
+Grievance
+A grievance is an official complaint and may include dissatisfaction with a provider, a service or how
+the waiver functions. SCDHHS is responsible for operating the grievance system for the PCSC
+waiver. All complaints must be submitted in writing. If the written statement is received by the Wrap
+Facilitator a supervisor will investigate and schedule a meeting to address the complaint. When the
+written statement is received by SCDHHS, waiver staff will investigate and schedule a meeting to
+address the concerns.
+
+When the complaint is resolved during a meeting, a written statement of resolution is documented in
+the participant record. Unsatisfactory decisions may be appealed by writing to the SCDHHS Waiver
+Director. SCDHHS must issue a written decision within 10 days of receiving the complaint.
+
+
+                                                                                                        7
+PALMETTO COORDINATED SYSTEM OF                             SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                              HEALTH AND HUMAN SERVICES
+
+
+
+
+Appeals
+The purpose of an appeal is to provide a person an opportunity to question an adverse action or
+determination of a final agency decision. Examples of adverse actions include termination,
+suspension or reduction of waiver or Medicaid state plan services on participant’s plan of care.
+Examples of adverse determinations include denial of entry into the waiver. A final agency decision
+is the completion of the decision-making process.
+
+Appeals can be requested if:
+
+•   An applicant is not given the choice of home and community-based services as an alternative to
+    institutional care;
+•   A participant is denied a service or provider of choice (when available); or
+•   A participant has services denied, suspended, reduced or terminated.
+
+To expedite the process, appeals should include the following:
+
+•   A copy of the notification of denial received from SCDHHS regarding the specific matter on
+    appeal;
+•   A specific statement identifying which issue is being appealed; and
+•   A description of how the family member or applicant/participant will receive status updates on
+    the appeal request.
+
+To avoid interruption of waiver services, an appeal must be submitted within 10 calendar days of the
+date the written notification of the adverse decision or determination was mailed. If the appeal is
+denied, the family member or participant may be required to pay for services during the appeal
+period. Otherwise, an appeal must be submitted within 30 calendar days from the date the
+notification was mailed.
+
+Appeals can be submitted in three ways.
+
+•   Online at:
+
+           https://msp.scdhhs.gov/appeals/site-page/file-appeal
+
+•   Mailed to:
+
+           Division of Appeals and Hearings
+           SC Department of Health and Human Services
+           PO Box 8206
+           Columbia, SC 29202-8206
+
+•   Faxed to:
+
+           (803)-255-8206
+
+
+
+                                                                                                     8
+PALMETTO COORDINATED SYSTEM OF                          SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                           HEALTH AND HUMAN SERVICES
+
+
+
+
+Concerns and complaints regarding services being provided to children by a state agency can be
+submitted to South Carolina Department of Children’s Advocacy (DCA) at:
+https://childadvocate.sc.gov/submit-complaint
+
+
+
+
+                                                                                                 9
+PALMETTO COORDINATED SYSTEM OF                                SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                 HEALTH AND HUMAN SERVICES
+
+
+
+
+3
+ELIGIBLE PROVIDERS
+GENERAL PROVIDER QUALIFICATIONS
+Enrollment
+Providers must comply with provider enrollment policies to continue as qualified waiver providers.
+The provider enrollment policy requires revalidation for Medicaid providers. In addition, all current
+providers must meet the provider enrollment standards at the time of revalidation. Each provider
+must:
+
+•   Identify their interest in being a PCSC Waiver provider
+
+•   Meet the standard provider enrollment requirements
+
+•   Meet the supplemental PCSC Waiver enrollment requirements
+
+•   Complete enrollment as a PCSC Waiver provider
+
+Organizations who successfully meet all enrollment criteria established by the Medicaid program,
+and who are designated as qualified providers, must determine which of the following PCSC Waiver
+services they can deliver. The following services, which are provided under the waiver, must be in
+accordance with this policy manual:
+
+•   High Fidelity Wraparound
+
+•   Respite care
+
+Enrollment in the South Carolina Medicaid program does not provide a guarantee of referrals or a
+certain funding level. Additionally, enrollment in SC Medicaid does not guarantee selection as a
+PCSC Waiver provider. Failure to comply with all Medicaid policy requirements may result in
+termination of Medicaid enrollment.
+
+As a condition of Medicaid program participation, providers must ensure that adequate and
+correct fiscal and medical records are kept. Such disclosures will indicate the extent of
+services rendered and will also ensure that claims for funds are in accordance with all
+applicable laws, regulations, and policies.
+
+All delivered services and claim submissions shall be in compliance with applicable federal
+and state laws and regulations, SCDHHS policies and procedures, and Medicaid provider
+manuals.
+
+
+
+
+                                                                                                        10
+PALMETTO COORDINATED SYSTEM OF                                SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                 HEALTH AND HUMAN SERVICES
+
+
+
+
+Reporting Changes
+Changes affecting business operations must be reported, in writing, to the Medicaid Provider
+Service Center, as soon as possible. Certain changes may impact your status as a Medicaid
+provider. The following changes must be reported, on company letterhead, by the director/Chief
+Executive Officer (CEO):
+
+•   Physical addresses, e-mail addresses, or telephone numbers for the business office
+
+•   Change of location, or adding a location
+
+•   Director or CEO
+
+•   Clinical Director
+
+•   Staff licensure
+
+•   Business licenses
+
+•   Accreditation status
+
+•   Change in ownership
+
+•   South Carolina Department of Health and Environmental Control (SCDHEC) Residential Facility
+    licensure
+
+•   DSS licensure (as applicable, e.g., Foster Care Respite providers)
+
+•   New hires
+
+•   Other changes, which affects compliance with Medicaid requirements
+
+Exceptional circumstances may require that a new Enrollment Application for the PCSC Waiver be
+completed prior to approval.
+
+Closure of a PCSC Waiver Provider
+In the event the provider is no longer operational and closes for business, the provider will adhere to
+all applicable federal and state laws, rules, and regulations, including but not limited to, the following
+requirements:
+
+1. If the provider voluntarily terminates his or her agreement with Medicaid, a written notification
+   must be received by SCDHHS and other appropriate agencies within 30-days of closing the
+   facility. The notification shall include the location where the beneficiary and administrative
+   records will be stored.
+
+2. If the provider is terminated, involuntarily, by Medicaid, the provider is responsible for all
+   beneficiary and administrative records, in the event of a post-payment review.
+                                                                                                       11
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+The owner(s) of the PCSC Waiver business entity provider is responsible for retaining administrative
+and beneficiary records for three years.
+
+Quality Improvement
+PCSC Waiver providers must self-monitor their adherence to waiver policies, rules, regulations, and
+laws, to ensure they are in compliance. At a minimum, SCDHHS will conduct annual administrative
+reviews as needed to ensure that providers are in compliance with Medicaid policies, state and
+federal laws, and requirements for the waiver. Other authoritative entities will conduct quality
+reviews of PCSC Waiver providers, as needed.
+
+All PCSC Waiver providers must maintain and make available upon request, appropriate records
+and documentation of such requirements, qualifications, trainings, and investigations. Providers are
+given five business days to retrieve the records for those authoritative agencies who have requested
+the documents. All providers of PCSC Waiver services shall maintain a file that ensures that each
+staff member meets the qualifications of the job that they perform. In addition, the service providers
+must submit a list of all staff (containing names, signatures, and initials) that administer waiver
+services. Additionally, copies of all staff credentials and degrees conferred are necessary.
+
+Any services that are provided by staff who do not meet SCDHHS staff qualification requirements
+are subject to recoupment.
+
+SERVICE-SPECIFIC QUALIFICATIONS
+Specific staff requirements are detailed below. However, all providers must be on the Medicaid
+Qualified Provider List.
+
+High Fidelity Wraparound Staff
+SCDHHS will contract solely with the COC to perform the HFW service. Originally established in
+1983 by the South Carolina General Assembly, the COC for Emotionally Disturbed Children now the
+COC, is a South Carolina state program that serves children with serious emotional or behavioral
+health diagnoses whose families need help keeping them in their home, school or community. The
+COC implemented the wraparound model in 2014 and is the only provider of HFW in the state of
+South Carolina.
+
+COC must ensure on-going training of all child and family team members either through contract
+with national bodies or by employing nationally certified trainers and must ensure that all child and
+family team members meet all conflict of interest requirements in the HCBS regulation.
+
+More specifically, the CMS rule (42 CFR § 441.301(c)(1)) requires that HCBS programs use a
+person-centered planning process which includes ways to solve conflict or disagreement and that
+the guidelines around conflict of interest are clear to everyone involved in the planning process. The
+rule also requires that providers of HCBS, or those who have an interest in or are employed by a
+provider of HCBS, may not provide case management to or develop the person-centered service
+plan for people receiving services.
+
+Individuals enrolled in the PCSC Waiver must be provided with a clear and accessible way to solve
+any issues.
+
+                                                                                                    12
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+The wraparound facilitator, wraparound team lead, or wraparound coach/supervisor must be
+credentialed or in the process of being credentialed by a national accrediting body as meeting the
+standards of High Fidelity Wraparound and demonstrate continued use of evidenced-based
+wraparound standards as verified by SCDHHS through COC’s ongoing participation in wraparound
+fidelity monitoring.
+
+The wraparound facilitator must meet the following:
+
+•   A bachelor’s degree in a human service or social service-related field.
+
+•   One year of experience with children with serious emotional or behavioral health challenges.
+
+•   Completion of the required training for evidenced-based, high fidelity wraparound process for
+    wraparound facilitators.
+
+•   Pass a South Carolina criminal history background check, child abuse and neglect screen,
+    motor vehicle screens and excluded provider screen.
+
+The wraparound team lead must meet the following minimum requirements:
+
+•   Must have professional experience in human services or social services program.
+
+•   A bachelor’s degree in a human service or social sciences related field.
+
+•   At least 3 years of experience with children with serious emotional and behavioral health
+    challenges.
+
+•   Experience in provision of High Fidelity Wraparound and maintain agency standards as a
+    regional mentor.
+
+•   Completion of the required training for evidence-based, High Fidelity Wraparound process for
+    wraparound facilitators.
+
+
+
+•   Pass a South Carolina criminal history background check, child abuse and neglect screen,
+    motor vehicle screens, and excluded provider screen.
+
+The wraparound coach/supervisor must meet the following minimum requirements:
+
+•   Professional experience in human services or social services programs, a master’s degree in a
+    human service or social sciences related field.
+
+•   Must have 2 years of case management experience and experience with children with complex
+    emotional or behavioral health challenges.
+
+
+                                                                                                    13
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+•   Requires a minimum of one year of supervisory experience. Must be licensed and in good
+    standing as a LMSW, LPC, LISW-CP, or LMFT in South Carolina.
+
+•   Obtain certification as a State Wraparound coach within an established time frame and remain
+    in good standing with National Wraparound requirements and the South Carolina Department of
+    Labor Licensing and Regulation.
+
+•   If the coach/supervisor also functions, in part, as a wraparound facilitator, they must also meet
+    the requirements for a wraparound facilitator described above.
+
+•   The wraparound facilitator supervisor must provide regular supervision to wraparound facilitation
+    service delivery staff, including completion of all supervisor requirements for wraparound fidelity
+    monitoring.
+
+. • The wraparound facilitator supervisor must have good interpersonal skills for supporting
+     development in others. The supervisor must collaborate closely with other supervisors in other
+     child-serving agencies in the community.
+
+•   A wraparound supervisor should demonstrate skills that support engaging people from different
+    cultures, ages and backgrounds. A preferred supervisor characteristic is an understanding of,
+    and experience with, different systems, including schools, behavioral health, child welfare,
+    juvenile justice, health and others. The wraparound facilitator supervisor must oversee the work
+    of the wraparound facilitation service delivery staff on an ongoing basis.
+
+All Wraparound services will be provided via COC and certification is required.
+
+Respite Agencies/Providers
+Respite care includes services provided on a short-term, planned or emergency basis, and offers
+relief to a beneficiary's unpaid caregiver who is unable to provide services to the participant. This
+service will be provided to meet the participant needs, as per the person-centered plan.
+Beneficiaries are encouraged to receive respite in the most integrated and cost-effective settings.
+
+Respite may be not be provided by any person who is a legal guardian or acting in the place of a
+legal guardian for the youth. A person with informal responsibility for the care of the youth such as a
+neighbor, friend, or extended family member may register with any of the provider types listed
+below. They must meet the provider's qualifications for employment, become an employee of the
+provider, and provide respite services for the youth. Respite may not be provided by any spouse or
+domestic partner of any person who is a legal guardian or acting in the place of a legal guardian for
+the youth.
+
+Home Health Agencies
+The Home Health Agency must maintain certification and licensure as required by the state in which
+it is located. The agency must also:
+
+
+
+
+                                                                                                        14
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+•   Comply with SCDHHS standards, including regulations, policies and procedures relating to
+    provider qualifications and enrollment.
+
+•   Complete and ensure employees complete SCDHHS required training, including training on the
+    youth’s person-centered plan and the youth’s unique and/or disability specific needs, which may
+    include, but is not limited to, communication, mobility, and behavioral needs.
+
+Individuals employed by the agency must:
+
+•   Be at least 18 years of age.
+
+•   Pass a South Carolina criminal history background check, child abuse and neglect screen,
+    motor vehicle screen, and excluded provider screen.
+
+•   In the case of direct care personnel, possess certification through successful completion of
+    training program as required by the SCDHHS.
+
+Supportive Housing Agencies
+The Supportive Housing Agency must maintain certification as required by the state in which it is
+located. The agency must maintain staffing necessary for the health and welfare of the transition
+age youth. The agency must also:
+
+•   Comply with SCDHHS standards, including regulations, policies and procedures relating to
+    provider qualifications and enrollment.
+
+•   Complete and ensure employees complete SCDHHS required training, including training on the
+    youth’s person-centered plan and the youth’s unique and/or disability specific needs, which may
+    include, but is not limited to, communication, mobility, and behavioral needs.
+
+•   Document three years of experience in providing services to persons with SED or SPMI.
+
+•   Comply with and meet all standards as applied through each phase of the standard, annual
+    SCDHHS performed monitoring process.
+
+•   Ensure 24-hour access to personnel (via direct employees or a contract) for response to
+    emergency situations that are related to the residential supports or other waiver services.
+
+Employees of the agency must:
+
+•   Be at least 18 years old and have a high school diploma or equivalent.
+
+•   Pass a South Carolina criminal history background check, child abuse and neglect screen,
+    motor vehicle screen, and excluded provider screen
+
+
+
+
+                                                                                                    15
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+
+•   In the case of direct care personnel, possess certification through successful completion of
+    training program as required by the SCDHHS. If providing nursing care, must have qualifications
+    required under State Nurse Practice Act (i.e., RN or LPN).
+
+•   Have a valid driver’s license if the operation of a vehicle is necessary to provide the service.
+
+All supervised housing staff must complete the following training:
+
+•   CPR
+
+•   First Aid
+
+•   Introduction to Community-Based Residential Services for Direct Care Staff
+
+•   Air and Blood Borne Pathogens
+
+•   Non-Physical Crisis De-Escalation, Crisis Management and Debriefing
+
+•   Proper Techniques to address Challenging Behavior and Proper Contingency Management
+
+•   Rights and Responsibilities of Individuals receiving Mental Health services
+
+•   Cultural Competence and Diversity
+
+•   Prevention/Intervention and Recovery/Resiliency Strategies
+
+•   Behavioral Health/SUDs and Associated Medical Care and Conditions
+
+•   HIPAA and Confidentiality
+
+•   Applied Suicide Intervention Skills
+
+•   Environmental Emergencies: Mitigation, Preparation, and Responding
+
+•   Basic Health and Medications
+
+•   Assessing mobile crisis need
+
+Public or Private Child Service Entities
+Public or private child services entities must maintain certification from the South Carolina
+Department of Social Services (SCDSS). Entities must also:
+
+•   Comply with SCDHHS standards, including regulations, policies and procedures relating to
+    provider qualifications and enrollment
+
+
+
+
+                                                                                                       16
+PALMETTO COORDINATED SYSTEM OF                             SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                              HEALTH AND HUMAN SERVICES
+
+
+
+
+•   Complete and ensure employees complete SCDHHS required training, including training on the
+    youth’s person-centered plan and the youth’s unique and/or specific needs based on ability
+    status, which may include, but is not limited to, communication, mobility, and behavioral needs
+
+•   Be in good standing per State Medicaid regulations. The foster home parents and agency staff
+    must be licensed and/or credentialed per State Medicaid policy.
+
+•   Ensure that all employees participate in required annual training per waiver and State Medicaid
+    policy
+
+Individuals employed by the entity must:
+
+•   Be at least 21 years of age.
+
+•   Pass a South Carolina criminal history background check, child abuse and neglect screen,
+    motor vehicle screen, and excluded provider screen.
+
+•   In the case of direct care personnel, possess certification through successful completion of
+    training program as required by the SCDHHS.
+
+Supervisors of Respite staff who provide services in the youth’s home must ensure that all
+employees participate in all required training. Supervisors of Respite staff must meet one of
+the following requirements:
+
+•   A registered nurse licensed to practice in South Carolina and have at least three years of
+    experience performing clinical or case work activities or
+
+•   Have met one of the supervisor criteria listed below for in-home services
+
+•   Adhere to the guidelines as stipulated by respective credentialing bodies/boards
+
+Respite provided in the youth’s home
+An individual who provides respite services in the participant's home must be employed through an
+enrolled respite provider and successfully complete all required training. They must meet the
+following requirements:
+
+•   Be at least twenty-one years of age or older;
+
+•   Have knowledge of the needs of children and be capable of meeting the needs of youth in the
+    waiver;
+
+•   Be capable of handling an emergency situation;
+
+•   Respite staff must take a minimum of fourteen (14) hours of appropriate Respite care training
+    and expected standards of care;
+
+                                                                                                    17
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+
+•   A minimum of three written letters of reference shall be initially obtained prior to the Respite
+    worker providing respite services to a youth in the youth’s home. References should have
+    known the applicants three years prior to the application and, unless specifically requested,
+    should not be related to the applicants.
+
+SUD Residential Facilities
+SUD residential facilities must be licensed by SCDHEC. They must also hold a certification by
+DAODAS as either a SUD residential or detoxification program and be authorized to provide a
+specified number of licensed beds.
+
+Non-Institutions of Mental Disease (IMD) Group Homes
+Non-IMD group homes must maintain a staffing ratio necessary to keep youth safe, as stipulated by
+SCDHEC. An adult staff member must be awake and present at all times in the facility. If cameras
+are used, the staff must monitor the cameras and be within walking distance of the youth.
+
+Group homes must have the availability of a clinician who is on call 24/7 for emergencies and staff
+consultation. The clinician must hold a doctoral or master's degree in clinical or counseling
+psychology, mental health nursing, clinical social work, vocational/psychiatric rehabilitation or
+education from an accredited college or university; or a registered nurse with certification in mental
+health nursing from the American Nurses Association. The home will also have access to a
+physician after hours for emergencies.
+
+Group homes must employ a Residence Manager. The Residence Manager is responsible for the
+operation of the group home and responsible for the supervision of residents' treatment plans. The
+qualifications of the Residence Manager must be at least a Bachelor’s degree.
+
+Group homes also employ Residential Service Assistants who are individuals with a high school
+diploma, GED, or CNA.
+
+The service provider shall maintain a current personnel policies and procedures manual that sets
+forth grounds for termination, adequately supports sound resident care and is made readily
+available to the program's staff in each home. The service provider shall comply with the provisions
+of such manual.
+
+•   Training in risk assessment of dangerousness and interventions aimed at reducing such risk,
+    including training in managing difficult behaviors, in the implementation of de-escalation
+    techniques, and in self-defense techniques to prevent harm from violent behaviors Note:
+    Training in the use of alternatives to seclusion and restraint is required
+
+•   A complete course in medications used in the treatment of mental illness including the
+    medications' effects, side effects, and adverse effects (sometimes life threatening) used alone or
+    in combination with other prescription and non-prescription medication and alcoholic or
+    caffeinated beverages
+
+
+                                                                                                       18
+PALMETTO COORDINATED SYSTEM OF                                SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                 HEALTH AND HUMAN SERVICES
+
+
+
+
+•   Training in the common types of mental illness including signs and symptoms of schizophrenia,
+    mood and personality disorders and indications of deterioration of an individual's mental
+    condition
+
+•   Training in basic first aid, including basic CPR training and fire safety and evacuation
+    procedures
+
+•   An explanation of the rights of youth with psychiatric disabilities in residential care in South
+    Carolina
+
+•   Expectations for confidentiality and ethical behavior towards residents who will reside in the
+    group home;
+
+•   Policies and procedures that apply to a group home on both a daily and emergency basis
+
+•   Health care, sanitation, and safe handling of food
+
+•   Orientation to situational counseling, de-escalation and mediation techniques, stress
+    management and social interaction, and
+
+•   A plan for the continuing education and development of staff including but not limited to: A
+    protocol and training for all direct care staff on the medication protocols in place for the home
+    (i.e., a nurse or pharmacy sets up the medication and the medications are in daily packages in a
+    locked cabinet. The staff’s role is to make sure the right medications are taken at the right time
+    by observing the youth, but not to “administer” them. A nurse verifies that the medications are
+    taken daily.)
+
+•   Training for all direct care staff on any side effects of medications given to house residents, to
+    promote monitoring for symptoms that reflect the need for some intervention.
+
+•   Training on basic physical health and symptoms to monitor for when a youth is in a residential
+    program.
+
+All service providers shall comply with criminal background check and drug testing laws.
+
+Rehabilitative Behavioral Health Services (RBHS) Providers
+RBHS providers must be enrolled with SCDHHS as RBHS providers. Additionally, they must meet
+requirements for any licensure/certification and appropriate standards of conduct by means of
+evaluation, education, examination, and disciplinary action regarding the laws and standards of their
+profession as promulgated by the South Carolina Code of Laws and established and enforced by
+the South Carolina Department of Labor Licensing and Regulation.
+
+The presence of licensure/certification means the established licensing board in accordance with
+SC Code of Laws has granted the authorization to practice in the state. Licensed professionals must
+
+
+                                                                                                         19
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+
+maintain a current license and/or certification from the appropriate authority to practice in the State
+of South Carolina and must be operating within their scope of practice.
+
+The following professionals possessing the required education and experience are considered
+clinical professionals/paraprofessionals and may provide Medicaid RBHS in accordance with South
+Carolina State Law as long as they are enrolled with the SCDHHS as RBHS providers:
+
+•   Licensed Psychologist
+
+•   Licensed Independent Social Worker, Clinical Practice
+
+•   Licensed Professional Counselor
+
+•   Licensed Master of Social Work
+
+•   Licensed Addiction Counselor
+
+•   Licensed Bachelor of Social Work
+
+•   Registered Nurse
+
+•   Licensed Practical Nurse
+
+•   Substance Abuse Specialist
+
+•   Mental Health Specialist
+
+•   Child Service Professional
+
+•   Behavior Analyst (Bachelor’s level)
+
+Rehabilitative behavioral health services provided by licensed/certified professionals must follow
+supervision requirements as required by SC State Law for each respective profession.
+Rehabilitative behavioral health services provided by any unlicensed/uncertified professional must
+be supervised by a master’s level clinical professional or licensed practitioner of the healing arts
+(LPHA). Substance Abuse Professionals who are in the process of becoming credentialed must be
+supervised by a Certified Substance Abuse Professional or LPHA.
+
+The following licensed professionals are considered a LPHA: psychiatrist, physician, psychologist,
+physician’s assistant, advanced practice registered nurse, registered nurse with a Master’s degree
+in psychiatric nursing, licensed independent social worker -clinical practice, licensed master social
+worker, licensed marriage and family therapist and licensed professional counselor.
+
+NOTE: All respite provider types re-verify annually unless a critical incident occurs, at which time a
+re-verification is required, as specified by SCDHHS.
+
+
+                                                                                                      20
+PALMETTO COORDINATED SYSTEM OF                                 SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                  HEALTH AND HUMAN SERVICES
+
+
+
+
+Respite service provided in a certified residential care facility, Substance Use Disorder residential
+facility or Public or Private Child Service Entity is not utilized to replace or relocate a youth’s primary
+residence. Room and board in Community Residential Group Home or Substance Use Disorder
+residential facility may be paid for by Medicaid for respite service only. In overnight settings of
+greater than 4 residents, between the hours of 7 am to 8 pm there shall be a minimum of one staff
+person on site for every five youth. Between the hours of 8 pm to 7 am there shall be a minimum of
+one staff person for every seven youth. At least one staff member must provide 24-hour awake
+supervision. The term “24 hour awake supervision” means that, during sleeping hours, a staff
+member is located in a position which allows him or her to observe any movement into or out of a
+youth’s bedroom. On call staff must be available for emergencies and immediately accessible. The
+director or a designee shall be available at all times by cell phone.
+
+ADDITIONAL REQUIREMENTS
+Training
+Providers are responsible for ensuring that all staff are appropriately trained to provide waiver
+services. Providers are responsible for the development and provision of training to their staff when
+alternative training is not available. Training records must indicate the name of the training course,
+the instructor’s name, the training agency, the date of training, and the signature sheet or signed
+attestation for those in attendance. (Signatures must be legible.)
+
+The following training must be administered to all staff who are responsible for delivering waiver
+services:
+
+•   Pre-service Orientation: Each staff member must sign an attestation indicating that they have
+    been trained on the PCSC Waiver policy and document, understand the youth’s person-
+    centered plan of care, and the youth’s unique or specific disability needs within the first 30 days
+    of their employment. Staff should not have unsupervised contact with waiver participants until
+    this training is completed.
+
+•   Refresher Training: This course is offered by SCDHHS and covers the waiver and policy and
+    must be offered on an annual basis and/or in a time frame as dictated by CMS. Wraparound
+    facilitators employed by COC at the time of waiver implementation will need to be trained within
+    six months while those hired post-implementation must complete this training prior to seeing
+    individuals. Signed attestations or training sign-in sheets must be kept as documentation of staff
+    participation.
+
+•   Job Specific Training: COC will review the roles and responsibilities of a staff person’s position
+    prior to unsupervised contact with waiver participants. See the Service-Specific Qualifications of
+    this section for information regarding job specific training requirements.
+
+•   Other Required Training: If there have been any substantial changes made to the waiver by
+    SCDHHS or CMS, additional training will be required, as needed. The COC waiver point of
+    contact or their designee will be notified if additional training is needed. Staff members are
+    required to complete additional training only in their respective role(s) if the changes or quality
+    issues impact their specific job function(s). Documentation should indicate that the information
+                                                                                                        21
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+    presented in the required trainings was shared with those staff members who provide waiver
+    services.
+
+•   Abuse and Neglect Training: This course will be offered by SCDHHS virtually or via material
+    handouts and focuses on mandated reporter requirements, critical incidents, and requirements
+    for reporting abuse/neglect and critical incidents.
+
+Note: These requirements apply to all staff. Clinicians providing these services must meet
+requirements to maintain their licensure. Please see the Covered Services and Definitions section
+of this manual for more information about training requirements.
+
+The following training must be completed by all staff who are responsible for administering CASII
+Assessments:
+
+•   CASII Training: This course teaches qualified bachelor’s level and Licensed Practitioners of the
+    Healing Arts, master’s level clinicians, and intake workers how to conduct the CASII
+    Assessment and determine the level of care needed by waiver participants. CASII assessors
+    must complete training as verified by SCDHHS through training rosters before administering the
+    CASII assessment to waiver participants.
+
+Screening
+The following screenings for all staff must be completed by the providers. These records must be
+completed upon the start of employment, and prior to unsupervised contact with the waiver
+participants. In addition, the following records must be verified, annually. This includes staff,
+volunteers, interns, and other individuals who are under the authority of providers who engage with
+PCSC Waiver participants.
+
+•   Criminal Record Check
+
+    -   Must be from an appropriate law enforcement agency
+
+•   Verification Child Abuse Registry Verification
+
+    -   Results must indicate no findings against an individual
+
+•   State and National Sex Offender Registries and the Child Abuse Registry
+
+    -   Results must indicate no findings or criminal charges against an individual
+
+Documentation
+Providers must have a file for each staff member, volunteer, intern, and other individuals who are
+under the authority of the provider, and who engage with PCSC waiver participants. This file must
+include sufficient documentation of all training, screening, and credentialing requirements, as it
+pertains to the individual’s job. Providers must comply with all other applicable state and federal
+
+
+                                                                                                      22
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+
+requirements. Specific training requirements for each service type can be found in the section
+describing that service.
+
+Limited English Proficiency
+SCDHHS assures that it provides meaningful access to waiver services by Limited English
+Proficient persons in accordance with: (a) Presidential Executive Order 13166 of August 11, 2000
+(65 FR 50121) and (b) Department of Health and Human Services "Guidance to Federal Financial
+Assistance Recipients Regarding Title VI Prohibition Against National Origin Discrimination Affecting
+Limited English Proficient Persons" (68 FR 47311 - August 8, 2003).
+
+The waiver intake process ensures that the language needs of participants are assessed; and when
+appropriate, interpreter services will be provided. All waiver service providers must have a protocol
+system in place that allows access to services for persons with limited English proficiency.
+Designated staff, within the provider agencies, will be responsible for assuring compliance and
+access to services for persons with limited English proficiency.
+
+The providers will be responsible for notifying SCDHHS of any discrimination complaints that are
+filed due to limited English proficiency and for submitting complaints to the Office of the Deputy
+Children’s Advocate. Providers are responsible for maintaining records, documenting any filed
+complaints, resolving complaints, and documenting complaint resolutions. These records will be
+reviewed by SCDHHS, as part of the overall quality assurance process.
+
+The provider agency can request assistance from SCDHHS, who will assist them in identifying
+resources, when/if necessary. SCDHHS requires that each provider agency be in compliance with
+Title VI of the Civil Rights Act of 1964 and CFR title 45 part 80. Providers must establish a grievance
+procedure to assure that everyone is given a fair and timely review of all complaints that allege
+discrimination. Prior to enrollment approval, all providers must agree, in writing, to the "Assurance of
+Compliance" statement. The SCDHHS Civil Rights Division must be notified of any complaints.
+
+Emergency Safety Intervention (ESI)
+The Emergency Safety Intervention (ESI) policy applies to any community-based provider that has
+policies prohibiting the use of seclusion and restraint, but who may have an emergency situation
+requiring staff intervention. Providers must have a written policy and procedure for emergency
+situations and must ensure that direct care staff are prepared and trained in the event of an
+emergency. If the provider intends to use restraint and/or seclusion, the provider is responsible for
+adhering to the following requirements:
+
+•   Providers must ensure that all staff involved in the direct care of a beneficiary successfully
+    complete a training program from a certified trainer in the use of restraints and seclusion. This
+    must be accomplished prior to ordering or participating in any form of restraint.
+
+•   Training should be aimed at minimizing the use of such measures, as well as ensuring the
+    beneficiary’s safety. For more information on selecting training models, visit
+    http://www.frcdsn.org/rest.html to view the Project Rest Manual of Recommended Practice.
+
+                                                                                                        23
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+
+•   Providers must have a comprehensive written policy that governs the circumstances in which
+    seclusion and restraint are being used. This policy must adhere to all state licensing laws and
+    regulations (including all reporting requirements).
+
+Failure to have these policies and staff trainings in place, at the time services are rendered, will
+result in termination from the Medicaid program, and possible recovery of payments.
+
+Critical Incidents
+The State does not permit or prohibit the use of seclusion. Please see below the guidelines as
+specified by each State Agency:
+
+1. Department of Social Services (DSS) - conducts yearly licensure reviews.
+
+2. DSS; Out of Home Abuse and Neglect Division (OHAN) - investigates reports of any abuse or
+   neglect by licensed facilities. Such reports can be made anonymously.
+
+3. Referring State Agencies – All child serving state agencies are required to monitor and follow-up
+   at least monthly, with each child they have placed in a licensed facility. Licensed facilities are
+   required to file a Critical Incident (CI) report to the referring state agency within 24 hours from
+   the time of the incident. CIs include any emergency safety intervention.
+
+SCDHHS Quality Reviews are conducted annually or as needed. Reviews of respite provided in
+Therapeutic Foster Care homes will include a review of any use of seclusion reported to be used for
+children while participating in PCSC Waiver Respite.
+
+
+
+
+                                                                                                       24
+PALMETTO COORDINATED SYSTEM OF                                 SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                  HEALTH AND HUMAN SERVICES
+
+
+
+
+4
+COVERED SERVICES AND DEFINITIONS
+COVERED SERVICES
+Level of Care Evaluation
+All waiver participants must be evaluated for Level of Care by a person who has successfully
+completed CASII training and meets the requirements of a Licensed Practitioner of the Healing Arts
+(LPHA) or a bachelor’s level wraparound facilitator who is certified by SCDHHS as meeting high-
+fidelity wraparound standards.
+
+Level of care is established at initial referral and annually thereafter.
+
+Initial evaluation
+The Child and Adolescent Service Intensity Instrument (CASII) is used to establish the participant’s
+Level of Care.
+
+The CASII is completed during the eligibility determination phase after a referral is received via an
+interview with the youth (and parent(s) when possible) and additional supporting information. The
+CASII takes into consideration child development and the importance of the parents and the
+community in supporting the child. It is used to determine the intensity of needed services. A youth
+is considered to meet the hospital facility level of care if the youth would be in need of a hospital
+placement but for the continued receipt of waiver services.
+
+The CASII has six dimensions: Risk of Harm, Functional Status, Co-Morbidity, Recovery
+Environment, Resiliency and Treatment History, and Acceptance and Engagement. Each dimension
+has a five-point rating scale. For each of the five possible ratings within each dimension, a set of
+criteria is clearly defined. Only one criterion needs to be met for that rating to be selected.
+
+The CASII hospital level of care determination is set at the same levels as the South Carolina
+hospital level of care. This results in determinations that are comparable to the SCDHHS hospital
+certification level of care criteria.
+
+Re-evaluation of Level of Care
+In addition to input from the youth and family, the evaluator will consider information gathered from
+supporting documentation in the youth’s record. At least every 12 months, or more frequently if
+necessary due to a significant change in the youth's condition or needs, a youth's level of care must
+be reevaluated for continued participation in the program.
+
+A youth is considered to meet the hospital facility level of care if the youth would be in need of a
+hospital placement but for the continued receipt of waiver services. The reevaluation also takes into
+account clinical evidence of therapeutic clinical goals that must be met before the individual can
+transition to a less intensive level of care and clinical evidence of symptom improvement.
+                                                                                                    25
+PALMETTO COORDINATED SYSTEM OF                                SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                 HEALTH AND HUMAN SERVICES
+
+
+
+
+SCDHHS and the waiver youth's wraparound facilitator both monitor the annual re-evaluation date
+through an electronic system to ensure that the level of care is completed every twelve months or if
+there is a significant change in the youth's condition or needs.
+
+COC will conduct and score all LOC evaluations. All LOC scores and final LOC determinations will
+be entered and stored in the Phoenix system.
+
+Person-Centered Plan of Care
+The person-centered plan is the map for the family to ensure that there are sufficient supports and
+services for the youth to be supported in the home. The person-centered plan will be located in the
+Phoenix system and COC will manage access and plan maintenance. The person-centered POC
+must include:
+
+•   Identifying information
+
+•   Strengths and support needs for the waiver youth
+
+•   Clear language in the clinical justification section to ensure understanding of why the youth is
+    receiving waiver services
+
+•   The provider of the services
+
+•   Type of services
+
+•   Frequency of services
+
+•   Duration of the services
+
+•   Goals for each service type that the youth, their family and the team have identified through the
+    person-centered plan development process. Goals are stated from the perspective of the youth
+    to reinforce the person-centered emphasis on waiver supports and services.
+
+•   The positive interventions and supports used prior to any modifications to the person-centered
+    plan
+
+•   Documentation of less intrusive methods of meeting the need that have been tried but did not
+    work
+
+•   A clear description of the condition that is directly proportionate to the specific assessed need
+
+•   A collection and review of data to measure the ongoing effectiveness of the modification
+
+•   Established time limits for periodic reviews to determine if the modification is still necessary or
+    can be terminated (e.g., every three months or 90 days).
+
+
+
+                                                                                                          26
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+
+•   Assurance that interventions and supports will cause no harm to the youth, located in the Rights
+    and Responsibilities statement that is signed by the individual and/or their representative
+
+•   Where appropriate, the person-centered plan details how the staff/clinician/provider supports the
+    waiver youth to reach their goal
+
+•   The setting in which the youth resides as chosen by the youth (this is specific to individuals
+    living in Group Homes and should be included in the narrative checklist in Phoenix)
+
+•   Clinical and support needs as identified through an assessment of functional need
+
+•   Risk factors and measures in place to minimize them, including individualized back up plans and
+    strategies when needed
+
+•   The name of the youth and/or entity responsible for monitoring the plan
+
+•   The informed consent of the youth in writing, and signed by all youth and providers responsible
+    for its implementation
+
+Review of the person-centered plan
+The person-centered plan must be reviewed at least every 3 months and revised upon
+reassessment of functional need when the youth’s circumstances or needs change significantly, or
+at the request of the youth.
+
+Once the person-centered plan is reviewed by SCDHHS within three business days, the
+wraparound facilitator must send a full copy of the person-centered plan to each of the service
+providers as well as a copy for the family and youth.
+
+High Fidelity Wraparound Care Coordination
+The function of performing wraparound facilitation is to identify who should be involved in producing
+a community based, person-centered plan to meet the needs of the participating youth. The youth’s
+family, extended family and other community members compromise the child and family team and
+play a vital role in the development of the person-centered plan.
+
+Wraparound facilitation forms the child and family team which consists of the youth’s family,
+extended family, and other community members involved in the youth’s daily life for the purpose of
+producing a community-based, person-centered plan. This includes working with the family to
+identify who should be involved in the child and family team and assembly of the child and family
+team for the person-centered plan development meeting.
+
+The child and family team is a multi-disciplinary team trained in or acclimated to High Fidelity
+Wraparound. Decisions on the plan of care are supervised by credentialed individuals meeting the
+requirements of a Licensed Practitioner of the Healing Arts (LPHA includes a psychiatrist,
+psychologist, LMSW, LPC, LISW-CP, LISW-AP, or LMFT) or individual employed by a public entity.
+
+
+                                                                                                     27
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+In addition to the youth and their family, wraparound teams include:
+
+•   Wraparound Facilitator
+
+•   Wraparound Team Leads
+
+•   Wraparound Supervisor/Coach
+
+Wraparound Facilitator
+
+The wraparound facilitator is responsible for the development of the person-centered plan.
+Together, the child and family team performs the three functions of HCBS care management:
+person-centered planning, referral to services, and monitoring of health and welfare and service
+delivery. Services provided to youth must include communication and coordination with the family
+and/or legal guardian.
+
+During wraparound facilitation and plan reviews, coordination with other child serving systems
+should occur as needed to achieve the treatment goals. The wraparound facilitator guides the
+person-centered plan development process of the team to assure that waiver rules are followed.
+The wraparound facilitator also is responsible for reassembling the team when subsequent person-
+centered plan review and revision are needed, at minimum every 90 days to review the person-
+centered plan and more frequently when changes in the youth’s circumstances warrant changes in
+the person-centered plan.
+
+The wraparound facilitator emphasizes building collaboration and ongoing coordination among the
+family, caretakers, service providers, and other formal and informal community resources identified
+by the family. The wraparound process promotes flexibility to ensure that appropriate and effective
+service delivery to the youth and family/caregivers. More specifically, the high-fidelity wraparound
+process accommodates the needs of the participant and family in the provision of services.
+
+The wraparound facilitator is to ensure the youth’s involvement in decisions that affect his/her care,
+daily schedules and lifestyle. The overall atmosphere of the child and family team meeting setting is
+conducive to the achievement of optimal independence, safety and development by the youth with
+his/her input. The service is designed to be delivered in community settings including, but not
+exclusively in the youth’s home.
+
+Home and Community-Based Settings Validation
+According to Appendix C of the approved waiver, through regular health and welfare monitoring,
+wrap facilitators observe the residence of all participants to ensure settings meet established home
+and community-based settings standards found at 42 CFR 441.301(c)(4) at enrollment annually or
+when the participant’s residence changes. The wraparound facilitators shall document home and
+community-based settings observations in the Phoenix system. SCDHHS monitors, reviews and
+validates compliance with the setting requirements and enforces compliance actions, as necessary.
+
+
+
+                                                                                                    28
+PALMETTO COORDINATED SYSTEM OF                                SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                 HEALTH AND HUMAN SERVICES
+
+
+
+
+Verification occurs in coordination with regular health and welfare monitoring performed by wrap
+facilitators.
+
+Home and community-based settings must have all the following qualities based on the needs of the
+youth as indicated in their person-centered plan:
+
+•   The setting is integrated in and supports full access of youth to the greater community, including
+    opportunities to seek employment and work in competitive integrated settings, engage in
+    community life, control personal resources, and receive services in the community, to the same
+    degree of access as youth not receiving waiver services.
+
+•   The setting is selected by the youth or his/her guardian from among setting options including
+    non-disability specific settings and an option for a private unit in a residential setting. The setting
+    options are identified and documented in the person-centered plan and are based on the youth’s
+    or guardian’s needs, preferences, and, for residential settings, resources available for room and
+    board.
+
+•   The setting ensures a youth’s rights of privacy, dignity and respect, and freedom from coercion
+    and restraint.
+
+•   The setting optimizes, but does not regiment, age-appropriate youth initiative, autonomy, and
+    independence in making life choices, including but not limited to, daily activities, physical
+    environment, and with whom to interact.
+
+•   The setting facilitates youth and guardian choice regarding services and supports, and who
+    provides them.
+
+•   In a provider-owned or controlled residential setting, the following additional conditions must be
+    met:
+
+•   The unit or dwelling is a specific physical place that can be owned, rented, or occupied under a
+    legally enforceable agreement by the guardian of the youth receiving services, and the guardian
+    of the youth has, at a minimum, the same responsibilities and protections from eviction that
+    tenants have under the landlord/tenant law of the State, county, city, or other designated entity.
+    For settings in which landlord tenant laws do not apply, the State must ensure that a lease,
+    residency agreement or other form of written agreement is in place for each HCBS participant,
+    and that the document provides protections that address eviction processes and appeals
+    comparable to those provided under the jurisdiction’s landlord tenant law.
+
+•   Each youth has age-appropriate privacy in their sleeping or living unit:
+
+    -   Units have entrance doors lockable by the youth, with only appropriate staff having keys to
+        doors.
+    -   Youth sharing units have a choice of roommates in that setting.
+
+                                                                                                        29
+PALMETTO COORDINATED SYSTEM OF                                  SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                   HEALTH AND HUMAN SERVICES
+
+
+
+
+    -   Youth have age-appropriate freedom to furnish and decorate their sleeping or living units
+        within the lease or other agreement.
+
+•   Individuals have age-appropriate freedom and support to control their own schedules and
+    activities and have access to food at any time.
+
+•   Individuals are able to have visitors of their choosing at any age-appropriate time.
+
+•   The setting is physically accessible to the youth.
+
+•   Any modification of the additional conditions must be supported by a specific assessed need
+    and justified in the person-centered plan. The following requirements must be documented in
+    the person-centered plan:
+
+    -   Identify a specific and individualized assessed need.
+    -   Document the positive interventions and supports used prior to any modifications to the
+        person-centered plan.
+    -   Document less intrusive methods of meeting the need that have been tried but did not work.
+    -   Include a clear description of the condition that is directly proportionate to the specific
+        assessed need.
+    -   Include regular collection and review of data to measure the ongoing effectiveness of the
+        modification.
+    -   Include established time limits for periodic reviews to determine if the modification is still
+        necessary or can be terminated.
+    -   Include the informed consent of the guardian of the youth.
+    -   Include an assurance that interventions and supports will cause no harm to the youth.
+
+•   Home and community-based settings do not include the following:
+
+•   A nursing facility;
+
+•   An institution for mental diseases;
+
+•   An intermediate care facility for youth with intellectual disabilities;
+
+•   A hospital; or
+
+•   Any other locations that have qualities of an institutional setting, as determined by the Secretary.
+
+Any setting that is located in a building that is also a publicly or privately operated facility that
+provides inpatient institutional treatment, or in a building on the grounds of, or immediately adjacent
+to, a public institution, or any other setting that has the effect of isolating youth receiving Medicaid
+HCBS from the broader community of youth not receiving Medicaid HCBS is presumed to be a
+setting that has the qualities of an institution unless the Secretary determines through heightened
+scrutiny, based on information presented by the State or other parties, that the setting does not
+
+                                                                                                      30
+PALMETTO COORDINATED SYSTEM OF                                SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                 HEALTH AND HUMAN SERVICES
+
+
+
+
+have the qualities of an institution and that the setting does have the qualities of home and
+community-based settings.
+
+All coordination must be documented in the youth’s waiver participant record. Child and family
+teams must receive ongoing and regular clinical supervision by a person meeting the qualifications
+of a Licensed Practitioner of the Healing Arts with experience regarding this specialized mental
+health service, and such shall be available during CFT meetings to provide back up, support, and/or
+consultation.
+
+Service Limitations
+Wraparound facilitation may not be provided at the same time as targeted case management and
+does not duplicate any Medicaid State Plan Service or services otherwise available to the recipient
+at no cost.
+
+In compliance with HCBS requirements, individuals do not reside or receive services in any of the
+following settings:
+
+• Any setting that is located in a building that is also a publicly or privately operated facility that
+provides inpatient institutional treatment,
+
+• Any setting that is located in a building on the grounds of, or immediately adjacent to, a public
+institution,
+
+• Any other setting that has the effect of isolating youth receiving Medicaid HCBS from the
+broader community of youth not receiving Medicaid HCBS
+
+Service Exceptions
+In the event the need for an out of home placement arises for a participant receiving HCBS waiver
+services, the state certifies all residences will be observed by the wrap facilitator to ensure settings
+are in the community and meet the standards at 42 CFR 441.301 (c)(4) as well as (vi)(A through F)
+for provider-owned and controlled settings, at placement and on a monthly basis through regular
+health and welfare monitoring.
+
+In the case of Foster Care and Therapeutic Foster Care placements, the state certifies all homes
+are individually licensed by South Carolina Department of Social Services as foster care homes per
+S.C. Code Ann. 63-11-10 thru 63-11-790 (Supp 2008). The state will verify that all foster care
+homes annually meet licensing regulations as established and certified by South Carolina
+Department of Social Services and meet the standards at 42 CFR 441.301 (c)(4) as well as (vi)(A
+through F) for provider-owned and controlled settings, at placement and on a monthly basis through
+regular health and welfare monitoring.
+
+In the event the need for Group Home placement for a waiver participant arises, the state certifies
+all residences will be observed by the wrap facilitator to ensure settings are in the community and
+meet the standards at 42 CFR 441.301 (c)(4) as well as (vi)(A through F) for provider-owned and
+
+                                                                                                          31
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+
+controlled settings, at the initial placement and on a monthly basis through regular health and
+welfare monitoring. The state will also verify Group Homes meet licensing standards as set forth by
+SC Code 63-11-30: https://www.scstatehouse.gov/code/t63c011.php and SC Regulation 114-590:
+https://www.scstatehouse.gov/coderegs/Chapter%20114.pdf.
+
+Respite
+Respite care includes services provided to beneficiaries unable to care for themselves furnished on
+a short-term basis because of the absence or need for relief of those persons who normally provide
+care for the beneficiary. Respite may be provided in an emergency to prevent hospitalization.
+
+Respite provides planned or emergency short-term relief to a beneficiary’s unpaid caregiver or
+principle caregiver who is unavailable to provide support. This service will be provided to meet the
+beneficiary’s needs as determined by an assessment performed in accordance with SCDHHS
+requirements and as outlined in the beneficiary’s person-centered plan. Beneficiaries are
+encouraged to receive respite in the most integrated and cost-effective settings appropriate to meet
+their respite needs.
+
+Respite services may include camp funding for summer camp that provides the needed
+safeguarding services and supports to achieve the person’s valued outcomes, as per the person-
+centered plan. Camps can either be focused on supporting youth with disabilities or camps that are
+available to the general public.
+
+Services must be delivered in a manner that supports the beneficiary’s communication needs
+including, but not limited to, age appropriate communication, translation services for beneficiaries
+that are of limited-English proficiency or who have other communication needs requiring translation,
+assistance with the provider’s understanding, and use of communication devices used by the
+beneficiary. If the beneficiary is to receive respite on an ongoing basis, the care manager will
+monitor on a quarterly basis. The respite service may also be used to offer relief to a beneficiary’s
+unpaid or principle caregiver who normally provides care.
+
+Respite may be provided in an emergency to prevent hospitalization.
+
+If the beneficiary is to receive respite on an ongoing basis, the Wrap Facilitator will monitor on a
+quarterly basis, as applicable, to see if the objectives and outcomes are being met.
+
+Service Limitations
+Respite services may not be longer than one week per episode and in aggregate, may not exceed
+21 days per year. Stays of greater than 72 hours require prior authorization. Youth requiring crisis
+respite for longer periods may be evaluated on an individual basis and approved for greater length
+of stay based on medical necessity. In settings where permissible and during respite hours in the
+youth’s home, medication may be administered by the respite worker. Medications, including
+controlled substances, medical supplies, and those items necessary for first aid shall be properly
+managed in accordance with State, Federal, and local laws and regulations. Such management
+shall address securing, storing, and administering medications, medical supplies, first aid supplies,
+
+                                                                                                       32
+PALMETTO COORDINATED SYSTEM OF                                 SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                  HEALTH AND HUMAN SERVICES
+
+
+
+
+and biologicals, their disposal when discontinued or expired, and their disposition at discharge of a
+participant.
+
+Respite is a face-to-face service.
+
+Respite service may be offered in a foster care home, provided the foster home meets all
+qualifications and is enrolled with SCDHHS as a respite provider.
+
+Respite services may not be billed at the same time as personal care services.
+
+Respite may be not be provided by any person who is a legal guardian or acting in the place of a
+legal guardian for the youth. A person with informal responsibility for the care of the youth such as a
+neighbor, friend, or extended family member may register with any of the provider types listed
+below. They must meet the provider's qualifications for employment, become an employee of the
+provider, and provide respite services for the youth. Respite may not be provided by any spouse or
+domestic partner of any person who is a legal guardian or acting in the place of a legal guardian for
+the youth.
+
+In certified and licensed settings where permissible and during respite hours in the youth’s home,
+medication may be administered by the respite worker in the youth’s home. Medications, including
+controlled substances, medical supplies, and those items necessary for the rendering of first aid
+shall be properly managed in accordance with State, Federal, and local laws and regulations. Such
+management shall address the securing, storing, and administering of medications, medical
+supplies, first aid supplies, and biologicals, their disposal when discontinued or expired, and their
+disposition at discharge of a participant.
+
+SCDHHS or its designee may authorize service request expectations above these limits on a case-
+by-case basis when it determines that:
+
+• No other service options are available to the beneficiary, including services provided through an
+informal support network; and
+
+•   The absence of the service would present a significant health and welfare risk to the youth.
+
+Respite service provided in a certified residential care facility, Substance Use Disorder residential
+facility or Public or Private Child Service Entity is not utilized to replace or relocate a youth’s primary
+residence. Room and board in Community Residential Group Home or Substance Use Disorder
+residential facility may be paid for by Medicaid for respite service only. In overnight settings of
+greater than 4 residents, between the hours of 7 am to 8 pm there shall be a minimum of one staff
+person on site for every five youth. Between the hours of 8 pm to 7 am there shall be a minimum of
+one staff person for every seven youth. At least one staff member must provide 24-hour awake
+supervision. The term “24-hour awake supervision” means that, during sleeping hours, a staff
+member is located in a position which allows him or her to observe any movement into or out of a
+
+
+
+                                                                                                        33
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+youth’s bedroom. On call staff must be available for emergencies and immediately accessible. The
+director or a designee shall be available at all times by cell phone.
+
+Overnight settings offer a supportive home-like environment with a maximum preferred capacity of
+not to exceed 10 residents (fewer in rural areas), preferably in single rooms.
+
+•   The setting must be building and health and safety code compliant.
+
+•   Staffed and open 24 hours a day, seven days a week when a resident is present.
+
+•   Residents should be allowed to leave and return as needed, maintaining employment and other
+    daily activities to the extent possible.
+
+To the greatest extent possible, residents are encouraged to maintain contact with significant
+others, including family members, friends, and spouses. To facilitate this contact, residents may
+have visitors at any time that is convenient and practical for the resident as well as that of the
+overnight setting.
+
+Exclusions
+• Diagnosis of dementia, organic brain disorder or traumatic brain injury
+
+•   Displays symptoms indicative of active engagement in substance use manifested in aggressive
+    or destructive behavior
+
+•   Respite service being used to replace or relocate an individual’s primary residence
+
+Medical Necessity Criteria
+• The service is recommended by the wraparound facilitator and the youth in collaboration, and
+  the service is included in the youth’s person-centered plan; and
+
+•   There are emotional and/or behavioral problems which stress the ability of the caregiver or
+    youth to provide for the youth’s needs in the home thus putting the youth at risk of requiring a
+    more intensive level of care (e.g., strained family relationships; exhaustion in caregiver;
+    caregiver struggles to meet other work/family responsibilities or lacks enough time to care for
+    self needs; increased symptoms of mental illness or substance use, such as psychotic thinking,
+    sleeplessness, or self-injurious behavior) or the primary caregiver has a time limited situation
+    that necessitates assistance in providing care for the youth (e.g., caregiver is experiencing an
+    acute medical problem, caregiver must attend to a family crisis); and
+
+•   The absence of the service would present a significant health and welfare risk to the youth (e.g.,
+    youth has a seizure disorder, youth needs assistance with medication administration, youth has
+    difficulty appropriately regulating water intake)
+
+•   No other means of temporary care exists; and
+
+
+                                                                                                     34
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+•   The frequency and intensity of the service aligns with the unique situation of the youth and/or
+    caregiver. Examples include:
+
+    -   A caregiver requests respite for a particular weekend so he can have a break and visit family
+        members out of state.
+    -   A youth has a goal on her person-centered plan to appropriately limit her water intake, since
+        it has led to electrolyte imbalances numerous times in the past, and agrees that she
+        continues to need support in order to achieve that goal. As a result, she and her sister (who
+        she lives with) have identified the need for pre-planned respite services one afternoon each
+        month so the sister can go to a movie or shopping alone.
+    -   A caregiver has identified the immediate need for respite services for up to a week because
+        the youth has been awake most of the night for the last three nights, resulting in the
+        caregiver being awake as well and unable to go to work. The caregiver believes the youth’s
+        mood and sleep cycle will normalize in about a week, as it has done many times before, but
+        respite allows the youth to avoid a higher level of care and provides a needed break for the
+        caregiver.
+
+
+
+
+                                                                                                      35
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+5
+UTILIZATION MANAGEMENT
+PRIOR AUTHORIZATION
+Respite Services
+The participant’s person-centered service plan must include a request for respite services, to
+include number of units requested. Prior authorization includes review from DHHS to ensure records
+include:
+
+•   Appropriate request for respite in the person-centered service plan
+
+•   Appropriate level of care designation
+
+SCDHHS prior authorization alerts will be sent via electronic notification to Wrap Facilitators who
+generate a list of qualified respite providers for the participant and their team.
+
+Freedom of Choice
+Participants select and rank three (when available) respite providers in order of preference which
+the Wrap Facilitator submits as a Phoenix system referral. Respite providers can accept, decline or
+ignore a referral. Once a referral is accepted, Wrap Facilitators may provide additional information to
+the accepted provider after the referral has been accepted.
+
+All changes to the units or services in the person-centered service plan must be resubmitted
+for prior authorization or risk not being reimbursed. SCDHHS will audit requests every
+quarter to ensure that person-centered plans of care and Level of Care designation meet
+compliance standards.
+
+
+
+
+                                                                                                      36
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+6
+REPORTING/DOCUMENTATION
+COST REPORTS
+COC is required to submit an original of the prescribed SCDHHS cost report to include actual,
+allowable, necessary and reasonable cost and service delivery information for each service
+reflected in Appendix A of the service contract. The report must be completed and mailed to
+SCDHHS within one hundred twenty (120) days after the end of COC’s fiscal year if the Contract is
+written for a period greater than one year. Failure to file any given report within specified time
+frames will result in all future reimbursements being withheld until report is received.
+
+All cost reports should be mailed to:
+
+    Department of Health and Human Services
+    Division of Ancillary Reimbursements
+    Post Office Box 8206
+    Columbia, SC 29202-8206
+
+If you have questions regarding cost reports, contact the SCDHHS Medicaid Provider Service
+Center at 1-888-289-0709 or submit an online inquiry at http://www.scdhhs.gov/contact-us .
+
+DOCUMENTATION REQUIREMENTS
+General Requirements
+COC and waiver providers are required to maintain documentation in the Phoenix system.
+Documentation is required to record any case activity in accordance with policy and procedures and
+is mandatory. Documentation provides an accurate record of all case activities and actions. All
+documentation is a legal record that may be used as evidence in court. Documentation is also
+required to ensure organizational and worker compliance. Phoenix Narrative checklists and
+Conversations are part of the narrative record.
+
+All communication between COC Representatives/workers and participants, primary contacts,
+providers and other related agencies must be through verbal information exchange during face-to-
+face visits or by phone, mail or by fax. Electronic methods such as texting, emailing, tweeting, etc.
+are not permitted.
+
+Phoenix System Requirements
+All documentation in the participant’s Phoenix system profile should:
+• Be related to the participant and reflect factual information recorded in a manner consistent with
+    professional and licensure standards
+
+•   Use only agency approved abbreviations
+                                                                                                    37
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+•   Include correct spelling and grammar
+
+•   Exclude extraneous comments unrelated to the participant’s situation
+
+•   Exclude personal opinions and judgmental statements
+
+•   Exclude emails
+
+•   Exclude quality assurance reviews/forms
+
+
+Conversations Function
+The Conversation Tab feature may be used rather than contacting the provider by telephone.
+However, when informing the provider of information that requires immediate attention such as a
+termination or change of facilitator, a telephone call for verbal communication is necessary. The first
+and last name and title, if applicable, of any person from whom information is received must be
+documented in the narrative. The primary contact and the physician are to be identified by first and
+last name in the narrative, as the individuals assuming these roles may change over time.
+All documentation policies apply to the Conversation Tab feature in Phoenix.
+
+Documentation Timeliness Standards
+All waiver documentation for the month must be keyed, entered and uploaded to the network by
+11:59 pm of the last day of each month. This supersedes any documentation timeliness and policy
+guidelines. For example, documentation related to re-evaluations completed the last week of the
+month but not due until the first week of the following month, must be completed by 11:59 pm of the
+month the visit was completed.
+
+When counting days for timeliness standard issues, the first day is determined to be the next
+business or calendar day depending on the standard. For example, the timeliness standard for
+documentation is three business days. For an activity that occurred on a business day Monday, Day
+One (1) would be Tuesday. Day Two (2) would be Wednesday. Day Three (3) would be Thursday.
+Therefore, the activity must be documented by 11:59 pm on Day Three (3), Thursday. For an
+activity that occurred on a business day Friday, Day One (1) would be Monday. Day Two (2) would
+be Tuesday. Day Three (3) would be Wednesday. Therefore, the activity must be documented by
+11:59 pm on Day Three (3), Wednesday. However, all documentation for the month must be keyed,
+entered and uploaded to the network by 11:59 pm of the last day of each month regardless of
+timeliness standards.
+
+Supporting Document Standards
+A fax copy of a document may be accepted and suffice for documentation in the record if legible.
+The original must be scanned into Phoenix Scans. If a document is faxed to someone, there is no
+need to follow-up with an original by mail. Routing methods such as mail or fax should be used
+when Phoenix is not an option.
+
+                                                                                                    38
+PALMETTO COORDINATED SYSTEM OF                                SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                 HEALTH AND HUMAN SERVICES
+
+
+
+
+All documents that are not available in Phoenix are to be scanned to the participant’s Phoenix file.
+All scanned documents are to be stored under the appropriate scan tag in Phoenix Scans. Refer to
+the “Scan Tag Descriptions” document in Phoenix HELP to determine the appropriate scan tag for
+document placement.
+
+All documents received from outside sources, are to be scanned in the participant’s Phoenix file by
+11:59 pm on the last day of each month unless the document is received within the last three
+business days of the month. In this situation, the document should be scanned in the participant’s
+Phoenix file by the 5th day of the following month.
+
+Packets of supporting medical records and documentation received in conjunction with a level of
+care request may be scanned as one packet in Phoenix scans under the appropriate scan tag. The
+Consent Form and Participant Service Choice Form will be separated from the packet and scanned
+under the designated scan tags.
+
+If hard copy Consent Forms or Participant Service Choice Forms are obtained for any reason, these
+forms must be scanned into the appropriate tag in Phoenix scans within three business days.
+
+For the enrolled waiver participant, the hard copy form will be retained until the next quarterly visit at
+which time the scanned document is confirmed to be present and readable in Phoenix Scans under
+the appropriate scan tag. For all other types of applications, the hard copy form will be disposed of
+when the scanned document is confirmed to be present and readable in Phoenix Scans under the
+appropriate scan tag.
+
+All providers must follow their agency’s HIPAA record disposal policy.
+
+Complaints
+When reporting a complaint in Phoenix, the report must include, if appropriate, the name of provider,
+name of provider worker, and provider worker ID.
+Participant problems or needs should be documented diligently and include follow up
+documentation, as appropriate. If a need is identified in the narrative, any subsequent actions taken
+on the participant’s behalf must be included in the narrative. All contacts made with the participant
+or on the participant’s behalf must be narrated. All contacts and actions must be narrated within
+three (3) business days of the activity, unless a shorter period of time is otherwise specified in policy
+and procedures, contracts, or other official SCDHHS communications.
+
+The date noted in the “Date of Contact” field in the narrative must be the date the activity or contact
+was completed. The date of the contact may also be entered in the text of the narrative. Narrative
+documentation indicating activities completed over several days are not appropriate.
+
+
+
+
+                                                                                                       39
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+
+Documentation Retention Policy
+Purpose
+The purpose of this policy is to provide a system for complying with document retention laws to
+ensure that necessary records and documents are adequately protected and maintained as well as
+to ensure that records that are no longer needed or are of no value are discarded appropriately.
+This policy is intended to assist COC in the retention of any hard copy files located onsite. This
+policy is applicable to records of any applicant or participant in the PCSC waiver.
+
+
+
+Policy Details
+The South Carolina Department of Health and Human Services (SCDHHS) has the following
+requirements related to record retention. Other state or federal rules may require longer retention
+periods. “For Medicaid purposes all fiscal and medical records shall be retained for a period of five
+(5) years after the last payment was made for services rendered, except that hospitals and nursing
+homes are required to retain such records for six (6) years after the last payment was made for
+services rendered.” Additionally, “if litigation, claim, audit, or other action involving the records has
+been initiated prior to the expiration of the appropriate retention period, the records shall be retained
+until completion of the action and resolution of all issues which arise from it or until the end of the
+appropriate retention period, whichever is later.”
+
+The PCSC waiver maintains compliance with this policy by maintaining participants’ records in our
+case management system known as Phoenix.
+
+Maintenance of Hard Copy Records/Documentation
+In an effort to go paperless, any documents/records that must be maintained should be scanned
+into Phoenix using the appropriate scan tags. The hard copy documentation should be shredded. If
+an appropriate scan tag is not available, scan the document under “Other forms/Documents.”
+
+Note: Staff members should verify that a legible copy of the document is in Phoenix prior to
+the shredding of the documentation.
+
+Documents that May be Shredded
+• Any document in which the retention period has expired and there is no litigation, claim, audit, or
+   other action involving the record.
+
+•   Any document within the retention period and the staff member can verify that a legible copy of
+    the documentation is located in Phoenix. Some examples include but are not limited to:
+
+    -   Authorizations o Provider Choice Forms
+    -   PCSC Notification Forms
+    -   Consent and Rights and Responsibilities Forms
+    -   PCSC or COC Assessments
+    -   PCSC Service Plans
+    -   Certification Letters
+                                                                                                      40
+PALMETTO COORDINATED SYSTEM OF                         SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                          HEALTH AND HUMAN SERVICES
+
+
+
+
+Note: Additional guidance can be found on pages 22 – 28 of the Records/Documentation
+Requirements section of the SCDHHS Provider Administrative and Billing Manual.
+
+
+
+
+                                                                                       41
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+7
+DISCHARGE
+REASONS FOR DISCHARGE
+Waiver participants will be discharged from the waiver when it is determined that they no longer
+meet one of the following requirements:
+
+•   Have a Severe Emotional Disturbance (SED) or Serious Mental Illness (SMI) and SUD.
+
+•   Are between ages 0 and 21
+
+•   No longer have a need for waiver services
+
+•   No longer meet Hospital Level of Care eligibility determination requirements
+
+•   Financial eligibility for Medicaid services
+
+•   Greater level of care needs than waiver services can provide
+
+DISCHARGE PROTOCOL
+Service Plan Development (SPD) teams must develop a transition plan for waiver participants, prior
+to a participant being discharged from waiver services. SCDHHS will notify waiver participants of
+termination of their waiver services once the required discharge documentation is received.
+Discharge documentation must be submitted by COC to PCSC Waiver staff within 48 hours of the
+waiver participant’s discharge from the waiver. SCDHHS will notify families via a termination form.
+
+Service Specifics
+During the SPD process, waiver participants may be discharged from a specific service but remain
+in the waiver. If providers feel that a waiver participant is no longer appropriately eligible for the
+services they deliver, the providers can recommend discontinuation of that service to the SPD team,
+for further discussion and consideration. Waiver participants are notified when there is a change in
+the Plan of Care. A right to appeal notification will be sent out by COC with a change of service
+notification.
+
+Providers must discharge a waiver participant through the SPD team process. The only exception is
+when there is a health and/or safety risk for the waiver participant. In these instances, providers can
+suspend provisions for waiver services until the safety issues are addressed.
+
+For Example: A waiver participant may become physically aggressive towards their respite staff. If
+the service program is not adequately staffed while the participant exhibits those behaviors,
+providers must immediately identify and communicate the risks to the participant’s respective Wrap
+Facilitator. If this type of circumstance arises, the SPD team should determine how to best support
+
+                                                                                                    42
+PALMETTO COORDINATED SYSTEM OF                                SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                 HEALTH AND HUMAN SERVICES
+
+
+
+
+the waiver participant and/or their family, if the participant is discharged from the service as a result
+of the health and/or safety risks that they posed.
+
+Health and Safety Needs
+Upon review of the person-centered plan , if waiver services and/or providers appear incapable of
+assuring the safety and health of the waiver participant and those within the community SCDHHS
+reserves the right to discharge the waiver participant from the PCSC waiver and recommend
+inpatient level of care until the waiver participant’s level of care can be met by waiver services.
+
+Example: Waiver services and providers may not be capable of meeting CASII Level of Care 6
+Recommendations, which would indicate that the waiver participant needs “secure, 24-hour
+management”. The burden of proof is on the waiver provider to clearly indicate that waiver services
+can ensure the health and safety of the waiver participant. The burden of proof should be displayed
+and communicated via a Crisis Plan by COC, a formal letter justifying the waiver participant’s
+continuation in the waiver, and any additional information requested by SCDHHS.
+
+Interruption
+Waiver participants who are hospitalized, or who are in a PRTF for 30 days or more, will be
+discharged from the waiver. If a participant chooses not to receive waiver services for 30 or more
+days, they will be discharged from the waiver. In the event of special circumstances, waiver
+participants may request that the 30-day timeframe be extended. Participants are required to
+provide an explanation, which identifies their need for an extension. COC communicates this
+information to SCDHHS through the critical incidents module, where a request for extension would
+be made.
+
+There may be instances when significant risks to waiver participants are identified, and when SPD
+teams cannot adequately support the participant and/or their family through home- and community-
+based supports and services. In these situations, participants may be placed in a hospital or PRTF
+to ensure the health and safety of the participants and their families. SPD teams should work closely
+with waiver participants and their families and should anticipate the likelihood of potential crises
+among the participants. Ideally, the teams should have proactive supports and measures in place, in
+an effort to avoid the need for potential hospital or PRTF admissions. If a crisis presents serious
+health and/or safety risks that cannot be avoided, and hospitalization or PRTF placement is needed,
+participants may be admitted to a facility for up to 29 days without affecting their waiver eligibility. If
+a participant is admitted to a hospital or PRTF for 30 days or longer, they must be discharged from
+the waiver. Participants who were enrolled in the waiver service program within the past year, and
+who are transitioning out of a hospital or PRTF, can re-enroll in the waiver by receiving a crisis slot.
+However, those participants who have been discharged from the waiver for more than one year
+must re-apply for services.
+
+Waiver participants who are admitted to a hospital or PRTF, or those who temporarily choose to
+interrupt their services for less than 29 days, are not required to be discharged. Upon reinstating
+waiver services, the person-centered plan of care does not need to be reviewed, unless the services
+are interrupted after the plan of care end date. If a plan of care has expired, participants may return
+                                                                                                        43
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+
+to waiver services based on the SPD team’s review of the plan of care. In order to ensure that
+required services are provided in a timely manner, desk reviews can be conducted by the wrap
+facilitators. This will allow waiver services to restart while SPD team meetings are scheduled.
+Person-centered plan desk reviews must be submitted to SCDHHS, as required; and services must
+also be authorized. SPD teams must review person-centered plans immediately following the
+participant’s return to waiver services. This ensures that the waiver services plan remains valid and
+continues to meet the needs of participants and/or their families.
+
+Increase in Functioning
+Waiver participants, who no longer meet level of care requirements because of an increase in
+functioning, will be ensured that necessary supports are in place for them and their families. These
+supports will help participants maintain success following the termination of their waiver services.
+Regular conversations during SPD team meetings should address the benchmarks that participants
+must reach, which will eventually lead to the reduction and elimination of their need for waiver
+services. Teams should be proactive regarding participant discharge. When participants no longer
+meet level of care requirements, SPD teams should already know what supports are needed for a
+successful discharge from the waiver.
+
+Freedom of Choice
+If a participant and/or their family determine that they no longer want waiver services, they can
+discharge from the waiver, without prior notice. Whenever possible, SPD teams or case managers
+should initiate discussions about the participant’s decisions, and they should determine what
+supports are needed upon the participant’s discharge from the waiver. Alternative supports and
+services should be discussed, as requested, with the waiver participants and/or their families.
+Appropriate referrals should be made, as requested, by the families. Participants and/or their
+families who do not accept supports from the SPD teams or case managers, and who also express
+an interest in immediate discharge, may do so. The discharging youth and or family can reject post-
+waiver supports from the SPD. This response needs to be recorded with signatures from the family,
+whenever possible, and SPD. If families disengage prior to discharge, COC is responsible for
+documenting this in the participant’s Phoenix file and documenting attempts at re-engaging family,
+as per policy.
+
+Aging Out
+All waiver participants who are enrolled in the waiver at the time of their 21st birthday will be
+discharged from the waiver, as they will no longer be eligible to receive services through the waiver.
+Wrap Facilitators are responsible for keeping track of those waiver participants who will approach
+age 21, in order to ensure that a transition plan is developed at least 90 days prior to a participant’s
+21st birthday. During the months prior to the waiver participant’s 21st birthday, their family will be
+given information regarding the transition planning procedures. SCDHHS staff or its designee can
+provide the families with information about other State Plan services that might be available to
+waiver participants upon their discharge.
+
+
+
+
+                                                                                                      44
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+Three months prior to a participant’s aging out of the waiver, the family's SPD team will meet to
+develop a transition plan. Wrap Facilitators will be responsible for coordinating the transition team
+meetings. SCDHHS, and the SPD teams will work with participants and/or their families to ensure
+that they are aware of, and have access to available services, which will support the participants
+upon their discharge from the waiver.
+
+The transition plan of care must be signed by a Wrap Facilitator, as well as the waiver participant
+and/or their family. The signature(s) designate that they approve of the transition plan. After the
+meetings, case managers will make the appropriate referrals to ensure that the necessary supports
+and services are in place upon a participant’s aging out of the waiver. The participant’s transition
+plan of care shall specify which transitional services are pursued on their behalf and shall also
+contain evidence that appropriate referrals/coordination has been initiated.
+
+
+
+
+                                                                                                        45
+PALMETTO COORDINATED SYSTEM OF                               SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                                HEALTH AND HUMAN SERVICES
+
+
+
+
+8
+BILLING GUIDANCE
+GENERAL BILLING GUIDANCE
+Federal Financial Participation
+Federal financial participation (FFP) may not be claimed for waiver services that are furnished prior
+to the development of the service plan or for waiver services that are not included in an individual’s
+service plan. A service plan may not be backdated.
+
+All billing is completed in accordance with SCDHHS billing guidelines and only if services meet
+billing criteria found at the link below. All services billed should include corresponding clinical
+documentation in the participant’s Phoenix system file.
+
+Billable Code/Location of Service
+The following list provides the codes most commonly used:
+
+03 — School
+
+11 — Clinician or Doctor’s Office
+
+12 — Home
+
+19 — Off Campus Hospital
+
+22 — Outpatient Hospital
+
+23 — Emergency Room
+
+53 — Community Mental Health Center
+
+55 — Substance Abuse Residential Facility
+
+57 — Non-Residential Substance Abuse Facility
+
+99 — Other Unlisted Facility (excluding recreational settings)
+
+SERVICE-SPECIFIC BILLING GUIDANCE
+Refer to the service information (linked in the Covered Services and Definition section above)
+associated with this manual for additional information on the service definitions for the services
+listed below.
+
+
+
+
+                                                                                                      46
+PALMETTO COORDINATED SYSTEM OF                              SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                               HEALTH AND HUMAN SERVICES
+
+
+
+
+Level of Care
+A level of care evaluation is required to determine waiver eligibility. Staff employed by the SC
+Continuum of Care and trained in the administration of the Child and Adolescent Service Intensity
+Instrument (CASII) will conduct an initial and annual level of care assessment. Payment for level of
+care evaluations are included in the High Fidelity Wraparound monthly reimbursement rate.
+
+Billable Place of Service
+Level of care assessments can be conducted telephonically or face-to-face.
+
+Person-Centered Plan of Care
+Staff employed by the SC Continuum of Care along with the participant, family and child and family
+team are responsible for the development of the Person-Centered Plan of Care. A review occurs
+every 90 days. Payment for development and review of the person-centered plan of care is
+included in the High Fidelity Wraparound monthly reimbursement rate.
+
+Billable Place of Service
+Person-Centered Plans can be developed in several locations.
+
+High Fidelity Wraparound Care Coordination
+High Fidelity Wraparound is provided by staff employed by the SC Continuum of Care and is billed
+on a monthly basis.
+
+Billable Place of Service
+High Fidelity Wraparound must be provided in approved home and community-based settings
+identified in the Covered Services and Definitions section of this manual.
+
+Respite
+Respite is provided by providers in good standing and is billed directly to Medicaid.
+
+Billable Place of Service
+Respite must be provided in approved home and community-based settings identified in the
+Covered Services and Definitions section of this manual.
+
+BILLABLE CODES
+Billable codes can be found in the table below:
+
+    Service         Proc     Modifier                            Limit                            Unit
+                    Code
+
+
+
+
+                                                                                                  47
+PALMETTO COORDINATED SYSTEM OF                 SOUTH CAROLINA DEPARTMENT OF
+CARE SERVICES PROVIDER MANUAL                  HEALTH AND HUMAN SERVICES
+
+
+
+
+Unskilled                     No longer than 1 week per episode, not to exceed      Per diem
+Respite Care,                 a maximum of 21 days per year. Individual stays of
+Center-based                  greater than 72 hours require prior auth. Crisis
+                              respite for longer periods evaluated on individual
+                 H0045   U1   basis and approved for greater length of stay
+                              based on medical necessity.
+
+                              Cannot be billed at same time as personal care
+                              services in state plan.
+Unskilled                     No longer than 1 week per episode, not to exceed         15
+Respite Care,                 a maximum of 21 days per year. Individual stays of     minutes
+Non-center                    greater than 72 hours require prior auth. Crisis
+based, 15                     respite for longer periods evaluated on individual
+                 S5150   U1
+minutes                       basis and approved for greater length of stay
+                              based on medical necessity.
+
+                              Cannot be billed at same time as personal care
+                              services in state plan.
+Unskilled                     No longer than 1 week per episode, not to exceed      Per diem
+Respite Care                  a maximum of 21 days per year. Individual stays of
+Services, Non-   S5151   U1   greater than 72 hours require prior auth. Crisis
+center Based                  respite for longer periods evaluated on individual
+Per Diem                      basis and approved for greater length of stay
+                              based on medical necessity.
+
+Respite Care                  No longer than 1 week per episode, not to exceed         15
+Services, Non-                a maximum of 21 days per year. Individual stays of     minutes
+center Based                  greater than 72 hours require prior auth. Crisis
+15 minutes                    respite for longer periods evaluated on individual
+                 T1005   U1
+                              basis and approved for greater length of stay
+                              based on medical necessity.
+
+                              Cannot be billed at same time as personal care
+                              services in state plan.
+High Fidelity    T2022   U1   No limit, evidence-based practice. Cannot be billed   Per Month
+Wraparound                    on the same day as TCM/WCM.
+
+
+
+
+                                                                                      48
+

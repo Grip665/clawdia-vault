@@ -1,0 +1,158 @@
+4/28/2020
+            Adding a Caregiver
+  On carousel, click “Caregiver Supports”
+  On the Caregiver Support screen, click the “New” tab
+
+
+
+
+4/28/2020
+                Adding a Caregiver
+  Enter the information in the appropriate fields then click
+    “Create”
+       “Yes” or “No” MUST entered in the “Living in home” drop down box
+
+
+
+
+4/28/2020
+               Adding a Caregiver
+  A tab is created for the new caregiver
+  Click “Edit” to make any changes to the caregiver’s information
+
+
+
+
+4/28/2020
+            Assigning Caregiver Tasks
+   Under the caregiver’s tab, click “Tasks”
+
+
+
+
+4/28/2020
+            Assigning Caregiver Tasks
+   Select task from drop down box then click “Add task”
+
+
+
+
+4/28/2020
+            Assigning Caregiver Tasks
+   Select “Frequency” and “Start” date then click “Save”
+   To terminate task, enter an “End” date
+   To create additional tasks, select another task and click “Add task”
+
+
+
+
+4/28/2020
+            Assigning Caregiver Tasks
+  If caregiver(s) is performing “Hands on care”, click “Primary” for the caregiver
+   that will be considered the primary caregiver. Note: There can be more than 1
+   primary caregiver
+  Click “Save”
+
+
+
+
+4/28/2020
+               Caregiver Interview
+  When a caregiver is performing “Hands on care” task and is the “Primary”
+   caregiver, an interview questionnaire MUST be answered. Note: The
+   Interview questionnaire measures the primary caregiver’s stress level
+  Under the caregiver’s tab, click “Interviews” tab
+
+
+
+
+4/28/2020
+              Caregiver Interview
+  Under the “Interview” tab, complete the interview questions
+  Select interview date and time then click “Save Interview”
+
+
+
+
+4/28/2020
+                Caregiver Interview
+  Once the interview questionnaire is complete, a total stress level will be
+    displayed
+
+
+
+
+4/28/2020
+                    Caregiver Supports
+                        Permission
+  Caregiver’s Permission gives CLTC/Contract agents permission to speak to a designated
+   person(s) regarding the participant
+  Under the caregiver’s tab, click “New Permission” sub-tab
+  Check the person(s) that have permission or uncheck the person(s) that do not have
+   permission then click “Continue”
+  Caregivers that have permission can be viewed by clicking “Current/Previous
+   Permissions”
+
+
+
+
+4/28/2020
+                      Caregiver Supports
+                          Permission
+  Caregiver(s) will be displayed under “New Permission”
+  Caregivers that do not have permission to receive or share information regarding
+   the participant, their name(s) will need to be deselected or unchecked
+  When finish, click “Continue”
+
+
+
+
+4/28/2020
+                  Caregiver Supports
+                      Permission
+ Participant MUST sign
+  giving permission to
+  share information with
+  person(s) listed
+ To rewrite signature,
+  click “Clear” then sign it
+  again
+ When finish, click
+  “Save”
+
+
+
+
+4/28/2020
+                  Caregiver Supports
+                      Permission
+ All the Caregiver releases will be displayed in the “Current/Previous
+    Permissions” tab
+
+
+
+
+4/28/2020
+            Terminating a Caregiver
+  Under the “Caregiver Support” section, click the caregiver’s name
+  Click “Edit”
+
+
+
+
+4/28/2020
+            Terminating a Caregiver
+  Enter the “Care ended” date in the dropdown box then click “Save”
+
+
+
+
+4/28/2020
+            Terminating a Caregiver
+  The “Care ended” date will be displayed under the Caregiver’s tab
+
+
+
+
+4/28/2020
+

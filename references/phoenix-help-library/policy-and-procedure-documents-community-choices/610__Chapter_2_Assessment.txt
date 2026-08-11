@@ -1,0 +1,764 @@
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 2 – Assessment Procedures                                                                                     November 1, 2022
+
+
+
+                                                     TABLE OF CONTENTS
+
+TABLE OF CONTENTS ...................................................................................................................... 1
+
+02.10      Introduction .............................................................................................................................. 2
+
+02.20      Assessment Policy and Procedure ........................................................................................... 3
+
+          02.21           Consent Form ........................................................................................................... 3
+
+          02.22            Participant Service Choice ...................................................................................... 3
+
+          02.23            Individuals Who May Complete Pre-Admission Screening Assessment ............... 8
+
+02.30        Timeliness Standards for Completion of an Assessment .................................................... 10
+
+02.40          Application Withdrawal .................................................................................................... 11
+
+02.50 Accurate Assessment Completion .......................................................................................... 12
+
+02.60      Medical Information Completion .......................................................................................... 14
+
+          02.61       Obtaining Medical Information for Medically Ineligible Applicants ........................ 14
+
+02.70 Pre-Admission Review for Waiver Enrollment ...................................................................... 16
+
+02.80      Transfer of Pending Waiver Applicant to another CLTC Region ......................................... 18
+
+
+
+
+Chapter 2-Assessment                                                                                                                     Page 1
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                           November 1, 2022
+
+  02.10     Introduction
+
+
+            Assessment is a method of determining an applicant's current long-term care needs by
+            using a comprehensive standard instrument. Information obtained during the assessment
+            process should be adequate for the SCDHHS worker to make a level of care decision
+            and to initiate service planning for discussion with the applicant and/or Authorized
+            Representative.
+
+            An assessment form must be completed for any person referred to CLTC who meets the
+            intake criteria unless the applicant is terminated prior to assessment completion.
+
+
+
+
+Chapter 2-Assessment                                                                   Page 2
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                               November 1, 2022
+
+02.20        Assessment Policy and Procedure
+
+
+     02.21     Consent Form
+
+                South Carolina Long Term Care Assessments submitted to the local CLTC Area
+                Office from outside entities must include a signed Consent Form, DHHS Form 121,
+                signed by the applicant or Authorized Representative. The purpose of this form is to
+                ensure that the applicant, whenever possible, is involved in planning long term care
+                needs and to obtain consent from the applicant for CLTC to share information with
+                involved service providers.
+
+                Note: For nursing facility cases, continue to accept the previous hard copy Consent
+                Form until the presently used Phoenix form may be printed.
+
+                If a case is closed for any reason and later reopened, a new Consent Form must be
+                obtained. An exception to this policy is made for re- certifications. (See Chapter 8
+                Nursing Home.)
+
+                The Consent Form may be signed by the Authorized Representative only when the
+                applicant is not mentally or physically able to sign the form, or at the applicant’s
+                request. It must be signed before the SCDHHS worker can take any action on the
+                case.
+
+                If an applicant signs by making a mark, the form must be witnessed by the person
+                receiving the consent and one other person.
+
+                It is appropriate to accept verbal consent when all other options are exhausted or when
+                the assessment is being completed by phone. The verbal consent must be signed by
+                the person receiving the consent and one other witness.
+
+                The SCDHHS worker updates the Consent obtained date field of Participant
+                Information in Phoenix each time a new Consent is obtained.
+
+     02.22      Participant Service Choice
+                A written Participant Service Choice Form must be secured from the applicant to
+                ensure that the applicant is involved in long term care planning. This location choice
+                will remain in effect until such time as the applicant changes the location choice or
+                until the case is terminated. If the applicant lacks the physical or mental ability
+                required to make a written choice regarding care or at the request of the applicant, the
+                Authorized Representative may sign the Participant Service Choice, DHHS Form 164.
+                In these cases, if the Authorized Representative is not available, efforts should be
+                made to make a phone contact with the Authorized Representative to discuss location
+                choice and document the discussion in the Comment Section of the form.
+
+
+Chapter 2-Assessment                                                                        Page 3
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                                November 1, 2022
+
+
+                   The absence of a signature from the applicant or Authorized Representative must be
+                   documented in the Comment Section of the Participant Service Choice, DHHS
+                   Form 164. For waiver application, the SCDHHS worker or Contract Case Manager
+                   must obtain the signature of the participant and/or Authorized Representative on the
+                   Participant Service Choice Form in Phoenix during the Initial Visit.
+
+                   The Participant Service Choice SCDHHS Form 164 is required for all CLTC
+                   waivers. The Participant Service Choice SCDHHS Form 164 is not required for
+                   participants entering a Nursing Home from the community or from a hospital or in
+                   instances of a Nursing Home conversion.
+
+                   An individual has the right to assume risk, commensurate with that person’s ability
+                   and willingness to assume responsibility for the consequences of that risk. This, of
+                   course, does not abrogate a State’s statutory duty to ensure the health and welfare
+                   of individuals served under the Home and Community-Based Services waivers.
+                   Staff should exercise good professional judgment in dealing with cases where the
+                   applicant’s health, safety, and welfare are questionable. Cases should be discussed
+                   with designated Lead Team and Area Administrator. The CLTC Upstate
+                   Director/Low Country Director and Central Office Quality Assurance should be
+                   consulted. Legal counsel may also be needed. Documentation is crucial in these
+                   cases. Referrals must be made to other agencies (DMH, DSS, etc.) as appropriate
+                   and/or as required by State law.
+
+
+         2.22.01      Appointing an Authorized Representative
+
+                      An Authorized Representative is an individual or organization appointed by the
+                      waiver participant to act on the participant’s behalf. An Authorized
+                      Representative has authority to file and represent the beneficiary in appeals,
+                      receive information regarding the participant’s medical condition, and provide
+                      necessary information on how the participant performs activities of daily living.
+                      The Authorized Representative can also communicate regarding the
+                      participant’s service needs and choice of provider.
+
+                              Appointing an Authorized Representative for Long-Term Care
+                              Services – Form 1282 CLTC
+
+                                  •      Name, Address and Phone number must be completed for each
+                                         Authorized Representative.
+                                  •      A separate Form 1282 CLTC must be completed in its entirety
+                                         for each Authorized Representative to be appointed.
+                                         (Maximum of 3)
+                                  •      Signature: The form must be signed by the participant or their
+                                         legal representative.
+                                          o      Verbal Authorization will be accepted if the Verbal
+                                                 Authorization section of the form is completed in its
+Chapter 2-Assessment                                                                         Page 4
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                           November 1, 2022
+                                          entirety. If verbal authorization is received, physical
+                                          signature will not be required.
+                                    o     If the participant is signing with an “x”, two (2)
+                                          witnesses of the participant’s signature are required.
+                                               Note: Case Manager can be one of the witnesses
+                                                  as long as they witnessed the participant sign the
+                                                  form and there is an additional witness present.
+                                    o     Please note that the Authorized Representative cannot
+                                          serve as a witness.
+                            •      Mental Incompetence: If a participant is mentally incompetent
+                                   (does not understand), only a legal representative can appoint
+                                   another individual/entity to act as the participant’s Authorized
+                                   Representative.
+
+                                   Note: If the participant has an intellectual disability or
+                                   diagnosis dementia but has not been legally declared
+                                   incompetent, they can appoint their Authorized Representative
+                                   and sign their own consents.
+
+                            •      Physical Incapacity: If a participant is physically incapacitated
+                                   (cannot communicate verbally, by gesture or other means),
+                                   only a legal representative can appoint another
+                                   individual/entity to act as the participant’s Authorized
+                                   Representative.
+                            •      Legal Representative: A legal representative is someone that is
+                                   appointed by the participant through a Power of Attorney OR
+                                   appointed by a Court to act on behalf of the participant. The
+                                   legal representative must provide a copy of the document
+                                   evidencing their authority to act on the participant’s behalf in
+                                   order for their authority to appoint an Authorized
+                                   Representative to be recognized.
+                            •      A Form 1282 CLTC is binding until revoked or until the waiver
+                                   case is closed.
+
+                            Appointment of an Authorized Representative is not required, a
+                            waiver participant has the right to represent themselves. Should the
+                            waiver participant waive their right to appoint an Authorized
+                            Representative, the appropriate box on the Form 1282 CLTC should
+                            be selected.
+
+                            •      If a Form 1282 CLTC was not obtained during the Intake
+                                   referral process, the SCDHHS area office nurse or social
+                                   worker will perform a phone assessment and complete the
+                                   Form 1282 CLTC during the assessment indicating an
+                                   Authorized Representative or that the participant has declined
+                                   to appoint an Authorized Representative.
+                            •      A Form 1282 CLTC can be mailed to the waiver participant if
+Chapter 2-Assessment                                                                    Page 5
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                           November 1, 2022
+                                   desired.
+
+                            For existing participants:
+
+                            •      The Case Manager will check the Authorized Representative
+                                   Tab under forms for all participants on their caseloads to see if
+                                   a Form 1282 CLTC has been completed. The Case Manager
+                                   will obtain the completed Form 1282 CLTC from each
+                                   participant who does not already have the form completed.
+                            •      A completed Form 1282 CLTC is required to be in each file for
+                                   existing participants by the beginning of the next quarter
+                                   following implementation of this policy.
+
+
+                            Quarterly Contact: These questions must be addressed by the
+                            Case manager during the quarterly contact phone call:
+
+                            •       Does the participant have a signed 1282 CLTC on file?
+                            •       Does the participant need to make a change to Form 1282
+                                    CLTC? If so, has the Revocation from been sent? Has the
+                                    Revocation form been received by the participant?
+                            •       If applicable, Does the participant have a signed Form 121 on
+                                    file?
+
+                            A waiver participant can appoint up to three (3) Authorized
+                            Representatives at a time. Should the waiver participant choose to
+                            appoint more than one Authorized Representative, they all share
+                            equal power to act on the participant’s behalf. There is no ranking or
+                            system of succession among the appointed Authorized
+                            Representatives.
+
+                            Information regarding a participant (including application status) can
+                            only be released to an appointed Authorized Representative. While
+                            SCDHHS cannot release information, we can accept information
+                            from sources other than the Authorized Representative.
+
+                            Documenting Authorized Representatives
+
+                            The Authorized Representative’s name is entered in Phoenix in the
+                            Caregiver Supports dashboard. The name of the Authorized
+                            Representative should be saved when uploading the completed Form
+                            1282 CLTC in Phoenix under the Authorized Representative Tab in
+                            Scans.
+
+
+
+
+Chapter 2-Assessment                                                                    Page 6
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                            November 1, 2022
+                             Confirming Authority of Authorized Representative
+
+                             The SCDHHS worker or Case Manager must review the Caregiver
+                             Supports Section to confirm an Authorized Representative Form is on
+                             file before releasing any information on the participant.
+
+
+         02.22.02      FORM 121– Consent Form
+
+                             Form 121 gives SCDHHS area office staff/contract Case
+                             Managers:
+
+                             •       authorization to receive information from providers and
+                             •       authorization to disclose information to providers and outside
+                                     agencies regarding waiver participants.
+
+                             By signing this form, the participant authorizes social service
+                             professionals, doctors, nurses, and other providers to release
+                             information to SCDHHS area staff/Case managers regarding the
+                             participant’s diagnosis and recommended treatment.
+
+                             This form also authorizes SCDHHS to release information to
+                             providers when referring the participant for care or treatment.
+
+                             This form also authorizes SCDHHS to inform Alzheimer’s
+                             disease and Related Disorders Registry of certain related
+                             diagnoses.
+
+                            This form also authorizes SCDHHS to release information to
+                            certain law enforcement agencies when there is a reasonable belief
+                            that the participant is a victim of abuse, neglect or exploitation.
+
+                             However, the participant may also indicate organizations,
+                             agencies or persons to whom their information should NOT be
+                             shared.
+
+                            For Adult Protective Services Cases (APS), if the SCDHHS area
+                            staff/contract Case manager is making the APS report for suspected
+                            abuse, SCDHHS can disclose information without a signed Form 121
+                            LTL. If SCDHHS area office staff did NOT make the APS referral
+                            and information is being requested, then Form 121 LTL is required.
+
+
+                            SCDHHS area staff/contract Case Managers are responsible for
+                            sending Form 121 LTL to outside agencies requesting information
+                            about a waiver participant. Form 121 LTL is mailed to outside
+                            agencies upon request.
+Chapter 2-Assessment                                                                     Page 7
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                           November 1, 2022
+
+
+                             A waiver participant may revoke or change this consent at any time
+                             by completing the Revocation of Authorization to Disclose
+                             Health Information.
+
+                             The Revocation of Authorization MUST include:
+
+                                 •   Name of the waiver participant
+                                 •   Name of the person who signed the authorization
+                                 •   date of signature
+                                 •   Effective date of the withdrawal/revocation
+                                 •   Signatures and date of the waiver participant or Legal
+                                     Representative
+                                         o If signed by a Legal Representative, documentation or
+                                             their authority must be attached (i.e., POA)
+
+                             Upon receipt of a Revocation of Authorization form, the SCDHHS
+                             area staff/Case Manager must 1) submit the form for legal review
+                             through Service Manager and 2) Scan the form to the Phoenix record.
+
+                             If an appointed Authorized Representative chooses to no longer act in
+                             that capacity, the Authorized Representative must contact the agency
+                             to inform them of their decision to no longer act as the Authorized
+                             Representative. The Case Manager should notify the participant that
+                             the Authorized Representative no longer wishes to act as their
+                             Authorized Representative.
+
+                             The following forms can be found in Phoenix Help and must be
+                             uploaded to the participant’s Phoenix record if applicable:
+
+                             •   Appointing an Authorized Representative Form 1282 LTL
+                             •   Authorization to Disclose Health Information Form 921
+                             •   Revocation of Authorization to Disclose Health Information
+                             •   Revocation of Appointing an Authorized Representative Form
+
+
+                             Note:   If a SCDHHS Worker is contacted by a non-authorized
+                                     representative, information can be obtained/received from
+                                     this person, but no information can be disclosed/given.
+
+     02.23      Individuals Who May Complete Pre-Admission Screening Assessment
+                Individuals who may complete an assessment are as follows:
+
+
+                1. SCDHHS worker.
+
+Chapter 2-Assessment                                                                   Page 8
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                                 November 1, 2022
+                2. Any person who is professionally involved in the applicant's case and is a
+                   nurse, social worker, social services worker, and/or physician.
+
+                No portion of the assessment can be completed by any person who is related to the
+                applicant.
+
+     02.24      How to Determine Who Will Complete the Assessment
+                The location of the applicant at the time of assessment may determine who will
+                complete the assessment.
+
+                An applicant located in a Medicaid certified long-term care facility will be assessed
+                by the staff of that facility. When an applicant is in a non-Medicaid certified facility,
+                the assessor will be determined by a Memorandum of Agreement (MOA) between
+                the SCDHHS Area Office and the Nursing Home Administrator.
+
+                If no agency is currently involved with the applicant or if that agency is unable to
+                complete the assessment, a SCDHHS worker will complete the assessment.
+
+                An initial waiver assessment may be completed on a hospitalized applicant by a
+                SCDHHS worker or by hospital staff trained to complete the CLTC assessment
+                tool.
+
+
+
+
+Chapter 2-Assessment                                                                          Page 9
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                           November 1, 2022
+
+
+  02.30    Timeliness Standards for Completion of an Assessment
+            When a referral is received for a Nursing Home applicant located in a hospital, the
+            SCDHHS worker must complete the assessment within five (5) business days of the case
+            assignment date.
+
+            When a referral is received for a Nursing Home applicant located in a nursing home or
+            community or a referral is received for a Community-Based applicant from any referral
+            source, the SCDHHS worker must complete the assessment within ten (10) business
+            days of the case assignment date.
+
+            Any exceptions to these timeframes must be documented in the narrative.
+
+            A level of care decision must be rendered within three (3) business days of the
+            assessment being complete. Assessment completion may be delayed beyond the
+            assessment date if additional information is needed from other knowledgeable sources.
+            The SCDHHS worker will document any reason for delay in assessment completion in
+            the narrative.
+
+            Note: Three (3) attempts, within a ten (10) business day timeframe, should be made to
+            complete the assessment. These attempts must be on different days at different times.
+            Each attempt must be narrated in Phoenix. After the third attempt, send out a CLTC
+            Notification Form 171 to the applicant/Authorized Representative including the appeals
+            notice. A copy of the Form 171 should also be sent to Medicaid Eligibility. If no
+            response is received within ten (10) business days, then terminate the application.
+
+
+
+
+Chapter 2-Assessment                                                                    Page 10
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                              November 1, 2022
+
+  02.40     Application Withdrawal
+            After intake, an applicant who does not appear to exhibit functional deficits can
+            withdraw application prior to or during the assessment process. The SCDHHS worker
+            will explain the level of care criteria and the reason why the applicant most likely does
+            not meet the criteria. If the SCDHHS worker and the applicant determine that application
+            withdrawal is appropriate, the CLTC Application Withdrawal Form, DHHS Form 150,
+            must be reviewed with the applicant and/or Authorized Representative and the signature
+            of the applicant and/or Authorized Representative can be requested. The SCDHHS
+            worker should not utilize the Application Withdrawal Form if there are any questions
+            about the applicant's ADL/Medical condition, or if the applicant/Authorized
+            Representative does not agree with the withdrawal of the application. Once the applicant
+            and/or Authorized Representative signs the form, the program application and case,
+            where applicable, will be terminated in the Status Changes section of Phoenix as
+            "Declined Participation." The SCDHHS worker will advise the applicant and/or
+            Authorized Representative that a new application can be made at any time and will
+            discuss possible community resources which may meet the applicant’s needs. In the
+            event the applicant and/or Authorized Representative declines to sign the form after it
+            has been explained or disagrees with the SCDHHS worker’s findings, the assessment
+            process must continue using established policy and procedures.
+
+
+
+
+Chapter 2-Assessment                                                                     Page 11
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                                November 1, 2022
+  02.50     Accurate Assessment Completion
+            The SCDHHS worker will contact the applicant and/or family, hospital, or agency, as
+            appropriate, to arrange for assessment completion on assigned cases. The SCDHHS
+            worker must document all attempts to schedule the assessment in the narrative record.
+            The SCDHHS worker may complete the assessment by conducting a face-to-face visit,
+            record review, or by a telephone interview. Phone assessment is not appropriate if
+            information received is not clear, the information received is questionable, or the Level
+            of Care is not clearly Intermediate or Skilled. In these situations, a face-to-face visit is
+            required. A face-to-face visit should be made if the applicant has impaired ability to
+            communicate due to hearing or speech impairment, language barrier or upon the
+            applicant’s request. The full Phoenix assessment will be completed when a face-to-face
+            assessment visit is completed. Additional input from the physician or knowledgeable
+            other(s) may be required.
+
+            The SCDHHS worker will obtain a signed Consent Form, DHHS Form 121, in Phoenix
+            when a face-to-face assessment visit is made. If a telephone interview is conducted, the
+            SCDHHS worker will obtain verbal consent. The verbal consent will be indicated on
+            the Consent Form, DHHS Form 121 and must be signed by the person receiving the
+            consent and one other witness. (A signed Consent Form, DHHS Form 121, in Phoenix
+            will be obtained at the Initial Visit by the on-going Case Manager.)
+
+            The SCDHHS worker will obtain a signed Participant Service Choice Form, DHHS
+            Form 164, in Phoenix when a face-to-face assessment visit is made. If a telephone
+            interview is conducted, the SCDHHS worker will obtain a verbal choice. The verbal
+            choice will be indicated on the Service Choice Form, DHHS Form 164, and must be
+            signed by the person receiving the service choice. (A signed Service Choice Form,
+            DHHS Form 164 in Phoenix will be obtained at the Initial Visit by the on-going Case
+            Manager.) The Service Choice Form does not require a witness signature.
+
+            The assessment form must be completed accurately, obtaining all available information.
+            Each applicable Phoenix section must be completed for both face-to-face and phone
+            assessments. The assessor should read the South Carolina Assessment & Level of Care
+            Manual for Medicaid-Sponsored Long-Term Care Services before completing an
+            assessment and reference help sections in Phoenix. Only assessment information
+            obtained and verified by the SCDHHS worker should be entered into Phoenix. Required
+            assessment sections are determined by the type of program application. Each program
+            designated section must be completed. It is the SCDHHS worker’s responsibility to
+            ensure that the assessment is properly completed before a level of care decision is
+            determined.
+
+            When the assessor has created a phone assessment in Phoenix, and then it is determined
+            that a face-to-face assessment is required, the assessor should complete a new
+            assessment in Phoenix.
+
+            Accurate assessment completion requires the assessor to ask comprehensive and
+            interview led questions. If accurate assessment information cannot be obtained during a
+            phone assessment, a face-to-face assessment is required. The assessor must attempt to
+Chapter 2-Assessment                                                                        Page 12
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                            November 1, 2022
+            involve the applicant as much as possible in the assessment process.
+
+            When an applicant is physically or mentally unable to participate in an interview, the
+            guardian, or Authorized Representative can be interviewed for completion of the
+            assessment. Assessors should complete the Mental Status Questionnaire (MSQ) to aid
+            in the determination of the applicant's mental awareness.
+
+            The assigned SCDHHS worker informs the applicant and/or Authorized Representative
+            of options concerning nursing home care or CLTC waiver services; obtains a Participant
+            Service Choice Form for CLTC waiver services, DHHS Form 164 and Consent Form,
+            DHHS Form 121; completes all appropriate sections/tabs in Phoenix; annotates the
+            Narrative and Narrative Checklist; completes correspondence as appropriate to referring
+            agency, applicant, and other individuals involved with the applicant; scans any forms
+            and documents to the appropriate scan tag and routes correspondence to the designated
+            Support Staff for mailing and/or filing as appropriate.
+
+            The designated Support Staff mails correspondence, and files as indicated.
+
+            The Medicaid category should be confirmed in Phoenix or in MMIS prior to
+            proceeding with the assessment. All information in the applicant’s information tab
+            should be completed and confirmed (social security number, Medicaid ID, address,
+            and phone number).
+
+            Note: Non-waiver supports, such as Home Health, should be verified by contacting the
+            providing agency and verifying services provided to avoid duplication of services. This
+            should include the service type/discipline, start of care date, and the frequency of
+            service.
+
+
+
+
+Chapter 2-Assessment                                                                     Page 13
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                                November 1, 2022
+02.60    Medical Information Completion
+
+        The Diagnoses/Conditions section of the Assessment is the medical summary. This section
+        must be completed on all applicants reviewed by SCDHHS for a final level of care
+        determination. The assigned SCDHHS worker completes all appropriate information in
+        Phoenix.
+
+        The SCDHHS worker should not delay the level of care decision in an effort to have
+        diagnosis/conditions section verified by a medical source. However, if the SCDHHS worker
+        is not able to identify reliable and accurate information, he/she should seek assistance from:
+        physician, physician's staff, hospital staff, medical record, home health agency, Authorized
+        Representative/applicant, and/or involved agencies. The SCDHHS worker is responsible for
+        obtaining the most reliable and accurate information available.
+
+        02.61   Obtaining Medical Information for Medically Ineligible Applicants
+                The Physician Input Letter should be obtained for participants/applicants who have a
+                skilled need or skilled service need without a complete functional deficit. The
+                SCDHHS worker will seek medical information from the physician or primary care
+                provider by mailing or faxing the Physician’s Input Letter and the CLTC Consent Form
+                121. The Physician’s Input Letter is available in Forms. The SCDHHS worker will add
+                the source of the medical information in the Phoenix Source of Information/Level of
+                Care section. The SCDHHS worker should consult with Central Office on difficult
+                cases that cannot be resolved in the local SCDHHS Area Office or on cases where
+                efforts to verify medical information from the physician or physician's staff have been
+                unsuccessful. The applicant cannot be closed as Medically Ineligible until receiving
+                input from the physician.
+
+                Three (3) attempts within ten (10) business days should be made with the physician’s
+                office to coordinate completion of the physician information form. If the form remains
+                incomplete after three (3) attempts within ten (10) business days, then additional
+                information can be obtained by phone from the physician’s office and narrated in
+                Phoenix. The assessment may be team discussed with the lead team nurse based on the
+                information that was provided to the SCDHHS worker during the initial assessment.
+
+                If a waiver applicant appears to be medically ineligible, the SCDHHS worker must
+                complete the following tasks:
+
+                •   Obtain medical information from the physician by mailing or faxing the
+                    Physician’s Input Letter and the CLTC Consent Form 121.
+
+                •   Contact the applicant/Authorized Representative for clarification as necessary
+                    which may include a face- to-face visit by a Nurse Consultant.
+
+                •   Conduct a team conference with another Nurse Consultant to reach a joint level of
+                    care decision.
+
+
+Chapter 2-Assessment                                                                       Page 14
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                               November 1, 2022
+             •    If an applicant is Medically Ineligible after assessment and completion of the
+                  Physician Information Form, the nurse should send the case to the Area
+                  Administrator and/or the Lead Team Nurse for review prior to closing the case as
+                  Medically Ineligible. If the Level of Care remains in question, it should be sent to
+                  the Central Office Designee for further review.
+
+              •   If a level of care decision cannot be reached, consult with the Area Administrator.
+                  If efforts to verify medical information with the physician are unsuccessful, (i.e.:
+                  unable to obtain a completed MD Input Form) the case may be staffed with the
+                  Area Administrator based current information available. If the SCDHHS worker
+                  and the Area Office Administrator are unable to make a level of care
+                  determination, forward case to the Waiver Service Exception group for final level
+                  of care determination.
+
+              •   Complete the Level of Care section in Phoenix.
+
+             Note: The assessor should not sign the Source of Information/ Level of Care tab until
+             all assessment information has been obtained. This marks assessment completion. The
+             reviewer will sign and date following the level of care team conference unless the case
+             will be sent for Central Office review. In these cases, the reviewer will not sign until a
+             final level of care determination is made. Level of Care Exceptions made by Central
+             Office require a third signature.
+
+              •   Discuss Level of Care decision and possible alternatives with applicant and/or
+                  Authorized Representative.
+
+              •   Create and send a CLTC Notification Form 171 to Central Medicaid Eligibility
+                  to notify them of the case closure.
+
+              •   Send a Client Notification Form, including the appeals notice, to the
+                  applicant/Authorized Representative informing them of case closure.
+                  Applicant/Authorized Representative has ten (10) business days to respond
+                  from the date of the notification.
+
+              •   Document all activities in the Narrative.
+
+              •   Terminate the application effective date of case closure.
+
+
+
+
+Chapter 2-Assessment                                                                      Page 15
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                                  November 1, 2022
+
+
+
+02.70   Pre-Admission Review for Waiver Enrollment
+        Pre-admission review is completed by a SCDHHS worker for an applicant who applies for
+        waiver enrollment. Policy and procedure must be followed for intake, assessment, level of
+        care, and Medicaid financial eligibility.
+
+        The pre-admission review information must provide accurate and comprehensive information.
+        The Assessment must present a clear picture of the applicant's medical, skin/nutrition,
+        functional abilities, and communication/psycho-behavioral status. In addition, the following
+        information must be addressed and documented in the applicant’s record by the SCDHHS
+        worker:
+
+        •        Setting during interview process, including persons present, applicant involvement in
+                 assessment process and explanation of CLTC program. If the assessment is completed
+                 by phone, indicate the individuals participating in the phone interview.
+
+        •        Special alerts, including pets in the home, type of pets and if the pets are dangerous or
+                 bite, smoking in the home and oxygen in use, and reports of bedbugs in the home.
+
+
+        During face-to-face or phone assessments, the SCDHHS worker will verify the accuracy of all
+        information in the Participant Information section.
+
+                •     If the assessment is completed by home visit, a CLTC brochure will be provided
+                informing the applicant/Authorized Representative of available waiver services. If the
+                assessment is completed by phone, the SCDHHS worker will explain the available
+                waiver services verbally.
+                •
+                If the assessment occurs in the home, the SCDHHS worker completes the Home
+                Assessment, Caregiver Supports and the Medication tab.
+                The SCDHHS Area Office and SCDHHS worker’s contact information will be provided.
+                Referrals should be made to other agencies for the immediate needs of the applicant as
+                appropriate, i.e., Adult Protective Services. Any referrals made on the applicant’s behalf
+                will be documented in the narrative.
+
+            If the applicant does not enroll in the waiver within thirty (30) calendar days of the initial
+            assessment, a new assessment must be completed. The SCDHHS worker must contact the
+            applicant and/or Authorized Representative to confirm the information obtained in the
+            assessment and document this contact in the narrative. (It may be necessary to re-verify
+            Medicaid financial eligibility depending on the amount of time the case has been pending.)
+            This contact must be made before the case is transferred to the Case Manager II for waiver
+            entry and service plan development.
+            If the applicant appears to be medically ineligible at any time while the case is pending, a
+Chapter 2-Assessment                                                                          Page 16
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                                  November 1, 2022
+         face-to-face visit must be made to complete a new assessment and re-determine the level of
+         care.
+
+         The date the applicant is determined to be eligible (level of care, location of care, Medicaid
+         financially eligible, wants to participate in the waiver, and slot available) to enter the waiver
+         must be documented in the narrative by the SCDHHS worker.
+
+         The SCDHHS worker must call to confirm the participant’s location prior to the transfer
+         conference and enrollment.
+
+         The SCDHHS worker and the Case Manager II must team staff the assessment information
+         for service plan development and to enter the case into the waiver within five (5) business
+         days of the applicant becoming eligible. Any delays in case transfer must be documented
+         in the narrative.
+
+         The SCDHHS worker completes a narrative entry documenting the team conference with
+         the Case Manager II was held.
+
+         Note: The applicant must be enrolled in the waiver by the Case Manager II on the same day
+         of the SCDHHS worker/Case Manager conference.
+
+         The enrolling Case Manager II must complete the following tasks on the date of enrollment
+         which is the same date of the transfer conference:
+
+         •    Narrate the transfer conference with the SCDHHS worker
+
+         •   Change the Participant Status to “participating” in Phoenix,
+
+
+         •    Notifies the designated CLTC Support Staff for RSP indicator entry. The RSP entry
+              must be completed within four (4) business days of the waiver enrollment date.
+
+         NOTE: Send a CLTC Notification Form to the participant, and/or Authorized
+            Representative after contact with them to notify of the waiver enrollment.
+
+
+
+
+Chapter 2-Assessment                                                                          Page 17
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 2 – Assessment Procedures                                               November 1, 2022
+
+02.80   Transfer of Pending Waiver Applicant to another CLTC Region
+
+         When a pending waiver applicant, who has been assessed by a SCDHHS worker, moves to
+         another CLTC region, the transfer conference may be accomplished by telephone between
+         the transferring region SCDHHS worker and the receiving region Case Manager II. This
+         policy applies to an eligible applicant (level of care, location of care, Medicaid financially
+         eligible, wants to participate and waiver slot available.)
+
+         Note: If dis-enrollment from a non-compatible waiver or managed care plan is necessary,
+            this must be completed online, and the change reflected in Phoenix by the transferring
+            SCDHHS worker prior to the transfer.
+
+         The SCDHHS worker will initiate the Phoenix transfer process and will remain assigned to
+         the applicant in pending waiver status until the transfer telephone conference is completed
+         with the receiving SCDHHS Area Office. The transferring SCDHHS worker will ensure all
+         forms or documents not completed in Phoenix are scanned to the participant’s Phoenix
+         record. Once the transferring office cues Phoenix to transfer the case, the transferring CLTC
+         Regional Office Case Management Team and Support Staff will no longer have access to
+         the record. Note: Nurse Consultants have statewide Phoenix access. The transferring
+         SCDHHS worker should complete all actions before cueing the Phoenix transfer. The
+         receiving Case Manager II routes the information to the Support Staff who will mail any
+         items to be sent to the participant and/or Authorized Representative.
+
+         The Designated Support Staff makes the appropriate copies as directed and routes to the
+         designated persons/agencies.
+
+
+
+
+Chapter 2-Assessment                                                                       Page 18
+

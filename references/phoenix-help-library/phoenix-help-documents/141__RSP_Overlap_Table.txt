@@ -1,0 +1,65 @@
+RSP Overlap Table
+Code         AUTW AUTS CHPC CLTC CSWE CSWN DMRE DMRN                   HIVA   MCSC VENT HSCE HSCN      ISED   MCHS MCHM MCPC MCCM WMCC PCSC                PRTF   FOST MCPR TBBH TBRS NFPW TFCP COCP MFPP
+
+AUTW                           x                                                                        x       x              x      x                                     x       x      x       x    x   x
+AUTS                           x       x      x       x        x   x    x                x       x      x       x      x              x       x       x      x       x              x      x       x    x   x
+CHPC           x       x               x      x       x        x   x                     x       x      x       x      x              x       x       x              x              x      x       x    x   x
+CLTC                           x                                                                        x       x              x      x                                     x       x      x       x    x   x
+CSWE                   x       x                                                                        x       x              x      x                                             x      x       x    x   x
+CSWN                   x       x                                                                        x       x              x      x                                             x      x       x    x   x
+DMRE                   x       x                                                                        x       x              x      x                                             x      x       x    x   x
+DMRN                   x       x                                                                        x       x              x      x                                             x      x       x    x   x
+HIVA                   x                                                                                x       x              x      x                                     x       x      x       x    x   x
+MCSC
+
+VENT                                                                                                            x              x      x                                     x       x      x       x    x   x
+HSCE                   x       x                                                                        x       x              x      x                                             x      x       x    x   x
+HSCN                   x       x                                                                        x       x              x      x                                             x      x       x    x   x
+ISED           x       x       x       x      x       x        x   x    x                x       x              x      x              x       x       x      x       x              x      x       x    x   x
+MCHS           x       x       x       x      x       x        x   x    x           x    x       x      x                      x      x       x       x                    ***      x      x       x            x
+MCHM                   x       x                                                                        x                      x                                     x              x      x       x    x   x
+MCPC           x                       x      x       x        x   x    x           x    x       x              x      x              x       x                             x       x      x       x    x   x   x
+MCCM           x       x       x       x      x       x        x   x    x           x    x       x      x       x              x              x              x       x              x      x       x    x   x
+WMCC                   x       x                                                                        x       x              x      x                                             x      x       x    x   x
+PCSC                   x       x                                                                        x       x                                            x                      x      x            x   x
+PRTF                   x       x                                                                        x                             x               x                     x       x      x       x    x   x
+FOST                   x       x                                                                        x              x              x                                             x      x       x    x   x
+MCPR           x                       x                                x           x                          ***             x                             x                      x      x       x            x
+TBBH           x       x       x       x      x       x        x   x    x           x    x       x      x       x      x       x      x       x       x      x       x      x                      x    x   x   x
+TBRS           x       x       x       x      x       x        x   x    x           x    x       x      x       x      x       x      x       x       x      x       x      x                      x    x   x   x
+NFPW           x       x       x       x      x       x        x   x    x           x    x       x      x       x      x       x      x       x              x       x      x       x      x            x   x
+TFCP           x       x       x       x      x       x        x   x    x           x    x       x      x              x       x      x       x       x      x       x              x      x       x        x
+COCP           x       x       x       x      x       x        x   x    x           x    x       x      x              x       x      x       x       x      x       x              x      x       x    x
+MFPP                                                                                                            x              x                                            x       x      x
+             An "X" indicates that the programs can overlap.                             ***At time of MCPR enrollment recipient cannot be in MCHS, but can be added to MCHS after enrollment in MCPR
+             Note: Managed Care RSP's must begin with MC
+
+
+  08/25/16
+         RSP    Proc                                                          RSP    Proc                                                                 RSP    Proc
+ Code    Ind     Ind   Definition                                     Code    Ind     Ind   Definition                                            Code    Ind     Ind Definition
+AUTS      Y        -   Autism Non-Waiver                             HIVA      F       B    CLTC HIV AIDS                                        MFPP      W       N  Money Follows Person Program (Home Again)
+AUTW      8       A    Autism Waiver                                 HSCE      S       H    Head and Spinal Cord/Established                     PCSC      7          Palmetto Coordinated System of Care
+CHPC      H       C    CLTC Children's PCA                           HSCN      T       H    Head and Spinal Cord/New                             PRTF      9          Alternative Psychiatric Facility
+CLTC      A       E    CLTC Elderly Disabled                         ISED       I      6    Interagency Sys. of Care for Emot. Dist. Ch.                              Demonstry Project
+COCP      P        -   Continuum of Care Program                     MCCM      5        -   Primary Care Case Management/MHN                     TBRS      2        - Tuberculosis Related Services
+CSWE      D       W    Community Supports Waiver-Established         MCHM      N       8    MANAGED CARE/HCK                                     TBBH      Q        - Tuberculosis Bio Hazard
+CSWN      C       W    Community Supports Waiver-New                 MCHS      K       7    Hospice                                              TFCP      B        - Therapeutic Foster Care Program
+DMRE      M       5    DMR Waiver/Established                        MCPC      Z        -   Integrated Personal Care Services                    VENT      V       V  CLTC Ventilator Waiver
+DMRN      L       5    DMR Waiver/New                                MCPR      R        -   Dual Eligible Prime                                  WMCC      3       S  Medically Complex Children's Waiver
+FOST      E            Foster Care                                   MCSC      J       P    PACE                                                 NFPW      X          Nurse Family Partnership
+
+
+
+
+10/13 Allow overlap between CHPC and CWSE, CSWN                                                                                            03/14 Added FOST for Foster Care TT13347 (13385) (11791)
+4/09 Allow overlap between Medically Complex Children's Waiver (WMCC) and Hospice (MCHS)                                                   04/15 New RSP for Non-Waiver Autism Spectrum Disorder (TT18613)
+3/31/09 Revised to add Community Supports Waiver                                                                                           12/15 New RSP for Nurse Family Partnership (TT24883)
+1/15/2009        Replaced PSCA with MCSC (PACE)                                                                                            01/16 New RSP TFCP for Therapeutic Foster Care children
+1/1/200'9        Replaced SCCH (SC Choice) with Medically Complex (WMCC)                                                                   01/16 New RSP COCP for Continuum of Care children
+1/16/08 Revised to add PRTF per SW8003                          9/15/06 Revised to ADD AUTW (per SW 06031)                                 01/16 New RSP MFPW for Money Follows Person (Home Again) waiver
+1/14/2008 Revised to add HOAD and HOAP (per SW 07042)           6/30/06 Revised to allow overlap between MCHM and MCHS (per SW06020)       01/16 Remove COSY, HOAD, HOAP, MCFC, NCNF, MCPP, NRTR, WAHS
+1/19/07 Revised to remove SCCH per program area.                  (per SW06020)                                                            05/16 Added COCP, TFCP, MFPP and overlaps (TT26019)
+1/2/07 Revised to add overlap for 1915c Waivers to MCCM (per SW07002)                                                                      08/16 Added PCSC
+10/14 Added TBBH and TBRS for Tuberculosis Services TT15028 (13230)
+

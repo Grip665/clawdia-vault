@@ -1,0 +1,61 @@
+        Eligibility Determination
+
+• From the Home screen, Click “Dashboard”
+         Eligibility Determination
+Dashboard
+• On the dashboard, “Notifications”, “Recently Closed Workflows,
+  and “Closed Workflows” can be viewed by clicking the Tabs
+• Participants on the Dashboard can be sorted by (County/CLTC#,
+  SSN/Med#, Name, Eligibility Category, Referral Source, Applied
+  To CLTC On, Workflow Status, or Last Updated). To sort, click any
+  header
+          Eligibility Determination
+Dashboard
+• Under “My Workflows”, the number of entries can be increased to
+  display more result. Click “Show entries” drop down box. Entries can be
+  displayed (10,25,50, or 100) increments
+• To be the next or previous page, click the (page number, First, Previous,
+  Next or Last) Tabs
+• Entering Information such as (Name, County, SSN/Med#, etc.) in the
+  “Search” field can be used to filtered results
+         Eligibility Determination
+Starting Eligibility Determination
+• On the dashboard, select the “Workflow Status” for the participant
+            Eligibility Determination
+Starting Eligibility Determination
+• From the Eligibility Workflows Screen, you can select Receive
+   Application, Deny Application, Close Workflow, Add Comment,
+   and/or Update Status Note
+        Eligibility Determination
+Starting Eligibility Determination
+• If Application is received, you can Approve Application, Deny
+   Application, Request More Info, Close Workflow, Add
+   Comment, and/or Update Status Note
+           Eligibility Determination
+Updating Eligibility Information
+• From the Eligibility Workflow screen, Eligibility Category,
+  Eligibility Waiting Period, Medicaid Number, and Income
+  Trust can be updated for the participant
+• Click “Save Approval Info”
+• If changes need to be made, select “Unapprove” to remove
+  previous eligibility information
+        Eligibility Determination
+Requesting Additional Information
+• If more information is needed, Add message in comment section,
+  click “Add Comment” then select Request More Info
+        Eligibility Determination
+Requesting Additional Information
+• When requested information is received, then click “Requested
+  Information Received”
+          Eligibility Determination
+Denying an Application
+• From the Workflow screen click “Deny Application”
+• Enter reason for denial in the “Eligibility denial reason” drop down box.
+• If Eligibility denial reason is “Other”, then describe reason in the “Other
+  Reason” Field
+         Eligibility Determination
+Denying an Application
+• Click “Save Denial Info”
+• Clicking “Undeny” will remove previous denial information and return
+  the application back to the Eligibility Workflow screen
+

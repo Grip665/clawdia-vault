@@ -1,0 +1,456 @@
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 3 – Level of Care Procedures                                                                           November 1, 2022
+
+
+                                           TABLE OF CONTENTS
+
+
+03.10              Introduction ................................................................................................................ 2
+
+03.20      Level of Care Policy and Procedure ..................................................................................... 3
+
+         03.21       The Level of Care Determination Process ............................................................... 3
+
+         03.22       Medically Ineligible ................................................................................................. 4
+
+         03.23       Timeliness Standard ................................................................................................. 6
+
+         03.24       Level of Care Determination for Hospital-Based Applicants .................................. 7
+
+                   03.24.10         Medicare Referral .................................................................................... 8
+
+                   03.24.20          Hospice Interaction with Nursing Facility Certification ........................ 9
+
+Quick Reference for Level of Care Checklist .................................................................................. 10
+
+
+
+
+_____________________________________________________________________________________
+Chapter 3- Level of Care                                                        Page 1
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 3 – Level of Care Procedures                                          November 1, 2022
+
+03.10         Introduction
+
+              Level of Care determination is the process of identifying the extent of a person's
+              medical, psycho-behavioral, and functional abilities in keeping with the South
+              Carolina Level of Care Criteria for Medicaid-Sponsored Long-Term Care. By
+              applying these criteria, an applicant's requirement for skilled or intermediate care can
+              be determined.
+
+
+
+
+_____________________________________________________________________________________
+Chapter 3- Level of Care                                                        Page 2
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 3 – Level of Care Procedures                                           November 1, 2022
+
+03.20    Level of Care Policy and Procedure
+
+        03.21    The Level of Care Determination Process
+
+                Following assessment completion, an SCDHHS worker authorized to complete
+                level of care team staffing evaluates the applicant's assessment. To clarify the
+                assessment information, the SCDHHS worker may consult with the applicant
+                and/or Authorized Representative, physician, hospital/nursing home assessor, and
+                approved SCDHHS team member with regard to medical, psycho- behavioral, and
+                functional information. A complete Phoenix assessment or review of a completed
+                1718 and/or review of medical records submitted by the facility are required to
+                determine level of care.
+
+
+                Once the SCDHHS worker determines that adequate information has been
+                obtained to make a level of care decision, an SCDHHS worker team conference
+                is held to discuss the case. The level of care recommended in Phoenix is considered
+                during the team conference. A final level of care is determined from the team
+                conference and assigned in accordance with the South Carolina Level of Care
+                Criteria for Medicaid-sponsored Long-Term Care. If the level of care determined
+                at the team conference is not the level of care recommended by Phoenix, the level
+                of care must be reviewed by the Area Administrator or Lead Team Nurse
+                Consultant. The third signature must be completed by Central Office. Submit
+                Central Office requests to the Waiver Service Exception Group via email at
+                WES@scdhhs.gov.
+
+
+                If the level of care is tentative, the SCDHHS worker annotates the tentative level
+                of care in the narrative and sends the tentative level of care to the appropriate
+                entity. The SCDHHS worker will not complete the level of care section for a
+                tentative level of care. The assessment will be updated, and a final level of care
+                should be signed by the SCDHHS worker team upon the final level of care
+                determination. If the SCDHHS worker team is unable to determine the level of
+                care, the SCDHHS worker annotates this in the narrative, including the reason for
+                the inability to reach a decision. If the team was unable to determine level of care
+                or if the physician insists that the applicant requires long term care services, the
+                team should confer with the Area Administrator and/or the designated Lead
+                Team. The Area Administrator may recommend that the case be forwarded to
+                Central Office for input/determination of the level of care. (See also 3.22 if the
+                level of care appears to be Medically Ineligible.)
+
+
+                The level of care and the justification for the level of care determination must be
+                properly documented by the SCDHHS worker in the Phoenix narrative.
+
+_____________________________________________________________________________________
+Chapter 3- Level of Care                                                        Page 3
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 3 – Level of Care Procedures                                          November 1, 2022
+
+              The SCDHHS worker should inform the applicant, and/or Authorized
+              Representative, and the referral source, if appropriate, of the level of care using
+              the CLTC Notification Form 171. The CLTC Notification Form 171 must also be
+              sent to Medicaid Eligibility.
+
+
+              For Nursing Home conversions, the Assessment Consultant and SCDHHS
+              worker can sign as both the assessor and reviewer. However, nursing home
+              placements require team staffing.
+
+
+              Nursing Home preadmission assessments may be completed by phone for
+              applicants residing in the community. If the level of care (LOC) is questionable
+              or the applicant requests a face-to-face assessment, then a home visit must be
+              made. For more information, refer to Chapter 8, section 08.51.20, section 08.52,
+              section 08.56.10, and section 08.57.
+
+
+              Level I PASRRs may be completed by the SCDHHS worker via telephone. For
+              more information, refer to Chapter 9, section 09.21.
+
+      03.22    Medically Ineligible
+
+              If upon the assessment visit, an applicant appears to be medically ineligible, and
+              chooses to proceed with the assessment, the SCDHHS worker will seek medical
+              information from the physician by mailing or faxing the Physician’s Input Letter
+              and the CLTC Consent Form 121. Three (3) attempts within ten (10) business days
+              should be made to contact the physician’s office to obtain medical information for
+              the Physician’s Input Letter and the CLTC Consent Form 121. These attempts
+              must be clearly documented in Phoenix narratives. No entries should be entered
+              on the “source of information/Level of Care” section in Phoenix until information
+              is received from the physician. If the physician does not respond in the allotted
+              time frame, the assessment may be discussed with another approved nurse with the
+              information available.
+
+
+              Evaluation of the medical information (See Chapter 2, Section 02.60.10) obtained
+              from the physician will ensure that the applicant is at the appropriate level of care
+              and that the case record is complete for possible appeal proceedings.
+
+
+              Once an applicant has been determined to be medically ineligible, the applicant is
+              ineligible for CLTC services and for Medicaid-sponsored nursing home
+              placement. However, determination of medical ineligibility does not mean that the
+              applicant cannot be admitted to a long-term care facility under some other payment
+              source.
+_____________________________________________________________________________________
+Chapter 3- Level of Care                                                        Page 4
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 3 – Level of Care Procedures                                          November 1, 2022
+
+
+
+             When an applicant has been determined to be medically ineligible, a Level of Care
+             Certification DHHS Form 185 for nursing home application, or a CLTC
+             Notification Form 171, for community-based waivered services application, is
+             used to formally notify the applicant and/or Authorized Representative of this
+             decision. This denial informs all individuals involved in the application process
+             that the applicant is ineligible for Medicaid reimbursed skilled or intermediate
+             care. This notification must include the appeals notice and the reason for the denial.
+             A copy of the Certification DHHS Form 185 or CLTC Notification Form 171 must
+             also be sent to Medicaid Eligibility.
+
+
+             If the applicant appears to be medically ineligible at any time while the case is
+             pending, a visit must be made to the applicant to re-determine the level of care.
+             The case should be reviewed with the designated Lead Team or Area
+             Administrator prior to rendering a final decision. If the Area Administrator
+             determines the case requires further review, it should then be referred to the
+             Waiver Service Exceptions Group (via mail WES@scdhhs.gov) for a final level
+             of care decision. All applicants who have a skilled need or require a skilled
+             service in absence of a functional deficit must be referred to the Waiver Service
+             Exceptions Group (via email WES@scdhhs.gov) for a level of care
+             determination. Once the level of care is determined by the Waiver Service
+             Exceptions Group, the Waiver Service Exceptions Group will notify the SCDHHS
+             worker of the Level of Care Determination and the required third signature may
+             be signed by the Area Administrator, Lead Team or Central Office Designee.
+
+             Special efforts should be made to discuss the level of care decision and possible
+             alternatives with the applicant and/or Authorized Representative. The SCDHHS
+             worker should inform the applicant to contact CLTC Area Office if there is a
+             change in the applicant’s health status during the determination process.
+
+             If the applicant’s final level of care determination is medically ineligible, the team
+             signs the final level of care in the Assessment level of care section of Phoenix. The
+             SCDHHS worker terminates the program application in Phoenix. A CLTC
+             Notification Form 171 or a Level of Care Certification DHHS Form 185 is
+             prepared and forwarded. The SCDHHS worker completes correspondence as
+             appropriate to applicant, scans any forms and documents to the appropriate scan
+             tag and routes to
+             the designated support staff for mailing.
+
+
+             If someone is suspected of being medically ineligible, the assessor should not enter
+             data on the Level of Care page in Phoenix until all information is received from
+             the physician and other sources and the case is actually discussed/staffed as being
+
+_____________________________________________________________________________________
+Chapter 3- Level of Care                                                        Page 5
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 3 – Level of Care Procedures                                          November 1, 2022
+
+              medically ineligible. If an applicant is suspected of being medically ineligible, the
+              Level of Care page cannot truly be completed to any degree until all information
+              received.
+
+
+      03.23    Timeliness Standard
+
+              From the point that the assessment information is complete and adequate to
+              determine the level of care, the level of care must be determined and documented
+              within three (3) business days.
+
+
+              There may be times when clarification of an applicant’s medical condition or
+              additional information is indicated and may interfere with the established time
+              frames. Any exceptions of these frames must be documented in the Narrative.
+
+
+              The initial waiver level of care must be team conferenced by two SCDHHS
+              workers. The date of the assessor’s signature is the date the assessment
+              information is complete. The date of the reviewer’s signature and level of care date
+              is the date of the team conference. (For waiver participants, see also Chapter 5,
+              Section 05.38.)
+
+              NOTE: Once a tentative level of care is established, the assessment is to be
+              completed and final level of care issued within thirty (30) calendar days. The
+              timeliness standard to obtain all necessary documents on a tentative level of care
+              is thirty (30) calendar days.
+
+
+              The application for hospitalized applicants should be terminated if discharge
+              is not imminent after thirty (30) calendar days using the closure reason,
+              Tentative LOC > 30 days. Phoenix will not automatically close a tentative level
+              of care after thirty (30) calendar days.
+
+
+              If the final level of care assessment is not completed within thirty (30) calendar
+              days, Phoenix will automatically archive the assessment but will keep the
+              application opened. The SCDHHS worker will close the application as
+              appropriate.
+
+
+              The timeliness standard for Out of State applicants to move in State is sixty (60)
+              calendar days. If the applicant has not moved in State within sixty (60) calendar
+              days, then use closure reason “Did Not Relocate”. (see Chapter 8, Section
+              08.55.10)
+
+_____________________________________________________________________________________
+Chapter 3- Level of Care                                                        Page 6
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 3 – Level of Care Procedures                                          November 1, 2022
+
+
+
+              The timeliness standard for Managed Care applicants is forty-five (45) calendar
+              days for placement from the hospital to a facility. Closure reason is Tentative LOC
+              > 30 days. (see Chapter 8, Section 08.34)
+
+      03.24    Level of Care Determination for Hospital-Based Applicants
+
+              For hospital-based applicants seeking nursing home admission or community-
+              based services, the level of care determined by the SCDHHS worker team, prior
+              to discharge, will be a tentative level of care. A visit or telephone interview with
+              the applicant and/or Authorized Representative or other knowledgeable entity is
+              required on the initial tentative level of care to secure or verify assessment
+              information and obtain written choice for location of care for community-based
+              services. When the assessment is completed by telephone interview, supporting
+              medical documentation must be obtained from the hospital. This may include
+              history and physical, nursing notes, therapy notes, laboratory/medical test results,
+              etc. This tentative level of care is especially helpful to hospital discharge
+              planners/social workers, applicants, and/or Authorized Representatives as nursing
+              home placement is pursued. The tentative level of care must be documented in the
+              Narrative. The team's tentative level of care decision must be transmitted by the
+              CLTC Notification Form 171 to the hospital discharge planner/social worker and
+              applicant and/or Authorized Representative. The SCDHHS worker instructs the
+              designated Support Staff to mail the form as indicated.
+
+
+              Once a tentative level of care has been established, the assessment information
+              must be reviewed when nursing home placement is imminent to verify the
+              applicant's status and condition.
+
+              The hospital discharge planner must call the SCDHHS worker on the day of
+              discharge to review the applicant's condition with a SCDHHS worker. If the
+              condition of the applicant has not changed significantly since the tentative level of
+              care was determined, the team can proceed with completing the Source of
+              Information/Level of Care section in Phoenix without additional assessment or
+              discussions. This also applies if the applicant's functional status has not changed
+              since the tentative level of care, but skilled services have been decreased or
+              discontinued. The tentative team conference Narrative must include the skilled
+              service and what the level of care would be if skilled service discontinued. If the
+              discharge planner does not inform the SCDHHS worker of the level of care prior
+              to discharge, then the assessment will remain incomplete. A new referral would
+              be created and the pre-admission screening packet from the nursing home is
+              required.
+
+
+_____________________________________________________________________________________
+Chapter 3- Level of Care                                                        Page 7
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 3 – Level of Care Procedures                                        November 1, 2022
+
+             The final level of care must be conferenced by two SCDHHS workers if there has
+             been a significant change (level of care change). The team member completes a
+             dated signature for the level of care and the assessor enters the completed level of
+             care in Phoenix.
+
+
+             At discharge, a Level of Care Certification, DHHS Form 185, will be completed
+             by the SCDHHS worker and forwarded to the appropriate parties by the
+             SCDHHS worker and/or Support Staff. It is the admitting nursing facility’s
+             responsibility to ensure that an applicant has a valid certification and a Level I
+             PASRR Screening prior to or at the time of admission.
+
+         03.24.10    Medicare Referral
+
+                    Medicare hospital insurance can help pay for inpatient care in a Medicare-
+                    certified skilled nursing facility.
+
+                    To qualify for Medicare-sponsored nursing home placement, the applicant
+                    must be eligible for Medicare/Part A benefits.
+
+
+                    •       The beneficiary must be an inpatient of a hospital for a medically
+                            necessary stay for at least three (3) consecutive calendar days;
+                            (Medicare – Medicaid Plan (PRIME) members do not have to meet this
+                            three (3) consecutive calendar day requirement).
+
+                    •       Services must be needed for a condition which was treated during the
+                            applicant's qualifying hospital stay, or by a condition which arose while
+                            the applicant was in the facility for treatment of a condition previously
+                            treated in the hospital;
+
+                    •       Applicant must be admitted to a participating skilled nursing facility
+                            within thirty (30) calendar days of discharge from an inpatient
+                            hospital stay where they must require and receive a covered level of
+                            care;
+
+                    •       Applicant requires skilled nursing services or skilled rehabilitation
+                            services;
+
+                    •       Applicant requires a single goal-directed therapy or a combination of
+                            goal-directed therapy services five (5) sessions per week;
+
+                    •       Daily skilled services can be provided only on an inpatient basis in a
+                            skilled nursing facility; and,
+_____________________________________________________________________________________
+Chapter 3- Level of Care                                                        Page 8
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 3 – Level of Care Procedures                                         November 1, 2022
+
+
+                    •        The services must also be reasonable and necessary for the treatment
+                             of an applicant's illness or injury and be furnished under orders from a
+                             physician. The services must be reasonable in terms of duration and
+                             quantity.
+
+                    Applicants who appear potentially eligible for extended care benefits
+                    should be identified and the hospital should be instructed via the CLTC
+                    Notification, to pursue Medicare reimbursement. A Level of Care
+                    Certification for Medicaid-sponsorship is not issued for Medicare cases.
+
+         03.24.20       Hospice Interaction with Nursing Facility Certification
+
+                    If an applicant receives a Medicare qualifying skilled service for a
+                    condition unrelated to the terminal diagnosis, Medicare will pay the
+                    nursing facility and the hospice benefit.
+                    If an applicant receives a Medicare qualifying skilled service for a
+                    condition related to the terminal diagnosis, Medicare will only pay the
+                    hospice benefit. In this situation, CLTC will certify for Medicaid if
+                    Medicaid criteria is met.
+
+
+                    If the applicant is not Medicare eligible, certify as usual.
+
+
+
+
+_____________________________________________________________________________________
+Chapter 3- Level of Care                                                        Page 9
+    SCDHHS
+    Community Choices Policy and Procedure Manual
+    Chapter 3 – Level of Care Procedures                                                                  November 1, 2022
+
+
+
+                                         Quick Reference for Level of Care Checklist
+
+Skilled Services (SKS)
+SKS 1. Daily monitoring/observation and assessment due to an unstable medical condition which may include overall management
+          and evaluation of a care plan which changes daily or several times a week.
+SKS 2. Administration of medications which require frequent dosage adjustment, regulation, and monitoring.
+SKS 3. Administration of parenteral medications and fluids which require frequent dosage adjustment, regulation, and monitoring.
+          (Routine injection(s) scheduled daily or less frequently [such as insulin injection] do not qualify.)
+SKS 4. Special catheter care (e.g., frequent irrigation, irrigation with special medications, frequent catheterizations for specific
+          problems.)
+SKS 5. Treatment of extensive decubitus ulcers or other widespread skin disorder. (Important considerations include: Signs of
+          infections, full thickness tissue loss, or requirement of sterile technique)
+SKS 6. A single goal-directed rehabilitative service (speech, physical, or occupational therapy) by a therapist 5 sessions per week.
+          Combinations of therapies will satisfy this requirement.
+SKS 7. Time-limited, goal-directed, educational services provided by professional or technical personnel to teach self-maintenance,
+          such as education for newly diagnosed or acute episodic conditions (e.g., medications, treatments, procedures).
+SKS 8. Nasogastric tube or gastrostomy feedings.
+SKS 9. Nasopharyngeal or tracheostomy aspirations or sterile tracheostomy care.
+SKS 10. Administration of medical gases (e.g., oxygen) for the initial phase of condition requiring such treatment, monitoring
+          and evaluation (generally no longer than two-week duration).
+SKS 11. Daily skilled monitoring or observation for conditions that do not ordinarily require skilled care, but because of the
+          combination of conditions, may result in special medical complications. In these situations, the complications and the skilled
+          services required must be documented.
+SKS 12. This individual is totally dependent in all activities of daily living: incapable of locomotion; unable to transfer; totally
+          incontinent of urinary or bowel function; must be totally bathed and dressed and toileted and need extensive assistance to
+          eat.
+
+A person must need at least one of the numbered skilled services (Items 1-11, adapted from the Medicare requirements at 42 C.F.R.
+409.32-35 [1993]) and have at least one of the numbered functional deficits listed below to qualify for skilled level of care. A person
+needing item #12 by itself qualifies for skilled level of care because this represents a total care individual. In order to qualify as a
+skilled service, the service must be ordered by a physician, require the skills of professional or technical personnel, and be furnished
+directly by or under the supervision of such personnel [42 C.F.R. 409.31-35 (1993).] The need for skilled services must be clearly
+documented in the client's record.
+
+Intermediate Services (IS)
+IS 1.    Daily monitoring of a significant medical condition requiring overall care planning in order to maintain optimum health
+         status. The individual should manifest a documented need, which warrants such monitoring.
+IS 2.    Supervision of moderate/severe memory, either long or short term, manifested by disorientation, bewilderment, and
+         forgetfulness which requires significant intervention in overall care planning.
+IS 3.    Supervision of moderately impaired cognitive skills manifested by decisions which may reasonably be expected to affect an
+         individual's own safety.
+IS 4.    Supervision of moderate problem behavior manifested by verbal abusiveness, physical abusiveness, or socially
+         inappropriate/disruptive behavior.
+
+Functional Deficits (F)
+F1.      Requires extensive assistance (hands-on) with dressing and toileting and eating and physical help in bathing. (All four must
+         be present and, together, they constitute one deficit.)
+F2.      Requires extensive assistance (hands-on) with locomotion.
+F3.      Requires extensive assistance (hands-on) to transfer.
+F4.      Requires frequent (hands on) with bladder or bowel incontinent care, or with daily catheter or ostomy care.
+
+A person can meet the intermediate level of care criteria in either of two ways: 1. by requiring at least one of the four numbered
+intermediate services AND having one of the numbered functional deficits; OR 2. By having at least two of the numbered functional
+deficits
+
+
+
+
+_____________________________________________________________________________________
+Chapter 3- Level of Care                                                       Page 10
+

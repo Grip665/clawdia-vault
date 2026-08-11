@@ -1,0 +1,1089 @@
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                                                         November 1, 2022
+
+                                                             TABLE OF
+                                                             CONTENTS
+
+     09.10    Introduction................................................................................................................... 3
+
+     09.20   CLTC PASRR Policy and Procedure ............................................................................ 5
+
+             09.21       Referrals for PASRR ........................................................................................ 5
+
+                       09.21.10          Appropriateness of Referrals for Level I Screening ........................ 6
+
+                       09.21.11          Out-of-State Referrals ...................................................................... 7
+
+             09.22       Confidentiality .................................................................................................. 8
+
+             09.23       Applicant Involvement ..................................................................................... 8
+
+             09.24      Consent .............................................................................................................. 8
+
+             09.25      Timeliness Standard for Completion of Level I Screening ............................... 8
+
+             09.26       Accurate PASRR Level I Completion .............................................................. 9
+
+                       09.26.10 Appropriateness for Referrals to Level II Evaluation – Mental
+                       Illness ................................................................................................................ 11
+
+                       09.26.20 Appropriateness for Level II Evaluation -Intellectual Disability
+                       (ID) ................................................................................................................... 15
+
+                       09.26.30 Appropriateness for Level II Evaluation - Dual Diagnosis of MI/ID 17
+
+             09.27       Level II Review .............................................................................................. 17
+
+                       09.27.10 Processing Level II Psychiatric Evaluation Claims for Medicaid
+                       Applicants. ........................................................................................................ 17
+
+                       09.27.20 Processing Level II Psychiatric Evaluation Claims for Non-
+                       Medicaid Applicants ......................................................................................... 18
+
+                       09.27.30          Advanced Categorical Determination............................................ 19
+
+                       09.27.31          Advanced Categorical Determination Group - Mental Illness ...... 20
+
+                       09.27.32 Advanced Categorical Determination Group – Intellectual
+                       Disability........................................................................................................... 21
+
+                       09.27.40          Level II Determination Notification .............................................. 22
+Chapter 9-PASARR                                                                                                                   Page 1
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                                        November 1, 2022
+
+             09.28     Timeliness for Completion of Level II Determinations.................................. 22
+
+     09.30    PASRR Completed by Other Entities ......................................................................... 23
+
+
+
+
+Chapter 9-PASARR                                                                                               Page 2
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 9 – PASRR Procedures                                                         November 1, 2022
+
+09.10    Introduction
+
+     The Omnibus Budget Reconciliation Act (OBRA) of 1987 provides for Pre- Admission
+     Screening Resident Review (PASRR) requirements. The PASRR Program is designed to screen
+     individuals prior to nursing home placement. Identified individuals who have a suspected
+     serious mental illness or intellectual disability/ related disability are referred through the Level
+     II process to determine the need for nursing facility services and specialized services or
+     specialized rehabilitation services. Title XIX certified nursing facilities are prohibited from
+     admitting any new resident who has a suspected serious mental illness (MI) or intellectual
+     disability/ related disability, unless it has been determined the individual requires the level of
+     services provided by the nursing facility and whether the individual needs specialized services
+     or specialized rehabilitation services for mental illness or intellectual disability/ related
+     disability.
+
+     PASRR was created in 1987 through language in the Omnibus Budget Reconciliation Act
+     (OBRA) and has three goals:
+
+     •      Identify individuals with mental illness (MI) and/or intellectual disability (ID) or
+            related disability (RD). Previously termed mental retardation (MR)
+
+     •      Ensure individuals are placed appropriately, whether in the community or in a nursing
+            facility; and
+
+    •       Ensure individuals receive the services required for Mental Illness or Intellectual
+            Disability or related disability.
+
+     Prior to admission, the CLTC reviewer or designee will initiate the Level I Screening to
+     identify those individuals suspected of having mental illness or intellectual disability/ related
+     disability. If the individual has or is suspected of having an intellectual disability/ related
+     disability or a serious mental illness, the case will proceed through the Level II evaluation
+     process.
+
+     A signed Memorandum of Agreement with the Department of Health and Human Services
+     allows hospitals and nursing facilities to complete the Level I Screening and portions of Level
+     II Screening. The Level I Screening will be completed by nurses (RN or LPN) or social workers
+     (to include social work designees or social services' workers).
+     Nursing Facilities Responsibilities
+
+    Nursing facilities are to comply with pre-admission screening mandates of PASRR without
+    exception. Any instance of non-compliance should be reported to SCDHHS Nursing Facility
+    Program Area. Failure to meet this requirement will result in recoupment action by the South
+    Carolina Department of Health and Human Services.
+
+    The nursing facility must initiate a new Level I/Level II screening and review for any resident
+    when there is a significant change in the resident’s condition related to suspected serious mental
+    illness or intellectual disability or related disability.
+Chapter 9-PASARR                                                                               Page 3
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                       November 1, 2022
+
+
+    The CLTC reviewer will provide medical and/ or technical assistance to the facility as
+    requested. The State must ensure follow-up care for those individuals determined to be in need
+    of specialized services through the PASRR process.
+
+    Nursing Facilities are responsible for initiating a Level II PASRR process for any resident who
+    has experienced a significant change related to a suspected serious mental illness or intellectual
+    disability or related disability.
+
+    These responsibilities include the following:
+    •      Initiating treatment to meet immediate needs and begin the comprehensive
+           assessments process.
+
+    •      Completing Minimum Data Set (MDS) and Resident Assessment Protocols (RAPs) as
+           required.
+
+    •      Completing Care Plan revisions within seven (7) business days.
+
+    •      Arranging for the completion of the PASRR Psychiatric Evaluation Level II if the
+           resident is being referred due to a serious mental illness.
+
+    •      Forwarding the Level II packet to the appropriate State Authority(ies) by the twenty-
+           first (21st) day following discovery of a significant change. Refer to 09.26.10 and
+           09.26.20 for a list of Level II packet forms.
+
+    Note: The State Authority must complete the written determination within seven (7) business
+           days.
+
+    •      Reviewing the determination with the resident and/or responsible party and
+           Interdisciplinary Team.
+
+    •      Addressing recommendations in the care plan.
+
+    PASRR Forms are available in the South Carolina Medicaid Nursing Facility Services Manual
+    located at www.scdhhs.gov.
+
+
+
+
+Chapter 9-PASARR                                                                             Page 4
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                     November 1, 2022
+
+09.20   CLTC PASRR Policy and Procedure
+
+   09.21   Referrals for PASRR
+
+               All admissions to a Title XIX certified nursing facility require pre-admission screening
+               regardless of pay source. A referral for this screening may originate from any
+               knowledgeable source such as:
+
+               • Applicant
+               • Family member
+               • Interested neighbor or friend
+               • Physician
+               • Hospital staff
+               • Nursing home staff
+               • Staff of a public or private agency
+               • Medicare-Medicaid Plan
+
+               Agencies that may make referrals include the Department of Social Services (DSS),
+               Department of Health and Environmental Control (DHEC), Department of Mental
+               Health (DMH), Department of Disabilities and Special Needs (DDSN), home health
+               agencies, etc.
+
+               A referral for nursing home pre-admission review must be referred to CLTC
+               Centralized Intake or completed by participating nursing homes or hospitals.
+
+               Level I Screens completed by nursing facilities or hospitals must be batched and
+               forwarded to the CLTC Area Office for review. The reviewed/ signed Level I screen
+               will not be returned to the admitting facility unless the CLTC reviewer determines
+               changes are needed based on the review.
+
+               Note: Designated CLTC staff keys the application, Participant Information, and Level
+                     I determination and routes forms to the designated CLTC reviewer for review.
+                     It is important for these screenings to be reviewed timely for completeness and
+                     accuracy. Any problems should be resolved with the facility by contacting the
+                     assessor for clarification or to request more information.
+
+               Hospitals should be encouraged to begin discharge planning and screen individuals as
+               soon as possible to facilitate the PASRR process and allow ample time for any
+               subsequent evaluation needed.
+
+               Nursing Facilities should confirm that PASRR Level I and Level II processes are
+               complete prior to admitting the individual to the facility. In cases where the individual
+               is admitted to the Nursing Facility without the appropriate screening, the Nursing
+               Facility will be responsible for completing the required screening and for arranging any
+               specialized services or specialized rehabilitative services deemed necessary.
+
+    Chapter 9-PASARR                                                                            Page 5
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                     November 1, 2022
+
+
+
+               Centralized Intake Process:
+
+        •      Receives referral for applicant requesting Pre-admission screening for nursing facility
+               placement.
+
+        •      Checks Phoenix for possible existing record.
+
+        •      Screens the referral for appropriateness (Refer to Section 09.21.10.).
+
+        •      Creates the appropriate application in Phoenix if there is no active PASRR or Pre-
+               Admission Screening for Nursing Home Placement Application.
+
+        •      Completes available Participant Information in Phoenix.
+
+        •      Annotates in the Narrative, if referral is for PASRR only (non-Medicaid).
+
+        •      Ensures a Nursing Home Placement Application is completed, if referral is for
+               PASRR and Medicaid Level of Care Certification.
+
+        •      Releases case to the CLTC Area Office.
+
+               Designated Area Office Staff Process:
+
+        •      Receives documents and assigns the case to a CLTC reviewer.
+
+        •      Determines if a PASRR has been completed within one year of the referral.
+
+        •      If a PASRR has been completed within one year of the referral, will confirm the
+               previous PASRR is scanned into Phoenix Scans and will document in the participant’s
+               narrative.
+
+       09.21.10   Appropriateness of Referrals for Level I Screening
+
+                  Level I Screening is necessary in the following circumstances:
+
+                  1.     All new admissions to Title XIX certified nursing facilities regardless of pay
+                         source.
+
+                  2.     Prior to nursing home re-admission from a hospital for in- patient treatment
+                         of a psychiatric condition, if the applicant has exceeded the ten (10) calendar
+                         day bed hold.
+
+                  3.     Out-of-state transfers.
+
+    Chapter 9-PASARR                                                                            Page 6
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                      November 1, 2022
+
+                  4.     Respite care admissions to a nursing facility for up to fourteen (14) calendar
+                         days or less; respite care admissions to a hospital are not subject to Level I
+                         Screening.
+
+                  Level I Screening is not necessary in the following circumstances:
+
+                  1.     Inter-facility transfers (from one Title XIX nursing facility to another Title
+                         XIX nursing facility) are not considered new admissions for purposes of
+                         PASRR and are not subject to Level I Screening. The transferring nursing
+                         facility is responsible for sending all PASRR information to the receiving
+                         facility.
+
+                        Note: If an individual is hospitalized for a non-psychiatric related condition
+                               and enters a different nursing facility, a new PASRR is not necessary.
+                               The transferring nursing facility may supply a copy.
+
+                  2.     Admissions to facilities that are not certified for Medicaid participation.
+
+                  3.     Intra-facility conversions from one pay source to another.
+
+                  4.     Re-admission to Title XIX certified nursing facilities from a hospital,
+                         including hospitalization for in-patient psychiatric care if within the ten (10)
+                         day bed hold.
+
+                  5.     Individuals admitted to a nursing facility from a hospital for acute in-patient
+                         treatment of the same condition for which they were hospitalized where the
+                         nursing facility stay is anticipated to be less than thirty (30) calendar days,
+                         as certified in writing by a physician.
+
+                  6.     Swing bed or Administrative Days admissions.
+
+       09.21.11   Out-of-State Referrals
+
+                  Individuals who are out-of-state and seeking admission to a South Carolina Title
+                  XIX nursing facility are subject to the pre-admission screening requirements. South
+                  Carolina will accept any state's Level I or Level II forms which include the necessary
+                  information, or the transferring state may complete the South Carolina Level I and/or
+                  Level II forms. CLTC must review and approve all out-of-state admissions. If the
+                  Level II evaluation indicates specialized services are required, the appropriate South
+                  Carolina State Authority must review the Level II packet and render a final
+                  determination prior to admission to the nursing facility. Nursing facilities must not
+                  admit any out-of-state individual who has not been appropriately screened prior to
+                  admission according to South Carolina PASRR policies.
+
+                  CLTC reviewer:
+
+    Chapter 9-PASARR                                                                             Page 7
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                       November 1, 2022
+
+                  •       Receives referring state's PASRR information and scans the information into
+                          Phoenix Scans.
+
+                  •       Reviews thoroughness of information and inclusion of South Carolina
+                          requirements.
+
+                  •       Makes a recommendation regarding the need for further evaluation.
+
+                  •       If the CLTC reviewer’s recommendation differs from the
+                          recommendation indicated by the reviewer, mails a copy of the
+                          corrected Level I screening to the admitting nursing facility.
+
+                  •       Initials and dates the Level I form.
+
+                  •      Routes the completed Level I form to the designated CLTC worker for
+                         scanning.
+   09.22    Confidentiality
+
+           As with all applicants, confidentiality is important. Due to the nature and type of information
+           obtained and shared, confidentiality must be safeguarded for all applicants regardless of pay
+           source.
+
+   09.23    Applicant Involvement
+
+           The assessor must attempt to involve the applicant as much as possible in the actual screening
+           process. If the applicant is enrolled in CLTC waiver, Level I Screening may be completed
+           by a CLTC reviewer by telephone.
+
+           Completion of the PASRR may include conferring with the applicant’s physician or other
+           professionals caring for the applicant. When an applicant is physically or mentally unable
+           to participate in the interview, the legal guardian, Authorized Representative, and/or
+           permitted caregiver may be interviewed for completion of the screening.
+
+   09.24   Consent
+
+           CLTC Consent Form 121 is required following current CLTC Policy and Procedure.
+           Hospitals and nursing facilities that conduct PASRR Level I Screenings on non-Medicaid
+           applicants are not required to obtain an informed consent.
+
+           A CLTC Consent Form 121 is required in order to share information with any agency or
+           person other than the entity which completed the form.
+
+   09.25   Timeliness Standard for Completion of Level I Screening
+
+           CLTC's intent is to facilitate nursing home admission for all applicants regardless of pay
+    Chapter 9-PASARR                                                                              Page 8
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                     November 1, 2022
+
+           source. Attempts must be made to complete the Level I Screening and to communicate the
+           findings as quickly as possible to the appropriate parties. The Level I Screening Form will
+           be completed within ten (10) business days of assignment to a CLTC reviewer or referral
+           to an entity designated to complete the screening. Cases must be prioritized according to the
+           individual needs of applicants. Hospitalized applicants should be screened as soon as
+           possible following referral. Any delay in the PASRR process should be reported to the Lead
+           Team Nurse Consultant or the Area Administrator and referral source and documented
+           in the Narrative in Phoenix.
+
+   09.26       Accurate PASRR Level I Completion
+
+           The Level I Screening Form, must be completed accurately and appropriately by telephone
+           or visit using all available information. When the screening is completed by the CLTC
+           reviewer, the Phoenix version of the PASRR will be used. When the screening is completed
+           by a nurse or social worker (or social services designee) outside of SCDHHS, the Level I
+           Screening Form, SCDHHS Form 234, will be used. The assessor will first attempt to obtain
+           the information from the applicant or Authorized Representative. However, information
+           may also be obtained from the physician or other permitted caregiver supports. The assessor
+           should consider the validity of the information received.
+
+           A team conference is required to review the information and render a joint recommendation.
+           The form must be signed and dated by the assessor and by the reviewer if completed by
+           CLTC. The SCDHHS Form 234 must be signed by the assessor and initialed and dated by
+           the CLTC reviewer if completed by another entity. For pre-admission screening purposes,
+           Level I Screenings are valid for one year, unless there are significant changes in the
+           applicant's condition which warrants a new Level I Screening. The Level I can be
+           updated by the assessor or designee within a one-year period to verify the continued
+           appropriateness of the screening. Any information added to the Level I as an update shall
+           be entered in the corresponding comments section. Any comments added as an update must
+           be initialed and dated. If significant changes have occurred, a new Level I must be
+           completed.
+
+           The assigned CLTC reviewer:
+
+           •        Receives assignment for PASRR screening.
+
+           •        Contacts applicant and/or Authorized Representative for completion of Level I
+                    Screening.
+
+           •        Obtains the CLTC Consent Form in Phoenix. Consent must be obtained from the
+                    Authorized Representative if applicant requests or is unable to sign.
+
+           •        Completes Level I Screening following PASRR User's Guide instructions.
+
+           •        Enters information into PASRR Sections of Phoenix.
+
+    Chapter 9-PASARR                                                                            Page 9
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                        November 1, 2022
+
+          •       Signs and dates the assessor fields in Phoenix.
+
+          •       Consults with a second CLTC reviewer and makes a team decision regarding the
+                  need for further evaluation. The reviewer signs and dates the reviewer fields.
+
+          •       Updates other sections of Phoenix as appropriate.
+
+          The recommendation regarding the need for further evaluation is based on the professional
+          judgment of the CLTC reviewer team. The CLTC reviewer is responsible for ensuring
+          the Level I Screening Form is properly completed prior to making a recommendation. Input
+          from the Lead Team Nurse Consultant, Area Administrator and/or Central Office Staff
+          may be needed if the team is unable to reach a consensus. Applicants should not be
+          admitted to a nursing facility if indicators of serious Mental Illness or Intellectual Disability/
+          Related Disability are identified, until the CLTC reviewer team completes the team review.
+
+          •       If the recommendation is for “No Further Evaluation”, the assigned CLTC
+                  reviewer
+
+                  o       Checks the appropriate field in the Level I Screen
+
+                  o       Signs and dates as the assessor
+
+                  o       Team staffs the recommendation with another CLTC reviewer
+
+                  o       The reviewer signs and dates in the Reviewer section.
+
+          •       If “Indicators are present, but no further evaluation is recommended,” the
+                  assigned CLTC reviewer
+
+                  o       Checks the appropriate field in the Level I Screen
+
+                  o       Provides justification for the recommendation in the comment section
+
+                  o       Signs and dates as the assessor
+
+                  o       Team staffs the recommendation with another CLTC reviewer
+
+                  o       The reviewer signs and dates in the reviewer section.
+
+          •       Keys PASRR information into Phoenix as appropriate.
+
+          •       Sends a copy of Level I Screening Form to the nursing facility if applicant has
+                  finalized plans for specific nursing facility placement.
+
+          •       The date sent and to whom must be keyed under the PASSR tab labeled “Facility”
+                  in Phoenix when the form is routed for mailing.
+
+    Chapter 9-PASARR                                                                                Page 10
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                      November 1, 2022
+
+       09.26.10   Appropriateness for Referrals to Level II Evaluation – Mental Illness
+
+                  The federal definition of Mental Illness for PASRR is best understood in terms of
+                  the four “D’s”:
+
+                  •      A diagnosis or suspicion of a major mental illness such as schizophrenia,
+                         bipolar disorder, major depression, or an anxiety disorder.
+
+                  •      An absence of dementia. If dementia is also present (co-morbid with)
+                         Mental Illness, dementia is not the primary diagnosis. The individual’s
+                         Mental Illness must be more serious than dementia.
+
+                  •      A well-defined duration. To be relevant, intensive psychiatric treatment for
+                         Mental Illness must have taken place within the last two (2) years.
+
+                  •      A particular level of disability. The individual’s Mental Illness must have
+                         resulted in functional limitations in major life activities within the past 3 to 6
+                         months. The individual need not have received treatment. The severity of
+                         the impairment and how recently it occurred are important, not whether the
+                         individual was hospitalized or was seen by a mental health professional.
+
+                  If the CLTC reviewer team’s decision is “Recommend further evaluation based
+                  on mental illness indicators,” the assigned CLTC reviewer completes the
+                  following activities:
+
+                  •      Explains rationale for basis of the recommendation in the comment section.
+
+                  •      Completes the corresponding PASRR sections in Phoenix.
+
+                  •      Creates an electronic referral to Centralized Intake for a nursing home
+                         placement application if the original referral was for non-Medicaid PASRR.
+                         This will enable the CLTC reviewer to complete the required Phoenix
+                         Assessment.
+
+                  •      Once the application is released to the CLTC Area Office and assigned to
+                         the CLTC reviewer, completes an assessment in Phoenix.
+
+                  •      If the applicant does not meet level of care and has a primary pay source
+                         other than Medicaid, the process can continue.
+
+                  •      Obtains or completes the Mental Illness Social History.
+
+                  •      Obtains copies of the applicant’s most recent history and physical, pertinent
+                         medical records and/or treatment plans.
+
+                  •      Arranges for a physician, not affiliated with South Carolina Department of
+    Chapter 9-PASARR                                                                              Page 11
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                    November 1, 2022
+
+                        Mental Health, to complete the PASRR Psychiatric Evaluation Level II,
+                        SCDHHS Form 250. (For directions for form use and billing instructions,
+                        refer to section 09.27.)
+
+                 •      Keys PASRR information in the applicant’s narrative and PASRR tab in
+                        Phoenix as the evaluation proceeds.
+
+                 •      Prepares and mails, faxes or hand-delivers the review packet to the South
+                        Carolina Department of Mental Health following receipt of the completed
+                        PASRR Psychiatric Evaluation Level II, SCDHHS from 250.
+
+                 •      The packet includes:
+
+                        o      PASRR Cover Letter
+                        o      Copies of the Level I Screening
+                        o      Mini Mental State Exam (if applicable)
+                        o      CLTC Consent Form 121
+                        o      Assessment
+                        o      Applicant’s current history and physical
+                        o      Mental Illness Social History
+                        o      PASRR Psychiatric Evaluation Level II, SCDHHS Form 250
+                        o      Other pertinent copies of the medical record
+
+                        Note: All documents not created in Phoenix must be scanned into
+                              Phoenix Scans under the appropriate scan tags.
+
+                 •      If the final determination is not received from the State Authority within five
+                        (5) business days, the CLTC reviewer contacts South Carolina Department
+                        of Mental Health to determine the status of the evaluation and documents the
+                        contact in the applicant’s narrative.
+
+                 •      If no response is received within seven (7) business days, the CLTC
+                        reviewer notifies the Central Office Designee, Lead Team Nurse and/or
+                        Area Administrator of the delay.
+
+                 •      Receives South Carolina Department of Mental Health Final Determination
+                        and sends the PASRR Level I Screening Form, Mini Mental State Exam (if
+                        applicable), Psychiatric Evaluation Level II Form, Final determination from
+                        South Carolina Department of Mental Health and PASRR Notification Form
+                        to the applicant and/or Authorized Representative AND the admitting
+                        nursing facility.
+
+                 •      Keys PASRR data in Phoenix under the corresponding PASRR tabs. The date
+                        the final determination is signed by the State Authority or the date of the
+                        verbal notification by the State Authority will be used for the determination
+                        date.
+
+    Chapter 9-PASARR                                                                           Page 12
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                    November 1, 2022
+
+                 •      If specialized services are recommended which cannot be provided in the
+                        nursing facility, the CLTC reviewer sends a copy of the final determination
+                        form to the Central Office Designee.
+
+                  A PASRR Level II evaluation is not required for all applicants exhibiting behavioral
+                  or adaptation problems. Only applicants who have or are suspected to have a serious
+                  mental illness must be referred to Level II.
+
+                  A serious mental illness is defined in terms of diagnosis, behavior, and recent
+                  treatment history. These four (4) components are identified below.
+
+                        I.      Diagnosis: (confirmed or suspected)
+
+                                •      Schizophrenia
+
+                                •      Bi-polar disorder
+                                •      Severe mood/panic/anxiety disorder
+                                •      Severe depression
+                                •      Other psychotic disorder
+                                •      Personality disorder
+                                •      Somatoform disorder
+                                •      Other mental disorder that may lead to a chronic disability
+
+                                                       AND
+
+                        II.      Impairment:
+
+                                Level of impairment - The disorder has resulted in functional
+                                limitations in major life activities within the past 3 to 6 months. An
+                                individual typically has at least one of the following characteristics
+                                on a continuing or intermittent basis:
+
+                                a.    Interpersonal functioning - The individual has serious
+                                      difficulty interacting appropriately and communicating
+                                      effectively with other persons, has a possible history of
+                                      altercations, evictions, firing, fear of strangers, avoidance of
+                                      interpersonal relationships and social isolation.
+
+                                b.    Concentration, persistence, and pace - The individual has
+                                      serious difficulty in sustaining focused attention to permit the
+                                      completion of tasks commonly found in work settings or in
+                                      work-like structured activities, such as, in school or home
+                                      settings; manifests difficulties in concentration; unable to
+                                      complete simple tasks within an established time period,
+                                      makes frequent errors, or requires assistance in the completion
+                                      of these tasks.
+
+    Chapter 9-PASARR                                                                           Page 13
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                   November 1, 2022
+
+                               c.    Adaptation to change - The individual has serious difficulty
+                                     adapting to typical changes in circumstances associated with
+                                     work, school, family, or social interaction; manifests agitation,
+                                     exacerbated signs and symptoms associated with the illness, or
+                                     withdrawal from the situation; or requires intervention by the
+                                     mental health or judicial system.
+
+                                                      OR
+                        III.   Treatment:
+
+                               Recent Treatment - The treatment history indicates that the individual
+                               has experienced at least one of the following:
+
+                               •     Psychiatric treatment more intensive than outpatient care and
+                                     more than once in the past 2 years (e.g., partial hospitalization
+                                     or inpatient hospitalization).
+
+                                                       OR
+
+                               •     Within the last 2 years, due to mental disorder, experienced an
+                                     episode of significant disruption to the normal living situation,
+                                     for which supportive services were required to maintain
+                                     functioning at home, or in a residential treatment environment,
+                                     or which resulted in intervention by housing or law
+                                     enforcement officials.
+                                                     BUT
+                         IV    Dementia:
+
+                               Not a primary diagnosis of dementia, including Alzheimer's disease
+                               or a related disorder, or a non-primary diagnosis of dementia unless
+                               the primary diagnosis is a serious mental illness. Dementia must be
+                               confirmed by the completion of Mini- Mental State Exam, if this is
+                               the basis for the recommendation for no further evaluation.
+
+                               Note: The Mini-Mental State Exam is a copyrighted form. A blank
+                                     form may not be copied. These forms must be ordered through
+                                     CLTC Central Office. Once the form is completed with
+                                     participant information, the form may be copied for participant
+                                     record purposes.
+
+                               Applicants who have attempted suicide within the past 2 years or
+                               who are considered a danger to self or others, must be referred
+                               for Level II evaluation, even if all above criteria are not met. The
+                               appropriate recommendation should be checked on the Level I
+                               Screening and the Comment Section should be utilized to explain
+                               the basis for the recommendation.
+    Chapter 9-PASARR                                                                          Page 14
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                     November 1, 2022
+
+
+                                 All medications will be reviewed for psychotropic/ psychoactive drugs
+                                 to determine whether they are prescribed for control of physical non-
+                                 psychiatric conditions, a minor mental illness, or a serious mental
+                                 illness. If the applicant is maintained on a psychotropic/psychoactive
+                                 drug with no significant impairment, referral to Level II is not
+                                 required.
+
+                                 Any applicant seeking discharge from an Institute of Mental Disease
+                                 (IMD) must be evaluated through the Level II process prior to
+                                 admission to a Title XIX nursing facility. The Level I and Level II
+                                 Screenings will be completed per agreement with the South Carolina
+                                 Department of Mental Health facility. Since the Institute of Mental
+                                 Disease is part of the State Mental Health Authority, a physician or
+                                 psychiatrist independent of the determining authority, must complete
+                                 the psychiatric evaluation concerning placement options and
+                                 specialized service needs. Final determinations regarding the need for
+                                 continued specialized services must be made by the appropriate State
+                                 Authority.
+
+                                 Note: All corresponding Level II MI tabs under the PASRR
+                                       section in Phoenix must be completed.
+
+       09.26.20   Appropriateness for Level II Evaluation -Intellectual Disability (ID)
+
+                  The presence of an Intellectual Disability (ID) or diagnosis of a related disability
+                  requires Level II review. To qualify as having Intellectual Disability (ID) for the
+                  purposes of PASRR, an individual must have significantly sub-average general
+                  intellectual functioning. This is defined as an IQ score of less than seventy (70), as
+                  measured by a standardized, reliable test of intellectual functioning. An individual
+                  must also have concurrent impairments in adaptive functioning, manifested during
+                  the developmental period. These impairments must have emerged prior to the age
+                  eighteen (18) and must be likely to persist throughout the person’s life. Intellectual
+                  Disability (ID) encompasses a wide range of conditions and levels of impairment.
+
+                  Related disabilities include severe, chronic disabilities that are not an intellectual
+                  disability, which occurred before age twenty-two (22) and are expected to continue
+                  indefinitely. These conditions often produce similar functional impairments and/ or
+                  adaptive behavior and require similar treatment or services as intellectual
+                  disabilities. Some examples of related disabilities may include Down’s syndrome,
+                  fetal alcohol syndrome, cerebral palsy, seizure disorder, autism, traumatic brain
+                  injury, etc. Related disabilities must result in substantial functional imitations in
+                  three (3) or more of the following major life activities:
+
+                  •      Self-care
+                  •      The Understanding and Use of language Learning
+                  •      Mobility
+    Chapter 9-PASARR                                                                            Page 15
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                    November 1, 2022
+
+                 •      Self-direction
+                 •      Capacity for independent living
+
+                 Any applicant seeking discharge from a SCDDSN facility must be reviewed by
+                 CLTC through the Level II process prior to admission to a Title XIX nursing facility.
+
+                 Note: If a resident with a diagnosis of ID/RD has exceeded the 10 day bed hold
+                       a new Level II is required. If the Level II PASRR has been completed in
+                       the past year, it may be updated in the comment section.
+
+                 If the CLTC reviewer team’s decision is “Recommend further evaluation based
+                 on Intellectual Disability” the assigned CLTC reviewer completes the following
+                 activities:
+
+                 •      Explains rationale for basis of recommendation in the comment section.
+
+                 •      Completes the corresponding PASRR sections in Phoenix.
+
+                 •      Creates an electronic referral to Centralized Intake for a nursing home
+                        placement application if the original referral was for Non-Medicaid PASRR.
+                        This will enable the CLTC reviewer to complete the required Phoenix
+                        Assessment.
+
+                 •      Once the application is released the CLTC Area Office and assigned to the
+                        CLTC reviewer, completes an assessment in Phoenix.
+
+                 •      If the applicant does not meet level of care and has a primary pay source other
+                        than Medicaid, the process can continue.
+
+                 •      Obtains or completes the Intellectual Disability Social History.
+
+                 •      Obtains copies of the applicant’s most recent history and physical, pertinent
+                        medical records and/or treatment plans.
+
+                 •      Keys PASRR information in the applicant’s narrative and PASRR tab
+                        in Phoenix as the evaluation proceeds.
+
+                 •      Prepares and mails, faxes or hand-delivers the review packet to the South
+                        Carolina Department of Disabilities and Special Needs.
+
+                 •      The packet includes:
+
+                        o       PASARR Cover Letter
+                        o       Copy of the Level I Screening
+                        o       CLTC Consent Form 121
+                        o       Assessment
+                        o       Applicant’s current history and physical
+    Chapter 9-PASARR                                                                            Page 16
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                       November 1, 2022
+
+                          o      Intellectual Disability Social History
+                          o      Other pertinent copies of medical record
+
+                          Note: All documents not created in Phoenix must be scanned into Phoenix
+                                 scans under the appropriate scan tags.
+
+                  •       If the final determination is not received from the State Authority within five
+                          (5) business days, the CLTC reviewer contacts the South Carolina
+                          Department of Disability and Special Needs to determine the status of the
+                          evaluation and documents the contact in the applicant’s narrative.
+
+                  •       If no response is received within seven (7) business days, the CLTC
+                          reviewer notifies the Central Office Designee, Lead Team Nurse and/or
+                          Area Administrator of the delay.
+
+                  •       Receives the South Carolina Department of Disabilities and Special Needs
+                          Final Determination and sends PASRR Level I Screening Form, Mini-Mental
+                          State Exam if applicable, Level II Form, Final Determination from
+                          Department of Disabilities and Special Needs and PASRR Notification
+                          Form.
+
+                  •       Keys PASRR data in Phoenix under the corresponding PASRR tabs. The
+                          date the final determination is signed by the State Authority or the date of the
+                          verbal notification by the State Authority will be used for the determination
+                          date.
+
+                  •       If specialized services are recommended which cannot be provided in the
+                          nursing facility, the CLTC reviewer sends a copy of the final determination
+                          form to the Central Office Designee.
+
+                  Note: All corresponding, Level II ID tabs under the PASRR section in Phoenix
+                        must be completed.
+
+       09.26.30 Appropriateness for Level II Evaluation - Dual Diagnosis of MI/ID
+
+                  For applicants diagnosed with both intellectual disability and serious mental illness
+                  (dually diagnosed) both State Authorities must conduct a Level II review.
+
+
+   09.27    Level II Review
+
+           Based on the Level I review, an applicant suspected of having a serious mental illness or
+           intellectual disability must be referred for Level II evaluation.
+
+           09.27.10 Processing Level II Psychiatric Evaluation Claims for Medicaid Applicants.
+
+
+    Chapter 9-PASARR                                                                              Page 17
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                    November 1, 2022
+
+                  The assigned CLTC reviewer:
+
+                  •     Completes the PASRR Psychiatric Evaluation Request for Medicaid
+                        applicants, obtains the Area Administrator’s signature and mails form to
+                        the physician along with the Level II Psychiatric Evaluation Form, SCDHHS
+                        Form 250.
+
+                  •     Receives the completed Psychiatric Evaluation and prepares the Level II
+                        packet.
+
+                  •     Physician bills directly using Health Insurance 1500 Claim Form.
+
+                       Note: If the Health Insurance 1500 Claim Form is received in the CLTC Area
+                             Office, the CLTC reviewer forwards it to:
+
+                             Medicaid Claims Receipt
+                             P. O. Box 1412
+                             Columbia, SC 29202
+
+       09.27.20   Processing Level II Psychiatric Evaluation Claims for Non- Medicaid
+                  Applicants
+
+                  The assigned CLTC reviewer:
+
+                  •     Completes the PASRR Psychiatric Evaluation Request for Non- Medicaid
+                        Applicants, obtains the Area Administrator’s signature and mails form to
+                        the physician along with the Level II Psychiatric Evaluation Form, SCDHHS
+                        Form 250.
+
+                  •     Receives completed forms from physician. Scans the Level II Psychiatric
+                        Evaluation Form, SCDHHS Form 250, into Phoenix and adds the form to the
+                        Level II evaluation packet.
+
+                  •     Routes the PASRR Psychiatric Evaluation Request for Non- Medicaid
+                        Applicants to Support Staff.
+
+                  The designated Support Staff:
+
+                  •     Determines whether or not the physician has completed the PASRR
+                        Psychiatric Evaluation Request for Non- Medicaid correctly.
+
+                  •     If name of the physician completing the form is not identical to the signature,
+                        contacts physician’s office to obtain correct name or practice name.
+
+                  •     Verifies physician's name/ Practice name has a corresponding social security
+                        number or Federal ID number listed. Example: Dr. Solo Practice/247-09-
+    Chapter 9-PASARR                                                                           Page 18
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                       November 1, 2022
+
+                         5555 or The Solo Practice Group/51-98765.
+
+                  •      If the PASRR Psychiatric Evaluation Request for Non-Medicaid Applicants
+                         is complete, forwards the form to Central Office for processing and scans
+                         the form into Phoenix.
+
+                  •      If the PASRR Psychiatric Evaluation Request for Non-Medicaid Applicants
+                         is incomplete, confers with CLTC reviewer and calls physician's office to
+                         clarify/correct the information. Makes corrections and forwards to Central
+                         Office for processing.
+
+                  •      Forwards claim to Fiscal Affairs for processing.
+
+                  Once Level II forms are completed, the appropriate State Authority must review all
+                  available information and make a final determination as to the need for specialized
+                  services. The Level II process of PASRR consists of a comprehensive review of the
+                  applicant's need for nursing home care and specialized services for a serious mental
+                  illness or intellectual disability. This determination of specialized services needs
+                  must be made by the appropriate State Authority. Level I and Level II determinations
+                  are valid for one year unless there is a significant change in the applicant's condition.
+                  Level II final determination forms from the state authority cannot be updated. A new
+                  complete Level I and Level II form must be completed if there are significant
+                  changes.
+
+                  A significant change has the following characteristics:
+                  •      A major change
+                  •      Not self-limiting change (a disease process that resolves spontaneously with
+                         or without specific treatment)
+                  •      Impacts more than one area of the individual’s health status; and
+                  •      Requires interdisciplinary review or revision of the care plan
+
+                  Any individual determined to have a serious mental illness or intellectual disability
+                  through the Level II evaluation process, who is in need of specialized services but
+                  not in need of nursing home services, shall be considered inappropriate for
+                  placement or continued residence in a Medicaid-certified nursing facility. However,
+                  it is the responsibility of the appropriate state authority to provide or arrange for
+                  specialized services when it is required. The only exception to this would involve an
+                  applicant determined in need of specialized services who has resided in the facility
+                  for at least thirty (30) months.
+
+       09.27.30   Advanced Categorical Determination
+
+                  The assigned CLTC reviewer completes the following activities:
+
+                  •      Reviews case and determines need for Advanced Categorical Determination.
+
+    Chapter 9-PASARR                                                                               Page 19
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                      November 1, 2022
+
+                 •      Completes Assessment by telephone or visit
+
+                 •      Explains rationale for basis of decision in Comment Section.
+
+                 •      Obtains any documentation to support decision; i.e., physician’s progress
+                        notes, nursing home orders, etc.
+
+                 •      Checks Advanced Categorical Determination recommendation in Phoenix
+
+                 •      Enters PASRR data Phoenix
+
+                 •      Routes PASRR Notification Form and PASRR Level I Screening to the
+                        applicant and/or Authorized Representative and admitting facility.
+
+                 09.27.31    Advanced Categorical Determination Group - Mental Illness
+
+                 Certain individuals who require nursing facility care may meet criteria which will
+                 allow the CLTC reviewer to classify the individual for an advanced decision that
+                 specialized services or special rehabilitation services are not required. Because this
+                 is a Level II process, through an agreement with the State Authority, an Assessment,
+                 must be completed. Only the CLTC reviewer may apply these criteria. The
+                 circumstances in which these classifications are allowed are as follows:
+
+                 1.     The individual could not participate in or benefit from specialized services
+                        due to a comatose or semi-comatose state or functioning at brain stem level,
+                        as documented in the medical record.
+
+                 2.     The individual has an illness which results in a level of physical impairment
+                        so severe that the individual could not be expected to benefit from specialized
+                        services. In such cases, the individual’s need for medical care overrides the
+                        need for specialized services.
+
+                 3.     The individual is being admitted to the nursing facility on a provisional basis
+                        for a period not to exceed fourteen (14) calendar days to provide respite for
+                        in-home caregivers.
+
+                 4.     The individual is being admitted to the nursing facility on a provisional basis
+                        not to exceed seven (7) calendar days while alternative arrangements can be
+                        made. The admission must be at the request of the South Carolina
+                        Department of Social Services, Division of Protective Services, due to
+                        suspicion of abuse or neglect on an emergency basis.
+
+                 5.     The individual is being admitted directly to the nursing facility from acute
+                        inpatient care for a period not to exceed thirty (30) calendar days, as certified
+                        by the attending physician. The admission must be for treatment of the same
+                        condition that necessitated the hospitalization and must not be due to a
+    Chapter 9-PASARR                                                                             Page 20
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                     November 1, 2022
+
+                        psychiatric condition. If the individual’s stay at the nursing home exceeds
+                        thirty (30) calendar days, the Level II process MUST be completed by the
+                        fortieth (40th) calendar day. It is the CLTC reviewer's responsibility to
+                        monitor all assigned cases for Advanced Determinations.
+
+                        It is the CLTC reviewer's responsibility to monitor the time frame of
+                        a case for Advanced Determination.
+
+                 09.27.32 Advanced Categorical Determination Group – Intellectual
+                 Disability
+
+                 Certain individuals who require nursing facility care may meet criteria which will
+                 allow the CLTC reviewer to classify the individual for an advance decision that
+                 specialized services are not required. Because this is a Level II process through an
+                 agreement with the State Authority, both a medical assessment using the Form 1718
+                 and the social history assessment under PASRR, must be completed. Only the CLTC
+                 reviewer may apply these criteria. The circumstances in which these classifications
+                 are allowed are as follows:
+
+                 1.     The individual has a diagnosis of dementia in combination with an
+                        intellectual disability or related disability. In these cases, the dementia
+                        diagnosis must be substantiated by a Mini-Mental State Examination.
+
+                 2.     The individual is being admitted to the nursing facility on a provisional basis
+                        for a period not to exceed fourteen (14) calendar days to provide respite for
+                        in-home caregivers.
+
+                 3.     The individual is being admitted to the nursing facility on a provisional basis
+                        not to exceed seven (7) calendar days while alternative arrangements can be
+                        made. The admission must be at the request of the South Carolina
+                        Department of Social Services, due to suspicion of abuse or neglect on an
+                        emergency basis.
+
+                 4.     The individual is being admitted directly to the nursing facility from an acute
+                        in-patient setting for a period not to exceed thirty (30) calendar days, as
+                        certified by the attending physician. The admission must be for treatment of
+                        the same condition that necessitated the hospitalization and may not be due to
+                        a psychiatric condition. If the applicant's stay at the nursing facility exceeds
+                        thirty (30) calendar days, the Level II must be completed by the fortieth
+                        (40th) calendar day.
+
+                        It is the CLTC reviewer's responsibility to monitor the time frames of a case
+                        for Advanced Determination.
+
+
+
+    Chapter 9-PASARR                                                                            Page 21
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                    November 1, 2022
+
+       09.27.40    Level II Determination Notification
+
+                  Upon receipt of a final determination from the State Authority, the CLTC
+                  reviewer team should review the summary and recommendations. Notification of
+                  the Level II determination is required and is communicated via the PASRR
+                  Notification Form. Because Advanced Categorical Determinations are Level II
+                  determinations, written notice is also required. A copy of the evaluation and final
+                  determination report(s) must be sent to the applicant and/or Authorized
+                  Representative and admitting nursing facility. All corresponding MI or ID Final
+                  tabs must be completed in Phoenix.
+
+   09.28   Timeliness for Completion of Level II Determinations
+
+           The state authority must make the Level II determination within seven (7) business days of
+           referral. This report may be communicated by telephone or fax with written follow-up by
+           mail. If no response is received within seven (7) business days, the CLTC reviewer notifies
+           the Central Office Designee, Lead Team Nurse and/or Area Administrator of the delay.
+
+
+
+
+    Chapter 9-PASARR                                                                           Page 22
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 9 – PASRR Procedures                                                  November 1, 2022
+
+
+   09.30    PASRR Completed by Other Entities
+
+           Any PASRR completed by other entities (hospitals and nursing homes) via a Memorandum
+           of Agreement must be batched weekly and sent to the Area Office for review by the CLTC
+           reviewer. The CLTC reviewer will review the PASRR and initial if the PASRR is
+           determined to be accurate, complete, and appropriate. The approved PASRR will be scanned
+           into Phoenix and placed under the PASRR scan tag.
+
+           For applicants who have an existing Phoenix record (active or terminated), no other
+           information is required to be recorded in Phoenix.
+
+           For applicants who do not have an existing Phoenix record, a new Participant Record must
+           be created.
+
+           A PASRR application is not required for PASRR reviews.
+
+           The PASRR section in Phoenix which includes the recommendation and reviewer’s signature
+           is not required for a PASRR review.
+
+           If the PASRR completed via MOA is not accurate, complete or appropriate, the PASRR
+           must be returned for correction.
+
+
+
+
+    Chapter 9-PASARR                                                                        Page 23
+

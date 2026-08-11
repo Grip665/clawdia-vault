@@ -1,0 +1,72 @@
+       Creating a Service Plan
+ On the carousel, click “Assessment”Note: A current
+  assessment must be completed in order to create a
+  service plan.
+ Click “Create Service Plan”
+       Creating a Service Plan
+ Enter date in the “Effective Date” field then click
+  “Create Service Plan”
+            Creating a Service Plan
+ Under the Service Plan, there are 8 sub tabs:
+    •Medical                 •IADL
+    •Skin/Nutrition          •Caregivers
+    •ADL                     •Home Assessment
+    •Psychosocial            •Sign and Complete
+
+
+
+
+• Under each sub tab, there are 2 options:
+    •View
+    •Edit
+         Creating a Service Plan
+ Under the Service Plan, there are 3 sections
+    Problems/Goals Note: Added Problems can be shown or hidden by
+     clicking “Show Problem” button
+    Interventions
+    Add/Custom Problems/Interventions
+            Creating a Service Plan
+ Under the Service Plan, each “Problem/Goal” section has a Red light that
+  MUST turn Green by selecting the appropriate Actor(s) in the “Intervention”
+  section. Note: Selecting actor(s) in the “Intervention” section plays a role
+  into the referral/authorization process.
+ Click “Save” the light for the sub tab will turn Green
+         Service Plan-Signature
+ All services must be prior approved before authorizing
+ Click “Complete” tab
+ Enter number of units for service
+    Justification must be entered for each service that is authorized
+ Assessor will sign the “Assessor Signature and Date”
+ Click “Save”
+
+
+
+
+                    Enter
+                    justification.
+Requests for Prior Approval of Services
+➢ Reviewer enter approved Hours/Units in the “Reviewer” section
+➢ Reviewer enter comments in the “Comments” section
+➢ Reviewer sign the “Reviewer Signature and Date” then Click “Save”
+
+
+
+
+                 Reviewer’s
+                 comments
+            Service Plan-Signature
+ The Assessor and Reviewer do not have to sign the Service
+  Plan from the same computer.
+ Once the Assessor signs the “Assessor Signature and
+  Date” field then the Review can open the Service Plan and
+  sign the “Review Signature and Date” field from another
+  computer
+ Once the “Review Signature and Date” is signed, click
+  “Save”
+                            Service Plan
+ From the “Service Plans” section, options are:
+    View
+    Edit
+    View PDF
+         Viewing PDF files requires a password (The Participant’s CLTC Number)
+

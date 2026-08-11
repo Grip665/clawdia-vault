@@ -1,0 +1,401 @@
+   SCDHHS
+   Community Choices Policy and Procedure Manual
+   Chapter 1 – Intake Procedures                                                                                                       November 1, 2022
+
+
+                                                           TABLE OF CONTENTS
+
+
+01.10   Introduction ..................................................................................................................................................2
+
+01.20    Intake Policy and Procedures ......................................................................................................................3
+
+    01.21 Referral Sources ....................................................................................................................................3
+
+    01.22 Confidentiality.......................................................................................................................................3
+
+    01.23 Coverage of Intake Duties .....................................................................................................................3
+
+    01.24 Timeliness Standard for Intake of a Referral ........................................................................................4
+
+    01.25 Referrals ................................................................................................................................................4
+
+    01.26 Intake Criteria ........................................................................................................................................5
+
+    01.27 Applicants Who Do Not Meet Intake Criteria.......................................................................................6
+
+    01.28 Financial Eligibility Review..................................................................................................................7
+
+    01.29 Application Release to the SCDHHS Area Office ................................................................................8
+
+    01.30 Duplicates/Rejection .............................................................................................................................8
+
+    01.31 Case Transfer Policy .............................................................................................................................9
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 1 – Intake Procedures                                                     November 1, 2022
+
+
+
+01.10       Introduction
+
+
+            The South Carolina Department of Health and Human Services (SCDHHS)
+            Centralized Intake process ensures that all persons with perceived long-term care needs
+            receive every opportunity for access to Community Long Term Care (CLTC) waivers
+            and programs. The process identifies persons who meet intake criteria and serves as an
+            information and referral source for those who do not meet intake criteria.
+
+
+            Individuals may have more than one CLTC program application open at a time if the
+            situation requires and the appropriate criteria are met. It is important for SCDHHS
+            workers to verify any other program applications and overall status in Phoenix prior to
+            initiating and ending case actions.
+
+
+
+
+Chapter 1-Intake                                                                           Page 2
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 1 – Intake Procedures                                                           November 1, 2022
+
+
+
+01.20       Intake Policy and Procedures
+
+    01.21      Referral Sources
+
+                   A referral to SCDHHS may originate from any knowledgeable source such as:
+
+                   1.     Applicant
+                   2.     Family member
+                   3.     Interested neighbor or friend
+                   4.     Physician
+                   5.     Hospital staff
+                   6.     Nursing home staff
+                   7.     Staff of a public or private agency
+                   8.     Medicare – Medicaid Plan (PRIME)
+
+
+                   Agencies that might make referrals include, but are not limited to, the Department
+                   of Social Services, Department of Health and Human Services, Department of
+                   Health and Environmental Control, Aging Agencies, Department of Mental Health,
+                   Department of Disabilities and Special Needs, and private home health agencies.
+
+    01.22      Confidentiality
+
+                   Information about Medicaid applicants and recipients shall be safeguarded in
+                   accordance with the provisions of the Department of Health and Human Services
+                   regulations governing confidentiality and HIPAA (Regulations 126-170, et, seq.,).
+                   Confidential information includes, but is not limited to:
+
+                   1.     The name and address of the individual served and the service received;
+                   2.     Medical data, including diagnosis and history of disease or disability;
+                   3.     Agency evaluation of information about a person;
+                   4.     The identity of persons or institutions that furnished health services to a person;
+                   5.     The social and economic conditions or circumstances of any person served;
+                   6.     Federal program information identified as confidential by the appropriate
+                          federal authority
+
+    01.23          Coverage of Intake Duties
+
+                   Intake duties are performed by Centralized Intake. Arrangements should be made
+                   to ensure that intake is covered at all times from 8:30 a.m. to 5:00 p.m. on business
+                   days and that an intake team member can be reached to handle any urgent intake
+                   issues.
+Chapter 1-Intake                                                                                 Page 3
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 1 – Intake Procedures                                                        November 1, 2022
+
+
+
+                   Centralized Intake will provide administrative assistance in obtaining application
+                   information. This includes the following activities:
+
+                   •   Recording reported functional deficit(s)
+
+                   •   Checking the system for existing records to prevent duplication
+
+                   •   Keying, scanning, and documenting all appropriate information
+
+                   •   Checking the Medicaid system for Medicaid Eligibility and creating new eligibility
+                       workflows when appropriate
+
+                   •   Processing Medicaid Eligibility approvals/denials for waiver applicants
+                       appropriately
+
+
+                   Centralized Intake will verify correct information is keyed under the Participant
+                   Information section in Phoenix. MMIS will be checked for Medicaid Eligibility
+                   category if appropriate.
+
+
+                   Once the applicant has been determined to meet the intake criteria and Medicaid
+                   Eligibility has been verified, the case will be released to the Area Office.
+
+
+    01.24      Timeliness Standard for Intake of a Referral
+
+                   Referrals received through Centralized Intake must be processed within 3 business
+                   days following receipt of the referral.
+
+    01.25      Referrals
+
+                   Centralized Intake receives referrals by telephone and electronically.
+
+                   Telephone Referral
+
+                   The applicant, family member or interested individual can make a referral via a
+                   toll-free telephone number (888-971-1637) to initiate an application. The phone
+                   line hours are as follows:
+                                Monday, Tuesday, and Thursday 8:30 a.m. - 4:30 p.m.
+                                     Wednesday and Friday 8:30 a.m. - 12:30 p.m.
+
+
+Chapter 1-Intake                                                                              Page 4
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 1 – Intake Procedures                                                           November 1, 2022
+
+
+                   Electronic Referral
+
+                   The applicant, family member, interested individual or professional may make an
+                   electronic referral by entering the necessary information at the website:
+                   https://phoenix.scdhhs.gov/eref/
+
+                   Note:       If a walk-in referral is received, the SCDHHS Area Office will provide
+                               the referral source with the Centralized Intake contact information to
+                               make either a telephone or electronic referral and assist as needed.
+
+                   When the referral is received, Centralized Intake:
+
+                   •   checks for an existing record in Phoenix.
+
+                   Note:       If a case is currently active in Phoenix, determines if the referral is an
+                               application for a different program;
+
+                   •   completes related contacts to the referral source, applicant, and/or Authorized
+                       Representative, as needed to accurately obtain ADL information.
+
+                   •   follows document scanning policies. Refer to Documentation policy and scan tag
+                       description;
+
+                   •   consults with a SCDHHS Central Office Nurse to confirm functional dependencies
+                       needed;
+
+                   •   enters application data in Phoenix as appropriate.
+
+                   If Centralized Intake requires additional information to process a referral and is
+                   unable to reach the applicant/ Authorized Representative/referral source, a CLTC
+                   Notification Form giving a ten (10) business day notice to call Centralized Intake
+                   Staff must be mailed. This notice will not include the Appeals Notice. If no
+                   response is received within ten (10) business days, the program application should
+                   be terminated as “Intake Criteria Not Met”. All actions taken will be documented
+                   in the narrative.
+
+    01.26      Intake Criteria
+
+                   The following criteria must be met for a referral to be considered appropriate for
+                   intake:
+
+                   1. Applicant who is requesting waiver services from the Community Choices
+                      Program must be 18 years old or older (stated age is acceptable) or must turn 18
+Chapter 1-Intake                                                                                  Page 5
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 1 – Intake Procedures                                                         November 1, 2022
+
+                      years old within 3 months of the application. An applicant who is requesting
+                      Medicaid-sponsored nursing home placement has no age restriction.
+
+                   2. Applicant must be a South Carolina resident or must be currently located in South
+                      Carolina. Out-of- state applicants must intend to relocate within South Carolina.
+
+                   3. Applicant must have a mental or physical impairment that results in a functional
+                      dependency. Extensive hands-on assistance is required to constitute a functional
+                      dependency as described below.
+
+                      Assistance in two of the following:
+
+                           a.      Eating/meal preparation
+                           b.      Toileting
+                           c.      Dressing
+                           d.      Bathing
+
+                      OR
+
+                      Assistance in one of the following:
+
+                           a. Locomotion
+                           b. Transfer
+                           c. Bowel or bladder continence
+
+                   Note:        An applicant who is requesting Medicaid sponsored nursing home
+                                placement does not require a functional dependency for intake
+                                processing.
+
+     01.27         Applicants Who Do Not Meet Intake Criteria
+
+                   When a person does not meet intake criteria, Centralized Intake will notify the
+                   applicant of this decision in writing via the CLTC Notification Form including the
+                   Appeals Notice.
+
+
+                   Centralized Intake will consult with a SCDHHS Central Office Nurse if it appears
+                   the applicant does not meet intake criteria and the applicant wants to continue with
+                   the application.
+
+                   The SCDHHS Central Office Nurse will determine if the applicant meets the intake
+                   criteria.
+
+                   If the applicant does not meet intake criteria, the SCDHHS Central Office Nurse will:
+Chapter 1-Intake                                                                               Page 6
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 1 – Intake Procedures                                                        November 1, 2022
+
+
+                   • update the Phoenix Application to reflect the applicant’s dependencies
+
+                   • explain the CLTC Intake Criteria to the applicant/ Authorized Representative
+
+                   • discuss other available community resources and provide referral information,
+                      as appropriate
+
+                   • discuss application withdrawal with the applicant/ Authorized Representative.
+
+                         If the applicant/ Authorized Representative wishes to withdraw the application:
+
+                          The SCDHHS Central Office Nurse will:
+
+                          •    terminate the program application as “Declined Participation”
+
+                          •    will create and send CLTC Notification Form including information
+                               regarding making a future referral if needed. This notification will
+                               not include the Appeals Notice.
+
+                         If the applicant/ Authorized Representative does not wish to withdraw the
+                          application and the applicant has been determined financially eligible, the
+                          application will be released to the SCDHHS Area Office for assessment
+                          completion. If the SCDHHS worker completes a phone assessment and it
+                          appears the applicant is medically ineligible, an in-home assessment will
+                          be made.
+
+                          Note: If the applicant has not been determined financially eligible, the
+                                application will remain in Centralized Intake pending approval of the
+                                Medicaid Eligibility Workflow in Phoenix.
+
+                          The SCDHHS Area Office worker will:
+
+                          •    schedule an assessment.
+
+                          •    follow normal Policy and Procedure for Assessment and Level of
+                               Care determination.
+
+                          All discussions with the applicant/ Authorized Representative must be
+                          documented in the narrative.
+
+    01.28          Financial Eligibility Review
+
+                   Centralized Intake is responsible for reviewing the Medicaid Eligibility financial
+Chapter 1-Intake                                                                               Page 7
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 1 – Intake Procedures                                                         November 1, 2022
+
+                   information for applicants applying for a waiver or program during the intake
+                   process.
+
+
+                   When the referral source is anyone other than Medicaid Eligibility and the
+                   applicant has NO Medicaid Eligibility Pay Category, Centralized Intake will mail
+                   the Medicaid Eligibility Application for Nursing Home, Residential, or In-Home
+                   Care- Form 3401. If the applicant is financially eligible under pay category 32,
+                   Centralized Intake will mail the Medicaid Eligibility Application for Additional
+                   Information for Nursing Home and In-Home Care-Form 3400B.
+
+
+                   If an application is released to the SCDHHS Area Office which is later determined
+                   to need a Medicaid Eligibility Workflow, a problem should be reported in Phoenix.
+
+                   Note: Cases released to the SCDHHS Area Office with an active Medicaid
+                         Payment Category of 80 (SSI), 10, 15, 16, 19, 33, 54 or 86 which indicates
+                         an eligibility end date within ten (10) business days must be monitored
+                         closely to ensure the applicant is financially eligible on the date of
+                         enrollment. If enrollment is not possible prior to the eligibility end date,
+                         financial eligibility must be verified by Medicaid Eligibility prior to
+                         enrollment. A Phoenix problem will be submitted requesting a Medicaid
+                         Eligibility Workflow be added to the applicant’s Phoenix record.
+                         Enrollment will remain pending until the Eligibility Workflow is approved
+                         or denied by Medicaid Eligibility.
+
+
+    01.29      Application Release to the SCDHHS Area Office
+
+                   Once an applicant has been determined to meet intake criteria and has been
+                   determined financially eligible for the program, Centralized Intake will release
+                   the application to the SCDHHS Area Office for assignment. An SCDHHS worker
+                   will document who the case was assigned to in the Area Office.
+
+
+     01.30    Duplicates/Rejection
+
+                   Centralized Intake will reject additional referrals made on an applicant if there is
+                   an active application for the applicant, for the same waiver/program, when the
+                   referral is processed. Referrals will also be rejected when Centralized Intake is
+                   notified by the referral source that a referral was submitted in error (for example,
+                   the referrer states the referral was made for the wrong person or the wrong
+                   program).
+
+
+                   Multiple Nursing Home referrals/applications are acceptable in certain situations
+                   such as one being for conversion and another coming in for placement or multiple
+                   conversion applications with different conversion (Level of Care) dates.
+Chapter 1-Intake                                                                               Page 8
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 1 – Intake Procedures                                                          November 1, 2022
+
+                   Centralized Intake will accept multiples in those situations if they are able to tell
+                   the referrals are not duplicates by the conversion dates listed.
+
+
+                   If there is an active Nursing Home application and another Nursing Home referral
+                   is submitted by Medicaid Eligibility, the latter referral will be rejected. Medicaid
+                   Eligibility will sometimes submit another referral because they are not aware that
+                   a hospital, nursing facility, etc. has already submitted one.
+
+    01.31      Case Transfer Policy
+
+                   All Waiver applications are auto assigned by Phoenix. All Nursing Home
+                   Placement applications will be transferred by Centralized Intake to the SCDHHS
+                   Area Office where the applicant resides (per the current address listed on the
+                   referral). If it is a PACE Only application, then the application goes to the PACE
+                   program area.
+
+
+                   If it is a standard desk review assessment for Nursing Home Placement, the
+                   SCDHHS Area Office (per residential address) will process the application. If the
+                   applicant will need to be seen face to face, the application may be transferred to
+                   the SCDHHS Area Office where the applicant is currently located for that
+                   SCDHHS Area Office to process the application.
+
+
+                   If an applicant has applications for multiple programs, all applications will go the
+                   SCDHHS Area Office where the applicant resides and that SCDHHS Area Office
+                   can transfer the application to other areas if needed.
+
+
+                   Centralized Intake will only transfer cases during intake. Once the case is in the
+                   Area Office, the Area Office has the ability to transfer to other area offices as
+                   needed, with proper notification to the other Area Office that the case is being
+                   transferred.
+
+
+
+
+Chapter 1-Intake                                                                                Page 9
+

@@ -1,0 +1,217 @@
+                  Table of Contents
+1.   UI from Dashboard ….………………………………………………………. 3 - 5
+2.   UI from Home Screen ……………………………………………………… 6
+3.   UI from Participant’s Record .…………………………………….……. 7
+4.   UI Topbar Navigation ……………….……………………………….……. 8
+5.   UI Sidebar Navigation ………………………………………….……….… 9 – 10
+6.   UI Avatar ………………………………………..…………………………….… 11
+7.   UI Mimicking ………………………………………..……………………..… 12
+8.   UI – Background Color ………………..………..……………………..… 13 - 15
+9.   UI – Report A Problem ………………..………..……………………..… 16 - 17
+                User Interface
+ UI from Dashboard
+
+
+
+
+                                    Topbar Navigation
+                      Sidebar Navigation
+                             User Interface
+  UI from Dashboard
+
+
+
+
+Title Headers            Search                 Filters                  Rows per page
+Dashboard items can       Dashboard items can   Dashboard items can      Dashboard items can
+be sorted in ascending   be narrowed by         be narrowed by using     be displayed on the
+or descending order by   entering CLTC,         the “Filters”. The       dashboard between
+clicking the title       names, etc. in the     filters can exclude or   2 - 100 rows per page
+headers                  “Search” field         include participants
+                                                with one of the listed
+                                                criteria
+                                 User Interface
+  UI from Dashboard
+
+
+
+
+           New E-Referral        Pages           Report A Problem
+           Click “New CLTC       Navigate to     Click “Report A
+           Referral” button to   each page on    Problem” to report
+           create a new E-       the dashboard   (Phoenix Issues,
+           referral                              Complaints, or        Help
+                                                 Critical Incidents)   Click “Help” to view
+Home                                                                   help documents,
+ Click Phoenix logo to                                                 scopes of services,
+go to the Home                                                         policy & procedures,
+Screen                                                                 etc.)
+                User Interface
+ UI from Home Screen
+
+
+
+
+                                Topbar Navigation
+
+                   Sidebar Navigation
+                 User Interface
+ UI from Participant Record
+
+
+
+
+                                  Topbar Navigation
+
+                    Sidebar Navigation
+                          User Interface
+ UI Topbar Navigation
+
+
+
+
+      Home                            Topbar Navigation
+      Click Phoenix                   Click icon to go to the
+      logo to go to the               (Dashboard,
+      Home screen                     Participants,
+                                      Providers, Waiting
+                                      List, Reports, Inbox,
+                                      Issue, Help, and
+                                      Avatar) sections
+                 User Interface
+ UI Sidebar Navigation
+                          Sidebar Navigation
+                           Displays the (Dashboard, Participants, Providers,
+                          Users, Workers, and Claims) sections on the side of
+                          the screen.
+
+                                                   Sidebar Navigation
+                                                   Each section expands
+                                                   into subsections by
+                                                   clicking the arrow.
+                                                   When a new section is
+                                                   expanded, any other
+                                                   section that has been
+                                                   expanded will collapse
+                                                   or condense.
+                 User Interface
+ UI Sidebar Navigation
+                       Sidebar Navigation
+                       From any screen, the sidebar navigation can
+                       be minimize by clicking “Collapse sidebar”.
+
+
+
+                   Sidebar Navigation
+                   Once the sidebar
+                   navigation is
+                   minimized, each section
+                   will be represented by
+                   an icon. To maximize
+                   the sidebar navigation,
+                   click the arrow.
+                User Interface
+ UI - Avatar
+
+
+
+
+                        Avatar
+                        The Avatar icon
+                        displays the user’s
+                        initials. Click the
+                        Avatar to go to (My
+                        Profile, Mimic User,
+                        or Sign Out)
+                   User Interface
+ UI - Mimicking
+
+
+
+
+                      Mimic
+                      When mimicking another
+                      user, a notification will be
+                      displayed along with the
+                      Phoenix logo in a hat and
+                      trench coat
+                 User Interface
+ UI – Background Color
+
+
+
+
+                     Background Color
+                     Click the Paint Palette icon to change the
+                     background and avatar color scheme. The
+                     Paint Palette icon is located next to the
+                     Phoenix logo at the bottom of the screen
+                     (except the dashboard). Hover the mouse
+                     over the area next to the Phoenix login for
+                     the Paint Palette icon to be appear
+                      User Interface
+ UI – Background Color
+
+                                                              2. Background Color
+                                                              The selected color(s)
+                                                              will appear in the
+                                                              Primary and
+                                                              Secondary color
+                                                              charts. To reset the
+                                                              color(s), click inside
+                                                              either color chart. The
+                                                              default colors for
+                                                              Phoenix will remain, if
+                                                              the color chart(s) are
+                                                              reset
+
+
+1. Background Color   3. Background Color         4. Background Color
+Select the desired    The color scheme for        When the color(s) are
+color(s)              Phoenix will be displayed   selected, go to any section in
+                      in the “Theme Preview”      Phoenix to view the changes
+                 User Interface
+ UI – Background Color
+
+
+
+
+                                  4. Background Color
+                                  The new color scheme is
+                                  applied to the top and
+                                  bottom of each screen
+                 User Interface
+ UI – Report A Problem
+
+
+
+
+                                  Report A Problem
+                                  Click “Report A
+                                  Problem” at the
+                                  bottom on any
+                                  Phoenix screen to
+                                  go to the Phoenix
+                                  landing page
+                 User Interface
+ UI – Report A Problem
+
+                                  Phoenix Issues
+                                  Click “Phoenix Issues” to
+                                  report technical issues
+
+                              Complaints
+                              Click “Providers & Services
+                              (Complaints)” to report
+                              complaints related to providers
+
+                              Critical Incidents
+                              Enter participant’s CLTC
+                              number and Click “Participants
+                              (Critical Incidents)” to report
+                              any allegations of abuse, neglect
+                              or APS/CPS incident.
+                              **APS/CPS incidents should
+                              NOT be reported in the
+                              “Complaints” section
+

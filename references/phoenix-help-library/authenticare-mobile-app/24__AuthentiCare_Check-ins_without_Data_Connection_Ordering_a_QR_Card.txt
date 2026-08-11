@@ -1,0 +1,39 @@
+AuthentiCare Mobile Work Flow for visit with no data
+connection
+Shows how to order a Q/R card when checking in.
+
+User does initial login for the day in a location with data connection and sees
+the following:
+User goes to the home where there is no data connection and logs in again
+when the user gets there. The following page displays with the red banner:
+The red banner means there is no data connection to the phone. The user taps
+the manual check in button and goes to the page below:
+Since the client does not have a Q/R card, the worker clicks on the “ID not
+available” button, and goes to the page below. The worker enters the CLTC
+number of the client and the service the worker plans to perform. To request a
+Q/R card, the worker simply checks the box below the service selection. That is
+ALL there is to ordering a Q/R card – just check the box and hit submit check in.
+Since there is no data connection, the check in AND the Q/R card order are
+queued on the page below. Note that the client name is NOT displayed because
+the app does not have a data connection to look it up and determine if the
+worker is allowed to see it. So the worker sees the CLTC number the worker
+typed in. When the worker finishes the visit, the worker hits the check out
+button.
+The worker is taken to a page where the worker can select activities and
+observations and submit their checkout.
+Then the checkout is queued on the phone:
+At any time, including after checking in or after checking out, the user can touch
+the AuthentiCare button (the one with the cross) and return to the visits page.
+Note in this example, the user still does not have a data connection so the check
+in, check out, and Q/R card order are all still queued.
+When the user returns to an area with a data connection, the visits still show as
+queued until they transmit to the Care Call system. But since the user has a
+data connection, the banner is white. In Android this page does not
+automatically refresh the status. One way to refresh is for users to touch the
+manual check in button and then immediately touch the AuthentiCare button at
+the upper left to cancel out and return to this page.
+When the visits have been sent to Care Call, they will be in completed status as
+shown below. Note that to limit data usage, the checkout push process waits
+two minutes to retry if the initial push fails. So the user may have to wait a few
+minutes and refresh the screen a few times if the data connection is weak.
+

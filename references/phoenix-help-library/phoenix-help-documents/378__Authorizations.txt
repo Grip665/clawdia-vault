@@ -1,0 +1,154 @@
+                  Service Authorization
+▪If a service is not included in the service plan it CANNOT be authorized.
+▪If you need to authorize a service that is not included in the service plan, you
+need to edit the service plan to include interventions for service.
+▪For electronic referrals, the schedule on the authorization defaults to what was
+in the referral and can be changed
+▪When a referral for one-time service (Ramps, Enhanced Pest Control, or
+Enhanced Environmental Modifications) is accepted, the case manager will
+NOT create the service authorization until the project has been completed
+▪Once the work has been completed, the case manager will create the
+authorization
+                  Authorizations
+▪ Once Proposed Provider accepts the referral, an authorization can be
+  completed
+▪ From the Participant’s dashboard, click “Waiver Supports”
+                 Authorizations
+▪ On the “Waiver Supports” screen, click “New Authorization”
+                     Authorizations
+• Select service from the drop-down list then click “Next”
+   • Only services that were in the Service Plan as Interventions will be
+      displayed
+• Select Proposed Provider then click “Next”
+
+
+
+
+                                        (EX0000)Provider
+                          Authorizations
+• Select the provider from the drop-down list then click “Next”
+   • Only the providers active for the participant’s county will be
+      displayed
+• Click “Next”
+
+
+
+
+       (EX0000)Provider
+                               Authorizations
+•       Enter number of “Units (Hours)” and select time(s) of the day the service will be performed
+        (Morning, Afternoon, Evening)
+•       Enter any instructions or comments in the “Notes” section
+•       Enter Start Date
+•       Enter End Date if the service is time limited
+•       Click “Create Authorization”
+•       Notification will be sent to Provider and Authorization will be displayed on Provider’s
+        Dashboard
+
+
+
+
+    (EX0001)Provider
+                              Authorizations
+•       Summary of the Authorization will be displayed
+•       Authorizations options are ( Preview, Terminate & Create New Auth, or Terminate
+        Authorization or Send to Provider)
+•       Review Authorization then click “Send to Provider”. The “Send to Provider” button
+        will disappear once the authorization has been sent
+•       Notification will be sent to Provider and Authorization will be displayed on Provider’s
+        Dashboard
+
+
+
+
+(EX0000)Provider
+                    Authorizations
+• Clicking the “Preview” button will allow the user to view the
+  Authorization is a password protected PDF file
+   • The password to view the PDF file is the Participant’s CLTC number
+• Clicking the “Terminate & Create New Auth” button will allow the
+  user to terminate current authorization and create a new authorization
+• Clicking the “Terminate Authorization” button will allow the user to
+  terminate current authorization
+• Clicking the “Send to Provider” button will allow the user to complete
+  authorization and send a notification along with the authorization to
+  the Provider
+                 Authorizations
+• From the Case Manager’s Dashboard, the referral and
+  authorization notifications will be listed under the
+  “Notifications” tab
+     Authorizations - Terminations
+▪ From the Participant’s dashboard, click “Waiver Supports”
+• From the “Open Authorization” tab, click “View” under the selected
+  authorization for termination
+
+
+
+
+                                                      (EX0001)Provider
+
+
+                                                      (EX0002)Provider
+
+
+
+                                                      (EX0003)Provider
+
+
+                                                      (EX0004)Provider
+     Authorizations - Terminations
+▪ From the “Authorization” screen, click “Terminate & Create New
+  Auth” or “Terminate Authorization”
+• From the “Open Authorization” tab, click “View” under the selected
+  authorization for termination
+     Authorizations - Terminations
+▪ Enter the End Date and the Termination Reason (Authorization can’t be
+  terminated without a reason entered)
+• Click “Terminate Authorization”
+      Authorizations - Terminations
+▪ The End date and Termination reason is displayed on the authorization
+• Termination notification is sent to the Provider Portal
+    Authorizations - Termination
+• Terminated Authorizations will be displayed under “Open
+  Authorizations” and “All Authorizations” tab
+
+
+
+
+                                   (EX0001)Provider
+
+
+                                   (EX0001Provider
+
+
+                                   (EX0002)Provider
+
+                                   (EX0003)Provider
+                 Authorizations
+• From the Case Manager’s Dashboard, the referral and
+  authorization notifications will be listed under the
+  “Notifications” tab
+                   Authorizations
+• To view authorizations from the Participant’s Dashboard, click
+  “Waivers Support”
+• Authorizations will be displayed under “Open Authorizations” or
+  “All Authorizations” tab
+
+
+
+
+                                                          (EX0001)Provider
+
+
+
+
+                                                          (EX0001)Provider
+
+
+
+                                                          (EX0002)Provider
+
+
+
+                                                         (EX0003)Provider
+

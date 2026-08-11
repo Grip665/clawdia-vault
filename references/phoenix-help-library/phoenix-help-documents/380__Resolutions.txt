@@ -1,0 +1,278 @@
+Claim Resolution Training
+
+
+
+
+                            1
+Providers are required to use The Electronic Visit Verification
+System (EVV) which includes Care Call and the Mobile
+Application to generate claims for payment for services.
+If provider/provider workers fail to complete a claim using
+EVV a payment is not generated and forward to MMIS for
+payment. A resolution then becomes necessary.
+Webster Defines Resolution as “the act or process of
+resolving”.
+Provider Agencies create resolutions through their Phoenix
+Provider Portal and submit via Phoenix for resolving.
+Attendant Care/Companion Individual providers do not have access to Phoenix.
+Attendant providers must submit a paper resolution log for claim resolution to their
+assigned CLTC Office.
+Processing Claim Resolutions
+When providers submit a claim for resolution, they must state an
+exception reason. The exception reason will determine DLTL
+action.
+Examples of Provider Exception Reason.
+Examples of Case Management Provider Agency Exception Reason.
+Resolution submitted by providers are located under the Phoenix Home
+Page on your dashboard under the Sidebar Navigation and Claims.
+Sidebar
+Navigation
+Claims-Review Claim Resolutions.
+You can sort Claim Resolutions by Area or Program or both
+depending on your Phoenix Role.
+Your choice of viewing will take you to the All Claim Resolutions screen. You will see all
+Resolutions submitted by providers for all programs. This view also provides the total
+number of claims submitted by provider, and timeliness.
+To begin processing Claim Resolutions Select Program.
+Select Service Choice.
+Select in Home Service Provider.
+Once you have made your selection of Provider, Provider Claim Resolutions will appear.
+If you are having problems sorting Claim Resolutions by Area or
+Program or both it may be because of your Phoenix assigned Role.
+
+Contact your supervisor for questions regarding your Phoenix
+Access Role.
+Your role may require that you run a Resolution Report in order to identify which provider
+claims to process for specific CLTC Area Office.
+         Resolution Report
+
+Select Reports from your Phoenix dashboard.
+                Resolutions Report
+
+
+
+
+Select Claims
+                     Resolutions Report
+
+
+
+
+Select Resolutions
+                      Resolutions Report
+Choose your filters
+               Resolutions Report
+
+Select
+
+Report Types
+▪ Summary
+▪ Detail
+▪ List
+                         Resolutions Report
+
+
+You may select Report by
+Service Date Range using options
+below.
+Range Search Options
+▪ Specific Dates
+▪ Current Week
+▪ Previous Week
+▪ Current Month
+▪ Previous Month
+▪ Last 7 Days
+▪ Last 30 days
+                        Resolutions Report
+
+         OR
+You may select Report by
+Submission Date Range using options
+below.
+Range Search Options
+▪ Specific Dates
+▪ Current Week
+▪ Previous Week
+▪ Current Month
+▪ Previous Month
+▪ Last 7 Days
+▪ Last 30 days
+                          Resolutions Report
+
+
+
+
+Select CLTC Area Office
+                  Resolutions Report
+
+Once you have entered filter options select run report.
+                        Resolutions Report
+
+           Select which option you like to view report.
+
+
+
+
+Password is required to open reports.
+               Resolutions Report
+
+The password is your Phoenix user ID in all lowercases.
+              Resolution Report
+
+Look for Provider claims that requires CLTC Action.
+Once you have identified the provider for the CLTC Area . Go to
+Phoenix Claims and search for provider claims to process.
+DLTL staff will review claim resolutions to determine what action
+should be taken before processing claim.
+
+▪ Accept
+▪ Accept with a strike
+▪ Delete
+▪ Deny claim
+
+
+
+(do not delete claims unless it was entered by DLTL staff in error)
+Action
+DLTL staff may deny a claim resolution for reasons listed below.
+
+
+➢ Duplicate Claim.
+
+➢ Services not provided.
+
+➢ Worker at strike (12) limit.
+If a claim is denied, DLTL staff must select a reason for denial.
+When processing claims and assigning strikes refer to the
+
+                   Twelve Strike Policy
+Personal Care I and II, Children’s Personal Care, Attendant,
+            Companion and Nursing Services
+                Located in Phoenix Help
+Workers who are new to the Electronic Visit Verification system (EVVS)
+will have a one-month grace period to learn the system before strikes
+begin to be issued. Accept claims during this period.
+
+
+
+
+   Phoenix will alert you that worker is in Grace Period.
+One strike will be given to a worker for each incident where a
+resolution must be done and no valid reason is given.
+For example, if worker is providing Personal Care I & II services for a
+participant and checks in for both services but fails to check out, only one
+strike will be given to correct both the PCI & PCII claims.
+Phoenix will automatically calculate the number of strikes for each strike
+assignment.
+After the twelfth strike, resolutions will no longer be accepted if no valid
+and verified reason is given. DLTL staff will deny claim resolution.
+Claim Resolutions that was denied will not submit for payment. Provider
+will receive notification of denial via Phoenix.
+Each resolution not submitted timely will receive a strike. Providers must submit
+the resolution within 10 days from the Sunday following the Date of Service to be
+timely. Any resolutions submitted after that date will have strikes issued.
+                             Phoenix will indicate that resolution was not timely.
+Once you have enter your action, select Submit Resolutions.
+Claim Resolutions that was accepted or accepted with strike
+is submitted for payment.
+You do not have to wait until you process all of the provider
+claim resolutions before you Submit Resolutions.
+
+Example: DLTL staff need additional information from Case
+Manager before CLTC action can be determine.
+Once Claim Resolutions is Submitted. Next you will see a review of the
+resolutions you submitted for payment. You can print this screen for
+your records.
+Providers should report any problems using the participant’s landline
+phone or the mobile app immediately (by the next business day) to
+case manager or Area Office. Provider may use narrative
+conversation to report phone problems.
+   Strike assigned to a worker in error can be deleted.
+
+
+Go to worker’s provider agency dashboard and select Workers.
+Select Worker- Locate the date strike was assigned in error.
+
+
+
+
+               Select delete to remove strike.
+                              Action Accept -See Examples below.
+Exception Reason- Client’s Phone Not Functioning
+Personal Care Aide checked in using Care Call; however when PCA got ready to check out the
+participant landline phone was disconnected. PCA notified her supervisor. Provider agency notified CM
+using conversation in Phoenix by the next business day. Accept Resolution.
+
+Exception Reason- Worker Error
+PCA forgot to check out. Provider agency send in a resolution. PCA has only been hired for 20 days.
+PCA is in Grace Period. Accept Resolution.
+
+
+Exception Reason- Mobile App/Care Call Not Functioning.
+Provider sends in resolution- Care Call or mobile app not working and central office has said not to issue
+strikes. Accept Resolution.
+              Action Accept With A Strike -See Examples below.
+
+Exception Worker Error
+PCA checked in and forgot to check out. Provider sends resolution. Worker is no
+longer in grace period. Accept with a Strike.
+
+
+Exception Client’s Phone Not Available.
+Participant phone was not available on July 3, 2019. Provider agency submitted
+Resolution on August 13 2019. Resolution submitted late according to policy.
+Accept with a strike.
+                Action Denied -See Examples below.
+
+Exception Worker Error.
+PCA checked in and forgot to check out. Provider sends resolution. PCA has 12
+strikes. Resolution is denied.
+
+Exception Worker Error.
+No Check in or out. PCII made visits during unauthorized day. Resolution is
+denied.
+
+Provider submit duplicate resolution for the same date and times. Resolution is
+denied.
+Processing Attendant Resolution Claims
+Attendant must submit a resolution to CLTC Area Office for
+resolving.
+
+Resolution Log must be signed by attendant and Employer
+of Record (EOR).
+Processing Attendant Resolution
+When Processing Attendant Resolution, please refer
+           to the Twelve Strike Policy
+If Attendant fail to check in or out, a claim must be added. To
+  add a claim, select Claims from your Phoenix Home Page.
+
+
+
+Add A Claim.
+Enter information under the Add Claims section as it appears
+on Resolution Log. Worker ID, CLTC Number, Date of Service
+                         and Service.
+Select Apply Defaults-Information will then show under
+the add claim section.
+Enter the Check In/Out information from resolution log.
+Select Save from the action box. Please remember to select
+save or your entry will not submit for payment.
+If Attendant have more than one claim for same participant.
+Select add claim- You can add additional claims. You will
+need to change Date of Service.
+Select Submit after you have entered claims. Claims will
+then submit for payment.
+ If Attendant created a claim using mobile app or care call but
+                    forgot to check in or out.
+
+
+
+Select
+Edit/Delete/View/
+Search Claims
+Search for Claim using options below.
+Locate Claim and update Information.
+Select Save- Action
+Submit Resolutions
+74
+

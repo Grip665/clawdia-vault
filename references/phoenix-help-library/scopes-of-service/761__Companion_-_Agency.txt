@@ -1,0 +1,422 @@
+HCBS Provider Manual                                                              July 1, 2024
+Scopes of Services                                                 Companion (Agency) Services
+
+        MEDICAID HOME AND COMMUNITY-BASED WAIVER SCOPE OF SERVICES
+                                   FOR
+                     COMPANION (AGENCY) SERVICES
+
+  A.    Objectives
+        The objectives of Companion services are to provide short-term relief for
+        caregivers and to provide needed supervision of Medicaid HCBS waiver
+        participants.
+
+
+  B.    Conditions of Participation
+        1.     Agencies must utilize the automated systems mandated by SCDHHS to
+               document and bill for the provision of services.
+        2.     Pursuant to enactment and implementation of S.C. § Code 44-70-10 all
+               providers of in-home care require a license to provide in-home care.
+               Providers are required to renew their license annually. Providers who do
+               not maintain their In- Home Care provider license will be terminated.
+               Providers who are not licensed by the South Carolina Department of
+               Public Health are not allowed to enroll as a Medicaid provider for these
+               services. If the provider loses their SCDPH In- Home Care License for any
+               reason, the provider must voluntarily terminate their HCBS services contract
+               with SCDHHS immediately. With voluntary termination, the provider will be
+               able to re-contract once required documentation is obtained and provided
+               to SCDHHS. If there is an involuntary termination due to lack of licensing,
+               the provider must wait 6 months prior to reapplying for the LTSSSCDHHS
+               Contract.
+        3.     Provider agencies must be housed in an office that is in a commercial or
+               un-zoned area.
+        4.     The Provider must ensure that, when serving Participants, its Companions
+               and Supervisors display a photo identification badge identifying the
+               Provider and the employee.
+        5.     Providers must accept or decline referrals from LTSS within two (2)
+               working days. Failure to respond must result in the loss of the referral.
+        6.     The provider is responsible for verifying the participant’s Medicaid eligibility
+               when it has accepted a referral and monthly thereafter to ensure continued
+               eligibility. Providers can verify Medicaid eligibility for LTSS participants in
+               the Phoenix Provider Portal on their dashboard. Providers must also refer
+               to Provider Administrative and Billing Manual for additional information on
+               eligibility determination.
+        7.     Providers may use paperless filing systems. Provider must obtain approval
+               from SCDHHS by emailing provider-distribution@scdhhs.gov prior to
+
+                                      South Carolina Department of Health and Human Services 1
+HCBS Provider Manual                                                              July 1, 2024
+Scopes of Services                                                 Companion (Agency) Services
+
+               initiating electronic documentation and/or filing systems. Electronic records
+               must be made available upon request, and providers must have a reliable
+               back-up system in the event their computer system shuts down.
+
+
+  C.    Description of Services to be provided
+        1.     The unit of service is one (1) hour of services provided in the participant's
+               residence or away from the participant’s residence for shopping, laundry
+               services, other offsite services or escort services. The amount of time
+               authorized does not include the companion’s transportation time to and
+               from the participant’s residence.
+        2.     The number of units and services provided to each participant is
+               dependent upon the participant's needs as set forth in the participant's
+               Service Plan.
+        3.     Services to be provided include:
+
+                    a. Socialization - Reading, conversation, assistance with mail and
+                       other interaction with participant as appropriate
+
+                    b. Assistance with or supervision of meal/snack preparation
+
+                    c. Assistance with or supervision of participant laundry (washing clothes and
+                       linens)
+
+                    d. Assistance with or supervision of participant’s shopping
+
+                    e. Incidental light housekeeping (dusting, sweeping or other light
+                       chores to maintain participant in a safe clean environment)
+
+                    f. Sitting service focusing on the participant including supervision,
+                       orientation, making appropriate contact in case of emergency
+
+
+  D.    Staffing
+
+        The Provider must maintain individual records for all employees. All required
+        documentation indicated in this section must be filed in the personnel record no
+        less than fifteen (15) days after employment.
+
+        1.     The Provider must maintain the following (supervisory positions may be sub-
+               contracted):
+                    a. A supervisor who meets the following requirements:
+                           i. High school diploma or equivalent.
+                            ii. Capable of evaluating companions in terms of their ability
+                                    to carry out assigned duties and their ability to relate
+
+                                      South Carolina Department of Health and Human Services 2
+HCBS Provider Manual                                                                   July 1, 2024
+Scopes of Services                                                      Companion (Agency) Services
+
+                                        to the participant; and
+                                iii. Able to assume responsibility for in-service training for companions.
+                  b. Companions who meet the following minimum qualifications:
+                       i.         Able to read, write and communicate effectively with
+                                  participant and supervisor.
+                       ii.        Able to use the Electronic Visit Verification (EVV) System.
+                       iii.       Capable of following a care plan with minimal supervision; and
+
+                       iv.       At least eighteen (18) years of age.
+
+                        v.        Companions must complete four (4) hours of relevant
+                                  in-service training per calendar year in the following
+                                  areas:
+                        vi.       Maintaining a safe, clean environment and utilizing
+                                  proper infection control techniques.
+
+                        vii.      Following written instructions.
+
+                        viii.     Ethics and interpersonal relationships.
+
+                                ix. Documenting services provided; and
+
+                                x. Other areas of training as appropriate.
+
+              The annual four-hour requirement will be pro-rated during the
+              companion’s first year of employment.
+
+        2.    Agency staff may be related to participants served by the agency within
+              limits allowed by the South Carolina Family Caregiver Policy. The following
+              family members cannot be a paid caregiver:
+
+                  a. The spouse of a Medicaid participant (including married but separated)
+
+                  b. A parent of a minor Medicaid participant
+
+                  c. A stepparent of a minor Medicaid participant
+
+                  d. A foster parent of a minor Medicaid participant
+
+                  e. Any other legally responsible adult or legal guardian of a Medicaid
+                         participant
+               Family members who are primary caregivers will not be reimbursed for
+              companion services. All other qualified family members can be reimbursed
+              for their provision of companion services
+
+                                          South Carolina Department of Health and Human Services 3
+HCBS Provider Manual                                                              July 1, 2024
+Scopes of Services                                                 Companion (Agency) Services
+
+        3.    PPD Tuberculin Test
+              Please refer to the Department of Public Health (DPH) website for PPD
+              Tuberculin test requirements.
+              https://scdhec.gov/sites/default/files/media/document/R.61-122.pdf
+
+
+              For additional information, providers must contact the Tuberculosis Control
+              Division, Department of Public Health, 1751 Calhoun Street, Columbia, SC
+              29201, phone (803) 898-0558.
+        4.    A SLED criminal background check is required for all employees prior to
+              hire and at least every two years thereafter to include employees who
+              provide direct care to HCBS participants and all administrative/office
+              employees (office employees required to have SLED background checks
+              include: administrator, office manager, supervisor, and persons named on
+              organizational chart in management positions). All SLED criminal
+              background checks must include all data for the individual. The SLED
+              criminal background check must include statewide (South Carolina) data.
+              The statewide data must include South Carolina and any other state or
+              states the worker has resided in within the prior ten years. Potential
+              employees must not have prior convictions or have pled no contest (nolo
+              contendere) to crimes related to theft, abuse, neglect or mistreatment, or a
+              criminal offense similar in nature to the crimes listed in S.C. Code Section
+              43-35-10 et seq. Potential employees with non-violent felonies dating back
+              ten (10) or more years can provide services to HCBS participants under
+              the following circumstances:
+                  •    Participant/responsible party must be notified of the aide’s SLED
+                       criminal background, and
+
+                  •    Documentation must be placed in the participant’s record and
+                       signed by the participant/responsible party acknowledging
+                       awareness of the aide’s SLED criminal background and agreement
+                       to have the aide provide care.
+              Potential administrative/office employees with non-violent felony
+              convictions dating back ten (10) or more years can work in the agency at
+              the Provider’s discretion.
+              Hiring of employees with misdemeanor convictions is at the Provider’s discretion.
+       5.      The provider must check the CNA registry for all staff prior to hire and at
+               least every two years thereafter. A copy of the search results page must
+               be maintained in each employee’s personnel file. Anyone on the CNA
+               Registry with a revoked license is not allowed to provide services to
+               waiver participants or participate in any Medicaid funded programs. The
+               website addresses are listed below:
+                  CNA Registry: https://cna365.examroom.ai/registry/?StateCode=SC
+
+
+                                     South Carolina Department of Health and Human Services 4
+HCBS Provider Manual                                                              July 1, 2024
+Scopes of Services                                                 Companion (Agency) Services
+
+       6.     The provider must check the OIG exclusions lists for all staff prior to hire
+              then at least every two years thereafter. A copy of the search results page
+              must be maintained in each employee’s personnel file. Anyone on the OIG
+              Registry is not allowed to provide services to waiver participants or
+              participate in any Medicaid funded programs. The website addresses are
+              listed below:
+
+                   OIG Exclusions List: https://exclusions.oig.hhs.gov/
+
+       7.     All required staff documentation must be filed in the employee file within 15
+              days of employment or of receipt.
+
+  E.    Conduct of Service
+
+        The Provider must maintain documentation showing that it has complied with the
+        requirements of this section.
+            1. The Provider must obtain the Service Plan and/or OIDD Assessment from
+               the case manager prior to the provision of services. The authorization must
+               designate the amount, frequency and duration of service for participants in
+               accordance with the participant's Service Plan/OIDD Assessment which
+               must have been developed in consultation with the participant and others
+               involved in the participant's care. The provider must receive new
+               authorizations only when there is a change to the authorized service. The
+               Provider must adhere to those duties which are specified in the authorization
+               in developing the provider task list. The provider task list must be
+               developed by the supervisor. If the provider identifies Companion duties
+               that would be beneficial to the participant's care but are not specified in the
+               authorization, the Provider must contact the case manager to discuss the
+               possibility of having these duties included in the Authorization. Under no
+               circumstances will any type of skilled medical service or hands on
+               care be performed by a companion. The case manager must make the
+               decision as to whether the Service Plan/OIDD Assessment must be
+               amended to include the additional duty. This documentation must be
+               maintained in the participant files.
+            2. The supervisor of Companion services must:
+
+                    a. Perform an initial visit to the participant’s home within 90 days of the
+                       start of services and provide on-site supervision at least once every
+                       365 days thereafter for each participant and phone contact with the
+                       participant or responsible party as needed.
+                               i. At the initial supervisory visit, the supervisor must inform
+                                  participants of their right to complain about the quality of
+                                  Companion services provided and must give participants
+                                  information about how to register a complaint. The
+                                  complaint information must contain at a minimum, the
+                                  name of the person(s) to whom the complaint must be
+                                  made, that persons’ telephone number(s) and
+
+                                      South Carolina Department of Health and Human Services 5
+HCBS Provider Manual                                                                July 1, 2024
+Scopes of Services                                                   Companion (Agency) Services
+
+                                   address(es). First point of contact must be a person
+                                   employed by the provider. The second point of contact
+                                   must be any related licensing agency (DPH, LLR,
+                                   etc.)must. The participant is required to sign and date a
+                                   statement that they have received this information. The
+                                   supervisor is also required to sign and date this
+                                   statement. Complaints which are made against
+                                   companions must be investigated by the Provider. All
+                                   complaints which are to be investigated must be referred
+                                   to the supervisor who must take any appropriate action.
+                                ii. At the initial supervisory visit and periodically thereafter,
+                                    the supervisor must give the participant written
+                                    information regarding advanced directives; the
+                                    participant is required to sign and date a statement that
+                                    they have received this information; the supervisor is
+                                    also required to sign and date the statement.
+              b.        Each supervisory visit, including the initial visit, must be
+                        documented in the participant's file and recorded in the Electronic
+                        Visit Verification (EVV) System. In the event the participant is
+                        inaccessible during the time the visit would have normally been
+                        made, the visit must be completed within five (5) working days of
+                        the resumption of Companion services.
+              c.        The Supervisor's report of the on-site visits must include, at a
+                        minimum:
+
+                       i.      Documentation that services are being delivered
+                               consistent with the Service Plan/Authorization;
+
+                       ii.     Documentation that the participant's needs are being met;
+
+                       iii.    Reference to any complaints which the participant
+                               or family member/responsible party has lodged; and,
+
+                       iv.     A brief statement regarding any changes in the
+                               participant's service needs.
+              d.        Supervisors must provide assistance to companions as necessary.
+              e.        Supervisors must be immediately accessible by phone during any
+                        hours services are being provided under this contract. If the
+                        supervisor position becomes vacant, SCDHHS must be notified
+                        within two (2) business days.
+               f.      If there is a break in service which lasts more than sixty (60) days,
+                       the supervisor must conduct a visit within ninety (90) days of the
+                       resumption of services.
+
+
+                                       South Carolina Department of Health and Human Services 6
+HCBS Provider Manual                                                                     July 1, 2024
+Scopes of Services                                                        Companion (Agency) Services
+
+            3. In addition, the Provider must maintain an individual participant record that
+               documents the following items:
+                   a.   The Provider must initiate Companion services on the date agreed
+                        upon by the Case Manager, provider, and participant indicated on
+                        the authorization. Services must not be provided prior to the
+                        authorized start date and must be provided according to the
+                        schedule as indicated on the authorization.
+
+                   b.   The Provider must notify the CM within two (2) working days of the
+                        following participant changes:
+                        i.          Participant's condition has changed, and the Service
+                                    Plan/Authorization no longer meets participant's needs, or
+                                    the participant no longer appears to need Companion
+                                    services.
+                        ii.         Participant dies, is institutionalized, or moves out of the service area.
+                        iii.        Participant no longer wishes to participate in a program of
+                                    Companion services
+
+                        iv.         Provider becomes aware of the participant's Medicaid
+                                    ineligibility or potential ineligibility.
+
+                   c.   The Provider must maintain a record-keeping system which
+                        documents the delivery of services in accordance with the
+                        Service Plan. The Provider shall not ask the
+                        participant/responsible person to sign any log or task sheet. Task
+                        sheets must be reviewed, signed, with original signature (rubber
+                        signature stamps are not acceptable), and dated every two (2)
+                        weeks by the supervisor. Task sheets must be filed in the
+                        participant’s record within thirty (30) days of service delivery.
+              d.        For OIDD participants: The delivery of services and units must be
+                        provided in accordance with the OIDD Assessment. The provider
+                        must maintain daily service logs containing the Companion services
+                        provided for the participants and the actual amount of time
+                        expended for the service.. Daily service logs must be reviewed,
+                        signed, with original signature (rubber signature stamps are not
+                        acceptable), and dated every two (2) weeks by the supervisor.
+                        Daily logs must be filed in the participant’s record within thirty (30)
+                        days of service delivery.
+              e.        Daily service logs must be made available to SCDHHS/OIDD upon
+                        request.
+              f.        All active participant records must contain at least two (2) years of
+                        documentation to include, , the following:
+                               i.         task sheets/daily logs,
+
+
+                                            South Carolina Department of Health and Human Services 7
+HCBS Provider Manual                                                               July 1, 2024
+Scopes of Services                                                  Companion (Agency) Services
+
+                             ii.     service plans,
+                             iii.    authorizations,
+                             iv.     supervisory visit documentation
+                             v.      right to complain documentation
+                             vi.     advanced directive documentation and
+                             vii.    any complaints, etc.
+                         Per Medicaid policy all records must be retained for at least five (5)
+                         years.
+                g.      Whenever two consecutive attempted or missed visits occur, the
+                        local Area office/OIDD office must be notified. An attempted visit is
+                        when the companion arrives at the home and is unable to provide
+                        the assigned tasks because the participant is not at home or
+                        refuses services. A missed visit is when the provider is unable to
+                        provide the authorized service. Missed visits must be documented
+                        in the participant record as well as in the Electronic Visit
+                        Verification (EVV) System.
+
+
+
+
+     F.    Administrative Requirements
+           1.        The Provider must inform SCDHHS of the provider’s organizational
+                     structure, including the provider personnel with authority and
+                     responsibility for employing qualified personnel, ensuring adequate
+                     staff education, in-service training, and employee evaluations. The
+                     Provider shall notify SCDHHS within three (3) working days in the
+                     event of a change in or the extended absence of the personnel with the
+                     above-mentioned authority.
+           2.        The Provider must provide SCDHHS a written document showing the
+                     organization administrative control and lines of authority for the
+                     delegation of responsibility down to the hands-on participant care level
+                     staff at contract implementation. The document must include an
+                     organizational chart including names of those currently in the positions.
+                     Revisions or modifications to this organizational document must be
+                     provided to SCDHHS. It is recommended that this document be readily
+                     accessible to all staff.
+           3.        Administrative and supervisory functions shall not be delegated to
+                     another organization.
+
+           4.        The Provider shall acquire and maintain for the duration of the contract
+                     liability insurance and workers’ compensation insurance as provided in
+                     Article IX, Section D of the Contract. The Provider is required to list
+                     SCDHHS as a Certificate Holder for informational purposes only on all
+
+                                        South Carolina Department of Health and Human Services 8
+HCBS Provider Manual                                                          July 1, 2024
+Scopes of Services                                             Companion (Agency) Services
+
+                 insurance policies using the following address: Post Office Box 8206,
+                 Columbia, SC 29202-8206.
+                  Failure to maintain the required insurance will result in termination of
+                  your contract with SCDHHS.
+           5.    The Provider must develop and maintain a Policy and Procedure
+                 Manual that describes how activities will be performed in accordance
+                 with the terms of the requirements of the contract. The Policy and
+                 Procedure Manual shall be available during office hours for the
+                 guidance of the governing body, personnel and must be made
+                 available to SCDHHS upon request.
+           6.    The provider agency must ensure that key agency staff is accessible in
+                 person or by telephone during normal business hours and during
+                 compliance review audits conducted by SCDHHS and/or its agents.
+                 Providers are required to keep documentation records, including
+                 medical records, in chronological order.
+           7.    The Provider shall update holidays in Phoenix; the Provider is not
+                 required to furnish services on those days. The Companion provider
+                 agency must not be closed for more than two (2) consecutive days at a
+                 time, except when a holiday falls in conjunction with a weekend. If a
+                 holiday falls in conjunction with a weekend, a Companion provider
+                 agency may be closed for not more than four (4) consecutive days.
+
+
+
+
+                                    South Carolina Department of Health and Human Services 9
+

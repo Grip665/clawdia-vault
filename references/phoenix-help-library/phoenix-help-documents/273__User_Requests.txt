@@ -1,0 +1,242 @@
+                 Table of Contents
+1.   Introduction ………………………………………..……………………………. 3
+2.   Creating User Requests ………………………..…………………………… 4 – 10
+3.   Pending User Requests ……………………………………………………… 11 – 15
+4.   Completed User Requests …………………………………………………. 16 - 17
+5.   Activating User Requests .…………………………………………………. 18 - 26
+6.   Terminating User Requests .………………………………………………. 27 – 31
+7.   Updating User Requests ……………….…………………………………… 32 – 43
+                User Requests
+ Requesting Phoenix access is now an electronic
+  process
+ When a worker needs access to Phoenix, providers,
+  central office, and area offices can create a User
+  Request via Phoenix for their worker
+ Terminating and updating Phoenix access for a worker
+  will be completed via Phoenix electronic format
+ Paper format of the Phoenix Access Request form will
+  no longer be accepted (Exceptions: User access for
+  Medicaid Eligibility workers, new CM providers, or
+  state staff requesting additional area offices
+         Creating User Request
+• From the “Home” screen, click“ User Requests”
+             Creating User Request
+User Request Alternative:
+   • From Sidebar Navigation, Click “Users” or
+       • Click “Work with User Requests”         COLLAPSED SIDEBAR
+
+ EXPANDED SIDEBAR
+
+
+                            Jane Doe
+        Creating User Requests
+• Click “New User Request”
+                  Creating User Requests
+FOR STATE WORKERS ONLY!!!
+•   State staff will enter the
+    user’s information in
+    the appropriate fields.
+    The request will not be
+    processed without a valid
+    email address (State or
+    Personal) for the user
+•   The Area Office roles
+    will be limited to the
+    staff’s area roles (i.e.
+    Rock Hill office staff can
+    only create a request for
+    Rock Hill are office roles)
+•   If user is an Assessment
+    Consultant, select (yes
+    or no) in the assessment
+    consultant dropdown
+    box
+                 Creating User Requests
+FOR PROVIDER WORKERS ONLY!!!
+•   Provider administrators
+    will enter the user’s
+    information in the
+    appropriate fields. The
+    request will not be
+    processed without a valid
+    email address (Agency or
+    Personal) for the user
+•   If user is an Administrator
+    and/or Supervisor, check
+    appropriate box(es)
+•   Enter Start Date and
+    Office Orientation
+    Completion Date (Prime
+    Plans and SC Solution
+    workers can enter today’s
+    date as the Office
+    Orientation date since that
+    is not required)
+                 Creating User Requests
+FOR PACE WORKERS ONLY!!!
+•   PACE administrators
+    will enter the user’s
+    information in the
+    appropriate fields. The
+    request will not be
+    processed without a
+    valid email address
+    (State or Personal) for
+    the user
+•   If user is an
+    Administrator and/or
+    Supervisor, check
+    appropriate box(es)
+•   Enter Start Date and
+    Office Orientation
+    Completion Date
+    (enter today’s date as
+    the Office Orientation
+    date since that is not
+    required)
+         Creating User Requests
+• Enter phone number information
+• Once all the required information has been entered, click “Create User
+  Request”
+           Pending User Requests
+ The new request will be displayed under the “Open” request tab as
+  “Pending”
+     A user request will remain in “Pending” status until an action is taken by Central
+      Office (Approve, Deny, or Return Request)
+
+
+ Notifications will be sent to the new user only. Provider administrators and
+  State staff will have to check the Open or Closed Request tabs for the status of a
+  request
+          Pending User Requests
+• User request(s) that have been returned will be displayed in the “Open” tab
+• Click “Returned – Click here to edit” to review comments from Central
+  Office, make any changes to the user request, and/or resubmit the request for
+  processing
+         Pending User Requests
+• When ready to resubmit, click “Update User Request”
+         Pending User Requests
+• User requests that have not been processed will be displayed in the
+  “Open” tab
+• Click on the user’s name to view submitted information
+          Pending User Requests
+• Please verify information before submitting user request
+• Changes can’t be made unless the user request is returned by Central Office
+• Additional comments can be entered to be reviewed by Central Office
+      Completed User Requests
+• Users requests that have been approved or denied will appear in the “Closed”
+  tab
+• Click the user’s name to view the activation code or denial reason
+• Closed requests can be sorted by clicking the title headers
+• Closed requests results can be searched by entering the user’s name or login ID
+  in the search field
+      Completed User Requests
+• Denial reason(s) will be displayed in the comment box at the bottom of the
+  screen
+         Activating User Requests
+•   Once the user request has been approved by Central Office, a notification will be emailed
+    to the new user
+•   Providers may have to use the worker’s personal email address to receive the notification,
+    if the worker has not received a state email address before the request is made
+•   The notification will contain the user’s Login ID
+•   The user will need the activation code in order to setup their Phoenix account. New users
+    will have to retrieve the activation code from their Provider administrator or State staff
+       Activating User Requests
+• Provider administrators and State staff will need to give the new user the
+  activation code once the user receives the notification that the user id has been
+  created
+• The activation code will expire 24 hours after the user request is
+  approved. If the user does not activate their account within 24 hours of
+  receiving the activation code, then the administrator will need to request a new
+  activation code
+       Activating User Requests
+• If the user’s activation code has expired, the Provider administrator or State
+  staff will need to create a new activation code
+• To request a new activation code, from the Home screen click “User Requests”
+       Activating User Requests
+• From the “Closed” tab, click the user’s name
+       Activating User Requests
+• From the worker’s “User Request” screen, click “New Activation Code”
+       Activating User Requests
+• A new activation code will be displayed in the “Activation Code” section
+• Provider administrator and State staff will need to provide the worker with the
+  activation code. If the worker does not activate the account within 24 hours,
+  then the administrator will need to repeat the previous steps
+       Activating User Requests
+• Users will have to activate their user account before logging in
+• To activate a new user account, click “Activate”
+       Activating User Requests
+• From the activation screen, the user will need to enter (login ID, email address,
+  password, password confirmation, and activation code)
+• Click “Continue”
+       Activating User Requests
+• From the Users profile screen, the user will need to enter the security
+  questions/answers and sign “Signature” section in order to finalize the user
+  account setup
+• Click “Save”
+             Terminating Users
+• From the “Home” Screen click“ User Roster”
+              Terminating Users
+• From the “User Roster” screen, click “Terminate”
+                      Terminating Users
+•   A Blue notification banner will be displayed when the user does not have any assigned
+    cases
+•   Enter “Termination Date” and “Termination Reason”. (Termination and Termination
+    Reason are required fields)
+•   Entering a future date in the “Termination Date” field will result in the User ID
+    remaining active until that termination date
+•   Click “Terminate User”
+                    Terminating Users
+•   A Red notification banner will be displayed when the user have assigned cases. Providers
+    will need to run a roster report and have cases reassigned
+•   If the user is terminated before cases are reassigned, then the provider will not be able to
+    mimic the terminated user to view their caseload
+•   Continue the termination process and click “Terminate User”
+               Terminating Users
+• “Terminated” status will be displayed. Central office does not have to
+  approve termination requests for users
+            Updating User Areas
+• Providers can request to update a user’s area via Phoenix
+• From the “Home” Screen click“ User Roster”
+            Updating User Areas
+• All active workers for the provider will be listed
+• Click “Edit Areas”
+               Updating User Areas
+•   The Blue banner will display the area(s) that the user currently have access to
+•   Select the area office(s) from the “Requested” column
+•   Users will need to complete office orientation for each new area office added
+•   Enter “Office Orientation Completion Date” when the user has completed all offices
+    orientations
+           Updating User Areas
+• Once all information has been entered, click “Create User Request”
+           Updating User Areas
+• From the “User Request” section, the update request will be in a
+  “Pending” State until Central Office review and approve the request
+           Updating User Areas
+• Once the update request has approved or denied, it will move to the
+  “Closed” tab
+            Updating User Areas
+• If the update request has been returned back to the provider, it will still
+  be displayed in “Open” tab
+• Click, “Returned” to review the request
+           Updating User Areas
+• Review comments at the bottom
+• Make any necessary changes, then click “Update User Request”
+             Updating User Areas
+• From the User Request screen, Providers can review the user’s current enrolled
+  and requested areas
+• Provider can enter comments
+• If an error has been made, the Provider will need to contact Central Office to
+  have the user request “Returned”
+           Updating User Areas
+• Once the update request has approved or denied, it will move to the
+  “Closed” tab
+            Updating User Areas
+• Once the update request has approved or denied, it will move to the
+  “Closed” tab
+• To review user’s profile, click the user’s name
+           Updating User Areas
+• The updated area offices, date the request was approved or denied, user
+  request information, office orientation date, and comments will be
+  displayed
+

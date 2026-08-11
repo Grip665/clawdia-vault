@@ -1,0 +1,389 @@
+    SCDHHS
+    Community Choices Policy and Procedure Manual
+    Chapter 4 – Medicaid Financial Eligibility Determination Procedures                                                               November 1, 2022
+
+
+
+
+                                                           TABLE OF CONTENTS
+TABLE OF CONTENTS .................................................................................................................................... 1
+
+04.10        Introduction.......................................................................................................................................... 2
+
+04.20       Medicaid Financial Eligibility Determination Process ......................................................................... 3
+
+           04.21        Verification of Medicaid Financial Eligibility ......................................................................... 4
+
+           04.22        Transfer of Resources .............................................................................................................. 5
+
+                 04.22.10 Applicant Leaving Nursing Home and Entering Waiver .............................................. 6
+
+                 04.22.20          MAO General Hospital (Category 14) Discharged to Waiver ..................................... 6
+
+           04.23 Institutionalization of Waiver Participant for Full Calendar Month ......................................... 7
+
+           04.24        Medicaid Income Trusts .......................................................................................................... 7
+
+                 04.25        Waiver Interaction with Medicaid Managed Care (MCO)................................................ 7
+
+           04.26        Waiver Interaction with Medicare – Medicaid Plan (PRIME) ................................................ 8
+
+           04.27        Waiver Interaction with Medicaid Targeted Case Management.............................................. 8
+
+           04.28        Medicaid Eligibility Status Inquiry .......................................................................................... 8
+
+                 04.28.10 Authorized Representative Agreement.......................................................................... 9
+
+
+
+
+  Chapter 4-Medicaid Eligibility                                                                                                                    Page 1
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 4 – Medicaid Financial Eligibility Determination Procedures          November 1, 2022
+
+04.10           Introduction
+
+              The eligibility process for CLTC waiver applicants is completed through
+              coordination between the CLTC office and the Medicaid Eligibility office. Waiver
+              applicants must meet the financial and categorical criteria for Medicaid and meet
+              level of care for home and community-based services initially and on an on-going
+              basis as a participant.
+
+
+
+
+Chapter 4-Medicaid Eligibility                                                         Page 2
+ SCDHHS
+ Community Choices Policy and Procedure Manual
+ Chapter 4 – Medicaid Financial Eligibility Determination Procedures                November 1, 2022
+
+04.20      Medicaid Financial Eligibility Determination Process
+
+      Verifying an applicant's Medicaid financial and categorical eligibility is an important
+      function of the CLTC Centralized Intake Program Assistant in the pre-admission process.
+
+      1.       If an applicant is not presently eligible for any Medicaid Category and is seeking
+               Medicaid-sponsorship in a long term care facility or community- based services, an
+               application for Medicaid financial and categorical eligibility must be made with the
+               Medicaid Eligibility Office.
+
+               The Centralized Intake Program Assistant mails the Medicaid Eligibility
+               Application for Nursing Home, Residential or In-Home Care Form 3401 to the
+               applicant. The waiver application will not be processed until financial eligibility is
+               determined.
+
+      2.       If an applicant may be eligible for Medicaid for any category other than Category 80,
+               86, 16, 54, 17, 18, 10, 15, 19 (SSI) or 33 ABD/NH and is seeking community-based
+               services, an application for Medicaid financial and categorical eligibility must be
+               made with the Medicaid Eligibility Office. The waiver application will not be
+               processed until financial eligibility is determined.
+
+               Centralized Intake mails the Medicaid Eligibility Application for Nursing Home,
+               Residential or In-Home Care Form 3401 or Form 3400 B to the applicant.
+
+               The applicant will return the completed Form to SCDHHS Central Mail Center, PO
+               Box 100101, Columbia, SC 29202-3101.
+
+      3.       If an applicant is presently eligible for Medicaid Category 80, 86, 15, 16, 54, 17, 18,
+               19, and 10 (SSI) or 33 ABD/NH and is seeking community based services,
+               Centralized Intake processes the application and releases the application to the Area
+               Office after financial eligibility is determined. Medicaid Category 55 may have
+               another Medicaid number, the Area Office will need to search by SSN or Medicaid
+               number in MMIS and/or contact the EEMS Eligibility worker for resolution, as this
+               may affect provider billing.
+
+        Note: An applicant with an SSI category will not have an Eligibility Workflow in the
+              Phoenix record.
+
+
+
+
+Chapter 4-Medicaid Eligibility                                                               Page 3
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 4 – Medicaid Financial Eligibility Determination Procedures                 November 1, 2022
+
+
+
+     04.21   Verification of Medicaid Financial Eligibility
+
+             An applicant's Medicaid financial eligibility must be verified by the SCDHHS
+             worker before enrollment in the waiver and by the Case Manager monthly
+             thereafter.
+
+             Narrative documentation of a participant’s eligibility verification by the Assigned
+             Worker is required initially and monthly, including at quarterly visits and re-
+             evaluation via the checklist in the Phoenix narrative.
+
+             The “Financial Eligibility Verified” field, located under Participant Information in
+             Phoenix, is used to indicate that the applicant meets all financial criteria. For
+             applicants with an eligibility category of 80, 16, 54, 86, 17, 18, 19, 33 and 10, 15, the
+             field should be checked in Phoenix. The “financial eligibility verified” field will be
+             checked by Centralized Intake. In cases where this has not occurred, the field box
+             will be checked by the Area Office worker.
+
+             Note: All other eligibility categories require an application approval notification in
+                    the Eligibility Workflow section of Phoenix from the Medicaid Eligibility
+                    Long Term Care Worker before the verification field is checked. When the
+                    approval notification is received, the designated Area Office staff must
+                    check the field. If at any point the applicant becomes financially ineligible,
+                    immediate investigation is required to determine what action is necessary or
+                    if termination is appropriate. (Refer to Section 5.39.10)
+
+             If a case is released to the CLTC Area Office which does not have an Eligibility
+             Workflow and an Eligibility Workflow is required, a Phoenix problem should be
+             reported.
+
+             The applicant's Medicaid eligibility status must be verified by one of the following
+             methods each month:
+
+             1.      Verification from MMIS (via MMIS or related Phoenix link).
+
+             2.      Verification from Medicaid Eligibility via the Eligibility Workflow section in
+                     Phoenix.
+
+             3.      If Medicaid Eligibility Office determines an applicant is financially ineligible,
+                     the applicant must not be enrolled into the CLTC program. If a participant is
+                     currently enrolled in the CLTC program/waiver, follow policy outlined in
+                     5.39.10.
+
+
+
+
+Chapter 4-Medicaid Eligibility                                                               Page 4
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 4 – Medicaid Financial Eligibility Determination Procedures                   November 1, 2022
+
+
+     04.22       Transfer of Resources
+
+                  Federal regulations require Medicaid Eligibility to review the case of any Medicaid
+                  applicant or recipient who enters a nursing home or a home and community- based
+                  waiver to determine if any transfer of resources has occurred.
+
+             1.        MAO (Category 15) – Resource verification is completed by Medicaid
+                       Eligibility as a normal part of the eligibility determination process, prior to
+                       providing approval notification in Eligibility Workflow section of Phoenix.
+                       No further action concerning transfer of resources is required of the
+                       SCDHHS worker.
+
+             2.        All Other Categories of Medicaid Eligibility EXCEPT SSI (Category 80, 86,
+                       16, 54, 17, 18, 19 and 10 and 33 and MAO (Category 15). The resource
+                       verification must be completed by Medicaid Eligibility prior to approving the
+                       Eligibility Workflow in Phoenix. A response from Medicaid Eligibility is required
+                       before entering the applicant into the waiver.
+
+             The Centralized Intake Program Assistant:
+
+             •         Determines if the applicant is currently Medicaid financially eligible.
+
+             •         Creates a Medicaid Eligibility Workflow as appropriate.
+
+             •         Provides Medicaid Eligibility application for Nursing Home, Residential or
+                       In-Home Form 3401 or Form 3400 B.
+
+             •         Receives notification from Medicaid Eligibility via the Eligibility Workflow
+                       that the application has been approved, checks the Medicaid Eligibility
+                       Verified Box in Phoenix, and releases the case to the Area Office.
+
+             •         Receives notification from Medicaid Eligibility via the Eligibility Workflow
+                       that the application has been denied, terminates the waiver application, and
+                       notifies the applicant/Authorized Representative via the CLTC Notification
+                       Form 171.
+             The Area Office Support Staff:
+
+             •         Mails all case correspondence as needed
+             •
+           The SCDHHS worker:
+
+             •         Determines if the applicant is currently Medicaid financially eligible.
+
+             •         Confirms the Medicaid Eligibility Verified Box in Phoenix is checked if the
+Chapter 4-Medicaid Eligibility                                                                 Page 5
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 4 – Medicaid Financial Eligibility Determination Procedures                  November 1, 2022
+
+                     Eligibility Workflow is approved. If this box has not been checked by CI,
+                     then the Area Office worker must check it.
+
+             •        At the point of case transfer, reviews the applicant’s Medicaid status with
+                      the Case Manager II.
+
+             For the Applicant Entering the Waiver, the Case Manager II will:
+
+             •       Review the applicant's current Medicaid status with SCDHHS assessor at
+                     time of case transfer.
+
+             •       Email waiver enrollment confirmation to the Designated Staff to ensure entry
+                     of enrollment date on MMIS/RSP update screen within 4 business days.
+
+             •       Complete the CLTC Notification Form 171 to notify the applicant/
+                     Authorized Representative of the applicant's entry into the CLTC waiver.
+                     Medicaid Eligibility will be notified of waiver enrollment via the CLTC
+                     Notification Form 171.
+
+             •       Assess the applicant's financial circumstances for indications of possible
+                     changes if there is a Medicaid end date and route them to the Medicaid eligibility.
+
+
+             Note: If an applicant’s eligibility category changes from one category to another with
+                     no interruption in Medicaid eligibility, it is not necessary to check for transfer
+                     of resources. See also Chapter 5 for on-going quarterly and re-
+                     evaluation verification requirements.
+
+         04.22.10    Applicant Leaving Nursing Home and Entering Waiver
+
+                     For an individual who is in a nursing facility under Medicaid sponsorship
+                     (Category 10 or SSI) and is discharged to a home and community-based
+                     waiver, a look back for transfer of resources prior to enrollment in a waiver is
+                     not required.
+
+                     MAO (Category 10) applicants who have met the thirty (30) consecutive
+                     calendar day criteria, meet all waiver criteria, and wish to enter the waiver,
+                     do not have to meet the thirty (30) consecutive calendar day criteria again.
+
+         04.22.20     MAO General Hospital (Category 14) Discharged to Waiver
+
+                     For an applicant not previously enrolled in a CLTC waiver who is discharged
+                     from the hospital to a home and community-based waiver as an MAO General
+                     Hospital Category 14, a look back is required. Refer to Section 04.23. (An
+                     Eligibility Workflow must be created and application approved by Medicaid
+Chapter 4-Medicaid Eligibility                                                                 Page 6
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 4 – Medicaid Financial Eligibility Determination Procedures                 November 1, 2022
+
+                     Eligibility.)
+
+     04.23    Institutionalization of Waiver Participant for Full Calendar Month
+
+             If a waiver participant is institutionalized for a planned, temporary stay, the case must
+             be monitored to ensure that the stay does not exceed a full calendar month. If a
+             participant remains in the hospital, nursing home, rehabilitation, or any consistent
+             combination thereof for a full calendar month, the application should be terminated.
+             Refer to Section 05.40 for more information. For institutionalization of a waiver
+             participant in a hospice house, see section 5.50.
+
+             If a previous waiver participant is discharged to a home and community-based waiver
+             and remains Medicaid Payment Category MAO (Category 15), another look back for
+             transfer of resources prior to re-enrollment is not required.
+
+     04.24    Medicaid Income Trusts
+
+             Medicaid Income Trusts allow an individual whose income exceeds the MAO limit to
+             become Medicaid eligible for a nursing home (Category 10) or home and community-
+             based waiver (Category 15) if the individual so chooses. All eligibility criteria,
+             including approval of the trusts by SCDHHS Medicaid Eligibility, must be met
+             before an applicant can be certified as Medicaid eligible.
+
+             For all questions regarding Medicaid Income Trusts, refer the applicant and/or
+             Authorized Representative to Medicaid Eligibility.
+
+     04.25    Waiver Interaction with Medicaid Managed Care (MCO)
+
+             As part of the Medicaid verification process for waiver enrollment, it must be
+             determined through RSP that the recipient is not participating in any other special
+             programs. If the RSP indicates an applicant is currently enrolled in an incompatible
+             managed care plan or other waiver, the applicant/Authorized Representative must
+             indicate which plan or waiver is chosen for participation. This decision should be made
+             after all other aspects of waiver eligibility have been determined but prior to
+             enrollment. If no response from the applicant/Authorized Representive after 5
+             business days, a 171 Notification Form will be sent to inform that the case will be
+             closed in 10 days from the date of notification. Phoenix will not allow waiver
+             enrollment until the RSP change is reflected in the RSP section under the
+             Participant’s Dashboard-General Information tab.
+
+             The SCDHHS worker will provide the choice information to the Managed Care
+             Division via the scdhhs.gov agency website. Once on the website, select “For
+             Providers” then “Managed Care”, then “Reference Tools”, then “Waiver/Pace
+             Enrollment”. Complete and submit the information to the Managed Care Division.
+             The information will be reviewed and the managed care staff may contact the
+             submitter if information is incorrect. If the information is correct, the disenrollment
+             will be retroactive to the end of the month preceding the effective date of waiver
+Chapter 4-Medicaid Eligibility                                                               Page 7
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 4 – Medicaid Financial Eligibility Determination Procedures               November 1, 2022
+
+             enrollment.
+
+     04.26    Waiver Interaction with Medicare – Medicaid Plan (PRIME)
+
+             Medicare – Medicaid Plan (PRIME) participants may participate in the waiver and
+             are subject to the same Medicaid financial eligibility rules and CLTC Policies and
+             Procedures as other waiver applicants.
+
+     04.27    Waiver Interaction with Medicaid Targeted Case Management
+
+             If an applicant is currently enrolled in Medicaid Targeted Case Management, the
+             applicant and/or Authorized Representative must indicate which plan or waiver is
+             chosen for participation.
+
+             This decision should be made after all other aspects of waiver eligibility have been
+             determined but prior to enrollment.
+
+             The SCDHHS worker will inform the applicant and/or Authorized Representative of
+             available CLTC Waiver Services. The SCDHHS worker will direct the applicant
+             and/or Authorized Representative to the assigned Medicaid Targeted Case Manager
+             for any questions regarding Targeted Case Management services.
+
+             The assigned SCDHHS worker will mail the Freedom of Choice Form to the
+             applicant to use to indicate the choice of programs. The applicant will indicate on the
+             form the choice to enter the CLTC waiver or to remain in the Medicaid Targeted Case
+             Management program. The signed form will be returned to: Division of Long Term
+             Care Transformation, Healthy Connections Medicaid, Post Office Box 8206,
+             Columbia, South Carolina 29201-8206
+
+             If the applicant chooses CLTC waiver services, the SCDHHS worker will
+             coordinate case transition with the assigned Medicaid Target Case Manager.
+
+             The applicant may be enrolled in the CLTC waiver the calendar day following
+             Medicaid Targeted Case Management termination.
+
+             If the applicant chooses not to enroll in the CLTC waiver, the application will be
+             terminated as declines participation.
+
+             The discussion of the applicant and/or Authorized Representative choice and the case
+             coordination activities with the Medicaid Targeted Case Manager will be
+             documented in the narrative record.
+
+     04.28    Medicaid Eligibility Status Inquiry
+
+             When an inquiry from an applicant or Authorized Representative regarding the status
+             of a pending Medicaid application is received from a CLTC Area Office, the
+Chapter 4-Medicaid Eligibility                                                             Page 8
+SCDHHS
+Community Choices Policy and Procedure Manual
+Chapter 4 – Medicaid Financial Eligibility Determination Procedures             November 1, 2022
+
+             applicant or Authorized Representative will be directed to call the Member Service
+             Center at 1-888-549-0820.
+
+             Urgent situations such as unexpected loss of eligibility or medical emergencies
+             should be referred by the Area Administrator or Lead Team member directly to
+             the EEMSEscalationTeam@scdhhs.gov.
+
+             SCDHHS employees may request information on the member’s behalf. An
+             Authorized Representative agreement (SCDHHS Form 1282) is not required for
+             these inquiries made by SCDHHS employees.
+
+         04.28.10    Authorized Representative Agreement
+
+                     Medicaid Eligibility’s Authorized Representative Agreement SCDDHS Form
+                     1282 allows an applicant to designate an Authorized Representative and gives
+                     a trusted person permission to act on behalf of the applicant during the
+                     Medicaid Eligibility application, appeals, review or managed care process.
+                     The DHHS Form 1282 must be signed by the applicant/beneficiary or a legal
+                     representative of the applicant/beneficiary to be valid. These documents
+                     should be faxed to SCDHHS 1-803-255-8209 or mailed to SCDHHS –
+                     Community Long Term Care 7th Floor, Post Office Box 8206, Columbia,
+                     South Carolina 29202.
+
+
+
+
+Chapter 4-Medicaid Eligibility                                                          Page 9
+

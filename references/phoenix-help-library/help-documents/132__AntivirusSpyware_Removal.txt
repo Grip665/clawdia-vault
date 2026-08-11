@@ -1,0 +1,36 @@
+While the security of your computer is your responsibility and while CLTC
+and ORS cannot recommend or endorse any specific products or services, the
+following is a list of free and commercial antivirus and spyware removal
+software that you may find useful:
+
+
+Antivirus:
+
+1. Avast! - http://www.avast.com/index
+2. AVG - http://free.avg.com/us-en/homepage
+3. BitDefender Antivirus - http://www.bitdefender.com/
+4. Kaspersky Antivirus - http://usa.kaspersky.com/
+5. McAfee - http://www.mcafee.com/us/
+6. Microsoft Security Essentials - http://www.microsoft.com/security/pc-
+security/mse.aspx
+7. Norton Internet Security - http://us.norton.com/index.jsp
+8. Panda Antivirus - http://www.pandasecurity.com/usa/
+9. Trend Micro - http://us.trendmicro.com/us/home/index.html
+10. Webroot Antivirus - http://www.webroot.com/En_US/index.html
+
+
+Spyware Removal:
+
+1. ComboFix - http://www.combofix.org/
+2. Hitman Pro - http://www.surfright.nl/en/hitmanpro
+3. Malewarebytes - http://www.malwarebytes.org/products/malwarebytes_free
+4. Norton Symantec Antispyware - http://www.symantec.com/index.jsp
+5. Spybot Search & Destroy - http://www.safer-networking.org/en/index.html
+6. Spyware Blaster - http://www.javacoolsoftware.com/spywareblaster.html
+7. Spyware Doctor - http://www.pctools.com/compare/protection/d/1/
+8. STOPzilla - http://www.stopzilla.com/products/stopzilla/home.do
+9. Webroot Spy Sweeper - http://www.webroot.com/En_US/consumer-products-
+spysweeper.html
+10. Windows Defender - http://www.microsoft.com/windows/products/winfamily/
+defender/default.mspx
+

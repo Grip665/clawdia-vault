@@ -1,0 +1,39 @@
+                            Login Screen
+ Enter username into the “Username” field Note: Username can contain a maximum
+  of 8 character
+ Enter password into the “Password” field Note: Passwords are case sensitive.
+  Passwords must be 8 to 40 characters long and contain 3 of 4 entities (upper case,
+  lower case, number, and symbol)
+     e.g. (Karlpop2, sandwich$7, pirate@50, Bob%Smith)
+     Changing passwords (see “Changing User Password”)
+ Solve math problem then click “Continue”. After 3 unsuccessful attempts, the user will
+  be locked out and will need to contact the Phoenix helpdesk for assistance or wait 30
+  minutes to login.
+
+
+
+
+                                                                                           2
+            Editing User Profile
+ From the Dashboard or Home Screen, click “Account Settings”
+             Editing User Profile
+ At the bottom of the screen, click “Edit Profile”
+             Editing User Profile
+ From the user profile screen, Enter information in the appropriate
+  fields.
+ Click “Save”.
+       Changing User Password
+ From the Home Screen or Dashboard, click “Account Settings”
+ Click “Change Password”
+         Changing User Password
+ Enter current password in “Current Password” field.
+ Create new password below then retype new password. Click “Change
+  Password” Note: User’s password must be 8 to 40 characters long
+  and contain 3 of 4 entities (upper case, lower case, number, or
+  symbol)
+             Forgot Password???
+ To reset a password, click “Forgot Password?” from the login screen.
+              Forgot Password???
+ Enter (Login ID, Email, Security Question/Answer, New Password, New Password
+  Confirmation, and solve math problem) then Click “Reset Password”
+

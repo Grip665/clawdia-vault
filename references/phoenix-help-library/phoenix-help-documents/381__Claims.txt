@@ -1,0 +1,33 @@
+                  CareCall Claims
+ Claims for a Participant can be view from a Participant’s dashboard
+ From the Participant’s dashboard, click “Claims”
+                     CareCall Claims
+ CareCall claims for the last 90 days will be displayed
+     Any claims older than 90 days can be found in the “Reports” section under the
+      “Claims” accordion (see Reports)
+
+
+
+
+                                                  EX0001 Provider
+
+
+
+
+                                                   EX0001 Provider
+                     CareCall Claims
+ To view claims for each service, click the service(s) sub tab
+ To view “Exception Codes”
+ Claim Exception Codes legend will be displayed on mini screen
+ Click “Close” when finished
+
+
+
+
+                       EX0001 Provider
+
+
+
+
+                       EX0001 Provider
+

@@ -1,0 +1,484 @@
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 10 – Termination and Transfer Procedures                                                                  November 1, 2022
+
+
+
+
+                                                 TABLE OF CONTENTS
+
+10.10   Introduction .......................................................................................................................... 2
+
+10.20    Termination and Transfer Policy and Procedure ................................................................ 3
+
+        10.21       Termination ............................................................................................................. 3
+
+                  10.21.10          Transition to/from Other Waiver ........................................................... 8
+
+        10.22       Transfer of Waiver Participant to Other CLTC Region.......................................... 9
+
+        10.23         Applications involving more than one CLTC Area Office:................................ 10
+
+
+
+
+Chapter 10-Termination                                                                                                              Page 1
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 10 – Termination and Transfer Procedures                              November 1, 2022
+
+10.10 Introduction
+
+      This Chapter includes policy and procedure for case/application termination and case
+      transfer. Case termination involves all activities associated with closing a CLTC case when
+      an applicant/participant exits the program for a specified reason.
+
+      Termination of a case is not to be confused with termination of waiver services or
+      termination of one application when more than one application is open. (See Chapter 7.25
+      Termination of Waiver Services.)
+
+      Individuals may have more than one CLTC program application open at the same time if
+      the situation requires and the appropriate criteria are met. It is important for CLTC workers
+      to verify both program application and overall status in Phoenix prior to initiating and
+      ending case actions.
+
+
+
+
+Chapter 10-Termination                                                                     Page 2
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 10 – Termination and Transfer Procedures                                  November 1, 2022
+
+10.20    Termination and Transfer Policy and Procedure
+
+      10.21       Termination
+
+              An applicant/participant should be terminated for any of the following reasons on
+              the date of action, unless otherwise specified:
+
+              •        Aged out of the program
+
+              •        Certified and Closed
+                       Individual is living in the community, has been determined to meet level of
+                       care criteria, and is seeking placement in a Medicaid-sponsored long-term
+                       care facility.
+
+              •        Certified and Closed-Bed Available
+                       Applicant is seen in the community, and states that NH bed is available.
+
+              •        Declined participation
+                       Individual declines to participate by signing Service Choice or stating
+                       verbally does not want any continued involvement with CLTC. Narrative
+                       must include documentation of the contact and reason for the termination.
+
+              •        Did not relocate to South Carolina
+                       Out-of-state applicant who does not relocate to the state within 60 days (see
+                       Chapter 8 Section 08.22.11).
+
+              •        Died
+                       The date of closure must be the date of death. In Phoenix, this will be a global
+                       termination, closing all applications. Narrative entries must be completed
+                       prior to closure. Services must be terminated with an effective date no later
+                       than the date of death.
+
+                       Note: In the event of a termination due to death, the CLTC Notification Form 171
+                       will not be sent to the Authorized Representative or other permitted caregiver.
+
+
+                       Payments are not made for any administrative work completed after
+                       closure. Central Office will not issue case managers payment by
+                       adjustment. For example, if a participant dies in March and the case
+                       management provider finds out in April, the case management provider
+                       is only paid for the March contact and must date the closure as the date
+                       of death.
+
+              •        Eligibility Denied
+                        Medicaid Eligibility determines enrolled waiver participant did not return
+                        required information.
+
+              •        Enrolled in another Program
+Chapter 10-Termination                                                                          Page 3
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 10 – Termination and Transfer Procedures                                November 1, 2022
+
+
+             •       Entered Administrative Days
+                      Individual is Certified for Administrative Days coverage in an acute care
+                      hospital.
+             •       Entered DMH/DDSN Program
+                      Entered a Department of Mental Health/Department of Disabilities and
+                      Special Needs facility. Follow up should be made to the licensed facility to
+                      determine if the admission to the program is to be short or long term prior
+                      to terminating. (See Section 05.40)
+
+             •       Entered HASCI Waiver
+                      Entered Head and Spinal Cord Injuries Waiver administered by DDSN
+
+             •       Entered HMO
+                      Entered Health Maintenance Organization.
+
+             •       Entered ID/RD Waiver
+                      Entered Intellectual Disabilities/Related Disabilities Waiver administered
+                      by DDSN.
+
+             •       Entered Nursing Home
+                      Medicaid-sponsored nursing home placement only, including conversion to
+                      Medicaid-sponsored nursing home. For waiver participants/applicants, the
+                      date of closure must be the date the individual entered the nursing home
+                      under Medicaid sponsorship.
+
+             •       Entered Nursing Home Private Pay
+
+             •       Entered PACE (Program For All Inclusive Care for the Elderly)
+                      Only to be used by designated CLTC offices.
+
+             •       Entered RCF
+                     Admitted to Community Residential Care Facility under a payment source
+                     other than Optional State Supplement.
+
+             •       Financial Application not Completed
+
+             •       Financially Ineligible
+                      Participant does not meet financial guidelines for Medicaid-sponsored long
+                      term care services. Notification or verification must be available before a
+                      participant is terminated. If a participant requires services in the community,
+                      referrals should be made for the participant to other community agencies.
+                      Using the date of financial ineligibility as determined by County Medicaid
+                      Eligibility, the case must be closed the last day of eligibility. For example, if
+                      ineligible 9-1-14, the closure date must be 8-31-14. If it is learned that
+                      financial eligibility will be reinstated within 7 days of the closure, it should
+                      be reported in Phoenix as a problem to have the case reopened. If the
+                      eligibility is reestablished, the RSP must be reentered.
+Chapter 10-Termination                                                                        Page 4
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 10 – Termination and Transfer Procedures                               November 1, 2022
+
+
+             •       Full Calendar Month Closure
+                      Waiver participant who has met the full calendar month criteria, which is
+                      defined as from the first calendar day of the month throughout the last
+                      calendar of the month. If the participant remains hospitalized or
+                      institutionalized for a full calendar month, the case must be closed to the
+                      waiver effective no later than the last day of the full calendar month period.
+                      (See Section 05.40)
+
+             •       Home Again Waiver
+
+             •       Inappropriate after Intake
+                      Individual was referred for a program without being informed or was
+                      referred for a program in error. This termination reason should not be used
+                      when the applicant is declining participation, did not meet intake criteria or
+                      is financially or medically ineligible for a program.
+
+             •       Intake Criteria not met
+                      Intake criteria not met for program application.
+
+             •       Medically Ineligible
+                     Individual does not meet level of care criteria for Medicaid-sponsored long
+                     term care services. Medically Ineligible Policy (see Section 03.22) must be
+                     followed prior to terminating the individual as medically ineligible.
+
+             Note: Any waiver or children’s services participant who is determined to be
+                   medically ineligible must receive a ten (10) business day notice prior to
+                   termination of the case. Services can continue through the date of
+                   termination. If appealed within ten (10) business days, the application/case
+                   may remain open if requested by the participant and/or Authorized
+                   Representative. The participant and provider must be notified of this
+                   determination through the CLTC Notification Form 171 and the date of
+                   termination, ten (10) business days from notification, must be indicated on
+                   the form. Once the ten (10) business days period has expired, the
+                   application/case must be closed in Phoenix and termination policies and
+                   procedures followed.
+             •       Merged Case
+
+             •       Moved out of State (Community)
+
+             •       Moved out of State (Institution)
+
+             •       No Response From Participant
+                     This is used to close out applications that have not yet been enrolled and to
+                     close out initial status applications where contact has not been made.
+
+             •       Participant Incarcerated
+Chapter 10-Termination                                                                      Page 5
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 10 – Termination and Transfer Procedures                             November 1, 2022
+
+                     Incarcerated waiver participant must be terminated by the last day of the
+                     month of incarceration.
+
+             •       Participant is Non-Compliant
+                     Participant closed due to non-compliance. (Refer to Section 05.40.30)
+             •       PASRR Completed
+
+             •       Referred to HASCI
+
+             •       DDSN is the agency designated for Head and Spinal Cord Injury
+                     (HASCI) waiver. CLTC Nurse Consultants are responsible for the
+                     initial pre- admission screening and nursing facility level of care
+                     determination. If the individual meets the level of care criteria for
+                     nursing home, terminates as Referred HASCI Waiver TEFRA
+                     Entered Tax Equity and Fiscal Responsibility Act of 1987 program (also
+                     known as “Katie Beckett”), a special Medicaid category for disabled
+                     children living at home who are not otherwise Medicaid eligible due to
+                     family income.
+
+             •       Tentative LOC > 30 days
+             •       LOC has been pending for more than 30 days with no imminent
+                     discharge or requested documentation not received. (Refer to Section
+                     03.23) Terminated to Medicare
+                     Admission to a nursing home with Medicare as the payment source with or
+                     without CLTC involvement in the referral process (unless a planned
+                     temporary stay for a waiver participant. Refer to Section 05.40).
+                     Confirmation of payor source must be confirmed prior to termination of the
+                     application. The date of closure must be the date the individual entered the
+                     nursing home.
+
+             •       Transferred to another Nursing Facility
+
+             •       Unable to Locate Participant
+                     Used for enrolled participants who after several active documented attempts
+                     are unable to be located.
+
+             Termination Reasons NOT used by CLTC:
+
+
+             •           Changed Payment Source
+
+
+             •           Continuum of Care (COC)
+
+
+             •           Discharged to Hospital
+Chapter 10-Termination                                                                    Page 6
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 10 – Termination and Transfer Procedures                             November 1, 2022
+
+             •           Discharged from MTCM Services
+
+
+             •           Incontinence Supplies Form not Received
+
+
+             •           MTCM Goals met with Provider
+
+
+             •           Prime – Changed MMP
+
+
+             •           Returned to Community
+
+
+             •           Returned to Home
+
+
+             •           Terminated from Prime
+
+
+The assigned SCDHHS Worker or Case Manager:
+
+             •       Receives information which indicates the individual should be terminated.
+
+             •       Verbally notifies involved agencies and/or providers of individual’s
+                     termination, when appropriate.
+
+             •       Notifies the individual, Authorized Representative, or other permitted
+                     caregiver support verbally of reason for termination and discusses referrals
+                     to other agencies when appropriate.
+
+             •       Completes CLTC Notification Form 171 to notify participant, Medicaid
+                     Eligibility, Authorized Representative, or other permitted caregiver support
+                     of the reason for termination.
+
+             •       Completes Status Changes section of Phoenix within five (5) business days
+                     of CLTC Notification.
+
+       The following must also be completed for waiver participants:
+
+             •       Completes service(s) termination when appropriate. This must be done prior
+                     to case closure.
+
+             •       Terminates the application in Phoenix.
+
+             •       E-mails the designated CLTC Support Staff for RSP indicator entry so
+Chapter 10-Termination                                                                      Page 7
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 10 – Termination and Transfer Procedures                                   November 1, 2022
+
+                     that entry is made within four (4) business days of waiver termination
+                     date.
+
+
+        The designated Support Staff:
+
+             •       Enters termination date from program on RSP updated screen within 4
+                     business days of termination in Phoenix.
+
+          10.21.10       Transition to/from Other Waiver
+
+                     When a participant is changing enrollment from one waiver to another
+                     waiver, coordination between involved agencies must occur to ensure
+                     continuity of care and continued Medicaid eligibility. The participant must
+                     be terminated from the original waiver, and then enrolled in the receiving
+                     waiver effective the following calendar day. Once the termination and
+                     enrollment dates have been coordinated between the two involved waivers,
+                     CLTC must make an entry into RSP, terminating/entering the participant
+                     from the waiver, and send the CLTC Notification Form 171 to the
+                     participant, Authorized Representative, and/or other permitted caregiver
+                     support giving the reason for termination. Advance notice must be given to
+                     all involved providers. A copy of the CLTC Notification Form 171 must be
+                     sent to the receiving agency and to providers.
+
+                     If the transfer is to a waiver that requires a different level of care, i.e., nursing
+                     facility level of care to at risk for hospitalization, an assessment and level of
+                     care must be completed by a SCDHHS Worker prior to the transfer.
+
+
+                     The assigned SCDHHS Worker or Case Manager:
+
+                     •         Coordinates with receiving waiver and participant to ensure
+                               continuity of care and continued Medicaid eligibility.
+
+                     •         Notifies involved providers in advance of planned termination.
+
+                     •         Terminates all waiver service authorizations.
+
+                     •         Terminates participant from CLTC waiver once appropriate written
+                               notification is obtained from receiving waiver.
+
+                     •         Completes CLTC Notification Form 171 to notify the receiving
+                               waiver and participant of the reason for termination.
+
+                     •         Routes to the designated Support Staff for mailing of any
+                               appropriate correspondence and for keying RSP as appropriate.
+
+
+Chapter 10-Termination                                                                            Page 8
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 10 – Termination and Transfer Procedures                                 November 1, 2022
+
+      10.22       Transfer of Waiver Participant to Other CLTC Region
+
+              When a waiver participant relocates to another CLTC region, the case can be
+              transferred to another CLTC Area Office for continued case management and other
+              waivered services.
+
+              Note: Transfer of a pending waiver participant is addressed in Section
+                     02.80.
+
+              For the transferring waiver case, the transferring and receiving CLTC Area Offices
+              must verbally coordinate activities as outlined:
+
+              •        The transferring Area Office must verbally notify the receiving Area Office
+                       of the pending transfer and give the new location of the participant.
+
+              •        The assigned Case Manager will review the open authorizations with the
+                       receiving Area Office.
+
+              •        The assigned Case Manager in the transferring Area Office will email the
+                       Case Manager II in the receiving Area Office to make the transfer referral
+                       official when the participant’s move has occurred, or the imminent date is
+                       known. Documentation of all activities is mandatory.
+
+              •        The receiving Area Office will advise the participant/Authorized
+                       Representative of the available provider options in the prospective new
+                       location.
+
+              •        If a participant moves to another county and there is an open APS case or a
+                       referral has been made on a participant, the transferring Provider Case
+                       Manager, Case Manager, Case Manager II or Nurse Consultant should
+                       notify the assigned APS worker of the participant’s move to a new location.
+
+              •        If a participant moves to another county and there is an open APS case or a
+                       referral has been made on the participant, the transferring Provider Case
+                       Manager, Case Manager, Case Manager II or Nurse Consultant will
+                       notify the receiving Area Office.
+
+              •        The receiving Area Office will review all service authorizations and will
+                       contact the provider to determine if the authorized service may continue
+                       in the receiving area. The receiving Area Office will confirm that the
+                       provider number is correct. If upon review the provider number is found
+                       to be incorrect, the receiving Area Office will complete the authorization
+                       using the correct provider number. The transferring Area Office should
+                       ensure all forms or documents not available in Phoenix are scanned to
+                       the Participant’s Phoenix file.
+
+              •        Do not terminate the application and do not close in RSP.
+Chapter 10-Termination                                                                       Page 9
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 10 – Termination and Transfer Procedures                                November 1, 2022
+
+
+             •       The transferring Area Office cues Phoenix to transfer the case, verbally
+                     notifies the receiving office, as the transferring Area Office will no longer be
+                     able to enter information in Phoenix. The transferring CLTC Worker must
+                     have all their actions completed before cuing the transfer. Documentation
+                     must include the name of the individual informed of the transfer.
+
+             •       A Re-evaluation is not required upon transfer unless the re-evaluation was
+                     not completed timely in the transferring Area Office. The case is accepted
+                     “as is” and the receiving Case Manager will be responsible for completing
+                     the re-evaluation.
+
+             •       The Case Manager II of the receiving Area Office conducts a telephone
+                     contact at the time of transfer to update any pertinent information.
+
+             •       The Case Manager II of the receiving Area Office should obtain the case
+                     management choice if the current choice of Case Management is not
+                     available in the receiving Area Office.
+
+             •       The ongoing Case Manager should complete a new “Home Assessment” at
+                     the next scheduled home visit after the transfer.
+
+             •       The ongoing Case Manager should maintain the original re-evaluation
+                     cycle.
+
+             Note: An initial Case Manager visit is not required.
+
+             A new provider choice is needed only if selecting a provider.
+
+             •       If after transfer a case is found by the receiving Area Office to be medically
+                     ineligible, the receiving Case Manager should seek input from the primary
+                     physician. If the applicant is determined medically ineligible after receiving
+                     information from the physician, the case should be reviewed by the Lead
+                     Team Case Manager and/or Area Administrator. If the Area Office is
+                     unable to make a level of care determination, Central Office should be
+                     notified.
+
+             •       If after transfer a case is found to have a re-evaluation to be past due, the re-
+                     evaluation should be completed within seven (7) business days and the Lead
+                     Team Case Manager and Area Administrator should be notified.
+
+
+  10.23     Applications involving more than one CLTC Area Office:
+
+             All applications are not auto assigned in Phoenix. If action has already been taken
+             on assigned application in one area, the SCDHHS Worker receiving the new
+             application will consult with the primary SCDHHS Worker already assigned for
+             completion of both applications.
+Chapter 10-Termination                                                                        Page 10
+  SCDHHS
+  Community Choices Policy and Procedure Manual
+  Chapter 10 – Termination and Transfer Procedures                         November 1, 2022
+
+
+
+             For example, a waiver application is received in the Area Office, assigned and
+             contact has been made. A NHP application is received in another Area office. The
+             SCDHHS Worker that receives the NHP application will contact the SCDHHS
+             Worker assigned to the waiver application for completion of both applications to
+             maintain consistency.
+
+
+
+
+Chapter 10-Termination                                                                Page 11
+

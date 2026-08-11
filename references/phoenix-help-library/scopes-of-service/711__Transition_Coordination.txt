@@ -1,0 +1,432 @@
+HCBS Provider Manual                                                                  July 1, 2024
+Scopes of Services                                                         Transition Coordination
+
+           MEDICAID HOME AND COMMUNITY-BASED WAIVER SCOPE OF SERVICES
+
+                                                 FOR
+
+              TRANSITION COORDINATION SERVICE
+
+      A.      Objective
+           The objective of Transition Coordination is to provide assistance with the
+           transition process to Home Again participants. The Transition Coordination
+           service must support the participants to make a successful transition into the
+           community. The Transition Coordination service must also ensure continued
+           access to appropriate and available services for participants to remain in the
+           community.
+
+      B.      Conditions of Participation
+      1.          The Provider and provider staff delivering Transition Coordination must
+                  be one of the following: Licensed Baccalaureate Social Worker (LBSW),
+                  Licensed Master Social Worker (LMSW), Certified Case Manager (CCM),
+                  Registered Nurse (RN), or individuals with a bachelor’s degree in a health
+                  or human services field from an accredited college or university. The
+                  provider and provider staff delivering the Transition Coordination Service
+                  must have at least one of the following licenses and certificates:
+                  Licensed Baccalaureate Social Worker (LBSW), Licensed Master Social
+                  Worker (LMSW), Case Manager Certified (CMC), or Registered Nurse
+                  (RN).
+
+      2.          The license and certification must be in the state of South Carolina and in
+                  good standing, if applicable.
+
+      3.          The Provider must have demonstrated at least two (2) years of case
+                  management experience with one (1) of the Home Again target
+                  populations; either older adults or people with physical disabilities. The
+                  Provider must have demonstrated at least two (2) years of case
+                  management experience with one of the Home Again target populations;
+                  either older adults or people with physical disabilities. Baccalaureate
+                  Social Workers must have an additional two (2) years of Medicaid
+                  Community Long Term (CLTC) Care Case Management experience.
+
+      4.          The Provider must be able to provide the specified geographical area
+                  (counties) in which they must deliver the Transition Coordination service.
+                  Transition Coordinators servicing multiple area offices must designate a
+                  CLTC office for training and meetings.
+
+      5.          The Provider is responsible for the provision of all supplies and tools
+                  necessary to carry out Transition Coordinator functions. The Provider is
+                  responsible for assuring each Transition Coordinator has a laptop
+                  computer meeting South Carolina Department of Health and Human
+
+
+                                      South Carolina Department of Health and Human Services 1
+HCBS Provider Manual                                                                July 1, 2024
+Scopes of Services                                                       Transition Coordination
+
+               Services (SCDHHS) specifications.
+
+      6.       The Provider must ensure that Transition Coordinator does not service
+               members of his/her own immediate family.
+
+      7.       The Provider must be available by telephone to participants and
+               SCDHHS staff Monday through Friday, 8:30 a.m. to 5:00 p.m., and, if
+               there is other employment, it shall not prevent the Transition Coordinator
+               from performing Transition Coordination during these hours. The Provider
+               must guarantee accessibility to participants and the program staff.
+
+      8.       The Provider must also be available to meet with SCDHHS staff by
+               either face-to-face or by phone.
+
+      9.       The Provider must check voice mail at least twice daily Monday through
+               Friday, excluding state holidays.
+
+      10.      The Provider must sync with the Phoenix System prior to any field
+               activity to verify services and daily if any work has been performed.
+
+      11.      The Provider is responsible for the secure and accurate maintenance of all
+               participant records.
+
+      12.      The Provider must scan into Phoenix all consumer specific documents
+               received from outside sources. All hardcopy records shall remain in the
+               participant’s assigned Area Office.
+
+      13.      The Provider must check and respond to e-mails daily, Monday through
+               Friday.
+
+      14.      The Provider must return calls related to participant care within 24 hours.
+
+      15.      The Provider must ensure that each Transition Coordinator utilizes the
+               Electronic Visit Verification (EVV) System. The Electronic Visit
+               Verification (EVV) System documentation must be completed upon each
+               transition coordination visit and transition coordination contact. For home
+               visits, the call to the Electronic Visit Verification (EVV) System must be
+               completed while in the Participant’s home.
+
+      16.      The Provider must ensure that each Transition Coordinator providing
+               Transition Coordination services uses the Phoenix System to document
+               all Transition Coordination activities, as specified in Section G.
+
+      17.      The Provider must complete documentation in the Phoenix System within
+               48 hours after the visit and contact.
+
+      18.      The Provider must ensure that each Transition Coordinator meets the
+               Training Requirements set out in Article F of this document.
+
+
+
+
+                                    South Carolina Department of Health and Human Services 2
+HCBS Provider Manual                                                                  July 1, 2024
+Scopes of Services                                                         Transition Coordination
+
+      C.    Description of Services to be Provided
+      1.         The Provider must use the Phoenix System to enter a list of regularly
+                 scheduled holidays; the Provider shall not be required to furnish services
+                 on those days. The Provider must not be closed for more than two
+                 consecutive days at a time, except when a holiday falls in conjunction
+                 with a weekend. If a holiday falls in conjunction with a weekend, the
+                 Provider may be closed for not more than four consecutive days.
+
+      2.         The Provider must make provisions for coverage during times when the
+                 Provider is unavailable. Providers must have an office location.
+
+      3.         Transition Coordination services must be performed as set forth in the
+                 CLTC Area Office Home Again Policy.
+
+      4.         The Transition Coordinator must use professional judgment in allotting
+                 enough time to complete activities, including all visits and contacts.
+                 Following is the minimum visit and contact schedule that the Provider
+                 must conduct:
+
+            a. Pre-transition planning: The Provider must complete an initial visit to the
+               potential participant in a skilled nursing facility. A home visit is also required once
+               housing is identified in the community.
+
+            b. The Provider must be present either at the facility or at home in the community
+               on the transition date.
+
+            c. During the first two (2) months, there must be two (2) face-to-face visits and two
+
+            d. (2) telephone calls per month.
+
+            e. During months 3-12, the Providers must perform one (1) face-to-face visit every
+               other month and one (1) monthly telephone call.
+
+            f.   Additional visits and contact may be required as needed or if the transition is in
+                 jeopardy. If the Electronic Visit Verification (EVV) System reflects that the amount
+                 of time spent to complete the billed activities for a particular day does not meet
+                 Home Again staff’s expectations of the time necessary to complete those
+                 activities, then at SCDHHS’s sole discretion, Home Again staff may investigate
+                 and may recoup payments for those activities from the Provider.
+
+      D.    Transition Coordination
+      1.         Cases must be assigned in accordance with the Participant’s choice.
+
+      2.         The provider must notify SCDHHS within two (2) working days of its intent
+                 to accept or decline a referral for Participant service.
+
+      3.         The Transition Coordination service includes the following but is not
+                 limited to:
+
+            a. Initial visit to a skill nursing facility and a home in the community to determine
+
+                                     South Carolina Department of Health and Human Services 3
+HCBS Provider Manual                                                                    July 1, 2024
+Scopes of Services                                                           Transition Coordination
+
+                   transition possibility
+
+              b. Conducting comprehensive assessment to identify the participant’s needs
+
+              c. Developing and monitoring transition plan with a participant and assist the
+                 transition process
+
+              d. Assist the participant with housing needs and ensure that the participant is
+                 moving into a qualified “Home and Community based residence”
+
+              e. Consult with Case Manager II in the CLTC Area Office for setting up Service
+                 Plan, provider choices, referrals, and authorizations prior to the transitioning
+
+              f.   Ongoing problem solving to address participant’s needs
+
+              g. Maintain a 24/7 backup plan for critical services, as is requirement to be a
+                 provider.
+
+              h. Evaluate needs for Expanded and Goods and Services and submit filled out
+                 Home Again Sales Quotation form to Home Again staff, if needed
+
+              i.   Case termination and transferring
+
+              j.   Any additional work required by Home Again staff, and which is amended to the
+                   scope of service
+
+      4.           The Provider must provide Transition Coordination services in
+                   accordance with Home Again policies and procedures, applicable
+                   SCDHHS policies and procedures, and applicable federal and state
+                   statutes and regulations. All the foregoing provisions, policies,
+                   procedures, statutes and regulations (together with any subsequent
+                   amendments) are hereby incorporated as an integral part of this Scope
+                   of Service.
+
+      5.           Once a case has been relinquished or transferred to another provider,
+                   the Provider must cease any contact with the Participant and/or primary
+                   contact.
+
+      E.      Staffing
+           Provider must adhere to the following provisions related to staffing:
+
+      1.           Transition Coordinators cannot simultaneously be working as a Medicaid
+                   Waiver Case Manager with the same participant.
+
+      2.           Transition Coordinators must have a current valid driver’s license.
+
+      3.           When servicing Participants, Transition Coordinators must display a
+                   picture identification badge identifying agency/organization or
+                   independent status.
+
+      4.           Transition Coordinators must comply with the continuing education
+                   requirements necessary for their licensure/certificate.
+
+                                            South Carolina Department of Health and Human Services 4
+HCBS Provider Manual                                                                    July 1, 2024
+Scopes of Services                                                           Transition Coordination
+
+      5.       Transition Coordinators must have demonstrated skills in computer
+               hardware/ software access and usage.
+
+      6.       Transition Coordinators must agree to accept a minimum of one (1) case
+               and cannot carry a caseload of over fifteen (15) cases at the same time
+               without the approval of the Home Again staff.
+
+      7.       PPD Tuberculin Test
+
+               Please refer to the Department of Public Health (DPH) website for PPD
+               Tuberculin test requirements.
+
+               https://scdhec.gov/sites/default/files/media/document/R.61-122.pdf
+
+               If Provider requires additional information, Provider must contact the
+               Tuberculosis Control Division, Department of Public Health, 1751
+               Calhoun Street, Columbia, SC 29201, phone (803) 898-0558.
+
+      8.       Personnel folders: Individual records must be maintained to document
+               that each member of the staff has met the above requirements.
+
+      F.    Transition Coordination Training
+      1.       Transition Coordinators must attend Medicaid sponsored Transition
+               Coordination training, either in person or via online prior to being
+               enrolled as the provider in Phoenix.
+
+      2.       All new Transition Coordinators must meet or make a conference call
+               with the Transition Coordination Manager prior to taking the first case.
+
+      G.    Transition Coordination Activities and Rates
+      1.       The provider must be paid based on each milestone: a) pre-transition
+               planning, b) transitioning, c) six-month milestone from transition date, and
+               d) one year milestone from transition date. See appendix A for the rates.
+
+      2.       Providers have a responsibility to notify Home Again staff once each
+               milestone has been met. The provider must complete the activities below
+               to request the payments.
+
+            a. Pre-transition planning
+
+                  i.    Make initial visit to a nursing facility to meet with the potential
+                        participant
+
+                 ii.    Conduct the Risk Assessment to determine transition safety and
+                        possibility
+
+                 iii.   Document all visits and contacts into Phoenix System
+
+
+
+
+                                     South Carolina Department of Health and Human Services 5
+HCBS Provider Manual                                                                    July 1, 2024
+Scopes of Services                                                           Transition Coordination
+
+                 iv.    Conduct a visit to the participant’s home in the community and
+                        determine home modification needs
+
+                  v.    Complete Quality of Life survey 3 weeks prior to transitioning
+
+                 vi.    Discuss possible waiver services for the participant with CLTC
+                        Case Manager II in the Area Office and follow up on the case to
+                        make appropriate referrals and authorizations
+
+                vii.    Ensure participants recurring income is transferred from nursing
+                        facilities to the participants
+
+                viii.   Complete all pre-transition planning checklist up to “1-2 days prior
+                        to move” tab in Phoenix System
+
+                        Make sure medications and/or prescriptions are acquired prior
+                        to the discharge date
+
+                        Note: The Provider will be paid $200 if the transition is deemed
+                        unsafe and the case terminated
+
+            b. Transitioning
+
+                   i.   Be present at the nursing facility or at the participant’s home on
+                        the transition date
+
+                  ii.   Document all visits and contacts into Phoenix System
+
+                 iii.   Explain to the participant all services the person will be receiving,
+                        including Home Again demonstration program, waiver services,
+                        and any additional community services
+
+                 iv.    Ensure each waiver authorization has a service start date
+
+                  v.    Monitor if the necessary Home Modifications are completed and
+                        identify if house set up is completed
+
+                 vi.    Complete activities on the “Day of Move” tab in Phoenix System
+
+                vii.    Report Home Again staff and make a narrative in Phoenix if any
+                        Critical Incident occurs. Critical Incidents include hospitalizations,
+                        deaths due to abuse/neglect, deaths, contact with the criminal
+                        justice System, and medication errors.
+
+            c. Six-month milestone from transition date
+
+                   i.   Comply with minimum visit/contact schedule as followed:
+
+                                  •   Month 1-2: two (2) face-to-face visits and two (2) telephone calls
+
+                                  •   Month 3-12: one (1) face-to-face visit every other month
+                                      and one (1) telephone call each month
+
+
+                                      South Carolina Department of Health and Human Services 6
+HCBS Provider Manual                                                                 July 1, 2024
+Scopes of Services                                                        Transition Coordination
+
+                 ii.    Document all visits/contacts into Phoenix System.
+
+                 iii.   Complete activities on the “1st Week after Move” and “1st Month
+                        after Move” tabs in Phoenix System
+
+                 iv.    Report t o Home Again staff and make a narrative in Phoenix
+                        if any Critical Incident occurs
+
+            d. One year milestone from transition date
+
+                  i.    Comply with visit/contact schedule, at least one face-to-face visit
+                        every other month and one (1) telephone call each month.
+
+                 ii.    Document all visits/contacts into Phoenix System.
+
+                 iii.   Complete activities on the “11 Months after Move” tab in Phoenix
+                        System.
+
+                 iv.    Conduct a new Quality of Life survey in the 11th month from the
+                        transition date.
+
+                 v.     Follow case transferring policy and procedures after 365 days
+                        from the transition date.
+
+                 vi.    Report Home Again staff and make a narrative in Phoenix if
+                        any Critical Incident occurs.
+
+      H.    Administrative Requirements
+      1.       The Provider must maintain an up-to-date organizational chart that is
+               available to each employee.
+
+      2.       The Provider must maintain written bylaws (or the equivalent) for
+               governing the Provider’s operations.
+
+      3.       The Provider must assure SCDHHS that a governing body or person(s)
+               so functioning shall assume full legal authority for the operation of the
+               provider agency.
+
+      4.       The Provider shall acquire and maintain, during the life of the contract,
+               general liability insurance and worker’s compensation insurance. The
+               Provider is required to list SCDHHS- Home Again as certificate holder for
+               notice purposes on all insurance policies using the following address:
+               Post Office Box 8206, Columbia, SC, 29202-8206.
+
+      5.       The Provider must have an effective written back-up service provision
+               plan in place to ensure that the participant receives the Transition
+               Coordination services. Whenever the Provider determines that services
+               cannot be provided as authorized, the Provider shall immediately notify
+               Home Again Transition Coordination Manager and the waiver Case
+               Manager by Phoenix conversation.
+
+      6.       The Provider is responsible for continuing Transition Coordination
+
+                                     South Carolina Department of Health and Human Services 7
+HCBS Provider Manual                                                                 July 1, 2024
+Scopes of Services                                                        Transition Coordination
+
+               activity for all cases in the Provider’s caseload. Should the Provider be
+               unable to cover a case(s), the Provider shall immediately notify
+               Transition Coordination Manager by Phoenix conversation.
+
+      7.       Upon request by SCDHHS, the Provider must be responsible for
+               appropriate participation in the SCDHHS Appeals and Hearings process
+               with respect to appeals of any action involving the Provider.
+
+      8.       The Provider is subject to recoupment for payments made for services
+               because of authorizations issued by provider staff not consistent with
+               Home Again policies and procedures and in accordance with the
+               Transition Coordination Scope of Service.
+
+      9.       The Provider must disclose to SCDHHS the names and relationships of
+               any relatives of the Provider or its staff who provide items or services to
+               Medicaid Participants. For purposes of this Contract, the Provider means
+               all owners, partners, managing employees, directors and any other
+               person involved in the direct management and/or control of the business
+               of the Provider. The Provider’s staff includes everyone who works for or
+               with the Provider, including independent contractors, in the provision of
+               or billing for services described in this Contract. Relative means persons
+               connected to the Provider by blood or marriage.
+
+               The Provider must disclose all such relationships in writing to Home Again,
+               SCDHHS, within two (2) days of learning of the relationship. The
+               Provider, in executing this Contract, certifies that it has in place policies,
+               procedures or other mechanisms acceptable to SCDHHS to identify and
+               report these relationships.
+
+               Failure to report a relationship timely or to have the appropriate policies
+               and procedures in place may result in sanctions by SCDHHS up to and
+               including termination of this Contract for cause.
+
+
+
+
+                                    South Carolina Department of Health and Human Services 8
+

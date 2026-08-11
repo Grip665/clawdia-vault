@@ -1,0 +1,611 @@
+HCBS Provider Manual                                                                July 1, 2025
+Scopes of Services                                      Children’s Attendant Care (Self-Directed)
+          MEDICAID HOME AND COMMUNITY-BASED WAIVER SCOPE OF
+
+                                      SERVICES FOR
+
+            CHILDREN’S ATTENDANT CARE (SELF-
+                       DIRECTED) *
+  *Children’s Attendant Care is only available to Medically Complex Children (MCC) waiver
+  participants aged one to 21 with extraordinary care needs.
+
+
+  A.     Minimum Qualifications
+       1. Children’s attendant caregivers must meet the following minimum
+          qualifications:
+
+           a. Demonstrate an ability to read, write and communicate with the participant,
+              responsible party and/or Employer of Record (EOR).
+
+                Exception: When the participant or responsible party is unable to
+                identify a separate, qualified individual to serve as the EOR, the
+                responsible party may be allowed to serve as the EOR and the
+                children’s attendant caregiver. Exception requests must be submitted by
+                the MCC Waiver Nurse Case Manager to WES@scdhhs.gov.
+
+            b. Capable of aiding in activities of daily living; physically capable of
+               performing duties which may require physical exertion such as
+               lifting, transferring, etc. if necessary;
+
+            c. Capable of completing the tasks identified for the participant on the waiver
+               care plan with participant and/or EOR;
+
+            d. Be at least 18 years of age;
+
+            e. Capable of following billing procedures and completing required paperwork;
+
+            f. Have no known conviction for any of the following:
+
+               i.    abuse, neglect or exploitation of adults (as defined in the Omnibus
+                     Adult Protection Act, S.C. Code Ann. Title 43, Chapter 35) or of
+                     children (as defined in the Children’s Code, S.C. Code Ann. Title 63,
+                     Chapter 7);any crime against another person;
+
+               ii.   felony of any kind; Any crime concerning the misuse or abuse of public
+                     assistance program (including, but not limited to, fraudulently obtaining
+                     benefits, engaging in fraudulent billing practices, and embezzling or
+                     otherwise misusing public assistance funds in any manner). No
+                     exclusion for Medicare or Medicaid Programs;
+
+
+                                   South Carolina Department of Health and Human Services 1
+HCBS Provider Manual                                                              July 1, 2025
+Scopes of Services                                    Children’s Attendant Care (Self-Directed)
+               iii. Any crime concerning the misuse or abuse of any public assistance
+                    program (including, but not limited to, fraudulently obtaining benefits,
+                    engaging in fraudulent billing practices, and embezzling or otherwise
+                    misusing public assistance funds in any manner). No exclusion for
+                    Medicare or Medicaid Programs;
+
+              iv.   Upon request the attendant must provide references to the participant
+                    and/or responsible party;
+
+         g. Screening
+
+            Prior to the children’s attendant caregivers’ Medicaid provider enrollment
+            date, the attendant must provide evidence of having a single Blood Assay for
+            Mycobacterium tuberculosis (BAMT) or a baseline two-step Tuberculin Skin
+            Test in the following manner:
+
+                    1. With a documented negative Tuberculin Skin Test or a BAMT
+                       result within the previous twelve (12) months, the children’s
+                       attendant caregiver may have a BAMT or a single Tuberculin Skin
+                       Test, administered and read, to serve as the baseline prior to
+                       provider enrollment.
+
+                    2. Without a documented negative Tuberculin Skin Test or a BAMT
+                       result within the previous twelve (12) months, the children’s
+                       attendant caregiver shall have a BAMT or a two-step Tuberculin
+                       Skin Test, administered and read, prior to Participant contact.
+
+                        After known exposure to a person with potentially infectious
+                        tuberculosis disease without the use of adequate personal
+                        protection, the children’s attendant caregiver must ensure his or
+                        her tuberculosis status is determined in a manner prescribed in the
+                        current Centers for Disease Control and Prevention and SC
+                        Department of Public Health tuberculosis guidelines. If TB is
+                        present, the children’s attendant caregiver must report any known
+                        or suspected cases of TB disease to the local SC Department of
+                        Public Health’s Public Health Clinic. A listing is located here Public
+                        Health Clinics | South Carolina Department of Public Health.
+
+                    3. Annual TB Risk Assessment
+
+                     Children’s attendant caregivers must submit a Health Care
+                     Personnel (HCP) Baseline Individual TB Risk Assessment annually
+                     to remain eligible to serve as a children’s attendant caregiver. Forty-
+                     five (45) days prior to the expiration date of the annual risk
+                     assessment, the University of South Carolina Center for Disability
+                     Resources (USC-CDR) licensed nurse (USC nurse) must notify
+                     active enrolled children’s attendant caregivers of the expiration of
+                     their annual TB risk assessment. Children’s attendant caregivers
+                                   South Carolina Department of Health and Human Services 2
+HCBS Provider Manual                                                            July 1, 2025
+Scopes of Services                                  Children’s Attendant Care (Self-Directed)
+                   are considered at increased risk for TB if any of the statements on
+                   the risk assessment are marked "Yes." Children’s Attendant
+                   Caregivers determined on the assessment to be at risk for TB must
+                   provide evidence of a single BAMT or a baseline two-step
+                   Tuberculin Skin Test with the annual risk assessment. If the
+                   children’s attendant caregiver does not submit the annual TB risk
+                   assessment, the USC nurse must notify SCDHHS. Current services
+                   of the children’s attendant caregiver must be terminated after
+                   reasonable notice (two (2) weeks) to participants has been given so
+                   participants can find replacement services. The HCBS Provider
+                   Oversight must suspend new referrals to the children’s attendant
+                   caregiver effective on the date suspension is submitted.
+
+
+                           Please refer to the Department of Public Health (DPH) website for
+                           PPD Tuberculin test requirements.
+
+                           https://dph.sc.gov/sites/scdph/files/Library/Regulations/R.61-122.pdf
+                           If additional information is required, contact the Tuberculosis Control
+                           Division, Department of Public Health, 400 Otarre Parkway, Cayce,
+                           SC 29033-3751 phone (803) 898-0558.
+
+        2. Legally responsible individuals are allowed to receive payment for
+           children’s attendant care services when the MCC waiver participant
+           is determined to require extraordinary care.
+
+          a.          Legally responsible individuals include the following family
+                      members:
+
+                i.       A parent of a minor Medicaid participant;
+
+               ii.       A stepparent of a minor Medicaid participant;
+
+               iii.      A foster parent of a minor Medicaid participant;
+
+               iv.       A person who has the legal responsibility of utilizing their own
+                         assets for the care of the Medicaid participant (legally
+                         responsible adult)
+
+           b. Extraordinary care exceeds the range of tasks a family member or
+              responsible person would normally perform in the household for a
+              person without a disability or chronic illness of the same age. The
+              care is necessary to ensure the health and welfare of the
+              participant and avoid institutionalization.
+
+           c. Reimbursable children’s attendant care services are limited to
+              those identified by the licensed professional on the SCDHHS
+              Children’s In- Home Care Prescriber Form and must be rendered
+              in the scope, frequency, and duration as identified and authorized
+                                         South Carolina Department of Health and Human Services 3
+HCBS Provider Manual                                                                July 1, 2025
+Scopes of Services                                      Children’s Attendant Care (Self-Directed)
+               on the service plan. Only authorized services rendered by an
+               approved children’s attendant caregiver and confirmed by
+               electronic visit verification (EVV) are eligible for reimbursement.
+
+
+       3.     More than one enrolled children’s attendant caregiver may be
+              authorized to provide the assessed number of hours of children’s
+              attendant care to the MCC waiver participant. However, children’s
+              attendant care services from each children’s attendant caregiver
+              may not be provided at the same time.
+
+       4.     When children’s attendant care services are authorized for more
+              than one MCC participant in the same home the children’s attendant
+              caregiver cannot be clocked in for both participants at the same time.
+              The children’s attendant caregiver must clock in and out separately
+              for each participant.
+
+        5. Involuntary Termination
+
+             a. Participants may be involuntarily terminated from the use of
+                children’s attendant care services when they are unable to direct
+                their own care and have no responsible party willing and/or able to
+                do so. Participants who are involuntarily terminated from children’s
+                attendant care services are given the option of receiving agency
+                directed services provided by an in-home care agency.
+
+             b. If a participant is involuntarily terminated from children’s attendant
+                care services, the termination of the service and the authorization
+                of in-home care agency services are coordinated to assure
+                continuity of services. These safeguards exist to assure participant
+                health and welfare during the transition period of an involuntary
+                termination of children’s attendant care services.
+
+             c. Participants who are involuntarily terminated from children’s
+                attendant care services are given written appeal rights.
+
+
+  B.        Minimum Training Requirements
+            Prior to the provision of services children’s attendant caregivers must meet the
+            following training requirements. The USC nurse will review documentation
+            certifying completion of training by a SCDHHS-approved party. Copies of
+            required training completion documents shall be maintained in the USC nurse
+            file for each children’s attendant caregiver. Documentation must remain current
+            in order to provide children’s attendant care services.
+
+            1. Cardiopulmonary Resuscitation (CPR) Training
+
+
+                                    South Carolina Department of Health and Human Services 4
+HCBS Provider Manual                                                                July 1, 2025
+Scopes of Services                                      Children’s Attendant Care (Self-Directed)
+             Completion of CPR training is required. Documentation must
+             include training date, course title, location/modality, duration of
+             training, name of children’s attendant caregiver, name of
+             instructor/organization, and license if applicable. The
+             documentation must be generated by an organization, or an
+             individual delegated by an organization to provide the instruction.
+             CPR recertification requirements may vary by the issuing authority.
+             The American Red Cross CPR certification is valid for 2 years.
+
+          2. First Aid Training
+
+             Completion of First Aid training is required. Documentation must
+             include training date, course title, location/modality, duration of
+             training, name of children’s attendant caregiver, name of
+             instructor/organization, and license if applicable. The
+             documentation must be generated by an organization, or an
+             individual delegated by an organization to provide the instruction.
+             First Aid recertification requirements and the frequency vary by the
+             issuing authority and the individual needs. The American Red
+             Cross First Aid certification is valid for 2 years.
+
+         3. Additional Skilled Care Training
+
+            For any task that has been identified as a skilled need on the
+            SCDHHS Children’s In-Home Care Prescriber Information Form,
+            children’s attendant caregivers are required to demonstrate
+            competency in performing the identified tasks. Only the tasks
+            identified on the SCDHHS Children’s In-Home Care Prescriber
+            Information Form will be added to the service plan. Enrolled
+            children’s attendant caregivers are only reimbursed for services
+            outlined in the service plan.
+
+         4. Electronic Visit Verification System/Billing Training
+
+            Prior to the first authorization being issued, all children’s attendant
+            caregivers who have been matched with their first participant are
+            required to complete Electronic Visit Verification (EVV)
+            System/billing training.
+
+          5. Participant-specific Training
+
+             Participant-specific training for the children’s attendant caregiver and/or
+             participant/ responsible party may be provided as deemed necessary based
+             on the professional judgment of the USC nurse or when the
+             participant/responsible party or children’s attendant caregiver requests
+             assistance with training related to specific tasks.
+
+             Note: Training may be furnished by the USC nurse while the children’s
+             attendant caregiver is furnishing care to the participant. During the match
+                                    South Carolina Department of Health and Human Services 5
+HCBS Provider Manual                                                              July 1, 2025
+Scopes of Services                                    Children’s Attendant Care (Self-Directed)
+             visit, the USC nurse may also identify additional training needs and assist the
+             children’s attendant caregiver with locating a training resource to address
+             those needs.
+
+  C.     Employer of Record
+          1. The provision of children's attendant care and the children's
+             attendant caregiver must be supervised by the EOR to ensure that
+             the employee (children’s attendant caregiver) provides services as
+             outlined in the authorization. The EOR can be the participant (aged
+             18 or older), responsible party, or other identified individual. The
+             safety and efficacy of the EOR must be certified by the USC nurse.
+             The USC nurse must determine when the EOR is no longer certified
+             to provide supervision for the children’s attendant caregiver.
+
+          2. The USC nurse and the MCC waiver nurse case manager must
+             document when the requirement for an EOR cannot be met and is,
+             therefore, waived. When the participant or responsible party is
+             unable to identify a separate, qualified individual to serve as the
+             EOR, the responsible party may be allowed to serve as the EOR
+             and the children’s attendant caregiver. Requests for exceptions
+             must be submitted by the MCC Waiver Nurse Case Manager to
+             WES@scdhhs.gov. All the following conditions must be met:
+
+              a. Participant is a minor.
+
+               b. Participant is a minor and the legally responsible individual is
+                  also the approved children’s attendant caregiver.
+
+               c. The legally responsible individual / children’s attendant
+                  caregiver is unable to identify a separate, qualified individual to
+                  serve as the EOR.
+  D.     Infection Control
+         The children’s attendant caregiver must always adhere to basic infection
+         control procedures while providing children’s attendant care services.
+
+  E.     Description of Services to be Provided
+         1. The number of children’s attendant care service hours are
+            determined by the SCDHHS validated assessment for in-home
+            personal care hours.
+
+             a. For skilled care the Nursing Acuity Scale will be used to
+                determine the assessed number of hours needed to meet the
+                skilled needs identified on the SCDHHS Children’s In-Home Care
+                Prescriber Information Form.
+
+             b. For children under five refer to the Guidelines for Developmental
+                Stages.
+                                 South Carolina Department of Health and Human Services 6
+HCBS Provider Manual                                                             July 1, 2025
+Scopes of Services                                   Children’s Attendant Care (Self-Directed)
+             c. The assessor will compare the assessed skills on the Nursing
+                 Acuity Scale to the needs on the Children’s In-Home Care
+                 Prescriber Information Form to determine which tasks can be
+                 delegated to the children’s attendant caregiver.
+
+         2. The unit of service is authorized in one (1) hour increments and must
+            consist of direct children’s attendant care services provided in the
+            participant’s home. Escorting the participant to Medicaid covered
+            services when transportation is provided by another individual is
+            reimbursable.
+
+              Exceptions: A secondary home setting may be identified as billable
+              place of service for children’s attendant care services when
+              approved. The MCC waiver nurse case manager must email
+              WES@scdhhs.gov to request approval.
+
+         3. The allowable tasks provided to the child are dependent upon the
+            individual participant’s needs as set forth in the participant’s
+            approved service plan. Services must be participant specific and for
+            the direct benefit of the participant.
+
+         4. If the assessed need for services exceeds 40 hours per week, every
+            effort must be made to identify a separate children’s attendant
+            caregiver to provide the services for over 40 hours per week. A week
+            is defined as Sunday – Saturday.
+
+              a. Children’s attendant caregivers may not provide more than 16
+                 hours of care per day.
+
+              b. Children’s attendant caregivers may not provide more than 40
+                 hours of care per week.
+
+          5. If multiple attendants are required, more than one attendant cannot
+             be clocked into the EVV system at one time.
+
+          6. If a children’s attendant caregiver is authorized to provide services for
+             more than one participant, every effort must be made to ensure that
+             the children’s attendant caregiver does not exceed 40 hours per
+             week for the combined hours for all participants.
+
+              Participants/Responsible parties may select an agency-based
+              children’s personal care provider to provide coverage for a portion of
+              the assessed hours. In this instance, the children’s personal care
+              provider will be held to the service limitations identified in the
+              Children’s Personal Care Scope of Services and associated billing
+              guidelines.
+
+         7. Children’s attendant care services include:
+                                  South Carolina Department of Health and Human Services 7
+HCBS Provider Manual                                                                July 1, 2025
+Scopes of Services                                      Children’s Attendant Care (Self-Directed)
+
+                a. Extraordinary care which exceeds the range of tasks a family member or
+                    responsible person would normally perform in the household for a
+                    person without a disability or chronic illness of the same age which are
+                    required to assist the participant with activities of daily living (e.g.,
+                    assistance with bathing, dressing, eating, hygiene, mobility, toileting, and
+                    transferring).
+
+
+                b. Delegated skilled tasks specific to the participant’s medical condition(s).
+                   Skilled tasks must be identified by the prescriber and documented on the
+                   SCDHHS Children’s In-Home Care Prescriber Information Form. The
+                   USC nurse must certify competency of the children’s attendant caregiver
+                   to provide identified skills via a match visit in the participant’s home.
+
+                c. Transportation is excluded from this service. The non-emergency
+                   medical transportation (NEMT) program provides transportation to and
+                   from Medicaid covered services.
+
+                d. Escorting participant to Medicaid covered services.
+
+                    Children’s attendant caregivers may be reimbursed for escorting the
+                    participant to Medicaid covered services when transportation is
+                    provided by another individual. The request must be communicated to
+                    the MCC waiver nurse case manager and added to the participant’s
+                    service plan. Children’s attendant caregivers are prohibited from
+                    clocking in when care is not being rendered directly to the participant
+                    (e.g. when children’s attendant caregiver is driving the participant to a
+                    Medicaid covered service). Children’s attendant caregivers will not be
+                    reimbursed for escorting participants other than described above.
+
+
+   F.       Record Keeping
+        1. The children’s attendant caregiver shall maintain a copy of the following and
+           ensure information remains confidential per SCDHHS Healthy Connections
+           Medicaid requirements for providers:
+
+           a. Current and historical Service Provision Forms specifying units
+              and services/duties to be provided;
+
+           b. The HCBS participant’s service plan;
+
+           c. The children’s attendant caregiver must enter the children’s attendant care
+              corresponding activity code in the EVV system. These codes must be
+              entered at the conclusion of the service.
+
+
+                                    South Carolina Department of Health and Human Services 8
+HCBS Provider Manual                                                              July 1, 2025
+Scopes of Services                                    Children’s Attendant Care (Self-Directed)
+          d. A copy of the participant’s back-up plan for service provision when the
+             primary children’s attendant caregiver is unable to provide services. (The
+             participant/responsible party must make prior arrangements with family
+             members, other formal or informal supports or another enrolled children’s
+             attendant caregiver for care provision in the absence of the primary children’s
+             attendant caregiver).
+
+
+       2. The MCC waiver nurse case manager shall monitor the children’s
+          attendant care services in accordance with roles and
+          responsibilities outlined in the executed Care Service Organization
+          contract. The monitoring and oversight shall include the following:
+
+          a. Monthly review of children’s attendant care EVV entries;
+
+          b. Monthly documentation of oversight of the children’s attendant
+             care services rendered to the participant in the Phoenix case
+             management system;
+
+          c. Completion of a quarterly face-to-face visit with the children’s attendant
+             caregiver and the participant in the home; this visit may be completed in
+             conjunction with the mandated quarterly care coordination/case management
+             in-person visit.
+
+             Note: MCC waiver nurse case manager must document the completion of
+             this requirement with the initiation and completion of a children’s attendant
+             care narrative entry in the Phoenix case management system.
+
+
+  G.      Conduct of Services
+       1. The children’s attendant caregiver must initiate children’s attendant
+          care services on the date agreed upon by the participant/responsible
+          party, children’s attendant caregiver, EOR and the MCC waiver nurse
+          case manager. This date must be the start date on the written
+          authorization for services. Services provided prior to the authorized
+          start date as stated on the Service Provision Form will not be
+          reimbursed.
+
+       2. The MCC waiver nurse case manager must authorize children’s
+          attendant care services by designating the authorized units of services
+          in accordance with the participant’s service plan. The children’s
+          attendant caregiver must provide services per the needs outlined in the
+          service plan. The participant and/or responsible party must self-direct
+          the provision of care and coordinate with the children’s attendant
+          caregiver for the time for service delivery and specific tasks to be
+          performed. If the children’s attendant caregiver does not reside with the
+          participant, the amount of time authorized does not include
+          transportation time to and from the participant’s home.
+                                   South Carolina Department of Health and Human Services 9
+HCBS Provider Manual                                                                  July 1, 2025
+Scopes of Services                                        Children’s Attendant Care (Self-Directed)
+          If the children’s attendant caregiver or the participant/responsible party identifies
+          children’s attendant care duties that would be beneficial to the participant’s care
+          but are not specified in the participant’s service plan, the children’s attendant
+          caregiver or participant/responsible party must contact the MCC waiver nurse
+          case manager to discuss the possibility of having these duties included in the
+          service plan. The decision to modify the duties to be performed by the children’s
+          attendant caregiver is the responsibility of the MCC waiver nurse case manager
+          and may include collaboration with the licensed professional providing care to
+          the child.
+          a. The children’s attendant caregiver must notify the MCC waiver nurse
+               case manager immediately of the following participant changes:
+
+             i.     Participant’s condition has changed, and the service plan no longer
+                    meets participant’s need, or the participant no longer appears to need
+                    children’s attendant care services.
+
+             ii.    Participant/responsible party no longer appears capable of
+                    providing supervision for the children’s attendant caregiver.
+
+             iii.   Participant/responsible party no longer wants to serve as
+                    EOR/responsible party.
+
+             iv.    Participant dies.
+
+              v.    Participant moves out of the service area.
+
+             vi.    Participant/responsible party no longer wishes to receive
+                    children’s attendant care services.
+
+            vii.    Knowledge of the participant’s Medicaid ineligibility or potential
+                    ineligibility
+
+           b. The children’s attendant caregiver, EOR and any other individual
+              involved in the provision or oversight of the service must notify
+              Child Protective Services (for MCC participants under 18 years of
+              age) or Adult Protective Services (for MCC participants aged 18
+              and older) if he/she has knowledge of, or reason to believe that the
+              participant has been or is likely to be abused, neglected or
+              exploited within 24 hours or the next business day of becoming
+              aware/witnessing the event. If a report is made of abuse, neglect,
+              or exploitation, the children’s attendant caregiver must notify the
+              MCC waiver nurse case manager within 24 hours or the next
+              business day of when the report is made.
+
+           c. The participant must have an effective back-up service provision
+              plan in place to ensure that the participant receives services in the
+              absence of the primary children’s attendant caregiver.
+
+
+                                    South Carolina Department of Health and Human Services 10
+HCBS Provider Manual                                                               July 1, 2025
+Scopes of Services                                     Children’s Attendant Care (Self-Directed)
+           d. When the children’s attendant caregiver determines that services
+              cannot be provided by the children’s attendant caregiver as
+              authorized, the children’s attendant caregiver must immediately
+              notify the MCC waiver nurse case manager and the
+              participant/responsible party by telephone.
+
+           e. When two consecutive attempted visits occur, the children’s
+              attendant caregiver/participant/responsible party or EOR must
+              notify the MCC waiver nurse immediately. An attempted visit
+              occurs when the children’s attendant caregiver arrives at the home
+              and is unable to provide the assigned tasks because the
+              participant is not at home, or the service has been refused.
+
+           f. The children’s attendant caregiver must notify the MCC waiver nurse
+              case manager immediately if the children’s attendant caregiver
+              wishes to terminate as the provider.
+
+              When applicable, during the match visit the USC nurse is responsible
+              for giving participants a written description of the state law
+              concerning advance directives in accordance with the Patient Self-
+              Determination Act. The USC nurse must assist children’s attendant
+              caregivers in meeting this requirement.
+
+           g. The children’s attendant caregiver shall adhere to all SCDHHS
+              policies, procedures and Medicaid provider manuals including
+              policies regarding billing, claims adjustments, financial
+              management services vendor requirements, etc.
+
+           h. The children’s attendant caregiver must comply with all
+              Electronic Visit Verification (EVV) System requirements for all
+              participants.
+
+  H.      Skilled Services Provided by an Approved Children’s Attendant
+          Caregiver
+       The waiver service definition for children’s attendant care allows a participant or
+       the designee to self-direct “skilled service activities” performed by the children’s
+       attendant caregiver with approval from the participant’s prescriber. These
+       activities are basic and ancillary services that enable an individual in need of in-
+       home care to live in the individual's home and community rather than in an
+       institution and to carry out functions of daily living. With prescriber’s approval,
+       children’s attendant caregivers may provide skilled services which are considered
+       basic and ancillary care for participants in the MCC waiver.
+
+       When a referral is made to the USC nurse for children’s attendant care that
+       includes a request to provide skilled service activities, the MCC waiver nurse case
+       manager must include a comment on the referral stating “Participant/responsible
+       party has requested a skilled service to be provided.”
+                                   South Carolina Department of Health and Human Services 11
+HCBS Provider Manual                                                               July 1, 2025
+Scopes of Services                                     Children’s Attendant Care (Self-Directed)
+      For existing referrals already in process with the USC nurse where a skilled service
+      need has been identified, the MCC waiver nurse case manager must note in the
+      comment section on the referral, “Participant/responsible party has requested a
+      skilled service to be provided” AND email the USC nurse to notify them of the
+      change in the referral. The USC nurse will not receive a Phoenix notification that
+      there is a change to the referral.
+
+      The USC nurse will notify the assigned MCC waiver nurse case manager when the
+      “SCDHHS Children’s In-Home Care Prescriber Information Form” can be sent to
+      the prescriber completion including signature.
+
+      Once the signed Children’s In-Home Prescriber Information Form has been
+      received, the MCC waiver nurse case manager must scan the form into Phoenix
+      scans under the children’s attendant caregiver scan tag and email the USC nurse
+      to notify the form has been returned and scanned. The USC nurse must complete
+      the children’s attendant caregiver match visit once this notification is received by
+      email.
+
+      The following list of services are examples of activities which may be appropriate
+      for the children’s attendant caregiver to perform. This list is not all inclusive.
+
+  •   Tracheostomy care
+  •   Ventilator Care - taking on and off the vent
+  •   Suctioning- tracheostomy/ oral
+  •   Finger stick blood glucose monitoring
+  •   Wound care
+  •   Enteral feedings (PEG or Nasogastric)
+  •   Bowel program
+  •   Ostomy care
+  •   Catheter care
+
+      Only skills on the Children’s In-Home Care Prescriber Information Form can be
+      rendered by the approved children’s attendant caregiver and reimbursed by
+      SCDHHS.
+
+       NOTE: If the participant changes physician, nurse practitioner, or physician
+       assistant and the prescriber who signed the Children’s In-Home Prescriber
+       Information Form is no longer involved in the participant’s care, a new Children’s
+       In-Home Prescriber Information Form is required.
+  If the service is directed by the EOR, and the EOR is no longer able to direct the skilled
+  service activities performed by the children’s attendant caregiver, a new Children’s In-
+  Home Care Prescriber Information Form statement is required.
+
+
+
+
+                                   South Carolina Department of Health and Human Services 12
+

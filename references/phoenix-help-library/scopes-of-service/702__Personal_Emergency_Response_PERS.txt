@@ -1,0 +1,259 @@
+HCBS Provider Manual                                                       July 1, 2024
+Scopes of Services                                Personal Emergency Response Services
+
+      MEDICAID HOME AND COMMUNITY-BASED WAIVER SCOPE OF SERVICES
+
+                                            FOR
+
+       PERSONAL EMERGENCY RESPONSE (PERS)
+                   SERVICES
+A.    Objectives
+         The objective of Personal Emergency Response Service (PERS) is to provide
+         Medicaid Home and Community-Based waiver Participants with twenty-four (24) hour
+         monitoring and live telephone contact in case of emergency or urgent concern. The
+         service must provide the ability to initiate alerts for safety and emergencies both
+         automatically and manually twenty-four (24) hours per day.
+
+B.    Conditions of Participation
+         1.        Provider must have a unit that meets the following requirements:
+
+                a. FCC Part 68 – telecom terminal equipment approval
+
+                b. UL (Underwriters Laboratories) and/or ETL (Equipment Testing
+                   Laboratories) approved as a “health care signaling product
+
+                c. The product must be registered with the FDA as a medical device
+                   under the classification “powered environments control signaling
+                   product”
+
+         2.        The unit must have three components:
+
+                a. A small radio transmitter (a help button carried or worn by the user)
+
+                b. A console when emergency help (medical, fire, or police) is needed
+
+                c. Emergency Response Center to determine the nature of the calls
+
+         3.        Providers must utilize the automated systems mandated by
+                   SCDHHS to document and bill for the provision of services.
+
+         4.        Provider must accept or decline referrals from SCDHHS or
+                   SCDDSN within two (2) working days. Failure to respond will result
+                   in the loss of the referral.
+
+         5.        The provider must verify the participant’s Medicaid eligibility when it
+                   accepts an authorization and monthly thereafter to ensure
+                   continued eligibility. Agencies can verify Medicaid eligibility for
+                   SCDHHS participants in the Phoenix Provider Portal on their
+                   dashboard. For additional information on eligibility determination,
+                   review the Administrative and Billing Manual.
+
+         6.        Provider may use paperless filing systems. Electronic records must
+                   be made available upon request, and Provider must have a reliable
+
+                                  South Carolina Department of Health and Human Services 1
+HCBS Provider Manual                                                       July 1, 2024
+Scopes of Services                                Personal Emergency Response Services
+
+                    back-up system in the event its computer system shuts down.
+                    Provider must ensure that the electronic record keeping meets all
+                    scope requirements and any requirements set forth in the
+                    Administrative and Billing Manual.
+
+         7.         The provider must have qualified technicians for the installation of
+                    the PERS units, as explained in Section D.4 hereof.
+
+         8.         The provider must have at least one (1) year of experience or
+                    otherwise demonstrated competency in the provision of the PERS
+                    service.
+
+C.    Description of Services to Be Provided
+         When emergency help is needed, the PERS user presses the transmitter help button.
+         It sends a radio signal to the console. The console automatically dials one or more
+         pre-selected emergency telephone numbers. The system must be able to dial even if
+         the telephone is off the hook or in use. The PERS unit must be programmed to
+         telephone the response center where the caller is identified. The center must
+         determine the nature of the emergency and contact the appropriate person. The
+         contact must include calling a primary and back-up number in emergency cases.
+         Within two (2) working days, the Provider shall report through the Phoenix System
+         operated by SCDHHS all contacts made to the Participant indicating the nature of the
+         contact.
+
+         Reimbursement for the PERS service includes a one-time installation and monthly
+         monitoring. These reimbursements are inclusive of all equipment installation, and
+         training on its use and care while the equipment is in the Participant’s home. These
+         reimbursements also include all, visits or calls made to the home to follow up with
+         Participants and/or caregivers, telephone calls made that are necessary while the
+         Participant is receiving the PERS service and equipment removal when the service is
+         no longer authorized for the Participant.
+
+         The Provider shall provide the PERS service seven (7) days per week for all
+         authorized time periods.
+
+D.    Staffing
+         1.         The Response center staff must be able to monitor the PERS unit
+                    twenty-four (24) hours a day, seven (7) days a week.
+
+         2.         Response center staff must be trained to perform duties related to
+                    monitoring the PERS unit.
+
+         3.         Response center staff must be able to test the PERS unit in the
+                    home monthly.
+
+         4.         Technicians that install equipment must meet the following
+                    requirements:
+
+                 a. Qualified as a technician to install PERS equipment.
+
+
+                                  South Carolina Department of Health and Human Services 2
+HCBS Provider Manual                                                       July 1, 2024
+Scopes of Services                                Personal Emergency Response Services
+
+                b. Capable of evaluating whether the equipment is functioning
+                   properly.
+
+                c. Able to assume responsibility for training Participants and/or
+                   caregivers in the use of PERS equipment.
+
+         5.        A SLED criminal background check is required for all potential
+                   employees including technicians, response center staff and
+                   administrative/office employees (office employees required to have
+                   SLED background checks including administrator, office manager,
+                   supervisor, and persons named on organizational chart in
+                   management positions). All SLED criminal background checks must
+                   include all data for the individual with not less than a ten (10) year
+                   search. The SLED criminal background check must include
+                   statewide (South Carolina) data. The statewide data must include
+                   South Carolina and any other state or states the worker has
+                   resided in within the prior ten years. Potential employees with
+                   felony convictions within the last ten (10) years cannot provide
+                   services to Participants or work in an administrative/office position.
+
+         6.        Potential employees with non-violent felony convictions dating back
+                   ten (10) or more years can work at the Provider’s discretion.
+
+         7.        Hiring employees with misdemeanor convictions shall be at the
+                   Provider’s discretion.
+
+         8.        Personnel folders: Individual records shall be maintained to
+                   document that each member of the staff has met the above
+                   requirements.
+
+E.    Conduct of Service
+         The Provider must maintain documentation showing that it has complied with the
+         requirements of this section.
+
+         The Provider must obtain the authorization from the case manager) prior to the
+         provision of services. The authorization must designate the amount, frequency, and
+         duration of service for Participants in accordance with the Participant's
+         SCDHHS/SCDDSN Authorization which will have been developed in consultation with
+         the Participant and others involved in the Participant's care.
+
+         Participants and/or caregivers shall choose among qualified providers of the PERS
+         service, once Provider has been chosen by the Participant and/or caregiver, the
+         PERS provider shall receive a referral that will have information on the condition of
+         the Participant. PERS providers must accept or decline referrals from SCDHHS within
+         two (2) working days. Failure to respond shall result in the loss of the referral.
+
+         The Provider shall initiate PERS services on the date agreed upon by the Case
+         Manager, provider, and participant and indicated on the Medicaid Home and
+         Community-Based waiver service authorization. The Case Manager must be notified
+         if services are not initiated on that date. Services provided prior to the service
+         authorization date are not reimbursable.
+
+                                  South Carolina Department of Health and Human Services 3
+HCBS Provider Manual                                                        July 1, 2024
+Scopes of Services                                 Personal Emergency Response Services
+
+         The Case Manager shall notify the provider immediately if services to a Participant
+         are to be terminated. However, the Provider must refer to the language in the HCBS
+         Services Provider Manual in Administrative and Billing Manual regarding the
+         Provider's responsibility in checking the Participant's Medicaid eligibility status.
+
+         The Provider must maintain an individual Participant record which documents the
+         following items:
+
+         1.         The Provider must initiate PERS on the date agreed upon by the
+                    Case Manager, provider, and participant and indicated on the
+                    Medicaid authorization. Services must not be provided prior to the
+                    authorized start date and must be provided according to the
+                    schedule as indicated on the authorization.
+
+         2.         For SCDDSN: The Provider must document all contacts made to
+                    the Participant. This documentation must include the nature of the
+                    contact, all actions taken and the outcome. Documentation of the
+                    contact must be filed in the participant’s record within two (2)
+                    working days of the contact.
+
+         3.         For SCDHHS: The Provider must report through Phoenix all
+                    contacts made to the participant indicating the nature of the
+                    contact, the action taken and the outcome within two (2) working
+                    days.
+
+         4.         The Provider must notify the Case Manager within two (2) working
+                    days of the following:
+
+                a. Participant is institutionalized, dies or moves out of the service
+                   area.
+
+                b. Participant no longer wishes to receive PERS services.
+
+                c. Knowledge of the Participant's Medicaid ineligibility or potential
+                   ineligibility.
+
+         5.         All active participant records must contain the lesser of two (2)
+                    years or the complete record of documentation to include
+                    authorizations, documentation of PERS installation, monitoring
+                    records, any complaints, etc. All records must be retained for at
+                    least five (5) years. Records must contain all authorizations in the
+                    Participant’s active record.
+
+F.    Administrative Requirements
+         1.         The provider must inform SCDHHS of the provider’s organizational
+                    structure, including the provider personnel with authority and
+                    responsibility for employing qualified personnel, ensuring adequate
+                    staff education, and employee evaluations. The provider shall notify
+                    SCDHHS within three (3) working days in the event of a change in or
+                    the extended absence of the personnel with the above-listed
+                    authority.
+
+                                   South Carolina Department of Health and Human Services 4
+HCBS Provider Manual                                                       July 1, 2024
+Scopes of Services                                Personal Emergency Response Services
+
+         2.       The provider must provide SCDHHS with a written document
+                  showing the organization, administrative control and lines of
+                  authority for the delegation of responsibility down to the technical
+                  staff at contract implementation. The document must include an
+                  organizational chart including names of those currently in the
+                  positions. Revisions or modifications to this organizational
+                  document must be provided to SCDHHS. It is recommended that
+                  this document be readily accessible to all staff.
+
+         3.       Administrative and supervisory functions shall not be delegated to
+                  another organization.
+
+         4.       The Provider shall acquire and maintain for the duration of the
+                  contract liability insurance as provided in Article IX, Section D of the
+                  Contract. The Provider is required to list SCDHHS – SCDHHS as a
+                  Certificate Holder for informational purposes only on all insurance
+                  policies using the following address: Post Office Box 8206,
+                  Columbia, SC 29202-8206.
+
+         5.       The Provider must develop and maintain a Policy and Procedure
+                  Manual that describes how activities will be performed in
+                  accordance with the terms of the requirements of the contract. The
+                  Policy and Procedure Manual shall be available during office hours
+                  for the guidance of the governing body and personnel must be
+                  made available to SCDHHS upon request.
+
+         6.       The Provider agency shall ensure that key agency staff is
+                  accessible during compliance review audits conducted by
+                  SCDHHS and/or its agents
+
+
+
+
+                                 South Carolina Department of Health and Human Services 5
+

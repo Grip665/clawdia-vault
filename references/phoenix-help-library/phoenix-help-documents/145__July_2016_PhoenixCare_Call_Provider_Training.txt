@@ -1,0 +1,509 @@
+      
+July 2016
+ Phoenix is a web-based software system.
+ Phoenix is CLTC’s comprehensive participant tracking
+  system.
+ Referrals, authorizations and terminations are created and
+  transmitted through Phoenix.
+ Phoenix is used for service monitoring and reporting.
+ Phoenix submits billing for CLTC services.
+ The preferred web browser for Phoenix is Google Chrome.
+ Chrome is a free web browser that may be downloaded at
+  www.google.com/chrome
+ When a service is needed, participants choose
+  providers from a randomly generated list of all
+  providers in their area.
+ Participants order their choice of providers.
+ Case managers make referrals in the order
+  chosen by the participant.
+ Only information contained in the referral will be shared
+  with providers.
+ Providers are prohibited from asking for additional
+  information.
+ Case managers and nurses are prohibited from sharing
+  additional information during the referral process.
+ Information shared with the provider is based on the service
+  (e.g. A personal care provider is given information on the
+  home condition, but an incontinence supplies provider is
+  not).
+ Phoenix sends providers an e-mail stating they have a
+  referral (provider’s e-mail address must be up to date in
+  Phoenix).
+ Phoenix will direct the provider to the Provider Portal to view
+  the referral.
+ Referrals must be acted upon within two working days (48
+  hours) excluding weekends and state holidays.
+ If the referral is declined or not acted upon within two
+  working days, Phoenix automatically sends the referral to
+  the next provider.
+ If the referral is accepted by the provider, the case
+  manager is notified and will enter an authorization
+  in Phoenix.
+ Once the authorization is completed by the case
+  manager, the provider receives an e-mail directing
+  them to Phoenix to access and accept the
+  authorization.
+ When a service is terminated, providers also
+  receive an e-mail directing them to Phoenix to view
+  the termination.
+  https://providers.phoenix.scdhhs.gov/login
+
+
+
+
+The preferred web browser when using Phoenix is Google
+Chrome. It may be used with other browsers but users may
+experience some differences in appearance or functionality.
+ When logging in for the first time, the provider must click
+  the verify button in the top right corner of the login screen.
+ Enter your
+   o Medicaid provider number
+   o Federal tax ID
+   o CLTC provided password
+   o New password (8-40 characters, must contain 3 of the following:
+     upper case, lower case, number, symbol)
+   o Repeat new password
+   o Passwords cannot contain the provider’s company name
+ Examples of Valid Passwords
+  o Phoenix1
+  o Wearethe#1agency!
+  o Gamecock$
+  o tigerp@w5
+  o 3daycareDudes
+  o 1on1CareCompany
+  o Food4u
+ The login screen contains
+  four fields-Provider
+  Number, Login ID,
+  Password & math prob.
+ Provider Number field and
+  Login ID field will contain
+  the same information in
+  the beginning.
+ When new users are
+  created for your agency,
+  they will have a different
+  login ID and password.
+ The forgot password link on the login screen is only used to
+  reset the main password for the agency – the administrator
+  password.
+ The user will be prompted to enter the provider number,
+  federal tax ID number, CLTC assigned password and a new
+  password.
+ The user will receive a confirmation message that the
+  password has been reset.
+ To reset password for agency users other than the
+  administrator, a new password should be keyed on the
+  User’s tab for that person.
+ To change your password once you are logged into the
+  system, click the provider name at the top of the screen.
+ The user will be asked to enter the current password, new
+  password and to confirm the new password.
+ Click the Update Password button
+ Once the user logs in to the provider portal, the user will be
+  on the provider dashboard.
+ Most dashboards have four tabs
+   o Notifications
+   o Terminations
+   o Pending
+   o Authorizations
+ Enhanced Environmental Modification providers will have
+  an additional tab titled Projects.
+ Information on the
+  Notifications tab requires
+  an action.
+ This section contains
+   o Referrals that have not
+     been accepted or
+     declined
+   o Authorizations that have
+     not been accepted or
+     declined
+   o Environmental
+     Modification Projects
+     available to bid on (only
+     for E-mod providers)
+ A referral is a request for service.
+ The provider will only get enough information to make a
+  decision to accept or decline the request.
+ The referral information given depends on the type of
+  service.
+ The provider may accept or decline the referral the with or
+  without comments.
+ If a referral is accepted, it moves from the Notifications tab
+  to the Pending Tab.
+ If a referral is declined, it is no longer visible to the provider.
+ Authorizations on the notifications tab indicate that the
+  provider has not accepted/declined the authorization.
+ Although the referral may already have been accepted, the
+  provider must accept the authorization as well.
+ When an authorization is accepted, it moves from
+  Notifications to the Authorizations Tab of Phoenix.
+ If the authorization is declined, the authorization is no
+  longer visible to the provider. The case manager receives a
+  notification that the provider declined. The case manager
+  must then terminate the authorization in Phoenix.
+ This notification indicates an environmental modification
+  project is available and the provider may bid on the job.
+ The notification goes to every environmental modifications
+  provider who serves the county of residence for the
+  participant.
+ If the provider wants to bid, enter an amount to do the job.
+  Comments may be entered also.
+ The provider may remove or edit the bid before the bidding
+  period has ended.
+ Once the bidding period has ended, the environmental
+  modification specialist will accept the best bid and it will
+  display on the projects tab of the provider.
+ This section contains notifications of recent terminations.
+ Terminations are removed from this tab when the
+  termination date is more than 14 days ago.
+ When terminations are removed from this tab, they may still
+  be viewed on the Authorizations Tab under the closed
+  authorizations section.
+ This tab is informational only. No action needs to be taken
+  on the termination notice. The provider must make sure
+  services are stopped by the termination date.
+ This tab shows all of the referrals the provider has accepted that are
+  awaiting case manager approval.
+ The Pending Tab lets the provider know they have accepted a referral
+  and are waiting for the authorization from the case manager to begin
+  services.
+ Once the case manager sends the authorization, the person will be
+  removed from the pending tab.
+ For environmental modification providers, ramp referrals that were
+  accepted by the provider will display on this tab until the provider
+  completes the ramp completion form and sends it to the case manager.
+ For incontinence supplies providers, the referral should remain on this
+  tab until the provider notifies the case manager the physician form has
+  been returned and it states the participant is incontinent.
+ This section displays all CLTC authorizations for a provider.
+ There are two sub-tabs: Open and Closed.
+ The Open Tab displays all currently open authorizations and
+  those with a termination date less than 14 days ago.
+ The Closed Tab displays all past authorizations for the
+  agency.
+ There is a sort function on the screen to change how the
+  data is displayed.
+ The search feature allows the user to search for a
+  participant by name or CLTC number.
+ Clicking the participant’s CLTC number or name will take
+  the user to the authorization.
+ Clicking the Service Plan date will take the user to the
+  participant’s latest service plan.
+ Some services will have a service plan attached (e.g. PCI,
+  PCII, Companion, Nursing and ADHC) and others will not
+  (e.g. Meals, Incontinence Supplies, Telemonitoring, etc.).
+ A PDF reader must be used to view authorizations, services
+  plans and forms.
+ A full authorization (Service Provision Form) may be viewed
+  by clicking the Preview button.
+ A password is required to view the authorization, service
+  plan or physician form.
+ The password is the CLTC number of the participant.
+ For incontinence supplies providers
+   o If you click a participant’s name on the authorizations tab, you will
+     be taken to the authorization and there will be two tabs:
+     Authorization and Forms.
+   o The Forms tab will show all of the Physician Forms.
+   o There is a button for each form to indicate if it was received back
+     from the physician.
+   o There is a button to create a new form to send to the physician.
+ Conversations are a secure way for case mangers, providers
+  and CLTC staff to exchange messages within the Phoenix
+  system.
+ Conversations may serve as an alternative to e-mailing or
+  calling the case manger.
+ E-mailing a case manager could possibly cause a HIPAA
+  violation if any protected health information is contained in
+  the e-mail.
+ A new conversation may be started by going to the
+  Authorizations tab on the dashboard and clicking the
+  conversation bubble icon beside the participant’s name.
+ The subject of the conversation defaults to a generic
+  subject but it can be changed.
+ The case manager is automatically included on the
+  conversation but area office staff and/or central office staff
+  may be added.
+ The user will type the message and click the Start
+  Conversation button.
+ The message is instantly sent to the case manager and any
+  other person added to the conversation.
+ The Inbox, located at the top of the Phoenix screen, will
+  display a notification of unread messages in red.
+ The Inbox displays the most recent unread message on top.
+ All unread messages will be displayed in bold type and
+  highlighted in green.
+ The Profile tab displays the provider agency information
+ There are four sub-tabs:
+   o The General Info tab displays the provider’s address, phone
+     numbers, e-mail addresses, provider services, etc.
+   o The Holidays tab displays the holidays observed by the provider
+     agency. This alerts CLTC that the provider office will be closed on
+     those days. Custom holidays may be added.
+   o The Counties Served tab displays the counties served by your
+     agency on a map. The counties served are shaded and you may
+     click on a county to see services provided for that county.
+   o The mobile devices tab only applies to providers of in-home
+     services. Providers may register agency owned cell phones to be
+     used with the mobile application in this section.
+ The purpose of the Users tab is to set up the agency office
+  workers with their own Provider Portal login ID and
+  password
+ Phoenix Provider Portal users from your agency should not
+  share the same password. Each person who uses the
+  system should have his/her own password.
+ The administrator has to ability to set up other users, give
+  them a temporary password and give them the access level
+  they need.
+ The new user will change the password once the login
+ When a worker leaves the agency, a termination date
+  should be entered for that worker immediately.
+ The Resolutions tab is only used by agencies who provide
+  in-home services or for Children’s Medical Day Care. Other
+  provider agencies will not see this tab.
+ The Resolutions tab is used to request payment for in-
+  home/children’s day care services that were provided but
+  were not submitted for payment.
+ The user will select the service they wish to complete
+  resolutions for and the date range for the resolutions.
+ Any existing claims that must be corrected before
+  submitting for payment will be listed on the screen.
+ There is an Add Claim button if the user needs to add a
+  completely new claim to the system.
+ The user must enter a valid reason for the resolution.
+ The action code of Submit must be selected for each claim
+  resolution or it will not be saved.
+ Click the Record Resolutions button to save the information
+  keyed on the screen and send the info to the area office for
+  approval.
+ Providers may run a Resolutions report to check status.
+ Providers cannot submit resolutions for overnight claims.
+ The Workers Tab is used to register any worker who will
+  provide in-home services.
+ Workers should be registered before they go into a
+  participant’s home to provide services.
+ An eight digit worker ID must be assigned to each worker.
+   o The first four digits will be the provider number.
+   o The last four digits can be any numbers the provider chooses.
+   o Some use the last four digits of the SSN to make it easy to
+     remember.
+   o Once keyed and saved, the worker ID cannot be changed.
+ The worker start date should be the date the worker will
+  first go into a participant’s home to provide services.
+ Workers will receive a 30 day grace period to learn the
+  system. After the grace period workers may accrue strikes.
+ Each service that the worker is qualified to provide should
+  be checked.
+ If the worker will use the mobile application with his/her
+  phone, the mobile phone number and the mobile device ID
+  must be entered. A password must also be keyed for the
+  worker. The worker will change it later.
+ Personal Care providers and ADHC providers are required to
+  enter a reason for any day there is an authorization to
+  provide services but no service is provided.
+ The user will enter a date range to see any visits missed
+  during that time.
+ Select the appropriate missed visit reason and click Save at
+  the bottom of the screen.
+ Providers and case managers may run a Missed Visit Report
+  to see the reasons entered for the missed visits.
+The missed visit reasons are as follows:
+   o Attended less than 5 hours – this would be used by ADHC agencies
+     who can’t bill if the participant did not stay at least 5 hours.
+   o Holiday – the agency was closed due to a holiday.
+   o Missed Visit – the participant desired services and the agency was
+     not able to provide them as authorized.
+   o Service Interruption – the participant is unavailable for services. For
+     example, the participant was in the hospital or the participant
+     declined services that day.
+   o Other – a reason that does not fit into any of the above categories.
+     This should be rarely used and the case manager should be notified
+     why the service was not provided.
+ There are multiple reports that providers may use to review
+  and manage the agency’s activities.
+ The reports contain real-time claim information.
+ Reports may be viewed in multiple formats:
+   o CSV
+   o HTML
+   o PDF
+   o Excel
+ The reports may be filtered, sorted and grouped as the
+  provider chooses.
+ Please monitor your workers and services with these tools.
+ The Report a Problem button is located at the bottom of
+  each Phoenix screen.
+ The button is used to report problems with the Phoenix
+  system or request a change in Phoenix.
+ Issues reported will go to a Phoenix help desk person, a
+  Phoenix developer or a CLTC staff person for resolution.
+ Case managers and area office staff do not receive the
+  Report a Problem issues.
+ Issues should be specific and give all details needed to
+  correct the issue.
+ Additional information may be requested from the reporter
+  of the issue.
+ The user must respond to the issue in Phoenix, not by e-
+  mail.
+ Issues may be close in 72 hours if no response is received.
+ Providers may find all issues, open and closed, on the
+  Issues tab in Phoenix.
+ The user will click the issue they wish to respond to and
+  type the comment.
+ E-mail notifications no longer contain the issue text.
+ Broadcasts are a way for providers to notified of recent
+  changes.
+ Once logged into the Phoenix Provider Portal, a banner will
+  display across the top of the screen alerting the user if you
+  have an unread broadcast message.
+ Once the link is clicked, the message will no longer appear
+  at the top of the screen.
+ All broadcast may be viewed by clicking the Broadcast link
+  at the bottom, right side of the Phoenix screen.
+ There is a Help link located on the bottom, right side of the
+  Phoenix screen.
+ The Help link contains documents that may be helpful to
+  providers such as scopes of service, mobile application
+  information, user guidelines, strike policy, Activity and
+  Observation Codes, etc.
+ Care Call is an Interactive Voice Response System (IVRS)
+  used to document in-home services.
+ Workers call a toll free phone number, 1-888-978-
+  CARE(2273), using the participant’s landline phone to
+  document service delivery.
+ Providers of Children’s Medical Daycare use the facility’s
+  phone to check in/out.
+ Care Call recognizes the CLTC participant’s authorized
+  phone number(s), the worker ID and the provider.
+ Workers have the ability to select which service(s) will be
+  performed.
+ Services such as Personal Care I/II, Attendant, Children’s
+  Medical Daycare and Case Management require two phone
+  calls, a check-in call and a check-out call.
+ Billing is submitted for the amount of time between the
+  check-in call and the check-out call.
+ Services such as Pest Control and Nurse Supervisory Visit
+  require one call into Care Call.
+ Workers should always have the participant’s seven digit
+  CLTC number available in case Care Call does not recognize
+  the participant’s authorized phone number and requests
+  that the number be keyed.
+ Workers should always listen to make sure they hear the
+  correct worker name, provider name, participant name and
+  service called back.
+ If something is incorrect, the worker should correct it or
+  hang up and start the call again.
+ Workers of personal care, nursing or case management
+  services are required to enter the activities (tasks) done
+  during the visit in order to check-out.
+ Care Call users may enter observations if they have any new
+  observations which have not been reported to the case
+  manager previously.
+ Workers may check in for multiple participants on the same
+  phone call(except case management).
+ Workers may check in for multiple services on the same
+  phone call if they are like services such as PCI, PCII and/or
+  Companion Agency.
+ When working a split schedule (perform a service twice a
+  day) some adjustments may need to be made on the phone
+  calls. For example, if a worker does PCI and PCII services in
+  the morning and then comes back to do PCII again in the
+  evening, the worker must check in/out for each service
+  individually to be paid correctly.
+ The mobile app was developed due to a trend away from landline
+  phones.
+ A mobile application is available to check in/out for in-home
+  services as an alternative to using the participant’s phone.
+ The mobile application is currently available for use with Android
+  smartphones and iPhones.
+ The mobile application uses the phone’s GPS services to indicate
+  if the worker was at the participant’s home at the time of check
+  in/out.
+ The mobile devices will have to be registered in the Provider
+  Portal before use with the mobile app.
+ Effective April 1, 2016, mobile app use is mandatory for
+  participants without a landline phone.
+ Android Phone
+   o Download the mobile app from the Google Play Store
+   o The name of the app is Authenticare®
+   o Accept Terms and Conditions and download app
+   o User will be asked to enter a setup code
+       • SCDHHSPRD for the production (live) environment
+       • SCTRAINPRD for the training environment (information to use in the
+         training environment is location in the help section of Phoenix)
+   o On the mobile app login screen, press the phone’s menu button to
+     display the phone’s device ID
+   o The device ID must be used to register the phone for mobile app use
+ iPhone
+  o Download the mobile app from the iPhone App Store
+  o The app will be listed as Authenticare®
+  o Accept Terms and Conditions
+  o User will be asked to enter a setup code
+      • SCDHHSPRD for the production (live) environment
+      • SCTRAINPRD for the training environment (information to use in the
+        training environment is location in the help section of Phoenix)
+  o On the mobile app login screen, click the information symbol (i) in
+    the lower, left corner of the screen to display the phone’s device ID
+  o The device ID must be used to register the phone for mobile app use
+ The Six Strike policy applies to providers of Personal Care I and II,
+  Children’s Personal Care, Attendant, Companion and Nursing
+  services.
+ One strike will be given to a worker for each incident where a
+  resolution must be done and no valid reason is given.
+ After the sixth strike, CLTC staff will no longer accept resolutions
+  for that worker if no valid and verified reason is given.
+ Workers who are new to the Care Call system will have a one
+  month grace period to learn the system. Re-hired workers will not
+  get this grace period.
+ After one year, each worker begins a new strike period.
+ Workers will be given one strike per incident, per participant.
+ Resolutions not submitted timely will receive a strike.
+ Providers must submit the resolution within 10 days from
+  the Sunday following the date of service to be timely.
+ Providers must inform the case manager of any problems
+  using the agreed upon phone or the mobile app by the next
+  business day to avoid receiving strikes.
+ We recommend using the conversation feature in Phoenix
+  to report problems using the participant’s phone.
+ Users may run the Infractions By Worker report in Phoenix
+  to monitor worker strikes.
+ Contact the area office for resolution problems or questions
+ An updated version of the strike policy will be posted by the end
+  of the July 2016
+ The changes were related to the mobile app
+ If the participant has a landline phone but the phone is not in
+  service when the worker arrives, the provider may submit a
+  resolution
+ If the phone is still not working after the second day, the worker
+  must be prepared to use a mobile app on the third day or the
+  provider must notify the case manager they are relinquishing the
+  case
+ If the participant’s landline phone is regularly out of service (2-3
+  times per month), the mobile app must be used for the
+  participant
+ Providers of in-home services should document all services
+  provided to a participant in Care Call .
+ Care Call or the mobile app will record the claim even if there is
+  no current authorization in place.
+ Care Call/mobile app will not accept single claims over 14 hours
+ Adult Day Health Care and Incontinence Supplies providers are
+  responsible for getting physician’s orders before providing
+  services.
+ Providers are responsible for checking Medicaid eligibility for
+  participants.
+ There is a Care Call training environment and Mobile App training
+  environment available to train your workers.
+ There are numerous user guides and help documents in Help
+  section of the Provider Portal.
+Phoenix Helpdesk: 803-898-9140 or 803-898-9961
+       Contact the Phoenix helpdesk for issues with the
+       Phoenix system. They cannot help you with payment
+       issues or policy issues.
+Provider Group: provider-distribution@scdhhs.gov
+       E-mail this group with payment questions, provider
+       compliance questions, scopes questions, etc
+Care Call Group: carecall-distribution@scdhhs.gov
+       E-mail this group with questions or problems with    the
+       Care Call system or mobile application
+Mobile Application Helpdesk: 1-800-441-4667 (select option 3)
+

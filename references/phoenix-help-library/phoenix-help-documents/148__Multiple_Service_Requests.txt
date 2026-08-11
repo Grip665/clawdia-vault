@@ -1,0 +1,11 @@
+           Mul$ple	  Service	  Request	  
+ When	  authorizing	  multiple	  services	  ,	  such	  as	  PC	  I	  and	  PC	  II	  	  or	  
+   Diapers	  and	  Pads,	  for	  the	  same	  Provider,	  it	  should	  be	  submitted	  
+   on	  the	  same	  referral	  in	  Phoenix.	  
+ Select	  the	  appropriate	  provider	  then	  click	  “Next”	  
+         Mul$ple	  Service	  Request	  
+ Request	  for	  the	  additional	  service	  should	  be	  made	  in	  the	  
+   comment	  section	  on	  the	  “Edit	  for	  New	  Referral”	  screen.	  Be	  
+   detailed	  as	  possible.	  
+ Enter	  Start	  Date	  then	  click	  “Create	  Referral”	  
+

@@ -1,0 +1,29 @@
+Client Observation Codes                                            1-888-978-CARE (2273)
+70 – No Observations to Report
+71 – Plan of care does not meet client needs
+72 – Difficulty with walking, balance, or transferring
+73 – Difficulty getting in or out of bed
+74 – Difficulty grooming or bathing
+75 – Difficulty with dressing
+76 – Difficulty managing toileting hygiene
+77 – Difficulty with feeding
+78 – Difficulty with fixing or reheating meals or snacks
+79 – Difficulty with taking medication by mouth
+80 – Recent emergency treatment due to improper medication administration or side effects
+81 – Shortness of breath when walking
+82 – Skin breakdown, open areas, bedsores or rash
+83 – Weight loss or decreased appetite
+84 – Weight gain or swelling of legs or feet
+85 – Difficulty speaking clearly or being understood
+86 – Difficulty using the telephone
+87 – Increased level of pain
+88 – Increased anxiety level
+89 – Behavioral problem such as yelling, spitting or getting lost
+90 – Difficulty sleeping
+91 – New problems with vision
+92 – New problems with forgetfulness
+93 – Recent Falls
+94 – Recently admitted to hospital
+95 – Recently in emergency room
+96 – Upcoming surgeries
+

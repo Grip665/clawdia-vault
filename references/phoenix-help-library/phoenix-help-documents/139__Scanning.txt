@@ -1,0 +1,30 @@
+                         Scanning
+ From the Participant’s dashboard, click “Scans”
+ Click “Add a Scanned Document”
+                          Scanning
+ Name document to be scanned
+ Select category in the “Tag” field
+ Click “Browse”
+    Document(s) must be save on computer first in order to upload
+      document to Phoenix “Scans” section
+                             Scanning
+ File to be uploaded will appear next to the “Browse” button
+ Click “Save”
+ Scanned document(s) will appear under Category sub tab
+ Scanned document(s) can be deleted by clicking the Delete button under “Actions”
+ To upload another scanned document(s), click “Add a Scanned Document” and
+  repeat process
+                              Scanning
+ To view scanned document, click document ID number under “ID”
+ PDF file menu will appear
+ Click “Open with” and select which program that will used to view file
+ Click “OK”
+                            Scanning
+ The file is password protected
+ Enter password to view file then click “OK”
+    The password to view a scanned document(s) is the Participant’s CLTC
+      number
+                            Scanning
+ Scanned document(s) can be printed
+    Instructions for printing see (Forms)
+

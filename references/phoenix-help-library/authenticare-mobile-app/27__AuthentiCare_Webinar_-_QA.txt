@@ -1,0 +1,470 @@
+                                         Mobile Application
+                          Questions and Answers from March 2016 Webinars
+
+
+Device ID – Installing the App
+    1. Where do you get the device ID and when in the process do you go for it?
+    2. How do you find device ID?
+    3. I have several employees - I've been able to download the app with no problem. But the
+       Device ID doesn't come up when we press the MENU button.
+    4. Having trouble once I get to the point of logging in with a worker ID and a password. On
+       my current device I am having trouble trying to find my device ID. I do not have a menu
+       option on my phone and I cannot find it within my settings.
+    5. I have 2 employees that will not display the Device ID. These are Samsung / Android
+       phones. The app is there, but I CANNOT see the Device ID at all.
+    6. What if you can’t find device ID?
+    7. Just to confirm all android phones will have a menu button to be able to retrieve the
+       device id?? This has been frustrating trying to fine the device id on some android
+       phones since the IMEI number doesn't match the device id number.
+
+                IPhones only display the device ID when the app is downloaded. Once the app
+                is downloaded, there is no way to go back and retrieve a device id without
+                downloading the app again.
+                The device ID can be found on Android phones once the app has been
+                download. To retrieve the device ID, select the “menu” button while the app is
+                visible on the screen. When the menu button is successfully selected, the
+                device ID will display at the bottom of the screen. How the menu button is
+                viewed and accessed is different for different phones. You may need to consult
+                your phone’s manual to determine how to access the menu button. For some
+                Android phones, you may also be able to find the device ID by going to “settings”
+                and “about phone”.
+
+
+Phone Requirements
+    8. How do you know if the phone (Android) is 4.4 or higher?
+             To find out the phone version, you will need to go to “settings” then “about
+             phone”.
+
+    9. I have participants who do not have a "traditional Land Line". They are using traditional
+       phone but are using a mobile phone company for phone service. Is this considered a
+       land line or cell?
+               If “home phone service” is provided by a mobile company, the home phone is
+               considered a landline phone. If a “cordless phone” is used and can be used
+               beyond the participant’s yard, this may be a cell phone opposed to a home
+               landline phone.
+
+    10. Is any type of smart phone OK to use for AuthentiCare?
+                Only iPhones and phones that use Android as an operating system can be used
+                for AuthentiCare.
+
+
+
+Mobile App Webinars Q&A                                                                            1
+    11. Is a Microsoft phone consider an android phone?
+                Microsoft is not considered an Android phone.
+
+    12. It's our understanding that Medicaid phones are not smartphones, so will Medicaid be
+       replacing these phones with smartphones?
+                Medicaid will not be replacing Medicaid recipient phones with smartphones. As a
+                reminder, when required, the smartphone app is to be used on the aide’s or case
+                manager’s smartphone.
+
+
+Generic
+    13. What happens if our caregivers do not have an iPhone or an android phone?
+              If the aide is not able to use the app for participants without a landline phone, the
+              provider will have to relinquish the case.
+
+    14. Will there be a rate increase for this requirement?
+                No, there will not be rate increase for this requirement.
+
+    15. In the event that the agency plans to provide land lines to clients who do not have them
+        how would we register the landline numbers into the system? Would this entry be made
+        by the case manager or the providers?
+                The case manager needs to enter the phone number into Phoenix.
+
+    16. But if we can provide the worker with a phone why can't we provide the client a phone?
+                A provider can provide a landline telephone for a participant as long as the
+                provider has a written agreement with the participant that stipulate what will
+                happen if the services being authorized are terminated.
+
+    17. Is the phone set up so logging in and logging out a step by step process where one step
+        must be completed before moving on to the next step?
+                Yes this is a step by step process. The steps are outlined in the user’s guide
+                located in the Phoenix help section.
+
+    18. We are already receiving resolutions with mobile app not working as a reason. Is this a
+        legitimate reason?
+                This should only be used when CLTC has verified there is an issue with the
+                mobile app. When this happens, an e-mail will be distributed.
+
+    19. What if the caregiver's phone is disconnected? If they use the client's cell what will
+        happen?
+                Under no circumstance should the caregiver (aide) be using the client’s cell
+                phone. If the caregiver’s phone is disconnected, resolutions will need to be
+                submitted and the strike policy applied. CLTC may impose sanctions if we
+                become aware of providers using client’s cell phones.
+
+    20. What if the client’s phone is disconnected?
+                If the aide is unaware the client’s phone has been disconnected, the aide should
+                contact the provider to submit resolutions. The provider needs to immediately
+                notify the case manager. If the phone is disconnected for 3 consecutive days,
+
+
+Mobile App Webinars Q&A                                                                            2
+                use of the mobile app will be required. If the client has a history of the phone
+                being frequently disconnected, the mobile app needs to be used.
+
+    21. Can our nurse use this clock-in system?
+              Yes, the mobile app can be used by nurses providing nursing services and
+              supervisory visits for personal care.
+
+    22. Can we confirm that the worker or "company" must have the phone...not the client?
+              Yes, the responsibility of the smart phone for use of the mobile app lies with the
+              provider.
+
+    23. I'm having problems with the Care Call link, scc.govconnect.com. I cannot get onto Care
+        Call from the web link.
+            The Care Call web link no longer exists. The web functions that were performed via
+            Care Call were transferred to Phoenix in 2010.
+
+    24. Does any other agencies have any best practices for purchasing agency phones? If so,
+        are there ways to restrict the aide's use to only the app?
+               If providers have this information, please share with other providers.
+
+    25. I have a mother and daughter that provide Attendant Care to one participant. Can they
+        buy one phone and use the same phone?
+    26. Can a CM be registered to use two different phones? ( i.e.an iPhone and a Samsung)
+    27. If two attendants provide services for a participant, can they both be registered to use
+        the same phone?
+             Yes. A single phone can be used by multiple workers. Likewise, one person can use
+             multiple phones.
+
+    28. Do DDSN workers use this app as well?
+             The Care Call mobile app is not used by DDSN.
+
+    29. I have clients say that, not all Androids have menu buttons.
+                All phones have a menu button. You may need to consult the phone’s manual to
+                determine how to locate and access the button.
+
+    30. Will we have access to this power point? Will it be emailed?
+    31. Will we be able to print this Power Point presentation?
+    32. Will we be able to print the PowerPoint off?
+               The PowerPoint has been posted in the Phoenix help section and is entitled
+               “Care Call Mobile Application Webinar”. Yes, the presentation can be printed
+               from the help section.
+
+    33. If our client doesn't have a landline but a cell phone, do they have to download the app
+        on their phone?
+                 Under no circumstance should the mobile app be downloaded on a client’s
+                 phone. Providing a device for use of the mobile app is the responsibility of the
+                 provider and not the client.
+
+    34. Please advise if area does not have reliable cell phone towers/signals how this is
+        addressed.
+               If an area does not towers that provide access to the internet, a Quick Response
+
+Mobile App Webinars Q&A                                                                             3
+                (QR) card needs to be ordered for the participant. To be able to order and scan
+                the card via AuthentiCare, the worker needs to log into the app where there is
+                internet coverage prior to getting to the client’s home.
+
+    35. How do clients with multiple payers record their time? Many clients have Medicaid and
+        Commercial or private pay or other combinations of payers. Nurses arrive and clock in
+        and leave and clock out. Nurses can’t know who is paying for what hours all the time.
+        This is often the case with third party liability claims.
+                Services authorized by CLTC is not affected by this.
+
+    36. Some nurses do not have cell phones and others do not have data. What alternative will
+        that nurse have to use to continue to work without incurring a cost to the nurse?
+                If the client has a landline phone, the nurse use the Care Call IVRS by call 1-888-
+                978-2273. If the client does not have a landline phone and the nurse is not able
+                to use the mobile app, the case will need to be relinquished and reauthorized to a
+                provider who can use the mobile app.
+
+    37. Will the nurses be able to leave the home with the patient if they are being tracked by
+        GPS?
+                Nurses and aides are not “being tracked by GPS”. The AuthentiCare mobile app
+                is not tracking the movement of workers. Similarly to the Care Call phone
+                system which verifies the client’s home phone is used, the mobile app verifies
+                whether or not the nurse or aide checked in/out from the client’s address that is
+                recorded in Phoenix.
+
+    38. Normally a nurse would not be allowed to enter patient information into their personal
+        device. Is this not considered a HIPAA violation?
+               No, this is not considered a HIPAA violation.
+
+    39. Why does my aide iPhone not work with the app? At login screen it say log in failed.
+              You need to verify the device ID is correct. If the device ID is not correct, you will
+              need to remove the mobile app information from Phoenix, then remove and
+              reinstall the mobile app on the smart phone.
+
+
+Data
+
+    40. What happens if the worker runs out of data?
+              If a worker runs out of data, resolutions can be submitted and the current strike
+              policy applied.
+
+    41. Will this use the phone data? Everyone does not have the data on their phone.
+                 Yes a data plan is required to use the mobile app UNLESS the phone is
+                 accessing the internet via Wi-Fi.
+
+
+Training
+    42. We cannot get the training system to work. Is anyone else having this problem?
+              Issues with the training system should be resolved. If you are still having
+              problems, please notify CLTC state office.
+
+
+Mobile App Webinars Q&A                                                                            4
+    43. We are new is there a training for providers to get set up and learn how to have workers
+        use the system to call in and call out?
+               CLTC has provider trainings every quarter. To find out when the next training is
+               scheduled you can send an e-mail to provider-distribution@scdhhs.gov. These
+               trainings are not specific to Care Call or AuthentiCare. To assist with learning
+               about the mobile app, there is a mobile app training site and mobile app users’
+               guide.
+
+    44. Are we able to request a copy of this portion of the pp presentation to show during new
+        employee orientation?
+               The PowerPoint is located in Phoenix help section. There is also an
+               AuthentiCare training mobile app that can be used for assistance.
+
+    45. When trying to use the training app which password do we use?
+              Please refer to the document named “Care Call IVR and Mobile App Training
+              Environment” that is located in the Phoenix help section.
+
+    46. Are you recommending not to use the training system for clock in? It sounds like it is
+        compromising HIPPA.
+               No we are not recommending this and this is not comprising HIPPA. None of
+               the information in the training system is for real clients.
+
+
+Making Visits – Checking in/out
+
+    47. If we have an employee working overnight do they have to check back in at 2am?
+    48. When providing service overnight, do the nurses have to re-clock in at 2:00 am?
+    49. Our nurses work overnight shifts. Will this software be able to tract the hours properly
+        when they cross a dateline?
+    50. If my shift is from 6pm to 6am, what will happen to my data at 2AM?
+                If the nurse checks in one day and checks out the next day, Care Call will match
+                the check in/out to one claim. The worker does not have to check out at 2:00 am
+                then check back in. Nothing happens to your data at 2:00 am. It is still in the
+                system.
+
+    51. Twice weekly, PCII drops off participant where his spouse works. This means that the
+        worker will need to check out at a different location. How would we handle this?
+               The aide will check out using the mobile application when the client is dropped
+               off to the spouse. The claim will have an “L” exception code which indicates the
+               checkout did not occur at the client’s home.
+
+    52. Can you check in on a client's phone and out on your app or do you have to check in
+        and out the same way?
+               Yes, you can check in using one method and check out using a different method.
+               Question #50 is an example of when this might occur. The aide may check into
+               Care Call from the home using the client’s home phone then check out using the
+               AuthentiCare mobile app.
+
+    53. Why do I get L codes when in participant's home? Also participant's name does not
+        show up but in Phoenix shows they are geocoded successfully.
+    54. I have several places that I go the GPS will not pick up the location. Cell phone has cell
+
+Mobile App Webinars Q&A                                                                           5
+        but because of rural areas some do not geo code correctly. I am at the house but it will
+        not pick up my location so it shows L codes in Care Call.
+                L codes indicate the check in/out did not occur from the “fence” set around a
+                client’s home. Phoenix and AuthentiCare have set an invisible fence around the
+                address the case manager has entered. If the aide is outside of this fence, the
+                claim will have an L code. For some locations such as a trailer park, the fence
+                has to be manually changed by the programmer to prevent L codes. If you are
+                the case manager and see that Phoenix is showing the person has been
+                geocoded successfully, report a problem in Phoenix requesting the fence be
+                adjusted.
+
+    55. What happens when the client has therapy once a week and PCA worker escort client to
+        treatment center.
+               The aide will need to check out using the mobile application and the claim will
+               generate an L exception code. Please notify the case manager via Phoenix
+               conversations so he or she will know why the claims are getting L codes.
+
+    56. If you forget to check out on mobile app and realize later or next day, what is to be
+        done?
+                A resolution needs to be submitted.
+
+    57. I have a participant that goes from his house to his daughter's house. When I call to
+        make appointment I find out where he is. How will I handle this? He has a landline but
+        never works.
+               You can use the mobile application. If you check in/out from the daughter’s
+               house, the claims will have an L expectation.
+
+    58. Will there be a service for supervise visits?
+                Yes there are supervisory visits in AuthentiCare. For supervisors it always
+                appears at the top of the services list.
+
+    59. Since multiple services are listed do we still need to clock in and out for each separate
+        services i.e. a PCI shift plus a PCII shift, or can we just clock in and out at the beginning
+        of one service shift and the end of the 2nd service shift?
+               The AuthentiCare mobile app works just like the Care Call phone system so you
+               will be able to clock in for both services during one session. You are also able to
+               clock in for multiple clients at the same time.
+
+    60. If a client has a land-line phone are they required to have worker check in on land line
+        and via the app?
+    61. For a participant with a landline, can we clock in with either their landline or the aide's
+        cell phone? Do we have a choice of how to clock in?
+                 The worker should not be checking in on both devices. The mobile app is
+                 another way for the aide to check in/out when serving a client. The worker can
+                 choose which method to check in and check out.
+
+    62. Is the mobile app set up to match the days of authorization? Ex. If a patient has PC1 2
+        days a week will it come up only for the two days like the current care call does?
+    63. I'm with MCCW Program, will there be options for us to choose Quarterly Visit, Re-
+        Evaluation Visit, or Children Screening for clock ins?
+                Yes, the mobile app works just like the phone system and will know the service
+
+Mobile App Webinars Q&A                                                                               6
+                that is to be provided and the days of the week for personal care. It will also
+                allow for the type of visit to be entered by MCC workers and case managers.
+
+
+    64. We don't always complete visits in the home, we see kids in the hospital, MD office,
+        School, Daycare, other family member's house. Do we need to geocode all addresses
+        in Phoenix or can we choose the location not found option?
+               When visiting a child outside of the home, you will need to manually check in and
+               enter the CLTC number.
+
+
+Grace Period
+
+    65. Will the employees be allowed a grace period to learn the system without getting
+        strikes?
+    66. What if the caregiver started using the app now and she couldn't clock out because of
+        the network? Is she in the grace period now or only starting April 1st???
+    67. If we have worker's that started using the App 2 weeks ago will they get a grace period
+        also?
+    68. After the 30 days grace period; are we still allow to do resolution? If yes please give an
+        example.
+    69. Will there be a grace period for employee's using the mobile app. concerning the care
+        call strike policy??
+    70. A grace period even if employees have been registered prior to April 1st??
+
+                Yes, employees will be given a grace period to learn the system. For the month
+                of April 2016 strikes will not be applied to workers for mobile app claims. This
+                applies to workers who start using the mobile app on April 1, 2016 and for
+                workers who were using the app prior to this date. After the grace period, the
+                strike policy will be applied when CLTC has to work mobile app resolutions. We
+                expect resolutions to decrease significantly since use of the mobile app is a
+                requirement for participants without a landline phone.
+
+                When the requirement of the mobile app became mandatory on April 1, 2016,
+                there was a problem with Phoenix that caused a delay in information being sent
+                to Care Call. Due to this problem, some workers could not use the mobile app.
+                If this happens after the grace period, resolutions will be accepted without strikes
+                being applied.
+
+
+QR (Quick Response) Card
+   71. How do we obtain the QR code so that the aides can scan?
+   72. Please explain in detail how the caregiver can request a QR Card for their clients.
+   73. How does a client obtain a QR ID Card? And also do we need to register the worker on
+       the profile and workers tab?
+               A Quick Response (QR) card is requested by the worker when in the client’s
+               home and no cell coverage is available. Additional information can be found in
+               the manual under the section entitled “Check-in using a Consumer ID card with
+               QR (Quick Response) Code Functionality”.
+               Yes, workers who will be using QR cards need to have their phones registered
+               on the workers tab.
+
+Mobile App Webinars Q&A                                                                              7
+    74. Once a person card is requested does the worker have to check in again the next day or
+        do we do a resolution?
+               You will need to do resolutions until the card arrives.
+
+    75. Must the caregiver not have available service in the area in order for the caregiver to be
+       prompted to order the QR Code Card?
+              Yes, the option is only available when there is no service in the area.
+
+    76. Why is the worker doing the card and not the case manager? Is the case manager
+        required to check in as well and sorry shouldn't this be part of the assessment process of
+        the case manager?
+               Yes, the case manager is required to check in and would not be aware a card is
+               needed until making a home visit and there is no service available. The card
+               needs to be requested by the first person who makes a visit and identifies there
+               is a need for the card. This could be the case manager or the aide.
+
+    77. We may have numerous aides covering the same client. Each one of them would be
+        requesting this card and it will be administratively confusing.
+               AuthentiCare is aware when a card has already been ordered. If there are
+               multiple requests within a short time frame, multiple cards will not be sent unless
+               it is an occasional mistake. AuthentiCare is also able to send a new card and
+               inactivate the old card, if the card is lost. Please ask your aide to notify you when
+               a QR card has been requested. As a courtesy, you are asked to notify the case
+               manager via Phoenix conversations that a card has been ordered. By doing so,
+               the case manager can alert any other providers who may be serving the client
+               and will need access to the card.
+
+    78. Will the app request these cards?
+                The app will request the card when prompted to do so by the case manager or
+                aide.
+
+    79. Can office staff order the QR cards from the office for our clients?
+               Office staff cannot order QR cards. Cards can only by requested using the app.
+
+    80. What happens when the application cannot connect in an area? Our aide is unable to
+        pull the application up to request a QR card. What should we do?
+                When the aide is aware the app cannot connect in an area, the aide needs to log
+                into the app where there is coverage. By doing so, the aide will be able to
+                request the card and use the app when the card arrives. If the client is in an area
+                without coverage and the aide does not log into the app prior to arriving to the
+                home, a card cannot be requested and the app cannot be used.
+
+
+Passwords
+   81. How long after we give our workers their password can they long in to the app?
+             When you enter a password in Phoenix, the worker will be able to use the
+             password immediately.
+
+    82. I have set up the app for some of my workers, but I have been having problems login in
+        and have their password changed.
+
+Mobile App Webinars Q&A                                                                           8
+                For log in issues, check the device ID. In 99% of log in issues, the device ID is
+                incorrect.
+
+    83. I did not try to change their password. They did that themselves and were unable to
+       change it to login...NO HIPAA VIOLATION PLEASE
+               Aides are able to change their own passwords. However, please note, when the
+               AuthentiCare password is changed on the device by the worker, the new
+               password can’t be used until the next day. The worker will need to keep
+               using the old password until the next day. If the aide has forgotten the password
+               and needs to sign in immediately, the office needs to be contacted to reset the
+               password in Phoenix.
+
+    84. Can an aide be re-registered because the password will not work?
+              An aide cannot be re-registered because the password will not work. The
+              password issue needs to be resolved. Also as a reminder, Phoenix will not allow
+              a provider to register a worker more than once because a social security number
+              is required.
+
+    85. What is the process if a worker is locked out due to password/forgot password?
+               The worker needs to contact their provider for the password to be reset. If the
+               worker is an attendant, CLTC needs to be contacted to reset the password.
+
+
+Phoenix
+
+    86. How can you change a worker's ID if that is the official ID of the worker? Please explain.
+              Worker IDs cannot be changed. The worker needs to use the ID that was
+              registered by the provider.
+
+    87. Will the case manager indicate if the participant has a land line or not on the referral we
+        receive so we know how we are to clock in?
+                When a referral is made, if the case manager has not indicated the person has a
+                landline phone, the referral will indicate in red “Client requires the use of the mobile
+                application due to lack of landline phone.
+
+    88. How can I get the app reset in Phoenix with new Device ID number? I have tried
+        removing the old ID number. When I enter the new ID # nothing has changed on the
+        worker's registration screen.
+    89. How I can get the old Device ID number out of the worker's registration page. I've tried
+        removing it, I've tried deleting it but it won't go away.
+               You will need to remove the existing device. This is done by checking the
+               “remove” box then clicking “save”. Once this is done you can add another mobile
+               device.
+
+
+
+
+Mobile App Webinars Q&A                                                                               9
+

@@ -1,0 +1,25 @@
+            Creating a Report
+ From any screen, click “Reports”
+                  Creating a Report
+ Reports are displayed in a Accordion format
+ Select a category then the reports will be displayed in a drop down list
+ Select desired report
+     Access to certain reports will depend on User’s role in Phoenix
+                    Creating a Form
+ Fill in information in the appropriate fields
+ Some reports can be sorted i.e. (by CLTC number, Worker, Service, etc.)
+                 Creating a Report
+ Some reports can be given a name and saved as a template for future use
+ When finished customizing report, click “Run”
+ Report can be viewed in several formats (html, csv, pdf, and xlsx (Excel))
+ Select format for viewing
+ Enter password to view report(s). Reports are password protected.
+    Password for viewing report(s) is the User’s login ID
+                 Creating a Report
+ Reports that have been given a name will be saved as a template under “My
+  Templates”
+ To use saved report(s), click “My Templates”
+ Select desired report
+    Report will have same information from previous use
+ Make any changes if necessary then repeat process from slides 4 and 5
+

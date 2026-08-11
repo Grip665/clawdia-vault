@@ -1,0 +1,364 @@
+HCBS Provider Manual                                                                July 1, 2024
+Scopes of Services                                                       Tele-monitoring Service
+
+
+
+       MEDICAID HOME AND COMMUNITY-BASED WAIVER SCOPE OF SERVICES
+                                  FOR
+
+                       TELEMONITORING SERVICE
+
+      A. Objective
+
+         The objectives of the Telemonitoring service are to maintain and promote the
+         health status of Medicaid home and community-based waiver participants
+         through medical telemonitoring of body weight, blood pressure, oxygen
+         saturation, blood glucose levels, and basic heart rate information.
+
+      B. Conditions of Participation – Providers
+         1. Providers must have equipment that records at a minimum the participant’s
+            body weight, blood pressure, oxygen saturation, blood glucose levels, and
+            basic heart rate information. All agencies must also have nursing personnel
+            and health care professionals able to carry out the duties of the service
+            described below.
+
+         2. Providers must agree to participate in all components of the Electronic Visit
+            Verification (EVV) System monitoring and payment system and have the
+            capability to receive and respond to authorizations for service in an
+            electronic format.
+
+         3. Providers must have at least one (1) year of experience or otherwise
+            demonstrate competency in the provision of this service.
+
+
+      C. Conditions of Participation – Community Choices Waiver
+         Participants
+         Community Choices waiver participants must meet the following criteria to be
+         considered for the Telemonitoring service: Telemonitoring Assessment
+
+         1. Have a primary diagnosis of Insulin Dependent Diabetes Mellitus,
+            Hypertension, Chronic Obstructive Pulmonary Disease, and/or Congestive
+            Heart Failure; and
+
+         2. Have a history of at least two hospitalizations and/or emergency room visits
+            in the past twelve (12) months; and
+
+         3. Have a primary care physician that approves the use of the telemonitoring
+            service and is solely responsible for receiving and acting upon the
+            information received via the telemonitoring service; and
+
+         4. Be capable of using the telemonitoring equipment and transmitting the
+
+                                    South Carolina Department of Health and Human Services 1
+HCBS Provider Manual                                                                July 1, 2024
+Scopes of Services                                                       Tele-monitoring Service
+
+            necessary data or have an individual available to them that can utilize the
+            telemonitoring equipment and transmitting data to the telemonitoring
+            provider.
+
+         5. At a minimum, the South Carolina Department of Health and Human
+            Services (SCDHHS) shall perform a reassessment of the telemonitoring
+            service need at re-evaluation of level of care. The reassessment by
+            SCDHHS shall be done to assess whether any of the above conditions have
+            changed and to assess the continuing need for the service.
+
+      D. Description of Services to be Provided
+         1. The Unit of Service is one (1) day of direct telemonitoring provided to/for a
+            participant in the participant’s place of residence.
+
+         2. Home telemonitoring equipment must record, at a minimum, body weight,
+            blood pressure, oxygen saturation, blood glucose, and basic heart rate
+            information. The data must be transmitted electronically, and any
+            transmission costs shall be incurred by the provider of the telemonitoring
+            service. Medical professionals shall receive the data and determine if
+            readings are within normal limits based upon guidelines provided by the
+            physician.
+
+         3. The daily reimbursement rate for the Telemonitoring service is inclusive of
+            monitoring of data, charting data from the monthly monitoring, visits or calls
+            made to the home to follow up with participants and/or caregiver, phone
+            calls made to primary care physician(s) that are necessary while the
+            participant is receiving the telemonitoring service, all installation of the
+            equipment in the home, and training on the equipment’s use and care while
+            it is in the participant’s home. This also includes equipment removal when
+            the service is no longer authorized for the participant.
+
+         4. The Provider shall provide the Telemonitoring service seven (7) days per
+            week for all authorized time periods.
+
+      E. Staffing
+         The provider must provide all the following (some, but not all of which, may
+         be provided through subcontracts):
+
+         1. A registered nurse (RN) who meets the following requirements:
+
+
+
+
+                                    South Carolina Department of Health and Human Services 2
+HCBS Provider Manual                                                                July 1, 2024
+Scopes of Services                                                       Tele-monitoring Service
+
+            a. Currently licensed by the S.C. Board of Nursing or by a state that participates in
+               the Nursing Compact
+
+            b. At least one (1) year of experience as a RN in public health, hospital or long-
+               term care nursing
+
+            c. Capable of evaluating and monitoring vital signs and physiological data
+               transmitted from the participant’s residence
+
+            d. Able to assume responsibility for monitoring and training participants and/or
+               caregivers in the use of telemonitoring equipment
+
+            e. Able to use the Electronic Visit Verification (EVV) System
+
+         2. Technicians that install telemonitoring equipment must meet the following
+            requirements:
+
+            a. Qualified as a technician to install telemonitoring equipment
+
+            b. Capable of evaluating whether the telemonitoring equipment is
+               functioning properly
+
+            c. Able to assume responsibility for training participants and/or caregivers in the
+               use of telemonitoring equipment
+
+            d. Able to use the Electronic Visit Verification (EVV) System
+
+         3. Agency staff may be related to participants served by the agency within
+            limits allowed by the South Carolina Family Caregiver Policy. Copies of this
+            policy are available upon request.
+
+         4. A SLED criminal background check is required for all potential employees
+            to include employees who shall provide direct care to SCDHHS participants
+            and all administrative/office employees (office employees required to have
+            SLED background checks include administrator, office manager, nurse
+            supervisor, and persons named on organizational chart in management
+            positions). All SLED criminal background checks must include all data for
+            the individual with no less than a ten (10) year search. At a minimum, the
+            SLED criminal background check must include statewide data. Potential
+            employees with felony convictions within the last ten (10) years cannot
+            provide services to LTSS participants or work in an administrative/office
+            position. Potential employees with non- violent felonies dating back ten (10)
+            or more years can provide services to SCDHHS participants under the
+            following circumstances:
+
+                  •    Participant/responsible party must be notified of the RN or
+                       technician’s SLED criminal background.
+                  •    Documentation signed by the participant/responsible party
+                       acknowledging awareness of the SLED criminal background and
+                       agreement to have the RN or technician provide care must be
+                       placed in the participant record.
+
+                                   South Carolina Department of Health and Human Services 3
+HCBS Provider Manual                                                                  July 1, 2024
+Scopes of Services                                                         Tele-monitoring Service
+
+
+            Potential administrative/office employees with non-violent felony convictions
+            dating back ten (10) or more years can work in the agency at the Provider’s
+            discretion.
+
+            Hiring employees with misdemeanor convictions shall be at the Provider’s
+            discretion.
+
+         5. Personnel folders: Individual records shall be maintained to document that
+            each member of the staff has met the above requirements.
+
+      F. Conduct of Service
+         The provider must maintain documentation showing that it has complied with the
+         requirements of this section.
+
+         1. Participants and/or caregivers shall choose among qualified providers of
+            the telemonitoring service. Once a provider has been chosen by the
+            participant and/or caregiver, the Telemonitoring provider shall receive a
+            referral that must have information on the participant’s condition.
+            Telemonitoring providers must accept or decline referrals from SCDHHS
+            within two (2) working days. Failure to respond shall result in the loss of the
+            referral.
+
+         2. If the referral is accepted, the provider shall obtain the physician’s
+            authorization for the Telemonitoring service. The provider shall notify the
+            Case Manager when it has received the signed physician authorization for
+            Telemonitoring form. A blank copy of the physician authorization form can
+            be obtained on our website.
+
+         3. The provider shall initiate Telemonitoring services on the date agreed upon
+            by the Case Manager, provider, and participant indicated on the service
+            authorization. The Case Manager must be notified if services are not
+            initiated on that date. Services provided prior to the service authorization
+            date are not reimbursable.
+
+         4. The Case Manager shall authorize Telemonitoring services by designating
+            the amount, frequency and duration of service for participants in
+            accordance with the participant’s Service Plan. The Service Plan shall be
+            developed utilizing the telemedicine assessment criteria and in consultation
+            with the participant and others involved in the participant’s care. The Case
+            Manager must update the Service Plan yearly, or more frequently as
+            needed, and send it to the Provider.
+
+         5. The Case Manager shall notify the provider immediately if services to a
+            participant are to be terminated. However, the provider must refer to the
+            language in the LTSS Services Provider Manual in Administrative and
+            Billing Manual, General Information and Administration, regarding the
+            Provider’s responsibility in checking the participant’s Medicaid eligibility
+            status.
+
+         6. The provider shall install the equipment in the home and train the
+
+                                    South Carolina Department of Health and Human Services 4
+HCBS Provider Manual                                                                  July 1, 2024
+Scopes of Services                                                         Tele-monitoring Service
+
+            participant and/or caregiver in the use of the telemonitoring equipment. The
+            installation and training must be done by a trained technician and/or RN
+            knowledgeable of the equipment and able to address issues that may arise
+            during training and in the installation of the product. The daily monitoring
+            fee is inclusive of installation and training.
+
+         7. As part of the conduct of service, Telemonitoring must be provided by a RN
+            (or physician) who meets the requirements as stated in the scope and shall:
+
+            a. Be responsible for daily medical telemonitoring of body weight, blood pressure,
+               blood glucose levels, and basic heart rate information. Each day when the
+               physiological data is conveyed, the nurse shall analyze and interpret the data.
+               If the data continues to remain within normal limits, information shall be
+               conveyed at least quarterly, or more often if requested by the primary care
+               physician accepting responsibility for the telemonitoring information. The
+               telemonitoring agency and primary care physician accepting responsibility for
+               the data shall maintain a written protocol that indicates the manner in which
+               data shall be shared in the event of emergencies or other medical
+               complications that arise during the monitoring service.
+
+            b. Call the participant at least monthly to determine if the participant and/or
+               caregiver are utilizing the equipment correctly and that the equipment continues
+               to operate appropriately.
+
+         8. The provider shall notify the Case Manager in the event the provider
+            becomes aware of any of the following situations:
+
+            a. Participant is institutionalized, dies or moves out of the service area
+
+            b. Participant no longer wishes to receive telemonitoring services
+
+            c. Knowledge of the participant’s Medicaid ineligibility or potential ineligibility
+
+            d. Participant is not able to utilize the telemonitoring equipment any longer
+
+         9. Telemonitoring equipment located in the participant’s home must, at a
+            minimum, be an FDA Class II Hospital grade medical device that includes a
+            computer/ monitor that is programmable for a variety of disease states and
+            for rate and frequency. The equipment must have a digital scale that
+            measures accurately to at least 400 lbs. that is adaptable to fit a glucometer
+            and a blood pressure cuff. All installed equipment must be able to measure,
+            at a minimum, blood pressure, heart rate, oxygen saturation, blood glucose,
+            body weight. Telephones, facsimile machines, and electronic mail systems
+            do not alone meet the requirements of the definition of Telemonitoring but
+            may be utilized as a component of the telemonitoring system. All data must
+            be transmitted electronically, and any fees or costs associated with the
+            transmission are the sole responsibility of the Provider. The
+            maintenance, repair and/or replacement of any damaged telemonitoring
+            equipment are the Provider’s sole responsibility and are not a reimbursable
+            Medicaid service. Major telemonitoring equipment failures which affect the
+            ability to transmit or receive data must be repaired within two (2) working
+
+                                    South Carolina Department of Health and Human Services 5
+HCBS Provider Manual                                                                  July 1, 2024
+Scopes of Services                                                         Tele-monitoring Service
+
+              days. Any failure in the individual components of a telemonitoring system
+              such as adaptability with a glucose monitor must need to be corrected
+              within one week of discovering the problem associated with the additional
+              equipment.
+
+         10. The provider must maintain an individual participant record which
+             documents the following items:
+
+              a. Documentation that Telemonitoring services were initiated on the date agreed
+                 upon by the Case Manager, provider, and participant indicated on the Medicaid
+                 authorization. Services must not be provided prior to the authorized start date
+                 and must be provided according to the schedule as indicated on the Service
+                 Provision Form/Authorization.
+
+              b. The written protocol for notifying the primary care physician of all Telemonitoring
+                 services.
+
+              c. The provider shall maintain a record keeping system which documents:
+
+                i.    The delivery of services in accordance with the SCDHHS LTSS Service
+                      Plan. Monitoring sheets that are reviewed and signed by the RN, must be
+                      filed in the participant’s record within two (2) weeks of service delivery.
+
+                ii.   Documentation that a participant phone call has been made on at least a
+                      monthly basis to determine that the participant and/or caregiver are utilizing
+                      the equipment correctly and that the equipment continues to operate
+                      appropriately.
+
+               iii.   In the event services cannot be provided as authorized, the provider must
+                      maintain documentation of the reason(s) why services were not completed
+                      as specified by the Service Provision Form/ Authorization.
+
+      G. Administrative Requirements
+         1. The Provider must inform SCDHHS of the Provider’s organizational
+            structure including the Provider personnel with authority and responsibility
+            for employing qualified personnel, ensuring adequate staff education, in-
+            service training and employee evaluations. The Provider shall notify
+            SCDHHS within three (3) working days in the event of a change in or the
+            extended absence of the personnel with the above-listed authority.
+
+         2.
+
+         3. The Provider must provide SCDHHS with a written document showing the
+            organization, administrative control and lines of authority for the delegation
+            of responsibility down to the hands-on participant care level staff at contract
+            implementation. The document must include an organizational chart
+            including names of those currently in the positions. Revisions or
+            modifications to this organizational document must be provided to
+            SCDHHS. It is recommended that this document be readily accessible to all
+            staff.
+
+                                     South Carolina Department of Health and Human Services 6
+HCBS Provider Manual                                                                July 1, 2024
+Scopes of Services                                                       Tele-monitoring Service
+
+         4. Administrative and supervisory functions shall not be delegated to another
+            agency or organization.
+
+         5. The Provider agency shall acquire and maintain, for the duration of the
+            contract liability insurance and worker’s compensation insurance as
+            provided in Article IX, Section D of the Contract. The Provider is required to
+            list SCDHHS – LTSS as a Certificate Holder for informational purposes only
+            on all insurance policies using the following address: Post Office Box 8206,
+            Columbia, SC 29202-8206.
+
+         6. The Provider shall develop and maintain a Policy and Procedure Manual
+            that describes how activities shall be performed in accordance with the
+            terms of the contract. The Policy and Procedure Manual shall be available
+            during office hours for the guidance of the governing body and personnel
+            and shall be made available to SCDHHS upon request.
+
+         7. The Provider must comply with Article IX, Section AA of the Contract
+            regarding safety precautions. The Provider must also have an on-going
+            infectious disease program to prevent the spread of infectious diseases
+            among its employees.
+
+         8. The Provider shall ensure that key agency staff are accessible in person or
+            by phone during compliance review audits conducted by SCDHHS and/or
+            its agents.
+
+         9. The Provider shall ensure that its office is open and staffed by qualified
+            personnel during the hours of 10:00 a.m. to 4:00 p.m., Monday through
+            Friday. Outside of these hours, the Provider agency must be available by
+            telephone during normal business hours, 8:30 a.m. to 5:00 p.m., Monday
+            through Friday. The Provider must also have a number for emergencies
+            outside of normal business hours. Participant and personnel records must
+            be maintained at the address indicated in the contract and must be made
+            available, upon request, for review by SCDHHS.
+
+
+
+
+                                   South Carolina Department of Health and Human Services 7
+

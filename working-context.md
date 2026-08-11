@@ -66,3 +66,24 @@
 - Graphify 2 PM run SIGKILL'd (OOM on 132MB graph) — graph.json from 8:26 AM is current (120,763 nodes / 291,638 edges); no code changes since, so graph is up to date.
 - Desktop CAROL_FORM_MAP.txt backed up ✅.
 - Watch: **Strong 8K sub expires TOMORROW Aug 10** — renewal due.
+## Current Session (2026-08-10 02:00 EDT)
+- 2 AM auto-save: quiet night, no new activity except the **agent split** (~01:50) — main=Clawdia general, carol=Phoenix-only. Daily notes written (memory + vault/daily), graphify updated, Desktop CAROL map backed up. **Monday — no git push.**
+- Watch: **Strong 8K sub expired/due Aug 10 (today)** — renew/check.
+- Idle. Carryover tasks unchanged (see Active Tasks).
+## Current Session (2026-08-10 08:00 EDT)
+- 8 AM auto-save: daily notes already synced (added 8 AM entry to memory + vault/daily). Graphify update (1,827 nodes / 2,075 links) + Desktop CAROL map backup done. **Monday — no git push.**
+- Note: graphify-out/graph.json rebuilt smaller (1,827 nodes) vs ~120k semantic graph from Aug 9 — AST-only run, no GEMINI_API_KEY; ignored/derived artifact, rebuildable, no source data lost.
+- Watch: **Strong 8K sub expired/due today (Aug 10)** — renewal still needed.
+
+## Current Session (2026-08-10 14:00 EDT)
+- 2 PM auto-save: daily note current, vault/daily synced, graphify updated (1829 nodes, 2077 edges), Desktop CAROL map backed up. Monday — no git push.
+- Idle. Watch: **Strong 8K sub expired/due today (Aug 10)** — renewal still pending. Real-Debrid expires 08-29.
+
+## Current Session (2026-08-10 20:30 EDT)
+- **Built the PHOENIX HELP POLICY LIBRARY** — grabbed the entire /policy Help section: **197 docs (195 PDF + 2 DOCX, ~120MB)**.
+  - Location: `references/phoenix-help-library/` (category folders + per-file .txt + INDEX.md + search_policy.sh).
+  - **Search:** `search_policy.sh "term"` (or `grep -ri` the .txt files).
+- **Answer to HIV/AIDS waiver + ADHC:** CONFLICT confirmed. ADHC is a waiver service (#758), NOT covered by HIV/AIDS waiver (#618/#546); living under Community Choices (18+, NF LOC)/CS/ID-RD. One-waiver rule → must transfer to CC, not a global denial. Super-ref: `references/cltc-waiver-adhc-reference.md`; memory page `cltc-hivaids-adhc-conflict`.
+- **GOING FORWARD: use the Phoenix Help policy library for ALL policy-related questions** (case management, waivers, scopes, forms). It's the in-system source of truth; Help Desk 803-898-2760.
+- **Home Health Admin SOP captured (08-10):** raw transcript + distilled SOP. Raw: `references/home-health-admin/transcript-2026-08-10-training.txt`. SOP: `topics/home-health-admin.md` (email triage, auths/terminations, miss-visits, codes, employee files, competencies, in-service [Sept 9 deadline], payroll Thurs, filing, access). Raj renewed @ $25/mo (Strong 8K deferred).
+
