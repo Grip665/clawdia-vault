@@ -41,8 +41,9 @@
       ⚠️ *Serious compliance infraction if they are missing.*
 
 ## 🟡 G. Matrices
-- [ ] Create a **Client Matrix** — everyone's name (all participants).
-- [ ] Create an **Employee Matrix** — all aides'/staff names.
+- [x] **Templates built** (2026-08-11) → `Employee_Matrix.xlsx/.csv` + `Client_Matrix.xlsx/.csv` in this folder + USB stage.
+- [ ] **Import employee data** (Larry will pull digital/print list of all employees + hire dates → send to Clawdia to fill the template).
+- [ ] **Optional local HTML tracker** (Destiney/Clemson-math-style, local-only for Larry) that shows employee compliance (SLED+FBI, in-service due, AuthentiCare) — **do NOT build until we have all the data.**
 
 ## 🟡 H. Brush up on DSN process
 - [ ] Only **3 DSN clients**. Supposed to glance/refresh on it — **tomorrow (08-11)**.

@@ -87,3 +87,7 @@
 - **GOING FORWARD: use the Phoenix Help policy library for ALL policy-related questions** (case management, waivers, scopes, forms). It's the in-system source of truth; Help Desk 803-898-2760.
 - **Home Health Admin SOP captured (08-10):** raw transcript + distilled SOP. Raw: `references/home-health-admin/transcript-2026-08-10-training.txt`. SOP: `topics/home-health-admin.md` (email triage, auths/terminations, miss-visits, codes, employee files, competencies, in-service [Sept 9 deadline], payroll Thurs, filing, access). Raj renewed @ $25/mo (Strong 8K deferred).
 
+
+## Current Session (2026-08-11 02:00 EDT)
+- 2 AM auto-save: quiet night, no new activity besides the Home Health task backlog captured 08-10 23:53. Memory + vault/daily synced, graphify update, Desktop CAROL map backed up. Tuesday — no git push.
+- Note: **DSN refresh for 3 clients due today (08-11)** from task backlog. Idle. Carryover tasks unchanged.

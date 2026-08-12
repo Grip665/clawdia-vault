@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SC Background Checks — Who Does What</title>
+<style>
+  :root { --blue:#1F4E79; --green:#1E7B4F; --red:#B23A3A; --amber:#9A6B00; --bg:#F5F7FA; --card:#FFFFFF; --ink:#1A1D21; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif; background:var(--bg); color:var(--ink); line-height:1.5; padding:16px; }
+  .wrap { max-width:720px; margin:0 auto; }
+  h1 { font-size:1.35rem; margin:0 0 4px; color:var(--blue); }
+  .sub { color:#5A6472; font-size:.9rem; margin-bottom:16px; }
+  .card { background:var(--card); border-radius:12px; padding:16px 18px; margin-bottom:14px; box-shadow:0 1px 3px rgba(0,0,0,.08); border-left:5px solid var(--blue); }
+  .card.aide { border-left-color:var(--green); }
+  .card.agency { border-left-color:var(--red); }
+  .card.correct { border-left-color:var(--amber); background:#FFFCF3; }
+  h2 { font-size:1.05rem; margin:0 0 8px; }
+  .card.aide h2 { color:var(--green); }
+  .card.agency h2 { color:var(--red); }
+  ul { margin:6px 0 0; padding-left:20px; }
+  li { margin-bottom:6px; }
+  .tag { display:inline-block; font-size:.72rem; font-weight:700; letter-spacing:.4px; padding:2px 8px; border-radius:20px; vertical-align:middle; }
+  .tag.green { background:#E3F4EA; color:var(--green); }
+  .tag.red { background:#FBE9E9; color:var(--red); }
+  .tag.blue { background:#E8EFF7; color:var(--blue); }
+  .hl { background:#FFF3D6; padding:2px 5px; border-radius:4px; font-weight:600; }
+  .timeline { background:var(--card); border-radius:12px; padding:14px 18px; box-shadow:0 1px 3px rgba(0,0,0,.08); margin-bottom:14px; }
+  .timeline h2 { font-size:1.05rem; margin:0 0 8px; color:var(--blue); }
+  .timeline table { width:100%; border-collapse:collapse; font-size:.9rem; }
+  .timeline td { padding:6px 4px; border-bottom:1px solid #EDF0F4; vertical-align:top; }
+  .timeline td:first-child { white-space:nowrap; font-weight:600; color:var(--blue); width:110px; }
+  .note { font-size:.85rem; color:#5A6472; margin-top:10px; }
+  .footer { font-size:.78rem; color:#8A93A0; text-align:center; margin-top:14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🖐️ SC Background Checks — Who Does What</h1>
+  <div class="sub">Home health aide hiring compliance · corrected 08-11-2026 · for Larry &amp; owner review · not legal advice</div>
+
+  <div class="card correct">
+    <h2>⚠️ Key correction — it's RESIDENCY-BASED, not universal</h2>
+    <ul>
+      <li>Aide who <b>verifies 12 months of SC residency</b> (SC license/ID, rent/mortgage/utility, pay stubs, or SC bank records) → <b>SLED state check only</b> is lawful. <b>No fingerprints needed.</b></li>
+      <li>Aide who <b>can't verify SC residency</b> → state check, then a <b>federal fingerprint (FBI)</b> check.</li>
+      <li>Verified 12-mo residency in another state → may run only that state's check.</li>
+      <li>Universal prints is common <b>agency policy</b> (and payers/Medicaid waivers can impose more) — but it's not what § 44-7-2910 itself requires.</li>
+    </ul>
+  </div>
+
+  <div class="card aide">
+    <h2>TRACK 1 — Per-AIDE (direct caregiver, § 44-7-2910) <span class="tag green">AIDE</span></h2>
+    <ul>
+      <li><b>Required before employing</b> any direct caregiver (home health agencies are listed "direct care entities").</li>
+      <li><b>Type depends on residency</b> (see correction above). Fingerprints/IdentoGO only when the <b>federal check</b> is needed.</li>
+      <li><b>When prints are needed, your steps:</b> agency has a valid relationship → complete the <b>"Verification of Application and Authorization for Background Check"</b> form → email <b>HQCBC@dph.sc.gov</b> → provide the <b>Privacy Rights + FBI Privacy Act Statements</b> (mandatory) → DPH returns a <b>service code</b> → aide goes to <b>IdentoGO</b> (live-scan) → SLED + FBI.</li>
+      <li><b>Cost:</b> ~<b>$51.75</b> at IdentoGO (subject to change). Either party may pay (SC AG) — absorbing it is recruiting-friendly.</li>
+      <li><b>File:</b> the <b>result / DPH eligibility determination</b>, NOT a print card. For home health (PL 105-277), if no SLED-vetted rep, DPH's eligibility determination is your file doc.</li>
+    </ul>
+  </div>
+
+  <div class="card agency">
+    <h2>TRACK 2 — AGENCY-level (owners, NOT aides) <span class="tag red">AGENCY</span></h2>
+    <ul>
+      <li><b>42 CFR § 455.434 / .450:</b> fingerprint-based check on the <b>provider or anyone with 5%+ ownership</b> for <b>high-risk providers</b> — home health agencies are high-risk.</li>
+      <li><b>Revalidate every 3 years</b> (vs 5 for others). FCBC became a Healthy Connections enrollment requirement <b>Aug 15, 2022</b>.</li>
+      <li><b>Different people, different law</b> — this screens your <b>owners</b>, not your aides. Same IdentoGO fee scale.</li>
+      <li>At revalidation, submit <b>fingerprint appointment confirmation</b> to avoid a 30-day termination gap.</li>
+    </ul>
+  </div>
+
+  <div class="timeline">
+    <h2>⏳ Timeline</h2>
+    <table>
+      <tr><td>2002</td><td>Direct-caregiver background check law (§ 44-7-2910) enacted (Act 242, eff. July 1, 2002).</td></tr>
+      <tr><td>2004</td><td>Fingerprint requirement added for the <b>federal/national</b> check (Act 264, eff. July 6, 2004).</td></tr>
+      <tr><td>2022</td><td>Medicaid FCBC (agency/owner) requirement for high-risk providers, effective Aug 15, 2022.</td></tr>
+    </table>
+  </div>
+
+  <div class="card">
+    <h2>📁 "Do prints have to be physically in the employee folder?"</h2>
+    <ul>
+      <li><b>No.</b> IdentoGO captures and transmits them; you never possess a print card.</li>
+      <li>The folder must contain the <b>check result / DPH eligibility determination</b>, retained as received (plus proof of when the check was initiated).</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>⚠️ Legacy aides (hired years ago, no prints) — sort the files</h2>
+    <ul>
+      <li><b>(a)</b> State check done + <b>residency documented</b> → likely <b>compliant</b>; just document residency if missing.</li>
+      <li><b>(b)</b> State check done, residency <b>never verified</b> → the federal check should have run.</li>
+      <li><b>(c)</b> No check at all → clear violation.</li>
+      <li><b>Fix (b)/(c):</b> run the missing checks NOW + write a <b>dated corrective-action memo</b> (never quietly backfill). A break ≥ 1 year = re-run the check before resuming.</li>
+      <li><b>Ramifications:</b> missing checks = standard <b>Reg 61-77 survey deficiency</b> (citations + plan of correction); Medicaid <b>overpayment</b> exposure if aides serve Medicaid clients. Take the sort to a healthcare attorney before the next survey/revalidation.</li>
+    </ul>
+  </div>
+
+  <div class="footer">Questions: HQCBC@dph.sc.gov · IdentoGO (866) 254-2366 · SLED CJIS (803) 737-9000</div>
+</div>
+</body>
+</html>

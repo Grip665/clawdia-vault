@@ -77,6 +77,22 @@ Two folders per employee: one for the **client** side (no tab) and one tabbed (*
 10. **In-service** — see section 7.
 11. **Resume** — if hired via **Indeed**, print it off Indeed and file it with the paper packet.
 
+### Fingerprint / background check — SC (hiring administrator's job)
+- **Residency-based, NOT universal** (corrected 08-11, per statute § 44-7-2910):
+  - Aide who **verifies 12 mo SC residency** (SC license/ID, rent/mortgage/utility, pay stubs, SC bank records) → **SLED state check only** is lawful. No fingerprints needed.
+  - Aide who **can't verify SC residency** → state check + **federal fingerprint (FBI)** check.
+  - Verified 12-mo residency in another state → may run only that state's check.
+- So fingerprints are required for aides who **can't document SC residency** — universal prints is agency policy, not the statute. (Medicaid waivers/payer contracts can impose more.)
+- **When the federal/print check IS needed (your steps):**
+  1. Ensure a **valid relationship** with the applicant (SLED directive).
+  2. Complete the **"Verification of Application and Authorization for Background Check"** form → email **HQCBC@dph.sc.gov**.
+  3. Give the applicant the **Noncriminal Justice Applicant's Privacy Rights** + **FBI Privacy Act Statement** (mandatory).
+  4. DPH returns a **service code** → send the aide to **IdentoGO** for live-scan prints.
+  5. File the **result / DPH eligibility determination** (as received + proof of check initiation).
+- **Fee:** ~**$51.75** IdentoGO; either party may pay (SC AG). Absorbing it is the recruiting-friendly choice.
+- **Agency-level (separate, NOT aides):** 42 CFR § 455.434/.450 — fingerprint check on the **provider + 5%+ owners** (home health = high-risk, revalidate every **3 yrs**); FCBC enrollment requirement since **Aug 15, 2022**. At revalidation, submit fingerprint appointment confirmation to avoid 30-day termination.
+- **Legacy aides — sort files:** (a) state check + residency documented = likely compliant; (b) state check but residency never verified = federal check should have been run; (c) no check = violation. Fix (b)/(c): run checks NOW + **dated corrective-action memo** (never quietly backfill). Break ≥1 yr = re-run check before resuming. Missing checks = Reg 61-77 survey deficiency; Medicaid overpayment exposure if aides serve Medicaid clients. Attorney before next survey/revalidation.
+
 ### Signatures
 - Only **2 pages** the *employee* must sign at hire: the **HIPAA policy** and the **medication policy**. Everything else is already filled/signed.
 - **Trainer CAN sign** as trainer, **CANNOT sign as the nurse.**

@@ -1,0 +1,50 @@
+TRAINING TRANSCRIPT — NEW EMPLOYEE HIRING PACKET + BACKGROUND CHECKS
+Source: 2026-08-11 office training (Christina Turner / Prestigious Home Care)
+Note: raw auto-transcription; becomes this file + distilled SOP (hiring-packet-procedure.md).
+
+=== KEY CONTENT (raw, lightly cleaned) ===
+
+4 items employee must bring:
+  1. Driver's license
+  2. Social Security card
+  3. Insurance card
+  4. Direct deposit information
+(insurance + direct deposit needed before payroll; work can start with just license + social)
+
+Hiring flow (after in-person interview goes well → go straight into hiring):
+- Print copy of license, copy of social card
+- OIG: free, by legal first+last name as on license. Print search + results.
+- Credential/CNA Registry: free, name as on license, click "I'm not a robot", print search + results.
+- Sex Offender registry: free, first+last name as on license. Print the results section.
+- SLED background check: PAID on company card. Enter first+middle+last(+maiden), social (REQUIRED die without it), DOB, sex, company email. Review request -> acknowledge -> Make Payment (SC eGov platform, credit/debit). Result PDF must show date+timestamp, full name+maiden, social, DOB — cannot be missing any. Also auto-emailed to company email. Print + file.
+- DMV 10-year (tenure) driving record: PAID (~$11). Driver's license number, social, DOB, address as on license. Record type = TENURE. Watch for suspended license -> can still work but NOT a client with transportation as a service. Print receipt (know the charge) + print full 10-yr record.
+
+3 FREE documents: OIG, CNA/Credential registry, Sex offender registry.
+2 PAID documents: SLED background, DMV driving record.
+
+Background/disqualifier policy (Medicaid/state rule):
+- FELONY = hard no, regardless of age/history. Non-negotiable (Medicaid policy; confirmed by calling).
+- Misdemeanors = at company discretion EXCEPT violent offenses toward a person, or child/elderly neglect/abuse. See SC provider manual for accepted misdemeanor statutes.
+- SLED shows charges AND convictions (everything, not just convictions).
+- If uncertain -> call Medicaid provider/one line and ask; they will say yes/discretion/no. Keep the number saved.
+- Can work around a felony if applicant brings a CERTIFIED court letter that the felony/charge was DROPPED.
+- felonies don't disappear no matter how old.
+
+Fingerprinting:
+- Only required for FACILITIES (e.g. adult day centers/daycare). Home care is NOT a facility -> no fingerprints needed.
+- If applicant moved to SC <12 months ago, recommend getting fingerprints anyway (not all states upload to SC SLED). Pull under federal fingerprinting background on IdentiGO. They still need a SLED too.
+
+Hiring packet assembly order (per trainer):
+- New employee package (packet 1) = print WHOLE thing
+- Second packet (Prestigious 2) = print pages 1-19 (clinic pages embedded)
+- Pull one of each document:
+    in-service, competency BOTH (children + adult), payroll form, phone form, strike policy, W4, I-9
+- Health assessment form = last page of packet 1; pull it out and swap in a pre-stapled copy (trainer keeps drug test + health assessment + in-service pre-stapled)
+- Stack order: packet 1 on top, packet 2 immediately after (health assessment pulled), then health-related docs (health assessment, drug screen, competency/in-service), then payroll + deposit form w/ both state forms, competency in back, phone form in back
+- Version note: employment verifications (food stamps/disability) go in a SEPARATE folder from employee documents.
+
+Extra:
+- Confirm interview -> mark in briefcase; keep applicant lists even after closing a job (no automated rejections -> keep applicants to pull from later).
+- Date+timestamp everything before they start.
+- Closings: run all three free docs (OIG, registry, sex offender) in searches; then paid SLED + DMV.
+- Sister being onboarded: Jessica Berrios (B-a-r-r-i-o-s), DOB 7/1/1995, middle Leanne, SLED driver lic 101502409, social 248-97-5492. Address registered to DMV system. (trainer using her as the live example)
