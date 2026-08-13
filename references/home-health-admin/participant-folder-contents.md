@@ -117,7 +117,8 @@ The scope enumerates **six** active-record contents, but several *additional* do
 - **Rule: default to the LONGEST of the three per document type** (for these client folders, that's the 5-yr scope floor, and 6 yrs for HIPAA logos/docs).
 
 
-## J. Companion Care scope — key differences (separate doc: "Companion (Agency) Services"," Final Draft 7-1-25 filename; PDF footer dates it 7/1/2024 — confirm current effective date)
+## J. Companion Care scope — key differences
+> **Effective date — RESOLVED 08-12 (corrected after primary-doc review): July 1, 2025.** The hosted file is named "...Final Draft 7-1-25.pdf" and, despite its stale "July 1, 2024" internal footer, the live `7-1-25` document carries a substantive 7/1/2025 change — the family-caregiver exclusion now reads "any other legally responsible adult or legal guardian of a Medicaid participant," a line the official **7/1/2025 HCBS training deck** lists verbatim under Companion scope/standard changes. The footer is a template artifact the drafters didn't refresh; the filename path + body content + training deck all confirm **7/1/2025**.
 Companion = **supervision + some IADLs (meal/snack prep, laundry, shopping, sitting) — NO ADLs, NO skilled/medical/hands-on care by the companion** ("under no circumstances... any type of skilled medical service or hands on care").
 - **Supervisory cadence DIFFERS from Personal Care:** initial visit **within 90 days** of service start, then **on-site supervision at least once every 365 days** (annually) + phone contact as needed. (NOT PCS's 30-day/4-month.)
 - Visit documented in **EVV** in participant's file; participant inaccessible → complete **within 5 working days** of resumption; break in service **>60 days** → supervisor visit **within 90 days** of resumption.
@@ -135,6 +136,7 @@ Companion = **supervision + some IADLs (meal/snack prep, laundry, shopping, sitt
 - **Electronic signature** accepted for provider enrollment/program agreements.
 
 ## ⚠️ Confirm with trainer before going live
+- Confirm with the agency which **Companion revision/platform** they run (effective date confirmed 7/1/2025 per primary docs — see §J).
 - HIPAA **Notice of Privacy Practices** acknowledgment — confirm the agency's form matches 45 CFR §164.520 (federal, not in the SC scope).
 - Exact set of **consent / rights forms** the agency uses (Right to Complain vs client bill of rights) — confirm the specific agency form names.
 - Whether the agency uses **electronic** task sheets / records (paperless allowed) and what the backup system is.

@@ -33,3 +33,9 @@
 ## 2026-08-08
 - **Recent-conversation memory miss** — Larry messaged "Yo" and asked if I remembered what we'd just been talking about; I had no trace of the conversation between the 2 PM auto-save and 18:09 because context pruning trimmed it before it was logged.
   → **Lesson:** The gap is between *last file save* and *now*. Fix: log conversations to `memory/2026-08-08.md` + working-context more aggressively during active chats (not just at scheduled saves), or set a mid-session save cron/heartbeat while chatting. Existing vault/heartbeat system saves 2 AM/8 AM/2 PM/10 PM — not enough for active evening sessions.
+
+## 2026-08-12 — Companion scope effective date (initially wrong)
+- I resolved the SCDHHS Companion (Agency) Services scope effective date to **7/1/2024**, reasoning from the PDF's internal "July 1, 2024" footer + the 7/1/2025 bulletin not listing Companion.
+- A follow-up agent reviewed the PRIMARY docs and corrected it: the live **7-1-25** doc carries a substantive 7/1/2025 change (family-caregiver exclusion → "legally responsible adult or legal guardian"), confirmed verbatim by the official **7/1/2025 HCBS training deck**. The footer is a stale template artifact.
+- **Lesson:** the in-document footer vs. hosted-filename conflict was real, but I over-weighted the footer and the bulletin's (incomplete) summary list, and under-weighted the actual body content + training deck. Correct determination = **7/1/2025**.
+- Fixed in participant-folder-contents.md §J, memory/2026-08-12.md, and this log.

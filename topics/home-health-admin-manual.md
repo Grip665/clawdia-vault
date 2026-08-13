@@ -35,6 +35,7 @@ Every day you: **(A)** triage email, **(B)** handle Phoenix notices / authorizat
 - Types: service interruption, declined services, **resolutions (the "2s and 5s" codes)**.
 - On a "2s and 5s" notice: **acknowledge + try to resolve** → "I'll reach out to the aide and resolve it" → send → clears.
 - Know each client's aide for coverage; know MAX-beneficiary clients; watch turnover on aides.
+- **👉 Full daily Phoenix walkthrough (missed visits → resolutions → provider activity report → add claim): see §7 MEDICAID PAYROLL → daily Phoenix round.**
 
 ---
 
@@ -77,8 +78,39 @@ Quick reference:
 - New hire → "I've got a new person, need to add them." Info he asks: SSN, DOB, name, address, phone, email, **filing status**, **direct deposit**.
 - Direct deposit: account + routing, read in **3-number chunks**, he re-verifies. **Mistake = you pay out of pocket.**
 - Filing status: single/married/HOH; **deductions = dependents × $2200** (3 kids = $6,600).
-- **MEDICAID PAYROLL — [TO FILL]** (Larry's priority — currently uneasy):
-  - _Space for: the pull/process, what to verify, common gotchas, the "10th" dates, clock-in/out handling (system double clock-ins → delete duplicated), resolutions flow._
+- **MEDICAID PAYROLL — daily Phoenix round (from 08-12 training video):**
+
+  **A. Missed Visits (start here, one at a time)**
+  1. Open **Missed Visits**, work the list one by one.
+  2. Pick the right reason per client (staff usually call/text you the reason):
+     - **Service interruption** — didn't clock in at all / still in the house / no-show.
+     - **Other** — an aide who normally works, or the caregiver/other was supposed to come in.
+     - (Also see: declined services, resolutions.)
+
+  **B. Resolutions (do DAILY)**
+  1. Go to **Resolutions** — you can **duplicate** an existing entry from that page.
+  2. **Before submitting anything: duplicate + double-check every one.**
+  3. Missing/aide errors → **"worker error — mobile app not functioning"**.
+
+  **C. Provider Activity Report (pull when doing resolutions)**
+  1. Path: **Claims → Provider Activity → Current week → Run**.
+  2. Also watch the **creation email**.
+  3. **Why:** this report shows how many **hours each worker is AUTHORIZED** — the resolution report does NOT. Pull it so you enter the right hours (e.g., one gets 4 hrs, another 3:31).
+
+  **D. Add a Claim (for a fresh/extra one)**
+  1. Go to **Client** → Dashboard → copy the **client ID number**.
+  2. Add claim: worker **1882**, client ID, service **CPCA**, dates, hours.
+  3. Worker-miss reason: **"worker error — mobile app not functioning"**.
+
+  **E. Paperwork** — photos go in the folder, then the payroll notes.
+
+  ⚠️ Auto-transcript — names/numbers (1882, 5 4 9 2, CPCA) could be off; workflow order is solid. Also fold in the earlier notes: the "10th" dates, clock-in/out handling (system double clock-ins → delete duplicated).
+
+  **F. The 3 documents that make up payroll (from 08-12 training):**
+  1. **Resolution reports** (under Reports) — for the **two weeks of payroll**.
+  2. **Provider Activity summary** — for the same two weeks.
+  3. **DSN billing** — entered under the **start page with the Medicaid portal** (copy/paste + change dates, like the CMS-1500 batch demo).
+  → You need all 3 together to run payroll.
 - **TRANSPORTATION PAYROLL — [TO FILL]** (training 08-12):
   - _Space for: how transportation hours are pulled/verified, driver task sheets, non-transport agreements, etc._
 
@@ -88,6 +120,26 @@ Quick reference:
 - **Employee_Matrix.xlsx** — employee names, hire dates, background/SLED/DMV/registry status, in-service/competency due dates.
 - **Client_Matrix.xlsx** — client names, numbers, authorizations, check-in dates, services.
 - **Rosters coming tomorrow (08-12)** — the agency will provide employee + client names. Fill from those.
+
+### 🗓️ Client list / schedule tracker — Word table system (from 08-12 training)
+A master **Word table** (alphabetical) that's your at-a-glance reference for who every client is, who works them, and whose they are. Columns: **name, address, contact person, phone, CLTC number, service type, hours, schedule, who's working it.**
+
+**Color-code legend (crucial):**
+- **Dark green** = service days on that client's schedule.
+- **Light green** = **NOT** a service day.
+- **Blue** = **Max's people** (covered, never worry about staffing them).
+- **Yellow** = **open** — needs to be staffed / filled (designates a client you need someone for).
+- **Red** = **on hold** (e.g., caregiver moved away, no active coverage).
+
+**How to build/maintain:**
+- **Insert → Table**; edit via **Table Layout → add row** (re-add a returning client; download his auth to transfer info over).
+- Capture: phone number for the client, **authorized representative** (name + number + relationship, e.g. brother/sister), schedule days/hours.
+- Include non-tech-savvy caregivers (e.g., a client's mom who isn't tech-savvy → you may need to go see her if she has issues).
+- Cross-check who works a client via **Provider Activity report** (it shows the actual aide).
+- Optional flavor: add small icons/pictures (cat/dog/smoker) for extra at-a-glance info.
+- Serve purpose: pull it when you're on the go / need info without logging into Phoenix.
+
+**This is a live, current document** — keep it updated as clients come/go (delete rows for clients no longer active, add returning ones, change colors as coverage changes).
 
 ---
 
@@ -101,6 +153,8 @@ Quick reference:
 ---
 
 ## 10. Open follow-ups
+- **Find where payroll stubs go** (from 08-12 training — location/process not yet captured).
+- **Marcus Allen task sheets missing:** 7/19–7/25 and **7/5–7/11** — pull/find the originals.
 - Fill **Medicaid payroll** + **transportation payroll** notes from 08-12 training.
 - Fill **employee + client matrices** from tomorrow's rosters.
 - Sept 9 in-service deadline messaging. Hire-date spreadsheet upkeep.
