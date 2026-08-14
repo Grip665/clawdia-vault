@@ -1,12 +1,12 @@
 # Working Context
 
-## Current Session (2026-08-12 22:00 EDT)
-- 10 PM auto-save: daily note current (big compliance day + Phoenix payroll training video transcribed + CAROL QT session — Julie Carson & Julia Patterson both SAVED/completed by Larry), vault/daily synced, graphify updated, Desktop CAROL map backed up. Wednesday — no git push.
+## Current Session (2026-08-13 02:00 EDT)
+- 2 AM auto-save: daily note for 08-13 written (memory/ + vault/daily), graphify update pending, Desktop CAROL map backup. Thursday — no git push.
 
 ## Today (08-12) recap
 - **Compliance docs:** Companion scope + Provider Admin/Billing folded into participant-folder-contents.md (§H/I/J/K), printable one-pager refreshed. Companion effective date resolved = July 1, 2025.
-- **Payroll training:** Transportation + Medicaid payroll training (5:30 PM reminder d924232b). Phoenix missed-visits video (597s) transcribed → phoenix-missed-visits.md + home-health-admin-manual.md §7. Filled Medicaid payroll [TO FILL].
-- **CAROL QT session (EVENING):** Julie A Carson (9753087) + Julia B Patterson (9809556) QT narratives auto-filled (no save); Larry saved & completed both. Tunnel to 3060 re-established (port 18801). CAROL tally +2.
+- **Payroll training:** Transportation + Medicaid payroll training. Phoenix missed-visits video (597s) transcribed → phoenix-missed-visits.md + home-health-admin-manual.md §7.
+- **CAROL QT session (EVENING):** Julie A Carson (9753087) + Julia B Patterson (9809556) QT narratives auto-filled; Larry saved & completed both. Tunnel to 3060 re-established (port 18801). CAROL tally = 37.
 - **Ayva laptop deal watch:** no decisive steal → logged quietly.
 
 ## Active Tasks
@@ -18,4 +18,4 @@
 6. **Mistakes:** never `docker rm -f` live container; don't change carol fill to Save-only; no browser automation during Larry's manual work unbidden.
 
 ## Idle states
-- 10 PM auto-save done for 08-12.
+- 2 AM auto-save done for 08-13.
