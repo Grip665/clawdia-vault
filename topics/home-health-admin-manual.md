@@ -52,6 +52,28 @@ Quick reference:
 - Only 2 pages the employee signs at hire: **HIPAA** + **medication** policies. Black/blue ink.
 - Rehire: <~30 days = redo bg/health/competency; >~90 days = whole packet. Retain 5 yrs from termination (label start+end).
 
+### Hiring onboarding — full walkthrough (from 08-14 training video #3)
+Full cleaned notes: `~/Desktop/Billing-Training/payroll-08-13/2026-08-14-video3-CLEANED-onboarding-hiring.md`
+
+**Background pulls (order):**
+1. **Exclusions (OIG/SAM)** — prep the page BEFORE clicking the box (results wipe when you click off); print results.
+2. **Credentials/Registry (CNA)** — square + tab; search it.
+3. **Sex Offender Registry** — print.
+4. **SLED** — ⚠️ **call/text Thomas to unlock the card FIRST** (locked card = "unable to process" email; call + reprocess). Enter first/last/**maiden** name (ask, don't assume), DOB → search → download PDF → print.
+5. **DMV driving record** — Obtain Certified Copy; **leave the leading 0 off the license number**; address as on license; legal disclaimer; **switch to 10 YEAR**; download + print. ⚠️ **Print must COMPLETE before exiting — can't go back in without paying again.**
+
+**File order (front→back):** health assessment, drug screen, license, social, insurance → exclusions, registry (1st+2nd page), sex offender, background, driving record WITH receipt → competency 1, competency 2, in-service. Front items (health assessment + drug screen) = **redone every year**; monitor the separated-out expiry papers.
+
+**Phoenix worker setup:** Worker → Add Worker → **Worker ID = last 4 of SSN** → start date = today (so app resets) → **check services: companion, children, respite, personal, personal care — everything BUT nurse** → same temp password (setup code always the same; resets use it too) → position PCA, hire date + 3 months = end of 90 days. Worker ID example: 1882 0134.
+
+**AuthentiCare app:** if the worker's Apple account owes anything (Hulu etc.), App Store blocks downloads — fix = pay it (~24h) or switch account; **grace period 30 days** (manually enter times + follow up weekly until they get the app). iPhone device code = the longer code; app looks different from Android.
+
+**Strike policy:** strikes = mistakes (forgot to clock in/out, etc.). Up to 12/yr; **after 12, mistakes aren't paid**. Manual clock-in = strike too.
+
+**W-4 advice given:** single, zeros in all 4 boxes for max refund.
+
+**Hiring packet (print through page 17):** application (skip w/ resume), strike policy, phone form (has worker ID/temp pw/setup code), caregiving employment statement, handbook, 10-hr in-service, medication/personal care requirements, drug/alcohol policy, attendance (call-no-show = no job), medical emergency form, pre-enroll items (90-day), contact info + emergency contact, abuse policy (MUST report), job description (4 services: companionship, housekeeping & laundry, kitchen work, transport & escort), strike policy, call-out policy, **payroll info form (account/routing as on bank statement — wrong = missed check up to 2+ wks)**, W-4, I-9, health assessment, drug form (pregnant = skip; MD tests anyway).
+
 ---
 
 ## 5. Competency & in-service
@@ -111,8 +133,35 @@ Quick reference:
   2. **Provider Activity summary** — for the same two weeks.
   3. **DSN billing** — entered under the **start page with the Medicaid portal** (copy/paste + change dates, like the CMS-1500 batch demo).
   → You need all 3 together to run payroll.
-- **TRANSPORTATION PAYROLL — [TO FILL]** (training 08-12):
-  - _Space for: how transportation hours are pulled/verified, driver task sheets, non-transport agreements, etc._
+
+  **G. Medicaid portal / DSN billing — "the check" (from 08-13 training video #2):**
+  1. **Big picture:** Phoenix = WellRyde for home care — everything is dispatched/processed in Phoenix but **PAID OUT through the Medicaid portal**. Boss (Thomas) asks for "the check" = the total Medicaid payment for the week.
+  2. **Find the weekly check amount:** log into **Medicaid portal (DSN creds)** → **Procedures → Home Care → Search** → **Reports → Payment Summary** → pick week → **Run Report**. That number = this week's check (Phoenix + DSN combined).
+  3. **Breakdown:** **Remits report** shows all Phoenix claims + any DSN processed.
+  4. **DSN billing (CMS 1500 copy-over):** Procedures → Home Care → select → **History → CMS 1500 → Copy** → auto-sends to Claims Entry → open claim (e.g., **Mr. David**) → **Detail Lines → Edit** → change dates to **prior two weeks** → **Other Coverage → Finish Claim** → claims show **Completed** → **Claim Submission → Get From List → Select company → check box → Submit**.
+  5. ⚠️ **AFTER SUBMIT: a page pops up with the BIG NUMBER — PRINT IT. If you don't, it's gone.** Then History → open batch → **View All → Print All** → hang onto it (part of payroll).
+  6. **Payroll call prep:** write **"David 20"** (his 20 hrs — DSN paid from HERE, not Phoenix) on top of the **Provider Summary report**; give boss everybody's hours; **staple the 3 reports** and file in that month's folder after the call.
+  7. **Check-off sheet:** Provider Activity summary is the check-off sheet — highlight each aide as paid. **Only David** (DSN) is paid via ADP from this portal. **Dollie Johnson, Monica Hankerson, Stephanie Downs, Chanelle = NOT ADP** → don't enter their hours here (they're paid another way).
+  → Full notes: `~/Desktop/Billing-Training/payroll-08-13/2026-08-13-payroll-training-notes.md`
+
+  **H. Resolution rollover rule (from 08-14 training video #3 — IMPORTANT):**
+  1. Pull **Reports → Resolutions** for the 2 weeks.
+  2. **Verify EVERY resolution has PAID OUT** — all accepted, each has a status ("CLTC action"/something in that column = processed). Slide over to **remove the company-name column** before printing (keep worker ID + hours visible).
+  3. ⚠️ **If it's Thursday morning and some resolutions are still NOT processed → they ROLL to the next pay period:** print **2 copies** — one goes with this week's payroll; the other gets the **unpaid claims highlighted** + "add to next pay week [dates]" written on top, set aside.
+  4. Next pay week: **add those hours manually** (provider activity only pulls hours worked IN that pay period — rolled-over hours were worked earlier, so they won't show) → **staple the rollover report to that week**.
+  5. Employee was shorted last week; hours are in the system but NOT on the previous check → you add them to the new pay period.
+
+  **I. Payroll process calendar (from 08-14 training — trainer made one with first 2 dates):**
+  - **Pay period 1: 8/2–8/15** (two-week dates, processed next Wednesday ≈ 8/19): Resolutions docs & reports (2 wks) + Provider Activity summary (2 wks) + DSN billing (2 wks).
+  - **Pay period 2 (same notes, next cycle):** resolutions & reports, provider activity summary, **Indeed report** (2 wks each).
+  - **Transportation (every 2 weeks):** Payment Detail Report in portal + T portal for that pay period.
+  - **New hires:** when Thomas calls for payroll, tell him you've got new hires ready FIRST (he enters them over the phone, then you give him hours).
+  - 📌 **Grab the actual calendar doc from the trainer and digitize it** (open follow-up).
+
+- **TRANSPORTATION PAYROLL (from 08-13 training video #1):**
+  - **Process batch:** total-fee page → print → **Finished Selected Batches → Yes** → click batch to highlight → downloads → drops on arrow → double-click → **print (NOT double-sided)**.
+  - **Payment Details report:** Reports → Payment Details → go down to **814** (payment date) → **Run** → print. ⚠️ Top number = **INVOICE number, NOT batch number** (batch number is further down). Do this **every other Wednesday ~3pm**.
+  - **Filing/matching:** put processed batches in the **month folder** (e.g., July); keep only **unpaid** trips; **match batch numbers** (each batch = first claim to last claim); leftover = still unpaid → watch for those numbers. **Funky/bounced trips** (no batch number) → watch payment reports for the batch number to pop up (= paid). Each batch ≈ **139 client trips** (verify count when printing).
 
 ---
 
