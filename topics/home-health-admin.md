@@ -184,3 +184,30 @@ Separate file: `references/home-health-admin/task-backlog.md` (captured 2026-08-
 - **DSN** refresh (3 clients) — glance 08-11
 - **AuthentiCare** app list → switch all by **Sept 9**
 - Idea: **clock-in/out text alert** tied to Phoenix (feasibility unknown)
+
+---
+
+## ⚠️ SCDHHS Provider Revalidation — RAPID TRACK (2026-08-15)
+
+**Source:** Medicaid bulletin 2026-08-12 (forwarded by Lisa Ann Brett, Spartanburg Area Office director, to case managers as FYI). PDF saved in chat; scdhhs.gov/providers/revalidation is the official page.
+
+**What's happening:** CMS April 2026 anti-fraud initiative → SC rapid-revalidating ~5,713 high-risk providers within 12 months. Includes **documentation review, site visits, fingerprint-based criminal background checks.**
+
+**Risk categories that hit us (the agency):**
+- Home health agencies (federally flagged, always rapid)
+- Personal care services (added based on SC utilization trends)
+→ The agency trips BOTH wires. Letter will come with a unique revalidation code.
+
+**KEY FACT — Larry's role:** Larry is the **Operations Manager** (runs passwords, billing, staffing, docs) but his **name is NOT on ownership paperwork**. So:
+- ✅ Not in the fingerprint pool personally (prints = entity + ≥5% owners/officers)
+- ✅ No formal tie between case manager role and provider — no conflict trigger
+- 📄 Letter goes to the OWNER OF RECORD; owner handles prints/signature/legal exposure
+- 🔧 BUT the site visit + documentation review = the work lands on Larry anyway
+
+**Watch items:**
+- Letter arrival = starting gun on a 12-month clock → calendar it immediately
+- Fingerprints are the time-bomb (weeks of lead time) — owner must schedule the DAY the letter lands
+- Documentation must be audit-ready: service records, narratives, staffing files, insurance
+- Provider Service Center: (888) 289-0709 option 4 | Attendants CAP: (803) 935-5277
+
+**Status:** 🟡 awaiting letter

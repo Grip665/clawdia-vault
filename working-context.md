@@ -15,6 +15,7 @@
 3. **Clemson PLUS:** apply full year (ref #76743065); Destiney accept/decline Direct Loans; Two Payment Plan before Aug 13 if PLUS not applied.
 4. **Open (carryover):** Riven URL → Jellyfin, Trakt connect, LineageOS flash on E5 Play, AuthentiCare 3.0 test.
 5. **Watch:** Ayva laptop deals, Real-Debrid expires 08-29, GV 864 number.
+6. **NEW — SCDHHS rapid revalidation:** bulletin 2026-08-12; agency is high-risk (HHA + personal care). Letter w/ reval code expected soon → owner of record handles prints; Larry (ops mgr, not on paper) prep docs + site visit. 12-mo clock starts at letter. See topics/home-health-admin.md.
 6. **Mistakes:** never `docker rm -f` live container; don't change carol fill to Save-only; no browser automation during Larry's manual work unbidden.
 
 ## Idle states
