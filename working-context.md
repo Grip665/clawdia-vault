@@ -1,22 +1,21 @@
 # Working Context
 
-## Current Session (2026-08-13 02:00 EDT)
-- 2 AM auto-save: daily note for 08-13 written (memory/ + vault/daily), graphify update pending, Desktop CAROL map backup. Thursday — no git push.
+## Current Session (2026-08-16 14:00 EDT)
+- 2 PM auto-save slot (Sunday → git push done). Daily notes appended to memory/ + vault/daily. Afternoon quiet.
 
-## Today (08-12) recap
-- **Compliance docs:** Companion scope + Provider Admin/Billing folded into participant-folder-contents.md (§H/I/J/K), printable one-pager refreshed. Companion effective date resolved = July 1, 2025.
-- **Payroll training:** Transportation + Medicaid payroll training. Phoenix missed-visits video (597s) transcribed → phoenix-missed-visits.md + home-health-admin-manual.md §7.
-- **CAROL QT session (EVENING):** Julie A Carson (9753087) + Julia B Patterson (9809556) QT narratives auto-filled; Larry saved & completed both. Tunnel to 3060 re-established (port 18801). CAROL tally = 37.
-- **Ayva laptop deal watch:** no decisive steal → logged quietly.
+## Today (08-16) recap
+- **⚠️ TOMORROW Mon 08-17: Operating Manager (Home Health + Transportation) FIRST SOLO DAY.**
+- Ayva deal watch (9 AM): Steam Deck LCD used $150-300 = best Palworld value lead; Dell G15/HP Victus borderline. Real-Debrid expires 08-29.
+- 2 AM + 8 AM slots: graphify, git push (863a4ad → 723adfd), CAROL backups ran.
 
 ## Active Tasks
-1. **CAROL:** continue narratives as Larry assigns. FORM_MAP.md + Desktop CAROL_FORM_MAP.txt current. Run carol.js as ONE nohup background instance, wait on log.
-2. **Home Health:** upcoming REV assessments + narratives. AuthentiCare 3.0 by Sept 9. Rosters → populate Employee_Matrix.xlsx + Client_Matrix.xlsx when handed over.
-3. **Clemson PLUS:** apply full year (ref #76743065); Destiney accept/decline Direct Loans; Two Payment Plan before Aug 13 if PLUS not applied.
-4. **Open (carryover):** Riven URL → Jellyfin, Trakt connect, LineageOS flash on E5 Play, AuthentiCare 3.0 test.
-5. **Watch:** Ayva laptop deals, Real-Debrid expires 08-29, GV 864 number.
-6. **NEW — SCDHHS rapid revalidation:** bulletin 2026-08-12; agency is high-risk (HHA + personal care). Letter w/ reval code expected soon → owner of record handles prints; Larry (ops mgr, not on paper) prep docs + site visit. 12-mo clock starts at letter. See topics/home-health-admin.md.
-6. **Mistakes:** never `docker rm -f` live container; don't change carol fill to Save-only; no browser automation during Larry's manual work unbidden.
+1. **⚠️ MON 08-17: Operating Manager first solo day** — staff clients w/ aides, hiring, call-outs, payments, payroll. Larry to upload training notes. HARD DEADLINE: every aide on NEW APP by Sept 9.
+2. **CAROL:** narratives as Larry assigns. FORM_MAP.md + Desktop CAROL_FORM_MAP.txt current. carol.js = ONE nohup background instance.
+3. **Home Health:** AuthentiCare 3.0 / NEW APP deadline Sept 9; REV assessments; rosters → matrices when handed over.
+4. **Clemson PLUS:** apply full year (ref #76743065); Destiney accept/decline Direct Loans; Two Payment Plan status — confirm.
+5. **Carryover:** Riven URL → Jellyfin, Trakt connect, LineageOS flash on E5 Play, AuthentiCare 3.0 test.
+6. **Watch:** Ayva laptop deals, Real-Debrid expires 08-29, GV 864 number.
+7. **Mistakes:** never `docker rm -f` live container; no Save-only carol fill; no unbidden browser automation; "exception codes" PLURAL.
 
 ## Idle states
-- 2 AM auto-save done for 08-13.
+- 2 PM auto-save for 08-16 complete (graphify 2563 nodes, git push 2086e4b, CAROL backed up).
