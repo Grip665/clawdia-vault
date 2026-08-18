@@ -211,3 +211,23 @@ Separate file: `references/home-health-admin/task-backlog.md` (captured 2026-08-
 - Provider Service Center: (888) 289-0709 option 4 | Attendants CAP: (803) 935-5277
 
 **Status:** 🟡 awaiting letter
+
+---
+
+## Client coverage quick-notes (2026-08-17)
+
+- **Mason James** — NEW client (little kid). Regular aide: **Ms. Carolyn** (she's at the office mornings, then leaves to cover Mason). ⚠️ Carolyn was **out of town** recently (that was the service-interruption alert) — if Mason has no coverage, Carolyn is the first check.
+- **Hannah** — has called with coverage complaints before (wanted exact scheduled times honored). Mason's mom/AR? **Confirm relationship.** She calls when coverage breaks — answer fast, get exact hours needed.
+- **Coverage call order (flexible aides):** Jennifer Boyd (flexible w/ heads-up) → Miranda Dixon (occasional, no car) → Monica Hankerson (fills in, has daycare) → Chanel (RN, open to anything). Not available: Asia (2 jobs), Sarah Dawkins (set clients only), Jasper (multi-job), Yashika (only her mom, struck out), Maddie (out of town), Stephanie Downs (via Mag).
+
+## Coverage board (2026-08-17 22:34 — EOD)
+- **Carolyn Kantor** (#9713910, Startex, dentist 11a Spartanburg) — ✅ **COVERED by Mag** (Tue 8/18 9:30a–1:30p, car needed — confirmed).
+- **Mason James** (#9954485, 75 Flair Ct, Spartanburg, CPCA child, needs car for therapy) — ⏳ Tue 8/18 2p–5p+ — mass text out; call order: Jennifer Boyd (864)621-7884 → Asya Clarke (864)658-6702 → Stella Horne 864-410-8148 → Monica Hankerson 803-480-0847 → Chanelle Allen 864-529-5567 (verify DL).
+- **Cohen weekend** (Manuela #9861304, Greenville, Fri 9a–1p / Sat 8:30a–3p / Sun 8:30a–2p) — ⏳ still time to fill; Colderwood covered extended hrs this past weekend (missed-visit resolutions = her pay).
+- **Carolyn Babb** (#9788651, 653 Ruddy Creek Circle, Greer, (704)657-5737) — ⏳ **needs MWF coverage** — DETAILS NEEDED (times, regular aide, which weeks).
+- Hiring: all interviews no-show so far (Dominique, Anastasia). Destinee tomorrow 10:30a. One trainee hired w/ full docs then ghosted calls — process her out when identified.
+
+**Coverage board update (22:45):**
+- **Kantor** — ✅ **Mag herself** is taking her (Tue 8/18, dentist run). Done.
+- **Mason Tue 8/18 2–5p** — plan: **Carolyn Colderwood (his regular aide) via Uber** — best outcome (mom comfortable with her). Book Uber + confirm Colderwood availability. ⚠️ No car at Mason → any therapy transport needs separate arrangement (Uber/WellRyde) if needed that day.
+- **Boyd profile:** ONLY easy adults, Spartanburg area, NO toileting/bathing (companion-level only). She's a narrow-fit fill-in — don't offer her anything else.
