@@ -19,3 +19,9 @@ Website skeleton. On hold.
 
 ## ComfyUI/ViewComfy 🟡
 Running on 3060. Workflow JSON saved, pending ViewComfy integration.
+
+## 🗓️ Senator Ops Calendar App (2026-08-18) 🟡
+- Larry wants a calendar app: all due dates, bills, nurse visits, interviews, payroll in one popup.
+- Data package built: `Desktop/Calendar-App/app_data.json` (10 bills, 38 nurse visits, 3 interviews, 57 payroll calls, 28 transport billing, 188 events total).
+- Exports: 4 ICS calendars (Home, Payroll Shifts, Bills, Nurse Visits) on 3060 + workspace/calendar-export/.
+- Next: pick platform (Flutter/web) when Larry's ready.
