@@ -6,6 +6,54 @@
 
 ---
 
+## ⚠️ TB Screening Requirement (2026-08-24) — WHERE IT COMES FROM
+
+**Source: S.C. Code Regs. Ch. 61, §61-122-400 (Health Status)** — state law, NOT from our training packet.
+
+> **A.** All staff/caregivers who have contact with clients must have a **health assessment within 12 months prior to initial client contact**, which **shall include tuberculosis screening** per CDC / DPH current TB guidelines.
+> **B.** In-home care providers conduct an **annual TB risk assessment** (Appendix) to set screening frequency.
+
+**What it means for us (plain English):**
+- TB screening is **built into the new health assessment** (the one Chanel/RN signs) — not a separate standalone test.
+- **New hire:** baseline TB screen **before any client contact**. Baseline = **2-step PPD (TST) or single blood assay (IGRA/QuantiFERON)**. A documented negative in the last 12 months → single test suffices.
+- **After hire:** **NO annual TB test in low-risk setting** — just the **annual risk assessment**.
+- **Positive test / symptoms** → chest X-ray + medical evaluation.
+- **Where to get:** primary care, urgent care, occupational health, public health clinic, or CVS/Walgreens clinic. **QuantiFERON (IGRA blood draw)** = fastest for new hires (no 48-hr return like PPD).
+- **Status (08-24):** 🔴 **2 new hires need baseline TB screen before client contact** — need to figure out how/where to run it (NOT yet scheduled).
+
+---
+
+## 📄 Medicaid Contract Renew — C 9 8177 C (2026-08-24)
+
+**Status: Prestigious Home Care — Contract # `C 9 8177 C`, start date 07/01/2026** (new contract; old was `C 3 8177 C` 2020–2023).
+
+**Source emails (company Gmail inbox, found via iMac Mail):**
+- `[SCREEN] Review DHHS Contract C 9 8177 C` — Wed Jun 24 2026 (asked sign+return by 07/08/2026)
+- `Please Respond Regarding Contract C 9 8177 C` — Thu Jul 9 2026 (awaiting response) ← current input
+- Sent by **CLTC_Contracts@scdhhs.gov**, body has an **"Open Contract" link**.
+
+**The problem:** "Open Contract" link doesn't open — it's a **session-linked/token-bound** link into the **SCDHHS Contract Management System (CMS)** hosted at **scdhhs.acentra.com**. Only works logged-in.
+
+**Access:** No CMS login saved on the Mac (no saved creds, no open portal tab). Owner doesn't have the CMS login.
+
+**Contact/owner (from email address):** sending as **Dinasti Jones — Owner, Prestigious Home Care** (owner of record). Routing email pinned to **prestigioushomecare1306@gmail.com**.
+
+**Larry's constraint:** ☎️ **CANNOT call — EMAIL ONLY.**
+
+**Email to send (draft ready):**
+> **To:** ContractManagementSystem@scdhhs.gov
+> **CC:** CLTC_Contracts@scdhhs.gov , SCproviderissues@acentra.com
+> **Subject:** Requesting access to contract C 9 8177 C — Prestigious Home Care
+>
+> To the SCDHHS Contract Management Team: We received the notice to review and sign **Contract C 9 8177 C** (Prestigious Home Care, start 07/01/2026). The "Open Contract" link in the email doesn't open for us. We need help accessing it in the Contract Management System (CMS) to review, sign, and return. Please either: (1) provide CMS login credentials/access, (2) send the contract + required forms directly (email attachment if possible), or (3) confirm if a paper copy will be mailed. Provider: Prestigious Home Care. Contract #: C 9 8177 C. Start: 07/01/2026. Thank you.
+
+**Support emails (use these, no calls):** ContractManagementSystem@scdhhs.gov · CLTC_Contracts@scdhhs.gov · SCProviderIssues@acentra.com
+**Support phones (Larry CAN'T call):** 864-660-4200 (CMS team) · 803-898-0376 (forms) · 855-326-5219 (Acentra)
+
+**⏰ Deadline flagged:** forms were due 07/08/2026 per 6/24 email — already past. Need to email ASAP to get access and complete.
+
+---
+
 ## 1. Daily start — Email triage (the 12-ish inbox shuffle)
 
 - **Accounts:** Company Gmail (sen/company), a separate **Florida** email (usually junk — hover the tab to see "Prestigious/HFL"), Phoenix notifications ("no-reply Phoenix").
@@ -167,6 +215,8 @@ Two folders per employee: one for the **client** side (no tab) and one tabbed (*
 ---
 
 ## 12. Open follow-ups from this session
+- **TB testing for new employees** — need to figure out HOW to get it done (NOT yet signed up). 2 new hires need it today (2026-08-24). Research: where to run TB tests, cost, who signs off (Chanel/RN?), timeline before they clock in. ⚠️ This is the active blocker — needs a process.
+- **Simple competency test** to develop — something trainable/lendable to employees so **Chanel (RN) can sign off** quickly. (Adults = you can sign as instructor+evaluator; keep it simple.)
 - Verify **competency / missing signatures** flagged in the training (some files need getting back to Chanel/employees).
 - Confirm the **Sept 9 in-service** deadline messaging goes out.
 - Figure out the **ADP off-site access** problem (Larry's pain point: wants to help from home when they call).
