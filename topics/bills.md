@@ -6,6 +6,7 @@ Tracker for Senator Transportation LLC (and related) bills Larry flags. Reminder
 | Item | Policy # | Amount | Key Dates | Status |
 |------|----------|--------|-----------|--------|
 | ~~Biberk — Workers Comp~~ (Senator Transportation) | N9WC796997 | $517.42 | — | ✅ **PAID 8/18** |
+| **Biberk — Workers Comp** (recurring MONTHLY) | N9WC796997 (ends 96997) | $517.42 | **due before 9/24** (monthly) | 🔁 monthly |
 | ~~Spectrum Internet~~ | — | $361.90 (full) | — | ✅ **PAID 8/18** |
 
 ## Standard
@@ -23,6 +24,6 @@ Tracker for Senator Transportation LLC (and related) bills Larry flags. Reminder
 - Biberk acct w/ N9WC796997 (the cancel-risk one): **864-631-3537**
 
 ## Notes
-- Biberk N9WC796997 cancel date 9/2 is the hard deadline — payment needs to post before then.
+- Biberk N9WC796997 = **$517.42 MONTHLY** (confirmed 8/25) — next due before 9/24. The 8/18 payment covered the 8/26 invoice; treat as recurring monthly. Cancel risk was 9/2 for the prior invoice — keep current one paid.
 - Spectrum: flag if service drops — office internet critical for dispatch/billing.
 - USLI AH 1563617C: three $902 payments (11/9/26, 1/8/27, 3/9/27).

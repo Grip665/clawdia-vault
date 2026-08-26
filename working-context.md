@@ -1,9 +1,8 @@
 # Working Context
 
-## Current Session (2026-08-24 14:00 EDT)
-- 2 PM auto-save complete. Graphify (2787 nodes) + CAROL backup done. No git push (Monday).
-- ⚠️ **TODAY = HARD DEADLINE: Christina access removal (end of Mon 08-24).** Already behind (she left 8/14). No progress logged since 8 AM — flag to Larry if not started.
-
+## Current Session (2026-08-25 02:00 EDT)
+- 2 AM auto-save complete. Graphify (2923 nodes) + CAROL backup done. No git push (Tuesday).
+- ⚠️ **Christina access removal HARD DEADLINE (end Mon 08-24) came & went — NO completion logged.** Must flag to Larry first thing.
 ## Carryover from 08-23 (still active)
 - Bills: Verizon Connect $116.95 (due 9/16, reminder 9/14). Biberk N9WC080186 $524.63 due 9/13. UIA $902.20 due 11/09. Biberk N9WC796997 + Spectrum = PAID (08-18).
 - Nurse visits: 38 clients scheduled (next-visit dates), export to iMac "Nurse Visits" calendar + sorted CSV → 3060. Sept/Oct clusters logged.
@@ -22,4 +21,4 @@
 7. **Watch:** Ayva laptop deals (Steam Deck LCD used = best lead), Real-Toolkit expires 08-29, GV phone num.
 
 ## Idle states
-- 2 PM auto-save 08-24 complete. Awaiting Larry on Christina access removal (HARD DEADLINE today).
+- 2 AM auto-save 08-25 complete. Awaiting Larry on Christina access removal (deadline passed 08-24 — still unresolved).
