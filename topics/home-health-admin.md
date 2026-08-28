@@ -274,10 +274,19 @@ Separate file: `references/home-health-admin/task-backlog.md` (captured 2026-08-
 - **Carolyn Kantor** (#9713910, Startex, dentist 11a Spartanburg) — ✅ **COVERED by Mag** (Tue 8/18 9:30a–1:30p, car needed — confirmed).
 - **Mason James** (#9954485, 75 Flair Ct, Spartanburg, CPCA child, needs car for therapy) — ⏳ Tue 8/18 2p–5p+ — mass text out; call order: Jennifer Boyd (864)621-7884 → Asya Clarke (864)658-6702 → Stella Horne 864-410-8148 → Monica Hankerson 803-480-0847 → Chanelle Allen 864-529-5567 (verify DL).
 - **Cohen weekend** (Manuela #9861304, Greenville, Fri 9a–1p / Sat 8:30a–3p / Sun 8:30a–2p) — ⏳ still time to fill; Colderwood covered extended hrs this past weekend (missed-visit resolutions = her pay).
-- **Carolyn Babb** (#9788651, 653 Ruddy Creek Circle, Greer, (704)657-5737) — ⏳ **needs MWF coverage** — DETAILS NEEDED (times, regular aide, which weeks).
+- **Carolyn Babb** (#9788651, 653 Ruddy Creek Circle, Greer, (704)657-5737) — coverage (8/27): first new aide started & quit next day; **Carolyn Colderwood** taking over **Mon & Wed**.
 - Hiring: all interviews no-show so far (Dominique, Anastasia). Destinee tomorrow 10:30a. One trainee hired w/ full docs then ghosted calls — process her out when identified.
 
 **Coverage board update (22:45):**
 - **Kantor** — ✅ **Mag herself** is taking her (Tue 8/18, dentist run). Done.
 - **Mason Tue 8/18 2–5p** — plan: **Carolyn Colderwood (his regular aide) via Uber** — best outcome (mom comfortable with her). Book Uber + confirm Colderwood availability. ⚠️ No car at Mason → any therapy transport needs separate arrangement (Uber/WellRyde) if needed that day.
 - **Boyd profile:** ONLY easy adults, Spartanburg area, NO toileting/bathing (companion-level only). She's a narrow-fit fill-in — don't offer her anything else.
+
+## 2026-08-27 — Nurse Visit Compliance system
+- Provider Activity combined report (SUPV+PCS+CPCA, all workers) = ONE report per half-year carries nurse (SUPV) + aide (PCS/CPCA) data.
+- **Always use the HTML payload (full roster), NOT the CSV (filtered subset).**
+- Matcher rule (Larry-confirmed): GO = aide clock-in ≤ nurse visit +35min. Strict; no 1-min fudge.
+- Builder: `references/home-health-admin/nurse-visit-tool/build_nurse_visit_chart.py` (repeatable, overwrites same workbook in place).
+- Totals: 2025 = 17 GO/42/38; 2026 = 10 GO/30/27.
+- Workbooks + FULL html + Chanelle printable list in 3060 `Desktop\Home Care documents\Nurse_visits_of_future_past\`.
+- Full protocol in `skills/provider-phoenix-automation/SKILL.md`.
