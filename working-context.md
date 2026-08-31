@@ -1,8 +1,8 @@
 # Working Context
 
-## Current Session (2026-08-28 02:00 EDT)
-- 2 AM auto-save complete. Daily notes created (memory + vault) from 08-27 carryover. Friday — no git push.
-- ⏰ Real-Debrid expires 08-29 (tomorrow) — remind Larry.
+## Current Session (2026-08-30 02:00 EDT)
+- 2 AM auto-save complete. Sunday — git push done. Quiet night; MC batch finished 08-29 21:56.
+- ⏰ Real-Debrid expired 08-29 — renew only if Larry wants it.
 - ⚠️ **Christina access removal HARD DEADLINE (end Mon 08-24) came & went — STILL NO completion logged.** Must flag to Larry first thing.
 - 🟡 **Revalidation (Prestigious Home Care)**: Reval # still missing; 30-day owner letter clock active. Path: inbox search / PSC (888) 289-0709 option 4.
 
@@ -22,4 +22,7 @@
 6. **Watch:** Real-Debrid expires 08-29, Ayva laptop deals, GV phone num.
 
 ## Idle states
-- 2 AM auto-save 08-28 complete. Awaiting Larry on Christina access removal (deadline passed 08-24 — unresolved) + Revalidation #.
+- 2 AM auto-save 08-30 complete. Awaiting Larry on Christina access removal (deadline passed 08-24 — unresolved) + Revalidation #.
+## Idle (2026-08-30 22:00)
+- 10 PM auto-save done: daily notes updated, graphify 3119 nodes, git pushed, CAROL_FORM_MAP → Desktop.
+- Still open: 🔴 Christina access removal (deadline passed), 🟡 Revalidation #, ⏰ Real-Debrid lapsed.
