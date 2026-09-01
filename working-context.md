@@ -26,3 +26,6 @@
 ## Idle (2026-08-30 22:00)
 - 10 PM auto-save done: daily notes updated, graphify 3119 nodes, git pushed, CAROL_FORM_MAP → Desktop.
 - Still open: 🔴 Christina access removal (deadline passed), 🟡 Revalidation #, ⏰ Real-Debrid lapsed.
+## Idle (2026-08-31 14:00)
+- 2 PM auto-save done: daily synced to vault (103 lines), graphify 3261 nodes, CAROL_FORM_MAP → Desktop. Not Sunday — no git push.
+- Open: 🎙️ voice project (awaiting Twilio SID/AuthToken + Gemini key from Larry; tailscaled boot-enable pending), 🔴 Christina removal (deadline passed 08-24), 🟡 Revalidation #, CHAP bill = Miami venture (don't pay, call CHAP 202-221-7655), 📋 Disaster Plan form (R.60-122) gap.
