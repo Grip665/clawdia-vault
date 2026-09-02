@@ -29,3 +29,10 @@
 ## Idle (2026-08-31 14:00)
 - 2 PM auto-save done: daily synced to vault (103 lines), graphify 3261 nodes, CAROL_FORM_MAP → Desktop. Not Sunday — no git push.
 - Open: 🎙️ voice project (awaiting Twilio SID/AuthToken + Gemini key from Larry; tailscaled boot-enable pending), 🔴 Christina removal (deadline passed 08-24), 🟡 Revalidation #, CHAP bill = Miami venture (don't pay, call CHAP 202-221-7655), 📋 Disaster Plan form (R.60-122) gap.
+## Idle (2026-09-01 02:00)
+- 2 AM auto-save done: daily synced to vault, graphify 3269 nodes (3416 edges), CAROL_FORM_MAP → Desktop. Not Sunday — no git push.
+- Overnight (08-31→09-01): 2023 matcher complete (139 visits: 13 GO / 36 POSSIBLE / 90 NO-GO; ⚠️ Jan-Apr gap — 8644597 has no PCS rows, need Larry to re-run SUPV+PCS+CPCA no-worker-filter). Planner v2 deployed (4 tabs: All/Provider/Case Mgr/Clothing) on HP + 3060. ADP tax-status change ⏰ Tue 9/1 11:30 AM.
+## Idle (2026-09-01 14:00)
+- 2 PM auto-save done: daily notes synced (memory + vault match), graphify 3270 nodes, CAROL_FORM_MAP → Desktop. Not Sunday — no git push.
+- ADP tax-status reminder (11:30 AM) delivered + cron cleaned up. Labor Day Modivcare reroute reminders armed (9/2 eve, 9/3 AM, 9/6, 9/7).
+- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597 with SUPV+PCS+CPCA no-worker-filter), 🎙️ voice project (awaiting Twilio SID/AuthToken + Gemini key).

@@ -2,6 +2,16 @@
 
 **Format:** `YYYY-MM-DD — What happened — What I learned`
 
+## 2026-09-01 — False “missing disaster plan” flag
+- Told Larry the binder was missing an agency-level disaster plan form (Tab 4 references D-1/D-2/D-1C but Claude's forms pack only has Attachment E). Larry: "I thought we already had the disaster plan." He was right — **PHC-Disaster-Plan.docx** (built 8/31, branded) already contains **Form D-1 (Agency Disaster Plan), Form D-2 (Emergency Numbers & Notification Log), and Form D-1C (client copy + acknowledgment)** — effective 8/31/2026, review 8/31/2027, Nurse Supervisor Chanelle Allen RN. It was sitting in the compliance folder + 3060 the whole time.
+  → **Fix:** Corrected to Larry; no action needed — Tab 4 fully covered.
+  → **Lesson:** Before flagging a "missing form," CHECK THE EXISTING DOCUMENTS in the compliance folders (Disaster-Plan-Forms/, Employee Files - Compliance/) — not just Claude's latest pack. I only looked at the new forms pack and forgot the standalone Disaster Plan doc. When in doubt, unzip and read the docx before telling Larry something's missing.
+
+## 2026-09-01 — "Connecticut DPH" label in Claude package PROMPT
+- I wrote the cover note in `DPH_Compliance_Claude_Package/PROMPT.md` calling Prestigious Home Care "a Connecticut DPH-licensed home care agency." Wrong — the agency is **South Carolina** (SC DPH, R.60-122, SLED/IdentoGO, Mauldin/Greenville, S.C. Code §43-35). Claude caught the mismatch and, correctly, refused to ignore it — treated it as a template artifact and built the redesign as SC.
+  → **Fix:** PROMPT.md now says South Carolina (both references); zip re-packaged.
+  → **Lesson:** Always state jurisdiction from primary sources (vault, regs, checklists) — never from assumption. If I'd copied the SC reg citation into the prompt the first time, Claude wouldn't have had to flag it. When building compliance packages, jurisdiction is a load-bearing detail: double-check before sending.
+
 ## 2026-07-13
 - **Memory wipe** — Context pruning during long Vegas session wiped 9.9MB of trajectory. Had to reconstruct from logs.
   → **Fix:** Implemented Phase 1 Hindsight tuning + Phase 2 Obsidian vault. Now writing to vault mid-session.
