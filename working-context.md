@@ -36,3 +36,13 @@
 - 2 PM auto-save done: daily notes synced (memory + vault match), graphify 3270 nodes, CAROL_FORM_MAP → Desktop. Not Sunday — no git push.
 - ADP tax-status reminder (11:30 AM) delivered + cron cleaned up. Labor Day Modivcare reroute reminders armed (9/2 eve, 9/3 AM, 9/6, 9/7).
 - Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597 with SUPV+PCS+CPCA no-worker-filter), 🎙️ voice project (awaiting Twilio SID/AuthToken + Gemini key).
+## Idle (2026-09-02 02:00)
+- 2 AM auto-save done: 09-02 daily notes created (memory + vault match). Graphify update ran, CAROL_FORM_MAP → Desktop. Wednesday — no git push.
+- Overnight 09-01→02: Participant Folder Kit v2 PDF rebuilt (letter, 18p, 489KB — header wrap fixed) + pushed to 3060 00:48. Claude P&P deliverables verified (all checklists covered, 12 attachments, binder index) — print gates: brackets pending (admin = Dinasti Jones ✅; cadence, testing freq, refund threshold, grievance window, DPH contact, cover dates still open).
+- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation #, ⚠️ 2023 Jan-Apr nurse-visit gap, 🎙️ voice project (missing Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap.
+- Reminders armed: Modivcare 9/2 eve + 9/3 AM + 9/6 + 9/7.
+## Idle (2026-09-02 22:00)
+- 10 PM auto-save done: vault daily synced from memory (added 3:40 PM CAROL SP ✅ tally 75, 6:17 PM Labor Day prep reminder, 6:55 PM DPH Compliance Forms rebuilt — 17 forms/35 files, 8:30 PM CLTC carve-in re-check no changes). Graphify: 3438 nodes, 3576 edges. CAROL_FORM_MAP → Desktop (60KB). Wednesday — no git push.
+- Today done: Sukedra Ratliff SP autofill ✅ (new plan 1814813, SP 886421, tally 75), Activities Tasksheets sorted (86 recs/33 clients), DPH forms rebuilt Christina-style, CLTC monthly re-check clean.
+- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, DPH manual print gates (brackets/cadence/testing freq/refund threshold/grievance window/DPH contact/cover dates).
+- Reminders armed: Modivcare reroute Thu 6:15 AM + morning 10:15 AM; Labor Day service day 9/7.

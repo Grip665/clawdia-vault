@@ -58,6 +58,9 @@ HIV/AIDS waiver, Vent waiver, Community Choices (CC) waiver, nursing facility re
 3. **CAROL skills are transferable** — case management automation is portable to any CM job;
    the Phoenix-specific parts stay useful as long as he works Medicaid CM.
 
+## 🔎 Re-check log
+- **2026-09-02 (monthly):** Re-verified carve-in page + FAQs — NO changes. Same Jan 1 2026 carve list (medical services for 18+/dual/Vent/HIV/CC waiver members), waiver case management still explicitly FFS, no new RFP/solicitation for CM services, no new updates. Status quo vs 2026-08-09 baseline.
+
 ## ⏰ Follow-ups
 - [ ] Re-check SCDHHS carve-in pages + news ~quarterly, and definitely as 2027 approaches
       (watch for: waiver case management being added to the carve list, solicitation for CM services).
