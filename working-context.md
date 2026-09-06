@@ -60,3 +60,8 @@
 - 10 PM auto-save done: daily synced to vault (memory + vault match through 21:4x), graphify 3474 nodes (3610 edges), CAROL_FORM_MAP → Desktop. Thursday — no git push.
 - Day highlights: DPH Forms v2 adopted (dated folders, 39+51 files + 2 binder PDFs → 3060), Thomas Dupree letters all 3 signed + pushed, Commercial Office Proof packet built + pushed, Raheem Ford REV assessment 1815276 filled (21 subsections; Larry = Sub 22 + final sign, tally +1 pending).
 - Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap, 🎙️ voice project (awaiting Twilio SID/AuthToken + Gemini key), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan form gap, 👔 Operating Mgr first solo day (every aide on NEW APP by Sept 9), Modivcare Labor Day 9/7 service day + reroute reminders, bills (Verizon 9/16, Biberk 9/13, UIA 11/09), license renewals (Biz 12/31/26, DPH 2/28/27) nudges armed, Clemson Plus full-year app, lapsed one-shot cron jobs pattern (b6e82ed1 + 2934ff94 vanished) ⚠️.
+
+## Idle (2026-09-05 02:00)
+- 2 AM auto-save done: 09-05 daily notes created (memory + vault match). CAROL_FORM_MAP → Desktop. Saturday — no git push.
+- Quiet overnight; no activity since 09-04 22:00.
+- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, 👔 every aide on NEW APP by Sept 9, Modivcare Labor Day 9/7 + reroute reminders (9/6, 9/7), bills (Verizon 9/16, Biberk 9/13, UIA 11/09), TB letter [Title]/[Email] → send, I-9 audit, owner occupancy letter awaiting Mag signature.
