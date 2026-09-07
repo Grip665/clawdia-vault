@@ -65,3 +65,9 @@
 - 2 AM auto-save done: 09-05 daily notes created (memory + vault match). CAROL_FORM_MAP → Desktop. Saturday — no git push.
 - Quiet overnight; no activity since 09-04 22:00.
 - Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, 👔 every aide on NEW APP by Sept 9, Modivcare Labor Day 9/7 + reroute reminders (9/6, 9/7), bills (Verizon 9/16, Biberk 9/13, UIA 11/09), TB letter [Title]/[Email] → send, I-9 audit, owner occupancy letter awaiting Mag signature.
+
+## Idle (2026-09-06 02:00)
+- 2 AM auto-save done: 09-06 daily notes created (memory + vault match). CAROL_FORM_MAP → Desktop. **Sunday — git push ran.**
+- Quiet overnight; no activity since 09-05 22:00.
+- ⏰ Modivcare Labor Day 9/7 = required service day — reminders armed for 9/6 + 9/7.
+- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, 👔 every aide on NEW APP by Sept 9, bills (Verizon 9/16, Biberk 9/13, UIA 11/09), TB letter [Title]/[Email] → send, I-9 audit, owner occupancy letter awaiting Mag signature.
