@@ -71,3 +71,10 @@
 - Quiet overnight; no activity since 09-06 22:00.
 - ⏰ Modivcare Labor Day 9/7 = REQUIRED SERVICE DAY today — reminders armed for 9/6 + 9/7.
 - Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, 👔 every aide on NEW APP by Sept 9, Modivcare Network Dev letter (Dinasti admin, Senator owner TBD), bills (Verizon 9/16, Biberk 9/13, UIA 11/09), TB letter [Title]/[Email] → send, I-9 audit, owner occupancy letter awaiting Mag signature, TorBox → Stremio wiring pending, PHC audit final phase (task-sheet corrections).
+
+## Idle (2026-09-08 02:00)
+- 2 AM auto-save done: 09-08 daily notes created (memory + vault match). Graphify ran, CAROL_FORM_MAP → Desktop. Tuesday — no git push.
+- Quiet overnight; no activity since 09-07 22:00.
+- ⚠️ **TOMORROW (Sept 9):** Operating Mgr — every aide on NEW APP deadline + AuthentiCare 3.0 / NEW APP deadline.
+- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox setup (bought 9/6), PHC audit final phase (task-sheet corrections), I-9 audit, TB confirmation letter blanks.
+- Bills: Verizon $116.95 (due 9/16, remind 9/14), Biberk N9WC080186 $524.63 (due 9/13), UIA $902.20 (11/09).
