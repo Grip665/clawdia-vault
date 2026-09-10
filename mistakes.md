@@ -49,3 +49,15 @@
 - A follow-up agent reviewed the PRIMARY docs and corrected it: the live **7-1-25** doc carries a substantive 7/1/2025 change (family-caregiver exclusion → "legally responsible adult or legal guardian"), confirmed verbatim by the official **7/1/2025 HCBS training deck**. The footer is a stale template artifact.
 - **Lesson:** the in-document footer vs. hosted-filename conflict was real, but I over-weighted the footer and the bulletin's (incomplete) summary list, and under-weighted the actual body content + training deck. Correct determination = **7/1/2025**.
 - Fixed in participant-folder-contents.md §J, memory/2026-08-12.md, and this log.
+
+## 2026-09-09 — Wrote scratch scripts to over-verify a CAROL SP fill
+- After `carol_fill_sp_disciplines.js` ran FULL SP CHAIN COMPLETE for Genette Knuckles, I created 3 ad-hoc scripts (sp_probe_ids.js, sp_verify_fast.js, sp_verify_goals_safe.js) to "double-check" rather than trusting the canonical script output.
+- Larry: "this is why we use CAROL protocol so you don't have to guess or make new processes." Correct.
+- **Fix:** Deleted all 3. Protocol rule: canonical scripts only; script output = truth; Larry reviews the form. Only exception to write anything new: Larry explicitly asks.
+
+## 2026-09-09 — Wrong SC APS hotline + broken MC questions in SCDHHS Training Kit
+- **What:** Built the SCDHHS Training Kit; my Session A reading had SC APS hotline as 1-800-898-2850 (WRONG — real number is 1-888-227-3487 / 1-888-CARE4US, SC DSS). Also, quiz questions phrased as "Which of these is neglect?" printed no answer options — aides literally couldn't answer them.
+- **Who caught it:** Claude (Larry's other AI) reviewed the kit zip.
+- **Why:** Wrote the phone number from memory/pattern instead of verifying against dss.sc.gov. Quiz format used "best answer" questions but only shipped the questions, not the options.
+- **Fix:** Deployed Claude's FIXED version (options added to all MC questions, APS number corrected, Session I dementia added so the kit covers BOTH regulators' topic lists). Memory logged.
+- **Rule:** Any phone number, citation, or regulatory reference in client-facing docs gets verified against a live source before shipping. Any multiple-choice question MUST have its options printed on the same page as the question.

@@ -78,3 +78,19 @@
 - ⚠️ **TOMORROW (Sept 9):** Operating Mgr — every aide on NEW APP deadline + AuthentiCare 3.0 / NEW APP deadline.
 - Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox setup (bought 9/6), PHC audit final phase (task-sheet corrections), I-9 audit, TB confirmation letter blanks.
 - Bills: Verizon $116.95 (due 9/16, remind 9/14), Biberk N9WC080186 $524.63 (due 9/13), UIA $902.20 (11/09).
+
+## Idle (2026-09-09 02:00)
+- 2 AM auto-save done: 09-09 daily notes created (memory + vault match). Graphify ran, CAROL_FORM_MAP → Desktop. Wednesday — no git push.
+- Quiet overnight; no activity since 09-08 22:00.
+- ⚠️ **TODAY (Sept 9):** Operating Mgr — every aide on NEW APP deadline + AuthentiCare 3.0 / NEW APP deadline. Genette Knuckles REV: Larry finishes assessment Review + Source of Info.
+- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox → Stremio wiring pending, PHC audit final phase (task-sheet corrections), I-9 audit, TB confirmation letter blanks.
+- Bills: Verizon $116.95 (due 9/16, remind 9/14), Biberk N9WC080186 $524.63 (due 9/13), UIA $902.20 (11/09).
+## Idle (2026-09-09 14:00)
+- 2 PM auto-save done: daily synced to vault (full day: employee forms filed, remit Q&A, Genette Knuckles SP fill complete, 3060 + HP desktop/downloads cleanups all done). Graphify 3782 nodes, 4007 edges. Wednesday — no git push. CAROL_FORM_MAP refreshed to Desktop.
+- Open: Sept 9 NEW APP deadline (Larry handling), Genette Knuckles REV (Larry finishing Review + Source of Info), Downloads cleanup done — HP/3060 pending follow-ups none.
+
+## Idle (2026-09-09 22:00)
+- 10 PM auto-save done: vault/daily synced to memory (full 128-line day: employee forms 13a/13b, remit Q&A, Genette Knuckles SP fill @ 21:10, 3060 + HP desktop/downloads cleanups, in-service video source verification, training guide v2, SCDHHS Training Kit built + Claude-fixed deploy, APS hotline mistake logged). Graphify update ran. Wednesday — no git push. CAROL_FORM_MAP → Desktop.
+- Today done: Sept-9 deadlines met (NEW APP deadline = all aides; Genette SP chain complete ✅ tally 45); training kit now Claude-reviewed + fixed (9 sessions A-I); 3 machines cleaned.
+- Open: 🎓 compliance folder reconciliation (DPH vs SCDHHS one-folder question, next session with Claude); 📥 Downloads phase notes done; revalidation watch informational; Claude to review SCDHHS kit = done (fixed+deployed); AuthentiCare Sept 9 deadline = passed, verify aides onboarded.
+- Reminders armed: Biberk bill $524.63 due 9/13; Verizon Connect $116.95 due 9/16 (remind 9/14).
