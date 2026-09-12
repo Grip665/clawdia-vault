@@ -94,3 +94,17 @@
 - Today done: Sept-9 deadlines met (NEW APP deadline = all aides; Genette SP chain complete ✅ tally 45); training kit now Claude-reviewed + fixed (9 sessions A-I); 3 machines cleaned.
 - Open: 🎓 compliance folder reconciliation (DPH vs SCDHHS one-folder question, next session with Claude); 📥 Downloads phase notes done; revalidation watch informational; Claude to review SCDHHS kit = done (fixed+deployed); AuthentiCare Sept 9 deadline = passed, verify aides onboarded.
 - Reminders armed: Biberk bill $524.63 due 9/13; Verizon Connect $116.95 due 9/16 (remind 9/14).
+
+## Idle (2026-09-10 02:00)
+- 2 AM auto-save done: 09-10 daily notes created (memory + vault match). Graphify ran, CAROL_FORM_MAP → Desktop. Thursday — no git push.
+- Quiet overnight; no activity since 09-09 22:00.
+- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch = informational (submission not done), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox → Stremio wiring pending, PHC audit final phase (task-sheet corrections), I-9 audit, 🎓 compliance folder reconciliation (DPH vs SCDHHS one-folder), ✅ Sept 9 NEW APP deadline passed — verify aides onboarded, Genette Knuckles REV (Larry finishing Review + Source of Info).
+- Bills: Biberk N9WC080186 $524.63 (due 9/13), Verizon $116.95 (due 9/16, remind 9/14), UIA $902.20 (11/09).
+## Idle (2026-09-10 08:00)
+- 8 AM auto-save done: daily notes matched (02:00 entry), 08:00 entry appended to both. Graphify: 448 files, 3837 nodes, no code changes. CAROL_FORM_MAP → Desktop. Thursday — no git push.
+- Quiet since 09-09 (SCDHHS Training Kit deploy + 3-machine cleanup). Open carryover: 🔴 Christina removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse gap, 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal, 📋 Disaster Plan gap, I-9 audit, compliance folder reconciliation, Genette Knuckles REV (Larry finishes assessment + Source of Info).
+## Idle (2026-09-11 10:13)
+- 10 AM auto-save done: vault/daily backfilled from memory (09-11 daily created — first heartbeat since 09-08; full SCDHHS form-filing day on 09-10: 2 competency eval forms children's + adult CLTC, both number-free headers). Graphify ran, CAROL_FORM_MAP → Desktop. Friday — no git push.
+- CLTC carve-in watch: re-checked 09-11 — NO changes (Jan 1 2026 baseline stands; area office ~July 2027 case mgmt takeover). No message sent per watch rule.
+- Payroll: weekly deposit expected today 9/11 ~$12,251.80 (EX1882, check# 8000066282). Bills: Biberk $524.63 due 9/13, Verizon $116.95 due 9/16 (remind 9/14).
+- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation watch (informational), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox → Stremio wiring pending, PHC audit final phase (task-sheet corrections), I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV (Larry finishes assessment Review + Source of Info), ❓ Adult CLTC competency form EX1882 question (only form where arguably correct — flag), 3060 offline 09-10 — push SCDHHS-Forms folder next time reachable.
