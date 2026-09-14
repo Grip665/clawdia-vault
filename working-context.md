@@ -112,3 +112,8 @@
 - 2 AM auto-save done: 09-12 daily notes created (memory + vault match). Graphify + CAROL_FORM_MAP → Desktop ran. Saturday — no git push.
 - CAROL MC batch: clients 2-23 done yesterday (tally 99); clients 24-50 (29) remaining for today.
 - Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation #, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push.
+
+## Idle (2026-09-13 22:00)
+- 10 PM auto-save done: 09-13 daily synced (memory ↔ vault, 2 AM + 2 PM + 10 PM entries). Graphify 3900 nodes, CAROL_FORM_MAP → Desktop. Sunday git push ran — nothing new, up-to-date.
+- Biberk $524.63 (N9WC080186) was due TODAY 9/13 — reminded earlier. ⏰ Verizon Connect $116.95 due 9/16 — nudge Larry 9/14 (tomorrow).
+- Open: 🔴 Christina access removal, 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap, 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients (24, 27, 30, 34, 35, 37, 38, 40-50).
