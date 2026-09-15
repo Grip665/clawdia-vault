@@ -117,3 +117,15 @@
 - 10 PM auto-save done: 09-13 daily synced (memory ↔ vault, 2 AM + 2 PM + 10 PM entries). Graphify 3900 nodes, CAROL_FORM_MAP → Desktop. Sunday git push ran — nothing new, up-to-date.
 - Biberk $524.63 (N9WC080186) was due TODAY 9/13 — reminded earlier. ⏰ Verizon Connect $116.95 due 9/16 — nudge Larry 9/14 (tomorrow).
 - Open: 🔴 Christina access removal, 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap, 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients (24, 27, 30, 34, 35, 37, 38, 40-50).
+
+## Idle (2026-09-14 02:00)
+- 2 AM auto-save done: 09-14 daily notes created (memory + vault match). Graphify running, CAROL_FORM_MAP → Desktop (60KB). Monday — no git push.
+- Quiet overnight; no activity since 09-13 22:00. Biberk $524.63 due date passed 9/13 (reminded).
+- ⏰ **Verizon Connect $116.95 due 9/16 — nudge Larry TODAY 9/14.**
+- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV (Larry finishes Review + Source of Info), ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients (24, 27, 30, 34, 35, 37, 38, 40-50).
+
+## Idle (2026-09-14 02:00)
+- 2 AM auto-save done: 09-14 daily notes created (memory + vault match). Graphify running, CAROL_FORM_MAP → Desktop (60KB). Monday — no git push.
+- Quiet overnight; no activity since 09-13 22:00. Biberk $524.63 due date passed 9/13 (reminded).
+- ⏰ **Verizon Connect $116.95 due 9/16 — nudge Larry TODAY 9/14.**
+- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients (24, 27, 30, 34, 35, 37, 38, 40-50).

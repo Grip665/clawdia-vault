@@ -55,6 +55,13 @@
 - Larry: "this is why we use CAROL protocol so you don't have to guess or make new processes." Correct.
 - **Fix:** Deleted all 3. Protocol rule: canonical scripts only; script output = truth; Larry reviews the form. Only exception to write anything new: Larry explicitly asks.
 
+## 2026-09-14 — Missed workers by only searching resolutions index
+- **What:** Larry asked if 27 workers had any Phoenix activity this year. I built a worker ID → name map from the **resolutions** files only, which only capture workers who had missed visits. 6 workers came back as "not in Phoenix." Larry manually checked 2 of them (Ladonna Foster, Debra Walton) and found both instantly with a simple Phoenix worker search.
+- **Who caught it:** Larry ("how did you miss those, I find her with simple search debra?")
+- **Why:** Resolutions only contain workers with missed visit codes — new workers with clean records never appear. I should have searched the **activities CSVs** directly by name for every person on the list, not relied on a derived index from a different report type.
+- **Fix:** When checking if someone worked, search ALL activity CSVs by name/worker ID — don't rely on the resolutions index alone.
+- **Lesson:** When asked "did X person work," search the raw data directly by name. Derived indices (resolutions, missed visits) are subsets — they exclude clean workers. Always search the superset.
+
 ## 2026-09-09 — Wrong SC APS hotline + broken MC questions in SCDHHS Training Kit
 - **What:** Built the SCDHHS Training Kit; my Session A reading had SC APS hotline as 1-800-898-2850 (WRONG — real number is 1-888-227-3487 / 1-888-CARE4US, SC DSS). Also, quiz questions phrased as "Which of these is neglect?" printed no answer options — aides literally couldn't answer them.
 - **Who caught it:** Claude (Larry's other AI) reviewed the kit zip.
