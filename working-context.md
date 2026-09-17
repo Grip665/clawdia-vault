@@ -129,3 +129,10 @@
 - Quiet overnight; no activity since 09-13 22:00. Biberk $524.63 due date passed 9/13 (reminded).
 - ⏰ **Verizon Connect $116.95 due 9/16 — nudge Larry TODAY 9/14.**
 - Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients (24, 27, 30, 34, 35, 37, 38, 40-50).
+
+## Idle (2026-09-16 02:00)
+- 2 AM auto-save done: 09-16 daily notes created (memory + vault match). CAROL_FORM_MAP → Desktop (60,437 bytes ✅). Wednesday — no git push.
+- Quiet overnight; no activity since 09-15 14:00.
+- ⏰ **Verizon Connect $116.95 due TODAY 9/16** — nudge Larry if not confirmed paid.
+- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients (24, 27, 30, 34, 35, 37, 38, 40-50).
+- Bills: Verizon $116.95 (due TODAY 9/16), Biberk $524.63 (passed 9/13, reminded), UIA $902.20 (11/09).
