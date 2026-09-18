@@ -136,3 +136,24 @@
 - ⏰ **Verizon Connect $116.95 due TODAY 9/16** — nudge Larry if not confirmed paid.
 - Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients (24, 27, 30, 34, 35, 37, 38, 40-50).
 - Bills: Verizon $116.95 (due TODAY 9/16), Biberk $524.63 (passed 9/13, reminded), UIA $902.20 (11/09).
+
+## Idle (2026-09-17 02:00)
+- 2 AM auto-save done: 09-17 daily notes synced (memory ↔ vault match, Tab 4 rebuild + HP health check entries). Graphify ran (4066 nodes, 4276 edges), CAROL_FORM_MAP → Desktop ✅. Thursday — no git push.
+- Overnight 00:40–01:50: Tab 4 Official Forms packet REBUILT (18 pages, 2.04 MB → 3060 Desktop) — removed DCN in-service form, added Children's CPCA competency from Larry's scan, merged last 2 topic pages. HP disk freed 2.3G (journal vacuum) → 92%, 7.8G free.
+- 💾 Disk still tight (7.8G free): TODO ask Larry — prune uv cache (10G archive-v0, needs brief hindsight stop) + decide on 2.9G June checkpoint (~/CAROL-checkpoints/).
+- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients.
+
+### 2026-09-17 19:15 EDT — working context update
+- 3060 current work-WiFi IP found: 192.168.1.232 (old 192.168.50.232 stale). CDP tunnel restored.
+- Provider Activity aide/client history workbook built from seven reports and pushed/verified on 3060. 2024/2025 not included in this batch and explicitly marked absent.
+
+### 2026-09-17 19:25 EDT — working context update
+- Built and pushed worker first-client contact reconciliation workbook from Provider Activity + ClaimObservations.
+- 26 target workers; 21 documented first contacts; 5 no contact rows with check-in through 09/17/2026. Remote verified byte-match.
+
+### 2026-09-17 20:05 EDT — working context update
+- Willie Johnson 9769968 tab gap fixed from 09/17 task-sheet PDF pages 8–17: added 45 authorized dates 04/29–06/30/2025; verified 30 X-days and 15 no-X days; delivered byte-verified workbook to 3060.
+
+### 2026-09-17 23:45 EDT — working context update
+- Rebuilt first-contact workbook as **PHC_Worker_First_Client_Contact_2020-2026.xlsx** (v2 builder) with 2020 A&O data + reverse ID→name fix. 22/26 have first contact; 2020 firsts: Christina Smith 09/07, Bullock 09/08, Diane Martin 09/10/2020. Delivered + hash-verified to 3060 Desktop.
+- OPEN: Larry must re-run Provider Activity for **04/01/2020–08/31/2020** using the **Service Date Range** field (8699802 was mis-fielded). Q1 2020 already proven 0 records (8699809).
