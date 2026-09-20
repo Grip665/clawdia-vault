@@ -157,3 +157,12 @@
 ### 2026-09-17 23:45 EDT — working context update
 - Rebuilt first-contact workbook as **PHC_Worker_First_Client_Contact_2020-2026.xlsx** (v2 builder) with 2020 A&O data + reverse ID→name fix. 22/26 have first contact; 2020 firsts: Christina Smith 09/07, Bullock 09/08, Diane Martin 09/10/2020. Delivered + hash-verified to 3060 Desktop.
 - OPEN: Larry must re-run Provider Activity for **04/01/2020–08/31/2020** using the **Service Date Range** field (8699802 was mis-fielded). Q1 2020 already proven 0 records (8699809).
+
+## Idle (2026-09-19 02:00)
+- 2 AM auto-save done: 09-19 daily notes created (memory + vault match). Graphify ran, CAROL_FORM_MAP → Desktop. **Saturday — no git push.**
+- Quiet overnight; no activity since 09-18 22:00 sync (last real work: 09-18 15:26 — 34 Backup Plan PDFs to 3060).
+- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, 🔄 PHC audit re-run 04/01–08/31/2020 Service Date Range (8699802), 4 workers no first-contact (Austin Madison, Dixon Miesha, Hankerson Monica, Medina Lakeisha), 💾 HP disk ~7.8G free (uv cache prune + 2.9G checkpoint TODO w/ Larry), CAROL MC ~20 clients remaining, bills (Verizon 9/16 confirm, UIA 11/09).
+## Idle (2026-09-19 22:00)
+- 10 PM auto-save done: daily notes synced (memory + vault match), graphify 4437 nodes / 4701 edges (503 files), CAROL_FORM_MAP → Desktop. Saturday — no git push.
+- Today: HP disk cleanup (uv cache freed 26.7 GiB, 85%/14G free), cron fixes (memory-save jobs 600s, CAROL graph 900s, spend watch → openrouter/auto), OpenRouter spend decision (keep $5.00 threshold, ~$9/day run-rate, monitor 4h).
+- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap, 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, PHC audit re-run (Service Date Range 04/01-08/31/2020), 4 workers w/o first-contact rows, CAROL MC remaining ~20 clients, Verizon bill confirm paid.
