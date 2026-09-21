@@ -166,3 +166,12 @@
 - 10 PM auto-save done: daily notes synced (memory + vault match), graphify 4437 nodes / 4701 edges (503 files), CAROL_FORM_MAP → Desktop. Saturday — no git push.
 - Today: HP disk cleanup (uv cache freed 26.7 GiB, 85%/14G free), cron fixes (memory-save jobs 600s, CAROL graph 900s, spend watch → openrouter/auto), OpenRouter spend decision (keep $5.00 threshold, ~$9/day run-rate, monitor 4h).
 - Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap, 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, PHC audit re-run (Service Date Range 04/01-08/31/2020), 4 workers w/o first-contact rows, CAROL MC remaining ~20 clients, Verizon bill confirm paid.
+
+## Idle (2026-09-20 02:00)
+- 2 AM auto-save done: 09-20 daily notes created (memory + vault match). Graphify ran, CAROL_FORM_MAP → Desktop. **Sunday — git push.**
+- Quiet overnight; no activity since 09-19 22:00 (HP disk cleanup 26.7G freed, cron fixes, OpenRouter spend decision keep $5.00/4h monitor).
+- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, PHC audit re-run (Service Date Range 04/01-08/31/2020), 4 workers w/o first-contact rows, CAROL MC ~20 clients remaining, Verizon bill confirm paid, UIA 11/09.
+## Idle (2026-09-20 22:00)
+- 10 PM auto-save done: daily synced to vault (Vance + Beeks sections added), graphify pending, CAROL_FORM_MAP → Desktop, Sunday git push.
+- Today done: Jev decision model live (typesafe/jev-1.13, $0.000018/call), Sept visit schedule v2 (15 QVs, Mon-Fri by 9/25, buffer Sat 9/26), Vance Telegram wired (@Vance_665bot) + claw-hermes brief, Beeks removed from PHC manuals (Dinasti sole admin).
+- 🔜 Monday: verify address flags in Phoenix (Fidel Thompson 515 Webster Rd, Grubbs Hodgens/Hodges, Michille James area); R.60-122 Disaster Plan gap; Christina removal still unresolved.
