@@ -33,3 +33,14 @@
 ## 2026-06-26 — Claude Code Leak
 - **Source acquired** — leaked source from March 31 npm leak, ~3,800 TypeScript files
 - **Use:** Reference for CAROL development
+
+## 2026-09-21 — PHC Planner: canonical store + host
+- **D1:** `sync.db` (change-log protocol) becomes the single canonical store for tasks/reminders. Control Center becomes a *client*, not an owner. (Vance's call, concurred.)
+- **D2:** Host = **HP, not the 3060.** Reason: the 3060's absence caused the outage; hosting canon there ports the disease. `phc-sync.service` is a systemd unit → fits the HP as-is. Python is already first-class on the HP (voice bridge).
+- **D3:** **No Caddy/TLS.** ZeroTier is already encrypted; native Flutter app needs no trusted cert. Drops a dependency + CA-distribution chore.
+- **D4:** Data rule — initials/internal IDs only in task text, never names/Medicaid/diagnoses. Cheapest compliance control; applies to agent + phone + dashboard + off-site backups.
+- **D5:** Control Center repoint is **read AND write** (not read-only). Read-only would freeze the Provider/Case Manager/Clothing tabs; leaving writes on the old store would recreate drift. Sections map to the sync schema's `category` field.
+- **Bugs found by reading code (neither review caught):** B1 no reminder cascade on task delete → orphaned alarms still fire; B2 `due_at` sorts as raw text across mixed UTC offsets → normalize to UTC on write.
+- Artifact verified identical by two independent audits (8/8 SHA256 match). 22 tests pass here too.
+- Doc: `~/Desktop/PHC-Planner/PHC-Planner-Migration-and-Interface-Contract.md`
+- **B1/B2 fixed + staged** (2026-09-21 late): `~/Desktop/PHC-Planner/server/` — cascade tombstone on task delete (client) + server guard rejecting reminders pointing at deleted tasks; UTC normalization on datetime write. Proven fail-on-original (3 failed) → pass-on-fixed (25 passed). Nothing deployed.

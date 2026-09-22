@@ -1,177 +1,40 @@
 # Working Context
 
-## Current Session (2026-08-30 02:00 EDT)
-- 2 AM auto-save complete. Sunday — git push done. Quiet night; MC batch finished 08-29 21:56.
-- ⏰ Real-Debrid expired 08-29 — renew only if Larry wants it.
-- ⚠️ **Christina access removal HARD DEADLINE (end Mon 08-24) came & went — STILL NO completion logged.** Must flag to Larry first thing.
-- 🟡 **Revalidation (Prestigious Home Care)**: Reval # still missing; 30-day owner letter clock active. Path: inbox search / PSC (888) 289-0709 option 4.
+**Updated:** 2026-09-21 22:30 EDT
+**State:** IDLE (awaiting Larry)
 
-## Carryover (active)
-- Bills: Verizon Connect $116.95 (due 9/16, remind 9/14). Biberk N9WC080186 $524.63 due 9/13. UIA $902.20 due 11/09. Biberk N9WC796997 + Spectrum = PAID (08-18).
-- Nurse visits: 38 clients scheduled; export to iMac "Nurse Visits" calendar + sorted CSV → 3060.
-- Calendar-App idea: ops dashboard.
-- Modivcare Labor Day 9/7 = required service day (reroutes Thu 9/3 AM; Jalen Brooks contact).
-- Clemson license plate ordered 08-24 (SCDMV $70/2yr, personal). Contract 8177 C owner = Dinasti Jones.
+## Just completed
+- Read the forwarded Claude build zip (8 files) + Vance's audit doc + Planner_app doc.
+- Verified all 8 SHA256 hashes match Vance's table → same artifact, two independent audits.
+- Ran the suite on the HP: **22 passed** (101s vs Vance's 2.34s — fsync/disk, not a defect).
+- Wrote **PHC-Planner-Migration-and-Interface-Contract.md** (Desktop/PHC-Planner/ + workspace).
 
-## Active Tasks
-1. **⚡ HARD DEADLINE (passed 08-24) — Christina removal:** Phoenix, Medicaid portal, WellRyde. Owner (Danielle Jones) login first with email Christina can't access. Checklist: Desktop/Billing-Training/scopes-and-admin-swap-2026-08-19.md
-2. **🎯 Operating Mgr first solo day** — staff clients w/ aides, hiring, call-outs, payments, payroll. HARD DEADLINE: every aide on NEW APP by Sept 9.
-3. **CAROL:** narratives as Larry assigns (tally 45). FORM_MAP current; one nohup carol.js instance.
-4. **Home Health:** AuthentiCare 3.0 / NEW APP deadline Sept 9; REV assessments; nurse visits (38 clients).
-5. **Clemson Plus:** apply full year (ref #76743065); Destiney accept/decline Direct Loans.
-6. **Watch:** Real-Debrid expires 08-29, Ayva laptop deals, GV phone num.
+## Decisions locked
+D1 canonical = sync.db · D2 host = HP not 3060 · D3 no Caddy · D4 initials-only
+data rule · D5 CC repoint = read AND write. Details in vault/decisions-log.md.
 
-## Idle states
-- 2 AM auto-save 08-30 complete. Awaiting Larry on Christina access removal (deadline passed 08-24 — unresolved) + Revalidation #.
-## Idle (2026-08-30 22:00)
-- 10 PM auto-save done: daily notes updated, graphify 3119 nodes, git pushed, CAROL_FORM_MAP → Desktop.
-- Still open: 🔴 Christina access removal (deadline passed), 🟡 Revalidation #, ⏰ Real-Debrid lapsed.
-## Idle (2026-08-31 14:00)
-- 2 PM auto-save done: daily synced to vault (103 lines), graphify 3261 nodes, CAROL_FORM_MAP → Desktop. Not Sunday — no git push.
-- Open: 🎙️ voice project (awaiting Twilio SID/AuthToken + Gemini key from Larry; tailscaled boot-enable pending), 🔴 Christina removal (deadline passed 08-24), 🟡 Revalidation #, CHAP bill = Miami venture (don't pay, call CHAP 202-221-7655), 📋 Disaster Plan form (R.60-122) gap.
-## Idle (2026-09-01 02:00)
-- 2 AM auto-save done: daily synced to vault, graphify 3269 nodes (3416 edges), CAROL_FORM_MAP → Desktop. Not Sunday — no git push.
-- Overnight (08-31→09-01): 2023 matcher complete (139 visits: 13 GO / 36 POSSIBLE / 90 NO-GO; ⚠️ Jan-Apr gap — 8644597 has no PCS rows, need Larry to re-run SUPV+PCS+CPCA no-worker-filter). Planner v2 deployed (4 tabs: All/Provider/Case Mgr/Clothing) on HP + 3060. ADP tax-status change ⏰ Tue 9/1 11:30 AM.
-## Idle (2026-09-01 14:00)
-- 2 PM auto-save done: daily notes synced (memory + vault match), graphify 3270 nodes, CAROL_FORM_MAP → Desktop. Not Sunday — no git push.
-- ADP tax-status reminder (11:30 AM) delivered + cron cleaned up. Labor Day Modivcare reroute reminders armed (9/2 eve, 9/3 AM, 9/6, 9/7).
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597 with SUPV+PCS+CPCA no-worker-filter), 🎙️ voice project (awaiting Twilio SID/AuthToken + Gemini key).
-## Idle (2026-09-02 02:00)
-- 2 AM auto-save done: 09-02 daily notes created (memory + vault match). Graphify update ran, CAROL_FORM_MAP → Desktop. Wednesday — no git push.
-- Overnight 09-01→02: Participant Folder Kit v2 PDF rebuilt (letter, 18p, 489KB — header wrap fixed) + pushed to 3060 00:48. Claude P&P deliverables verified (all checklists covered, 12 attachments, binder index) — print gates: brackets pending (admin = Dinasti Jones ✅; cadence, testing freq, refund threshold, grievance window, DPH contact, cover dates still open).
-- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation #, ⚠️ 2023 Jan-Apr nurse-visit gap, 🎙️ voice project (missing Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap.
-- Reminders armed: Modivcare 9/2 eve + 9/3 AM + 9/6 + 9/7.
-## Idle (2026-09-02 22:00)
-- 10 PM auto-save done: vault daily synced from memory (added 3:40 PM CAROL SP ✅ tally 75, 6:17 PM Labor Day prep reminder, 6:55 PM DPH Compliance Forms rebuilt — 17 forms/35 files, 8:30 PM CLTC carve-in re-check no changes). Graphify: 3438 nodes, 3576 edges. CAROL_FORM_MAP → Desktop (60KB). Wednesday — no git push.
-- Today done: Sukedra Ratliff SP autofill ✅ (new plan 1814813, SP 886421, tally 75), Activities Tasksheets sorted (86 recs/33 clients), DPH forms rebuilt Christina-style, CLTC monthly re-check clean.
-- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, DPH manual print gates (brackets/cadence/testing freq/refund threshold/grievance window/DPH contact/cover dates).
-- Reminders armed: Modivcare reroute Thu 6:15 AM + morning 10:15 AM; Labor Day service day 9/7.
-## Idle (2026-09-03 02:00)
-- 2 AM auto-save done: 09-03 daily notes created (memory + vault match). Graphify ran, CAROL_FORM_MAP → Desktop. Thursday — no git push.
-- Quiet overnight; no activity since 09-02 22:00.
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, DPH print gates (brackets/cadence/testing freq/refund threshold/grievance window/DPH contact/cover dates).
-- Reminders armed: Modivcare reroute Thu 6:15 AM + 10:15 AM; Labor Day service day 9/7.
+## Blockers
+- **3060 offline** (`No route to host`) → cannot export the 25 tasks + 7 reminders.
+  Only Clawdia can produce that export (needs the existing schema). Waiting on the box.
 
-## Idle (2026-09-03 14:00)
-- 2 PM auto-save done: vault daily backfilled with 10:15 (2nd Modivcare vanish) + 12:35 (DPH Forms v2) entries from memory. Graphify + CAROL backup ran.
-- Big day: DPH Forms v2 adopted (dated folders, 39+51 files + 2 binder PDFs pushed to 3060); 2 Modivcare one-shot reminders vanished (pattern flagged).
-- Open: same carryover list + 3 attorney flags on DPH v2 (ADA pre-hire Qs, FLSA $7.25, non-compete→non-solicitation); Privacy Officer name/phone blank.
-## Idle (2026-09-03 22:00)
-- 10 PM auto-save done: daily synced to vault (memory + vault match through 21:4x), graphify 3474 nodes (3610 edges), CAROL_FORM_MAP → Desktop. Thursday — no git push.
-- Day highlights: DPH Forms v2 adopted (dated folders, 39+51 files + 2 binder PDFs → 3060), Thomas Dupree letters all 3 signed + pushed, Commercial Office Proof packet built + pushed, Raheem Ford REV assessment 1815276 filled (21 subsections; Larry = Sub 22 + final sign, tally +1 pending).
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap, 🎙️ voice project (awaiting Twilio SID/AuthToken + Gemini key), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan form gap, 👔 Operating Mgr first solo day (every aide on NEW APP by Sept 9), Modivcare Labor Day 9/7 service day + reroute reminders, bills (Verizon 9/16, Biberk 9/13, UIA 11/09), license renewals (Biz 12/31/26, DPH 2/28/27) nudges armed, Clemson Plus full-year app, lapsed one-shot cron jobs pattern (b6e82ed1 + 2934ff94 vanished) ⚠️.
+## Next
+1. Export 25 tasks + 7 reminders once 3060 is up.  <- still blocked
+2. ~~Fix B1 + B2~~ DONE — staged in ~/Desktop/PHC-Planner/server/, 25 tests pass.
+3. Deploy on HP: PHC_SYNC_PORT=8766, protect from RAM watchdog, verify reboot + loopback-only.
+4. Repoint Control Center tasks/reminders slice (read AND write).
 
-## Idle (2026-09-05 02:00)
-- 2 AM auto-save done: 09-05 daily notes created (memory + vault match). CAROL_FORM_MAP → Desktop. Saturday — no git push.
-- Quiet overnight; no activity since 09-04 22:00.
-- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, 👔 every aide on NEW APP by Sept 9, Modivcare Labor Day 9/7 + reroute reminders (9/6, 9/7), bills (Verizon 9/16, Biberk 9/13, UIA 11/09), TB letter [Title]/[Email] → send, I-9 audit, owner occupancy letter awaiting Mag signature.
-
-## Idle (2026-09-07 02:00)
-- 2 AM auto-save done: 09-07 daily notes created (memory + vault match). CAROL_FORM_MAP → Desktop. **Monday — no git push.**
-- Quiet overnight; no activity since 09-06 22:00.
-- ⏰ Modivcare Labor Day 9/7 = REQUIRED SERVICE DAY today — reminders armed for 9/6 + 9/7.
-- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, 👔 every aide on NEW APP by Sept 9, Modivcare Network Dev letter (Dinasti admin, Senator owner TBD), bills (Verizon 9/16, Biberk 9/13, UIA 11/09), TB letter [Title]/[Email] → send, I-9 audit, owner occupancy letter awaiting Mag signature, TorBox → Stremio wiring pending, PHC audit final phase (task-sheet corrections).
-
-## Idle (2026-09-08 02:00)
-- 2 AM auto-save done: 09-08 daily notes created (memory + vault match). Graphify ran, CAROL_FORM_MAP → Desktop. Tuesday — no git push.
-- Quiet overnight; no activity since 09-07 22:00.
-- ⚠️ **TOMORROW (Sept 9):** Operating Mgr — every aide on NEW APP deadline + AuthentiCare 3.0 / NEW APP deadline.
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox setup (bought 9/6), PHC audit final phase (task-sheet corrections), I-9 audit, TB confirmation letter blanks.
-- Bills: Verizon $116.95 (due 9/16, remind 9/14), Biberk N9WC080186 $524.63 (due 9/13), UIA $902.20 (11/09).
-
-## Idle (2026-09-09 02:00)
-- 2 AM auto-save done: 09-09 daily notes created (memory + vault match). Graphify ran, CAROL_FORM_MAP → Desktop. Wednesday — no git push.
-- Quiet overnight; no activity since 09-08 22:00.
-- ⚠️ **TODAY (Sept 9):** Operating Mgr — every aide on NEW APP deadline + AuthentiCare 3.0 / NEW APP deadline. Genette Knuckles REV: Larry finishes assessment Review + Source of Info.
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox → Stremio wiring pending, PHC audit final phase (task-sheet corrections), I-9 audit, TB confirmation letter blanks.
-- Bills: Verizon $116.95 (due 9/16, remind 9/14), Biberk N9WC080186 $524.63 (due 9/13), UIA $902.20 (11/09).
-## Idle (2026-09-09 14:00)
-- 2 PM auto-save done: daily synced to vault (full day: employee forms filed, remit Q&A, Genette Knuckles SP fill complete, 3060 + HP desktop/downloads cleanups all done). Graphify 3782 nodes, 4007 edges. Wednesday — no git push. CAROL_FORM_MAP refreshed to Desktop.
-- Open: Sept 9 NEW APP deadline (Larry handling), Genette Knuckles REV (Larry finishing Review + Source of Info), Downloads cleanup done — HP/3060 pending follow-ups none.
-
-## Idle (2026-09-09 22:00)
-- 10 PM auto-save done: vault/daily synced to memory (full 128-line day: employee forms 13a/13b, remit Q&A, Genette Knuckles SP fill @ 21:10, 3060 + HP desktop/downloads cleanups, in-service video source verification, training guide v2, SCDHHS Training Kit built + Claude-fixed deploy, APS hotline mistake logged). Graphify update ran. Wednesday — no git push. CAROL_FORM_MAP → Desktop.
-- Today done: Sept-9 deadlines met (NEW APP deadline = all aides; Genette SP chain complete ✅ tally 45); training kit now Claude-reviewed + fixed (9 sessions A-I); 3 machines cleaned.
-- Open: 🎓 compliance folder reconciliation (DPH vs SCDHHS one-folder question, next session with Claude); 📥 Downloads phase notes done; revalidation watch informational; Claude to review SCDHHS kit = done (fixed+deployed); AuthentiCare Sept 9 deadline = passed, verify aides onboarded.
-- Reminders armed: Biberk bill $524.63 due 9/13; Verizon Connect $116.95 due 9/16 (remind 9/14).
-
-## Idle (2026-09-10 02:00)
-- 2 AM auto-save done: 09-10 daily notes created (memory + vault match). Graphify ran, CAROL_FORM_MAP → Desktop. Thursday — no git push.
-- Quiet overnight; no activity since 09-09 22:00.
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch = informational (submission not done), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox → Stremio wiring pending, PHC audit final phase (task-sheet corrections), I-9 audit, 🎓 compliance folder reconciliation (DPH vs SCDHHS one-folder), ✅ Sept 9 NEW APP deadline passed — verify aides onboarded, Genette Knuckles REV (Larry finishing Review + Source of Info).
-- Bills: Biberk N9WC080186 $524.63 (due 9/13), Verizon $116.95 (due 9/16, remind 9/14), UIA $902.20 (11/09).
-## Idle (2026-09-10 08:00)
-- 8 AM auto-save done: daily notes matched (02:00 entry), 08:00 entry appended to both. Graphify: 448 files, 3837 nodes, no code changes. CAROL_FORM_MAP → Desktop. Thursday — no git push.
-- Quiet since 09-09 (SCDHHS Training Kit deploy + 3-machine cleanup). Open carryover: 🔴 Christina removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse gap, 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal, 📋 Disaster Plan gap, I-9 audit, compliance folder reconciliation, Genette Knuckles REV (Larry finishes assessment + Source of Info).
-## Idle (2026-09-11 10:13)
-- 10 AM auto-save done: vault/daily backfilled from memory (09-11 daily created — first heartbeat since 09-08; full SCDHHS form-filing day on 09-10: 2 competency eval forms children's + adult CLTC, both number-free headers). Graphify ran, CAROL_FORM_MAP → Desktop. Friday — no git push.
-- CLTC carve-in watch: re-checked 09-11 — NO changes (Jan 1 2026 baseline stands; area office ~July 2027 case mgmt takeover). No message sent per watch rule.
-- Payroll: weekly deposit expected today 9/11 ~$12,251.80 (EX1882, check# 8000066282). Bills: Biberk $524.63 due 9/13, Verizon $116.95 due 9/16 (remind 9/14).
-- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation watch (informational), ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox → Stremio wiring pending, PHC audit final phase (task-sheet corrections), I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV (Larry finishes assessment Review + Source of Info), ❓ Adult CLTC competency form EX1882 question (only form where arguably correct — flag), 3060 offline 09-10 — push SCDHHS-Forms folder next time reachable.
-## Idle (2026-09-12 02:00)
-- 2 AM auto-save done: 09-12 daily notes created (memory + vault match). Graphify + CAROL_FORM_MAP → Desktop ran. Saturday — no git push.
-- CAROL MC batch: clients 2-23 done yesterday (tally 99); clients 24-50 (29) remaining for today.
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation #, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push.
-
-## Idle (2026-09-13 22:00)
-- 10 PM auto-save done: 09-13 daily synced (memory ↔ vault, 2 AM + 2 PM + 10 PM entries). Graphify 3900 nodes, CAROL_FORM_MAP → Desktop. Sunday git push ran — nothing new, up-to-date.
-- Biberk $524.63 (N9WC080186) was due TODAY 9/13 — reminded earlier. ⏰ Verizon Connect $116.95 due 9/16 — nudge Larry 9/14 (tomorrow).
-- Open: 🔴 Christina access removal, 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap, 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients (24, 27, 30, 34, 35, 37, 38, 40-50).
-
-## Idle (2026-09-14 02:00)
-- 2 AM auto-save done: 09-14 daily notes created (memory + vault match). Graphify running, CAROL_FORM_MAP → Desktop (60KB). Monday — no git push.
-- Quiet overnight; no activity since 09-13 22:00. Biberk $524.63 due date passed 9/13 (reminded).
-- ⏰ **Verizon Connect $116.95 due 9/16 — nudge Larry TODAY 9/14.**
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV (Larry finishes Review + Source of Info), ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients (24, 27, 30, 34, 35, 37, 38, 40-50).
-
-## Idle (2026-09-14 02:00)
-- 2 AM auto-save done: 09-14 daily notes created (memory + vault match). Graphify running, CAROL_FORM_MAP → Desktop (60KB). Monday — no git push.
-- Quiet overnight; no activity since 09-13 22:00. Biberk $524.63 due date passed 9/13 (reminded).
-- ⏰ **Verizon Connect $116.95 due 9/16 — nudge Larry TODAY 9/14.**
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients (24, 27, 30, 34, 35, 37, 38, 40-50).
-
-## Idle (2026-09-16 02:00)
-- 2 AM auto-save done: 09-16 daily notes created (memory + vault match). CAROL_FORM_MAP → Desktop (60,437 bytes ✅). Wednesday — no git push.
-- Quiet overnight; no activity since 09-15 14:00.
-- ⏰ **Verizon Connect $116.95 due TODAY 9/16** — nudge Larry if not confirmed paid.
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients (24, 27, 30, 34, 35, 37, 38, 40-50).
-- Bills: Verizon $116.95 (due TODAY 9/16), Biberk $524.63 (passed 9/13, reminded), UIA $902.20 (11/09).
-
-## Idle (2026-09-17 02:00)
-- 2 AM auto-save done: 09-17 daily notes synced (memory ↔ vault match, Tab 4 rebuild + HP health check entries). Graphify ran (4066 nodes, 4276 edges), CAROL_FORM_MAP → Desktop ✅. Thursday — no git push.
-- Overnight 00:40–01:50: Tab 4 Official Forms packet REBUILT (18 pages, 2.04 MB → 3060 Desktop) — removed DCN in-service form, added Children's CPCA competency from Larry's scan, merged last 2 topic pages. HP disk freed 2.3G (journal vacuum) → 92%, 7.8G free.
-- 💾 Disk still tight (7.8G free): TODO ask Larry — prune uv cache (10G archive-v0, needs brief hindsight stop) + decide on 2.9G June checkpoint (~/CAROL-checkpoints/).
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, TorBox→Stremio, PHC audit final phase, I-9 audit, 🎓 compliance folder reconciliation, Genette Knuckles REV, ❓ Adult CLTC EX1882, 3060 SCDHHS-Forms push. 🔜 CAROL MC remaining ~20 clients.
-
-### 2026-09-17 19:15 EDT — working context update
-- 3060 current work-WiFi IP found: 192.168.1.232 (old 192.168.50.232 stale). CDP tunnel restored.
-- Provider Activity aide/client history workbook built from seven reports and pushed/verified on 3060. 2024/2025 not included in this batch and explicitly marked absent.
-
-### 2026-09-17 19:25 EDT — working context update
-- Built and pushed worker first-client contact reconciliation workbook from Provider Activity + ClaimObservations.
-- 26 target workers; 21 documented first contacts; 5 no contact rows with check-in through 09/17/2026. Remote verified byte-match.
-
-### 2026-09-17 20:05 EDT — working context update
-- Willie Johnson 9769968 tab gap fixed from 09/17 task-sheet PDF pages 8–17: added 45 authorized dates 04/29–06/30/2025; verified 30 X-days and 15 no-X days; delivered byte-verified workbook to 3060.
-
-### 2026-09-17 23:45 EDT — working context update
-- Rebuilt first-contact workbook as **PHC_Worker_First_Client_Contact_2020-2026.xlsx** (v2 builder) with 2020 A&O data + reverse ID→name fix. 22/26 have first contact; 2020 firsts: Christina Smith 09/07, Bullock 09/08, Diane Martin 09/10/2020. Delivered + hash-verified to 3060 Desktop.
-- OPEN: Larry must re-run Provider Activity for **04/01/2020–08/31/2020** using the **Service Date Range** field (8699802 was mis-fielded). Q1 2020 already proven 0 records (8699809).
-
-## Idle (2026-09-19 02:00)
-- 2 AM auto-save done: 09-19 daily notes created (memory + vault match). Graphify ran, CAROL_FORM_MAP → Desktop. **Saturday — no git push.**
-- Quiet overnight; no activity since 09-18 22:00 sync (last real work: 09-18 15:26 — 34 Backup Plan PDFs to 3060).
-- Open: 🔴 Christina access removal (deadline 8/24 passed), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, 🔄 PHC audit re-run 04/01–08/31/2020 Service Date Range (8699802), 4 workers no first-contact (Austin Madison, Dixon Miesha, Hankerson Monica, Medina Lakeisha), 💾 HP disk ~7.8G free (uv cache prune + 2.9G checkpoint TODO w/ Larry), CAROL MC ~20 clients remaining, bills (Verizon 9/16 confirm, UIA 11/09).
-## Idle (2026-09-19 22:00)
-- 10 PM auto-save done: daily notes synced (memory + vault match), graphify 4437 nodes / 4701 edges (503 files), CAROL_FORM_MAP → Desktop. Saturday — no git push.
-- Today: HP disk cleanup (uv cache freed 26.7 GiB, 85%/14G free), cron fixes (memory-save jobs 600s, CAROL graph 900s, spend watch → openrouter/auto), OpenRouter spend decision (keep $5.00 threshold, ~$9/day run-rate, monitor 4h).
-- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation # (30-day clock), ⚠️ 2023 Jan-Apr nurse-visit gap, 🎙️ voice project (awaiting Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, PHC audit re-run (Service Date Range 04/01-08/31/2020), 4 workers w/o first-contact rows, CAROL MC remaining ~20 clients, Verizon bill confirm paid.
-
-## Idle (2026-09-20 02:00)
-- 2 AM auto-save done: 09-20 daily notes created (memory + vault match). Graphify ran, CAROL_FORM_MAP → Desktop. **Sunday — git push.**
-- Quiet overnight; no activity since 09-19 22:00 (HP disk cleanup 26.7G freed, cron fixes, OpenRouter spend decision keep $5.00/4h monitor).
-- Open: 🔴 Christina access removal (deadline 8/24 passed — flag Larry), 🟡 Revalidation watch, ⚠️ 2023 Jan-Apr nurse-visit gap (re-run 8644597), 🎙️ voice project (Twilio/Gemini keys), carol.js v2.2 speed proposal PENDING, 📋 Disaster Plan gap, PHC audit re-run (Service Date Range 04/01-08/31/2020), 4 workers w/o first-contact rows, CAROL MC ~20 clients remaining, Verizon bill confirm paid, UIA 11/09.
-## Idle (2026-09-20 22:00)
-- 10 PM auto-save done: daily synced to vault (Vance + Beeks sections added), graphify pending, CAROL_FORM_MAP → Desktop, Sunday git push.
-- Today done: Jev decision model live (typesafe/jev-1.13, $0.000018/call), Sept visit schedule v2 (15 QVs, Mon-Fri by 9/25, buffer Sat 9/26), Vance Telegram wired (@Vance_665bot) + claw-hermes brief, Beeks removed from PHC manuals (Dinasti sole admin).
-- 🔜 Monday: verify address flags in Phoenix (Fidel Thompson 515 Webster Rd, Grubbs Hodgens/Hodges, Michille James area); R.60-122 Disaster Plan gap; Christina removal still unresolved.
+## 22:45 — Deployment staged (verified, NOT started)
+- Ran the real server on the HP: `/health` → `{"ok":true}`, bound **127.0.0.1:8766 only**,
+  off-loopback bind refused. Deploy path proven end-to-end.
+- **Gaps found by doing it:** `python3 -m venv` FAILS on the HP (pip bootstrap error) and
+  PEP668 blocks system installs → deps go in a `--target` dir + `PYTHONPATH`. **waitress was
+  not installed.** Port 8766 free; 8765 is the voice bridge (don't touch).
+- Artifacts: `~/Desktop/PHC-Planner/deploy/{phc-sync.service,install-hp.sh}` +
+  `~/Desktop/PHC-Planner/server/` (25 tests green). Mirrored to `hermes-share/PHC-Planner/`.
+- `systemd-analyze verify` caught 2 defects in my own unit: `StartLimitIntervalSec` was in
+  `[Service]` (belongs in `[Unit]`), and `ProtectHome=read-only` would sit over the
+  ReadWritePaths for an app living under /home. Both fixed; verify now clean.
+- Staged at `/home/lgf150/phc-sync/` (code + lib + data/sync.db). **Service NOT installed**,
+  nothing on 8766.
+- To go live: `~/Desktop/PHC-Planner/deploy/install-hp.sh --start` (needs sudo).
+- RAM watchdog: add `*sync_server*` to `protect_cmdline()` before starting, or it's a kill target.
