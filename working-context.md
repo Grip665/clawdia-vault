@@ -1,7 +1,31 @@
 # Working Context
 
-**Updated:** 2026-09-21 22:30 EDT
-**State:** IDLE (awaiting Larry)
+**Updated:** 2026-09-22 21:00 EDT
+**State:** ACTIVE — PHC binder scan intake (Larry uploading tab-by-tab ZIPs)
+
+## NOW (2026-09-22): PHC Policies & Procedures Manual rebuild
+- Larry is uploading scans of his physical binder, one ZIP per tab. **His scans = source of truth.**
+- Workflow agreed: his scan → I add/change BY SECTION → format pass → Claude/Vance review.
+- Intake + page maps: `~/Desktop/PHC-SCANS-2026-09-22/NOTES.md`. Raw: `.../raw/`. Renders: `.../png/`.
+- **Received: Tab1** (14pp = his CURRENT manual, 12-section order, footer has address/phone, NO page numbers).
+- Pending: more ZIPs; move misfiled admin paper Tab4→Tab7; swap in "old forms that look better"
+  (archive displaced to `_staging/displaced_forms_2026-09-22/`); nurse 4-month template→Tab2; Tab6 insurance.
+- Improved disaster suite built: `~/Desktop/PHC-Disaster-Plan_D1_D2_D1C_IMPROVED_2026-09-22.docx/.pdf`.
+- Scans mapped: Tab1-6 + nurse/disaster zip. See `~/Desktop/PHC-SCANS-2026-09-22/NOTES.md`.
+- ✅ BUILT (v2, Larry's font/style): `~/Desktop/PHC_Nurse_Supervisory_Assessment_MASTER_2026-09-22.docx/.pdf`
+  — 1 page, Times New Roman, logo emblem, 10 q, visit-type slots Initial/30-Day/4-Month/Other.
+  Calibri v1 archived to _staging. In Tab2_Client_Packet.
+- **ALL BLOCKING Qs RESOLVED 19:49:** office hours = **Mon-Fri 10:00 AM - 4:00 PM**; both numbers
+  (485-2079 office / 652-5100 24-7); job description = newer only; File Compliance on top + Key Dates last;
+  retired `11_Supervisory_Visit_Report`; nurse master form = `11_Nurse_Supervisory_Assessment`.
+- **NEW VERSION folder = `~/Desktop/PHC_BINDER_NEW_2026-09-22/`** (README = change log). Reference untouched.
+- ✅ **ASSEMBLED + REVIEWED:** `~/Desktop/PHC_BINDER_COMPLETE_PRINT_2026-09-22.pdf` = 127 pp, all US Letter,
+  in binder order. Claude's 33-finding review received; mechanical fixes applied; re-pushed to 3060 at
+  `C:\Users\User\Desktop\PHC-BINDER-FINAL-2026-09-22\` with CLAUDE_REVIEW_PROMPT.txt + FIXES_APPLIED_2026-09-22.txt.
+- ⏳ AWAITING LARRY: sign/date manual (F1), designation (F2), experience verification (F3); rescan DPH license
+  (F4); decide F12 (his 3 visit slots vs Claude's §5.5 objection); content fixes F7-F11, F13, F18, F20, F23.
+
+## Prior task (2026-09-21) — Planner sync
 
 ## Just completed
 - Read the forwarded Claude build zip (8 files) + Vance's audit doc + Planner_app doc.
