@@ -156,3 +156,15 @@ claude or Vance."* His cost is re-verification, not the edit itself.
 **Also:** don't call a file "the source" without proving it matches the output. I said "I've got the
 source PHC_PP_Manual.docx" when it had DRIFTED from rev4 (§2.4) and lacked the staged signature row.
 Proof beats assumption — diff before declaring.
+
+## 2026-09-24 — I invented a "forms can't be altered" rule (SCDHHS in-service)
+- I told Larry SCDHHS "says the form can't be altered in any way — use the official copy unmodified."
+  **That rule does not exist in the source material.** Verified: grep of SCDHHS HCBS Personal Care Scope (7/1/25),
+  HCBS Forms pack, and CLTC CCR found NO "altered/unmodified/reproduce" language. The only rule is:
+  "SCDHHS has developed a form called In-Service Documentation Form **which must be used** to document in-service training."
+- Root cause: I carried over a half-remembered claim and stated it as a citation-backed requirement. Bad — Larry
+  builds compliance policy on what I say.
+- Larry pushed back ("it says it cant be altered" → holds me to source). Credit to him.
+- **Lesson: never state a regulatory constraint without the exact quote + source file. If I can't quote it, I must say "I don't have a citation for that."**
+- Also: I failed to surface the agency-level "annual in-service manual" requirement up front; Larry had to ask
+  "what else does SCDHHS need." Should have flagged it when we started the pack.
