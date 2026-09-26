@@ -54,3 +54,12 @@ operative window.
 - [ ] Confirm how AuthentiCare SC computes code B (schedule vs authorization).
 - [ ] Decide whether the house time table goes in the P&P manual (adds 1 page → master 117→118) or as a
       note on §5.4 (stays 117).
+## 2026-09-25 — Aug→now run-sheet refresh (Larry ran 4 reports)
+- New pulls 09/25 (CDP ids): 8722988 Activities Tasksheet (pdf), 8722989 Provider Activity, 8722990 Missed Visits, 8722991 Resolutions; + generated 8722994 Open Authorizations (as-of 09/25, 36 records).
+- All cover 08/01/2026–09/25/2026. Password for all exports = phc128 (login ID lowercase).
+- Pipeline: reports → reports-raw/2026-09-25/{ext} → csv/2026-Q3-*.csv (Provider Activity transformed into A&O column layout) → ts-layout/2026-Q3-Activities_Tasksheet.txt → parse_tasksheets.py → ts_days.tsv.
+- Chunk `2026-Q3` added to build_grid.py (range 2026-09-07..09-25; Aug 1–Sep 6 already covered by 2026-H2).
+- ALLFLAGS flag taxonomy reverse-engineered & validated 99.9%: MV S→SVC-INTERRUPTION, MV H→HOLIDAY, MV M/X/T/A (no "Accepted")→UNRESOLVED-MV, else blank→(Strike/Denied/Accepted/Deleted/NO-RESOLUTION).
+- Merge script: PROVIDER/scripts/merge_q3.py → PHC-Run-Sheets_GAPS-REPAIRED-ALLFLAGS_2026-09-25.xlsx (+429 rows, 31 sheets).
+- Active list refreshed: PROVIDER/reports-raw/active-open-auths-2026-09-25.json (34).
+- Doc rebuilt: ~/Desktop/PHC-Audit-2024-2026/PHC_NonService_Days_by_Participant_ACTIVE.pdf (36 pp, 34 participants, 4,510 non-service days).
