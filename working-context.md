@@ -1,38 +1,29 @@
 # Working Context
 
-**Updated:** 2026-09-25 10:26 EDT
-**State:** ACTIVE — PHC weekly DPH reporting + HP disk health
+**Updated:** 2026-09-28 00:20 EDT
+**State:** IDLE — all QVs + MCs saved/completed; workspace + backup pushed to GitHub
 
-## NOW
-- ✅ **DONE (09:10):** updated weekly logs RE-SHIPPED to 3060 (Larry was on it). Caught+fixed a gap:
-  the 8 AM run rebuilt docx but not PDFs → re-converted (159 docx/159 pdf) and re-uploaded
-  (by-week 18 files, by-aide 25 dirs/300 files, md5 verified). ⚠️ Auto-save MUST re-convert PDFs next time.
-- ✅ **DONE (10:22-10:26) — HP disk root cause fixed:** disk was 95% (5.1G). Cause = systemd --user crash
-  loop flooding syslog (`openai-bridge` port-8765 duplicate, `zurg` Real-Debrid not premium → 4544 restarts,
-  `rclone-mount` transitive) — 144,073 restart lines in syslog TODAY. Stopped all 3 (reversible) → flood
-  stopped; voice ASR still up (manual pid 1011 owns 8765). Journal vacuum + syslog.1 truncate → **93%, 7.0G free**.
-  ⏳ Needs Larry's OK: disable/mask zurg+rclone (else reboot resumes loop) + bigger reclaims (~18G candidates).
+## NOW (end of 09-27 — a huge day)
+- ✅ **18/18 MCs filled & S&C'd** (contact 9/25), tally 113 → 131. 2 QVs (Gertrude Young, Joyce Ellis) S&C'd → 133. 1 extra MC (Richard Chludzinski, 9668532) — Larry confirmed ALL QV + MC now saved/completed (2026-09-28 00:16).
+- ✅ **carol.js v2**: 30-day exception-code window (Larry's rule), `auto`/`compose` CLI, unified closing sentence, `templates.js` (never hand-type). Skill `carol-phoenix-automation` APPLIED to live.
+- ✅ **Control Center popup on 3060 silenced** (hidden VBS launch + hidden watchdog). Route planner basemap fixed (Esri tiles). QV/REV route plan built → `~/Desktop/SCDHHS/QV-REV-route-plan-2026-09-27.md`.
+- ✅ **In-service folder kit deployed** to `~/Desktop/Home Care documents/Employee Files - Compliance/SCDHHS-Forms/InService-Folder-Kit/` (packet 55pp, 20 topics/100 Q, Abuse-Neglect-Exploitation test added).
+- ✅ Graphify 5388 nodes/5971 edges; git push 62006b6..959db7f; vault daily synced; CAROL_FORM_MAP → Desktop ✓ (md5 238d894d…).
 
-## DONE
-- Weekly Care Service Log regrouped BY AIDE (employee-facing): 150 aide files / 25 aides + 9 combined.
-  Shipped to 3060 `weekly_care_logs\{by-week, by-aide\<Aide>}` (pre-spacing-fix version).
-- Signature block spacing fix (8 AM): Pt(5)→Pt(14) per aide line.
-
-## PENDING
-- Larry's OK on disk reclaims (uv cache 8.4G, CAROL pre-ai-tools-install tar 2.9G, old backup tars,
-  backup-repo/.git 2.8G, Desktop/Billing-Training mp4s 1.9G) + whether to disable/mask zurg+rclone.
-- Skill proposals awaiting Larry's apply/reject: `phc-weekly-care-service-log-20260925-97a3eb915b`,
-  `phc-tasksheet-marks-extraction-20260925-b605f9dc66`.
+## PENDING / OPEN ITEMS
+- 🔶 **Chludzinski MC draft (14837697)** — awaiting Larry review/S&C.
+- 🔶 **Re-check pass offer**: the 18 MCs were filled BEFORE the 30-day code filter — codes may over-list; Larry accepted as S&C'd, but offer stands.
+- 🔶 **Open Q (QV template)**: include "The personal goal was discussed."? — Larry settled usage ("reviewed"/"discussed" interchangeable); QV template locked with that sentence + "Emergency Disaster Priority/Preparedness".
+- 🔶 **Re-run remaining QV/REV route from Phoenix** (07-27 plan is July-state, may be stale).
+- 🔶 Backup push to GitHub (~5.7G cleanup after) — still pending Larry's go.
+- 🔶 Disk reclaims + zurg/rclone mask decision (uv cache 8.4G, CAROL tar 2.9G, backup-repo/.git 2.8G, billing mp4s 1.9G).
 
 ## SKILLS
-- UPDATE proposal pending (by-aide docs): `phc-weekly-care-service-log-20260925-7ebed7af0e`
+- Applied: `carol-phoenix-automation` (20260927). Pending from 09-25: `phc-weekly-care-service-log-20260925-97a3eb915b`, `phc-tasksheet-marks-extraction-20260925-b605f9dc66`, `instrumental-maker` (Larry to review).
+- NOTE: skill-created proposals are in Skill Workshop; vault pending list may drift.
 
-## Prior (binder)
-- PHC binder rev6 assembled; awaiting Larry's sign/date items F1-F4 + content decisions.
-## ⏭️ PENDING ACTION FOR NEW SESSION (2026-09-25 11:05 EDT — Larry's request)
-- Larry chose **option 1**: start a fresh session, then pin it to the **direct DeepSeek lane**.
-- **DO THIS FIRST in the new session:** `session_status(sessionKey="current", model="deepseek/deepseek-flash")`.
-  (Direct lane = 200k ctx ONLY — fresh session is fine/empty.)
-- Also still pending (ask Larry): run the backup push (`~/clawdia-backup-repo` / `backup-clawdia.sh`) now that
-  `~/.git-credentials` exists — today's backup is NOT on GitHub (remote=9 files/0.69G vs local 31 files/2.76G).
-  After a confirmed push → delete ~5.7G of redundant local copies (tarball + staging chunks).
+## WATCH ITEMS
+- Tally = 133 (proof-based; Larry updates on S&C; file CAROL/CAROL_job_tally.md).
+- Stephen T Hrab: AR passed away → participant voice only, always.
+- Ronnie Davis = AR Felicia Langley (his old MCs are participant voice — differs from current QV; flagged).
+- NEVER hand-type narratives in Phoenix; never run browser probe during a fill batch.

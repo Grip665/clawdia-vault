@@ -25,3 +25,11 @@ Running on 3060. Workflow JSON saved, pending ViewComfy integration.
 - Data package built: `Desktop/Calendar-App/app_data.json` (10 bills, 38 nurse visits, 3 interviews, 57 payroll calls, 28 transport billing, 188 events total).
 - Exports: 4 ICS calendars (Home, Payroll Shifts, Bills, Nurse Visits) on 3060 + workspace/calendar-export/.
 - Next: pick platform (Flutter/web) when Larry's ready.
+
+
+## 🗺️ Visit Planner Map (route optimizer page) — 🟡 dormant
+- **File:** `~/.openclaw/workspace/visit-planner-map.html` ("Visit Planner — Greenville", Leaflet + markercluster).
+- Markers w/ filters (REV/QV/MC/PHONE/DUE/DONE), route optimizer (nearest-neighbor from home base), drag-reorder,
+  Google Maps handoff, CSV add, localStorage store. Built ~2026-07-16/20; last touched 2026-07-20.
+- Status: **unfinished** (Larry 2026-09-27). Not served anywhere yet; open the file directly.
+- Control Center popup fix (3060) 2026-09-27: hidden launcher VBS + watchdog rewrite; see daily note.
