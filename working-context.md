@@ -1,29 +1,30 @@
 # Working Context
 
-**Updated:** 2026-09-28 00:20 EDT
-**State:** IDLE — all QVs + MCs saved/completed; workspace + backup pushed to GitHub
+**Updated:** 2026-09-28 22:00 EDT
+**State:** IDLE — end of 09-28 (binder rev8 final, DSN one-shot reminder armed, iMac awake again)
 
-## NOW (end of 09-27 — a huge day)
-- ✅ **18/18 MCs filled & S&C'd** (contact 9/25), tally 113 → 131. 2 QVs (Gertrude Young, Joyce Ellis) S&C'd → 133. 1 extra MC (Richard Chludzinski, 9668532) — Larry confirmed ALL QV + MC now saved/completed (2026-09-28 00:16).
-- ✅ **carol.js v2**: 30-day exception-code window (Larry's rule), `auto`/`compose` CLI, unified closing sentence, `templates.js` (never hand-type). Skill `carol-phoenix-automation` APPLIED to live.
-- ✅ **Control Center popup on 3060 silenced** (hidden VBS launch + hidden watchdog). Route planner basemap fixed (Esri tiles). QV/REV route plan built → `~/Desktop/SCDHHS/QV-REV-route-plan-2026-09-27.md`.
-- ✅ **In-service folder kit deployed** to `~/Desktop/Home Care documents/Employee Files - Compliance/SCDHHS-Forms/InService-Folder-Kit/` (packet 55pp, 20 topics/100 Q, Abuse-Neglect-Exploitation test added).
-- ✅ Graphify 5388 nodes/5971 edges; git push 62006b6..959db7f; vault daily synced; CAROL_FORM_MAP → Desktop ✓ (md5 238d894d…).
+## NOW (end of 09-28)
+- ✅ **Binder print master = rev8** (`00_PRINT_THIS__COMPLETE_MANUAL_rev8.pdf`, 118pp): manual sig page dated **Sep 28, 2026** (Larry's explicit ask); ALL other binder dates stay **Sep 22, 2026** (Larry: "leaving everything 9/22 done" — NO rev9 sweep). Pushed to 3060.
+- ✅ **11 deliverables built today** (all in ~/Desktop/ + audit/SCDHHS copies): QV+REV due route page (Grubbs addr corrected 10:06), Babb Jun-Jul tasksheet status, Beatty tasksheet breakdown 4/1–7/18, Beatty service review 1/1/25–4/19/26 (+ doc-gap correction re: AOO claims CSV), Chanelle Sept nurse visit list.
+- ✅ **DSN reminder armed**: ONE-SHOT cron e4fcad1f-007a-4286-aa14-a43e27820923 @ 2026-09-28 22:30 EDT (read CMS-1500 batches for correct DSN days). Next DSN billing = Wed 09-30.
+- ✅ **iMac caffeinate OFF** (per Larry) — plist kept, auto-returns next login. AC sleep back to 20/10.
+- ✅ 3060 Chrome CDP reachable (tunnel 18802), but provider portal session LOGGED OUT — fresh Phoenix pulls need Larry's login.
+- ✅ Graphify + vault daily synced at 10 PM; CAROL_FORM_MAP → Desktop ✓. Monday → no git push.
 
 ## PENDING / OPEN ITEMS
+- 🔶 **OpenClaw on the 3060 (Windows)** — Larry wants it "when I have some time." Watch port/identity collision with Vance; keep bindings EXPLICIT. No date set.
+- 🔶 **Binder pen signatures** (rev8): p6 §1.2 "Reviewed By" (Dinasti), p112 Owner Signature (Dinasti); p111 confirm both designation lines dated. Pages still dated 09/22 except p4 (09/28).
+- 🔶 **Fresh Phoenix provider-activity pull** — Sept nurse visits + QV/REV due list = snapshot, not live. Portal logged out.
 - 🔶 **Chludzinski MC draft (14837697)** — awaiting Larry review/S&C.
-- 🔶 **Re-check pass offer**: the 18 MCs were filled BEFORE the 30-day code filter — codes may over-list; Larry accepted as S&C'd, but offer stands.
-- 🔶 **Open Q (QV template)**: include "The personal goal was discussed."? — Larry settled usage ("reviewed"/"discussed" interchangeable); QV template locked with that sentence + "Emergency Disaster Priority/Preparedness".
-- 🔶 **Re-run remaining QV/REV route from Phoenix** (07-27 plan is July-state, may be stale).
-- 🔶 Backup push to GitHub (~5.7G cleanup after) — still pending Larry's go.
-- 🔶 Disk reclaims + zurg/rclone mask decision (uv cache 8.4G, CAROL tar 2.9G, backup-repo/.git 2.8G, billing mp4s 1.9G).
+- 🔶 **File cabinet lock (Larry's office)** — need back-of-lock photo + barrel length measure (5/8" vs 7/8"). Amazon links sent (Kingsley B01I0P3PLC, Pertinel B0BZNJ67M6).
+- 🔶 Discourse remains: tally = 133; no re-check pass request yet.
+- 🔶 Disk reclaims (uv cache 8.4G, CAROL tar 2.9G, backup-repo/.git 2.8G, billing mp4s 1.9G).
 
 ## SKILLS
 - Applied: `carol-phoenix-automation` (20260927). Pending from 09-25: `phc-weekly-care-service-log-20260925-97a3eb915b`, `phc-tasksheet-marks-extraction-20260925-b605f9dc66`, `instrumental-maker` (Larry to review).
-- NOTE: skill-created proposals are in Skill Workshop; vault pending list may drift.
 
 ## WATCH ITEMS
 - Tally = 133 (proof-based; Larry updates on S&C; file CAROL/CAROL_job_tally.md).
-- Stephen T Hrab: AR passed away → participant voice only, always.
-- Ronnie Davis = AR Felicia Langley (his old MCs are participant voice — differs from current QV; flagged).
-- NEVER hand-type narratives in Phoenix; never run browser probe during a fill batch.
+- DSN billing Wednesdays: CMS-1500 Submitted Batches = source of truth for worker days (esp. Bosworth).
+- NEVER hand-type narratives in Phoenix; NEVER run browser probe during a fill batch.
+- Vault write rule: apply_patch CANNOT touch vault/Desktop paths → always exec heredoc.

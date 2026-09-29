@@ -71,3 +71,36 @@ HIV/AIDS waiver, Vent waiver, Community Choices (CC) waiver, nursing facility re
 - SCDHHS Carve-in hub: `scdhhs.gov/partners/managed-care/managed-care-carve`
 - Carve-in FAQs: `/managed-care-carve/managed-care-carve-faqs`
 - Comparison chart PDF (1.15.26): on the carve-in page under "Waiver and Medical Services Chart"
+
+---
+
+## 🆕 2026-09-24 — REV TEAMING MOVES TO ACENTRA (LOC determinations)
+
+**Source:** email Larry received (SCDHHS/CLTC area office), 2026-09-24.
+
+> "Tomorrow will be the last day that Waiver re-evaluation teaming will be done in the Greenville,
+> Anderson, and Spartanburg offices. All teaming for the Waivers should be sent to
+> **scloc@acentra.com**. You will need to put the **Area Office name in the subject line** of the email.
+> The only requests for Waiver re-evaluations that come directly to the office will be those that
+> appear **Medically Ineligible**.
+> Once your case has been teamed, you will complete your SP and submit it as you have. The Area Office
+> Staff will continue to approve the Service Plans."
+
+**Effective:** Friday **2026-09-25** (last day of in-office teaming = 09/24).
+
+**New process (Larry's workflow):**
+1. Send the **waiver REV teaming / LOC request** to **scloc@acentra.com**
+   → **put the Area Office name in the subject line** (e.g. "Spartanburg").
+2. Everything else unchanged: complete the SP and submit as before.
+3. **Area office still approves Service Plans.**
+4. **Exception:** REVs that appear **Medically Ineligible** still come directly to the area office.
+
+**Who is Acentra:** Acentra Health (2023 merger of **CNSI + Kepro**). Kepro = the level-of-care
+assessment vendor used in managed-LTSS states. Read: LOC determinations centralized in a neutral
+contractor BEFORE case management is handed to the MCOs (CFCM/conflict-of-interest separation).
+
+**Sequence (the tell):**
+1. ✅ IS (incontinence supplies) → MCOs
+2. ✅ REV teaming → ACENTRA (9/25/2026) ← **this step**
+3. ⏳ Case management → MCOs, before July 2027 (Larry hears "sooner")
+4. 🔭 Service Plan approval — last thing the area office still holds
