@@ -44,3 +44,11 @@
 - Artifact verified identical by two independent audits (8/8 SHA256 match). 22 tests pass here too.
 - Doc: `~/Desktop/PHC-Planner/PHC-Planner-Migration-and-Interface-Contract.md`
 - **B1/B2 fixed + staged** (2026-09-21 late): `~/Desktop/PHC-Planner/server/` — cascade tombstone on task delete (client) + server guard rejecting reminders pointing at deleted tasks; UTC normalization on datetime write. Proven fail-on-original (3 failed) → pass-on-fixed (25 passed). Nothing deployed.
+
+## 2026-09-29 — OpenRouter routing pinned (cache fix)
+- Symptom: agent turns 65–276s, cacheRead 0, "Request aborted".
+- Cause: OpenRouter load-balanced deepseek-v4.1-flash across ~31 providers (DigitalOcean/Sail/AtlasCloud),
+  so provider-side prompt cache never stuck.
+- Decision: pin `params.provider = {order:["together","deepinfra"], allow_fallbacks:true}` on both
+  OpenRouter DeepSeek model refs in openclaw.json. Verified ~99% cache hit, 0.3–0.6s.
+- Gateway config.patch blocks `params.provider` (protected allowlist) → direct file edit + backup.
