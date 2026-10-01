@@ -1,5 +1,21 @@
 # Working Context
 
+**Updated:** 2026-09-30 14:00 EDT
+**State:** ACTIVE — portal counts locked + rosters refreshed
+
+## NOW (2026-09-30 early PM)
+- ✅ **PORTAL COUNTS (Provider Portal EX1882, read-only 3060 CDP):** **34 participants** (39 auth lines deduped; multi-auth = Whitehead/Cohen/Allen/Hughes) · **24 active employees** (Workers tab: Active 24 / Terminated 209).
+- ✅ **ROSTERS UPDATED:** `~/Desktop/PHC-Rosters-2026-09-30/PHC_Active_Rosters.docx/.pdf` (+ archive `PROVIDER/rosters-2026-09-30/`).
+  Employee roster = 24 active w/ Start Dates + service codes; **5 REMOVED** (Bowman, Boyd, Keefauver, Lovell, Medina — not active in Phoenix, kept in a flagged section); DSN-only 3 listed separately. Client roster unchanged = 34.
+  Builder: `scripts/build_rosters_20260930.py`; portal JSON: `PROVIDER/reports-raw/portal_workers_2026-09-30.json`.
+- ✅ Portal start dates matched local CSV exactly for the 24 active → local dates fine; only the 5 roster inclusions were stale.
+- ✅ **DSN billing run DONE (09/30):** deleted stray draft 10478593; swapped 3 claims to 09/13–09/26 (David 18874799 $500 · Roxie 18874800 $700 · Sandra 18874801 $1050); Larry finished+submitted → **BIG NUMBER $2,250** ✅. Owned by skill `dsn-medicaid-billing` (cadence fixed to biweekly pay-weeks). Next = Thomas payroll call Thu 10/1 before 3PM.
+- ⏳ OFFERED (not yet done): rebuild the DPH Employee Start-Dates PDF from portal-verified dates.
+- ✅ **iMac caffeinate re-enabled (09-30 13:57):** PID 76621 `caffeinate -dimsu` + LaunchAgent `com.phc.caffeinate` (KeepAlive) + `pmset sleep 0/displaysleep 0`. iMac = iMac.lan 10.192.166.134 (macOS 15.7.9).
+- ✅ **Larry's own employee file + packet (13:32–13:57):** `~/Desktop/PHC-Employee-File-Larry-Griffin/` (blank forms / filled packet / supporting docs + README + INTAKE_CHECKLIST). Filled 19pp packet (DOB 10/24/1981 added; sex/SSN/email blank per Larry) via `scripts/fill_larry_packet.py`; PRINTED to Brother via 3060 (SumatraPDF portable at `C:\Users\User\_larry_print\`, job 70 finished). iMac ZT was down at print time — 3060 path used.
+- ✅ **DPH on-site day deliverables (11:35–12:47):** employee start dates PDF/CSV (32 rows; 3 gaps = Bowman/Boyd/Keefauver), in-service video self-study form (date-only), aide non-transport form (admin sig, names aide), written backup staffing plan, binder cover (corrected addr 128 E Main St + IHCP-1157). All in `~/Desktop/PHC-Employee-Start-Dates/`.
+- ✅ **Brother printer FINAL FIX (11:00):** iMac joined SpectrumSetup-98C1 (192.168.1.106), direct IPP to 192.168.1.2; relay torn down. iMac ZT was down 13:35 but back by 13:57 (caffeinate re-enabled).
+- ⚠️ **HP ZeroTier flaked 13:56** (online:None, peers 0) → fixed with the documented Docker nsenter restart; 3060 + imac reachable again. (Recurring — see TOOLS.md.)
 **Updated:** 2026-09-29 22:00 EDT
 **State:** ACTIVE — REV assessment fill (3060 lane)
 
