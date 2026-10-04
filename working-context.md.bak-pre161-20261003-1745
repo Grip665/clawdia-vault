@@ -108,7 +108,7 @@
 - Applied: `carol-phoenix-automation` (20260927). Pending from 09-25: `phc-weekly-care-service-log-20260925-97a3eb915b`, `phc-tasksheet-marks-extraction-20260925-b605f9dc66`, `instrumental-maker` (Larry to review).
 
 ## WATCH ITEMS
-- Tally = 161 (proof-based; Larry updates on S&C; file CAROL/CAROL_job_tally.md).
+- Tally = 152 (proof-based; Larry updates on S&C; file CAROL/CAROL_job_tally.md).
 - DSN billing Wednesdays: CMS-1500 Submitted Batches = source of truth for worker days (esp. Bosworth).
 - NEVER hand-type narratives in Phoenix; NEVER run browser probe during a fill batch.
 - Vault write rule: apply_patch CANNOT touch vault/Desktop paths → always exec heredoc.

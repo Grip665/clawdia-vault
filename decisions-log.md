@@ -52,3 +52,13 @@
 - Decision: pin `params.provider = {order:["together","deepinfra"], allow_fallbacks:true}` on both
   OpenRouter DeepSeek model refs in openclaw.json. Verified ~99% cache hit, 0.3–0.6s.
 - Gateway config.patch blocks `params.provider` (protected allowlist) → direct file edit + backup.
+
+## 2026-10-03 — CAROL cut over to the 3060 (full migration)
+- **Decision:** CAROL (agent) + her Phoenix pipeline moved from the HP gateway to the **3060's own OpenClaw gateway**.
+  Clawdia stays on the HP as the hub (vault/memory/Hindsight/crons/skills). Rationale: Carol is the job agent and her
+  Phoenix automation already drives the 3060's Chrome → local is simpler; moving Clawdia = whole memory-stack OS migration = bad risk.
+- **Larry's calls:** full cutover; model = DeepSeek direct API primary + OpenRouter fallback (OR's been slow).
+- **How he reaches her:** the SAME CAROL Telegram bot, now hosted on the 3060 (binding telegram/carol → agent carol).
+- **Done:** workspace + CAROL pipeline + Desktop docs ported; playwright installed + 121 scripts de-pathed; skill
+  Windows section; HP carol agent/account/binding removed (archived); persona files filled.
+- **Consequences:** Clawdia can no longer `sessions_send` Carol (different gateway) — use `ssh 3060 "openclaw agent --agent carol"`.

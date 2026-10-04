@@ -9,7 +9,8 @@ Blocked on E5 Play (32-bit OS, INSTALL_FAILED_NO_MATCHING_ABIS).
 Orbic RC609L pending verification. LineageOS backup plan.
 
 ## CAROL 🟢
-Case management automation. On hold.
+Case management automation. **HOSTED ON THE 3060** (cutover 2026-10-03) — reachable via her own Telegram bot;
+models = DeepSeek direct primary + OpenRouter fallback; pipeline at `workspace-carol/CAROL` on the 3060.
 
 ## 4 Sight IPTV 🟡
 App built, needs Strong 8K wholesale source.
