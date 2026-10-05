@@ -108,3 +108,10 @@ Local-first app with a sync hub — NOT a thin client, no laptop involved. Serve
   Use **Opus** for hard architecture / tricky codegen, **Sonnet** for volume. Spawn via `sessions_spawn(model="claude-cli/claude-opus-4-6", ...)`.
 - Vance (3060) also has Claude Code installed natively (`claude.exe`); Carol inherits the lane on the HP.
 - Larry's note: switch to Opus (or another model) when we need more horsepower.
+
+---
+## TWO PLANNER TRACKS — keep separate (2026-10-04)
+1. **Consumer planner** (`~/.openclaw/workspace/planner/`) — NEW, sellable, NO PHI. Kotlin+Compose, M1 offline APK delivered by Vance (git 1a6b74a), offline reminder path PROVEN on emulator `planner_test`. M2 in progress.
+2. **PHC-Planner** — Larry's WORK/home-care planner (PHI). Lives at `~/Desktop/PHC-Planner/` + `~/.local/share/phc-planner/`. Sept-21 artifacts: design brief (recommends native Flutter app over PWA) + an implemented Python sync server (`sync_server.py`, `/sync/push`+`/sync/pull`, manage.py, sync_client.py, 22 tests, loopback-only + Caddy/ZeroTier). **Only the server was built — no Flutter client exists** (this is why the "reuse the Flutter work" instruction was a ghost).
+   - **Borrow for consumer M3:** the sync pattern (change log, per-field LWW, tombstones, server_seq cursor, device tokens, future-clock reject). Reference copy pushed to Vance's workspace.
+   - ⚠️ NEVER merge PHC content (PHI) with the consumer product.
