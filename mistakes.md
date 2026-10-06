@@ -218,3 +218,21 @@ all sections). Never a diff. Before applying, sanity-check the proposal's size �
   2. **Ask before assuming "read-only" is fine on a live billing system.** Read-only is still touch.
   3. Don't chase precision the user didn't ask for — the hire-date floor + first-billed-date was already "good enough"; I added risk for 1 of 4 numbers.
 - Also learned: the DSN task sheets are PAPER only (no digital copies; only the blank SCDDSN form is on disk). DSN clients absent from Phoenix/local data. First-worked proof = Therap (DDSN system) / case managers / physical sheets — NOT derivable locally.
+
+## 2026-10-05 — CAROL cutover left her skill in the WRONG workspace
+- **What went wrong:** during the 10-03 CAROL cutover I put `carol-phoenix-automation` into the 3060's MAIN workspace (`~/.openclaw/workspace/skills`) instead of Carol's workspace (`~/.openclaw/workspace-carol/skills`). Her config listed the skill, but it never loaded → she was running with ZERO custom skills for 2 days.
+- **How it surfaced:** Larry asked "does CAROL have the most up to date protocol?" — checked `openclaw skills list --agent carol` = 0 workspace skills.
+- **Fix:** copied the skill into her workspace skills dir; skills hot-reload (no restart).
+- **Lesson:** skills resolve per `<agent workspace>/skills`. Always place an agent's skills in ITS OWN workspace, then VERIFY with `openclaw skills list --agent <id>`.
+
+## 2026-10-05 — Missed flagging a mislabeled tasksheet report → 6-month audit gap
+- **What went wrong:** the file `PROVIDER/reports-raw/2026-H1-Activities_Tasksheet.pdf` is mislabeled — its header reads Date Range 01/01/2025 (it's a duplicate of the 2025 H1 data). I read its ts-layout earlier and saw the range but did NOT flag that the real Jan–Jun 2026 pull never happened. Larry caught the consequence when asking about a June 2026 tasksheet.
+- **Impact:** tasksheet data is missing for **01/01/2026 – 06/27/2026**. The audit grid has Jan–Jun 2026 client-days but the tasksheet-mark layer is empty → audit blank/mark findings for that window are unreliable.
+- **Fix:** pull the Jan–Jun 2026 Activities Tasksheet from the provider portal (EX1882).
+- **Lesson:** when a report's actual Date Range doesn't match its filename, FLAG IT IMMEDIATELY and check whether the intended period was ever pulled. Filename ≠ coverage.
+
+## 2026-10-05 — Reminder set as main-target systemEvent → silently not delivered
+- **What:** Larry asked (10:11 AM) for a 3:30 PM reminder to pick up cards from Staples. I created a one-shot cron `sessionTarget=main`, `payload.kind=systemEvent`. It fired on time (19:30:00Z) but Larry never saw it — run log: `delivery_status=not-requested`, `delivered=None`; the systemEvent text never surfaced (it coalesced with the heartbeat poll at the same minute; the agent only saw "[OpenClaw heartbeat poll]").
+- **Caught by:** me, during the 15:30 heartbeat — by cross-checking the cron list (job already gone) against the session jsonl + `cron_run_logs`.
+- **Fix / rule:** time-precise, user-facing reminders → use an **isolated `agentTurn` with `delivery.mode=announce`** (channel `telegram`, to `1301496318`), NOT a main-target `systemEvent`. Verify delivery (`lastDeliveryStatus=delivered`) after it fires, or verify manually.
+- **Impact:** reminder delivered ~4 min late (manually re-sent). No data loss.

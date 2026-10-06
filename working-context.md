@@ -1,7 +1,12 @@
 # Working Context
 
-**Updated:** 2026-10-03 13:36 EDT
-**State:** ACTIVE — CAROL fully cut over to the 3060 ✅
+**Updated:** 2026-10-05 12:45 EDT
+**State:** ACTIVE — CAROL skill gap fixed ✅ (cutover complete 10-03)
+
+## NOW (2026-10-05 12:45) — CAROL skill gap found + fixed
+- Carol's `carol-phoenix-automation` skill was NOT loading: the file lived in the MAIN 3060 workspace (`...\workspace\skills`), not hers. Copied into `...\workspace-carol\skills\` → hot-reload, now ✓ ready for `--agent carol`. Content = current (body identical to HP master + 3060 override header). See memory/2026-10-05.md.
+
+- ✅ **CAROL SP script stale → ported to 3060** (2026-10-05): the 3060 had the Sep-9 `CAROL/` copy (no argv → hardcoded wrong client IDs + CDP 18802). Ported the canonical CAROL-2.0 version → `workspace-carol\CAROL\carol_fill_sp_disciplines.js` (argv + local 18801; backup `.bak-prerefresh-20261005`). Skill still says `CAROL-2.0/` path — pending Larry's OK to patch.
 
 ## NOW (2026-10-03 13:36) — ✅ CAROL CUTOVER COMPLETE (Larry: "do the full cut over")
 - **CAROL now lives on the 3060's own gateway** (`C:\Users\User\.openclaw\workspace-carol`). HP carol agent +
@@ -96,7 +101,7 @@
 
 ## PENDING / OPEN ITEMS
 - 🔶 **OpenClaw on the 3060 (Windows)** — Larry wants it "when I have some time." Watch port/identity collision with Vance; keep bindings EXPLICIT. No date set.
-- 🔶 **Binder pen signatures** (rev8): p6 §1.2 "Reviewed By" (Dinasti), p112 Owner Signature (Dinasti); p111 confirm both designation lines dated. Pages still dated 09/22 except p4 (09/28).
+- ✅ **Binder pen signatures DONE (2026-10-05):** Dinasti signed all three — p6 §1.2 "Reviewed By", p111 Designation of Administrator, p112 Administrator Experience Verification (Owner Signature). Binder signature set complete.
 - 🔶 **Fresh Phoenix provider-activity pull** — Sept nurse visits + QV/REV due list = snapshot, not live. Portal logged out.
 - ⚠️ **Stale-reminder lesson:** cron one-shots freeze a snapshot at creation → never phrase 'due TOMORROW / still open' as live; re-check before sending. Stale Wed 9AM REV cron removed 09-29.
 - 🔶 **Chludzinski MC draft (14837697)** — awaiting Larry review/S&C.

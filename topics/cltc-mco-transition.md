@@ -104,3 +104,14 @@ contractor BEFORE case management is handed to the MCOs (CFCM/conflict-of-intere
 2. ✅ REV teaming → ACENTRA (9/25/2026) ← **this step**
 3. ⏳ Case management → MCOs, before July 2027 (Larry hears "sooner")
 4. 🔭 Service Plan approval — last thing the area office still holds
+
+---
+
+## 🆕 2026-10-05 — THE SIGNAL: area-office SP signature (from Larry)
+- **Current process (unchanged):** Larry signs the Service Plan → then it goes to the **area office** to
+  sign. We are waiting on the **area office** now (Bunkley's SP is at that step; Carol standing by).
+- **THE INDICATOR Larry gave:** when the **area office no longer signs the SP**, that means
+  **Acentra has fully taken over** (case management). Larry will tell me when that process change lands.
+- **Entity named: "Acentra"** (new vs the MCO list above — Acentra is the entity Larry expects to
+  take over CM). 👉 Watch: SP no longer routed to area office for signature = full Acentra takeover.
+- Action: this is now the primary tripwire for the CLTC→MCO transition (mirrored to HEARTBEAT watch).
