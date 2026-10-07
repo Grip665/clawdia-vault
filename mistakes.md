@@ -236,3 +236,7 @@ all sections). Never a diff. Before applying, sanity-check the proposal's size �
 - **Caught by:** me, during the 15:30 heartbeat — by cross-checking the cron list (job already gone) against the session jsonl + `cron_run_logs`.
 - **Fix / rule:** time-precise, user-facing reminders → use an **isolated `agentTurn` with `delivery.mode=announce`** (channel `telegram`, to `1301496318`), NOT a main-target `systemEvent`. Verify delivery (`lastDeliveryStatus=delivered`) after it fires, or verify manually.
 - **Impact:** reminder delivered ~4 min late (manually re-sent). No data loss.
+
+## 2026-10-05 — Unbounded workspace grep froze the session for hours
+- **What went wrong:** to name 8 client IDs I ran a recursive `grep -r` across the whole workspace (with multiple --include globs). It didn't finish and hung the agent/session for hours; Larry had to Stop it.
+- **Fix:** NEVER run unbounded recursive greps over the workspace. Always (a) target a specific known file/dir, (b) wrap in `timeout`, and (c) prefer indexed/lookup files (ts_days.tsv, vault, per-client tsvs). For ID→name, the vault/daily notes resolved it instantly (9845732 = Maria D Gambrell).
