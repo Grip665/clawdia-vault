@@ -240,3 +240,21 @@ all sections). Never a diff. Before applying, sanity-check the proposal's size �
 ## 2026-10-05 — Unbounded workspace grep froze the session for hours
 - **What went wrong:** to name 8 client IDs I ran a recursive `grep -r` across the whole workspace (with multiple --include globs). It didn't finish and hung the agent/session for hours; Larry had to Stop it.
 - **Fix:** NEVER run unbounded recursive greps over the workspace. Always (a) target a specific known file/dir, (b) wrap in `timeout`, and (c) prefer indexed/lookup files (ts_days.tsv, vault, per-client tsvs). For ID→name, the vault/daily notes resolved it instantly (9845732 = Maria D Gambrell).
+
+## 2026-10-07 — Read a FLAGS file as an ACTIVITY log → falsely told Larry a client had "zero service"
+- **What went wrong:** I reported Terra M. Thomas (9932923) had *no* service activity in 2026, based on
+  `PROVIDER/audit-flags.tsv` and the `provider-activity-2026-09-17/*.txt` extracts. audit-flags only lists
+  **flagged** days, and those extracts skip H1 2026. The claim-level source
+  (`reports-raw/csv/2026-H1-Activities_and_Observations.csv`) shows she was served 77 days / $4,690,
+  12/11/2025→04/06/2026. Larry caught it.
+- **Lesson:** audit-flags/audit-summary = exception lists, NOT activity logs. For "did this client/aide
+  have activity," use **Activities_and_Observations** (claims) or **Provider Activity**.
+
+## 2026-10-07 — Reported a data gap that had already been fixed (read STALE duplicates)
+- **What went wrong:** Told Larry the Jan–Jun 2026 tasksheet gap was "still not fixed." I checked
+  `task-sheets-unlocked/2026-H1-...-UNLOCKED.pdf` (mtime 09/06) and `tasksheet_marks.tsv` (mtime 09/25) —
+  both stale. The real re-pull landed 10/05: `2026-H1-Activities_Tasksheet.pdf` (10/05 13:56) →
+  `ts-layout/2026-H1-Activities_Tasksheet.txt` (Date Range **01/01/2026**, weeks to 06/27/2026, 598 records)
+  and `ts_days.tsv` (10/05 16:41).
+- **Lesson:** before declaring a gap/staleness, **check file mtimes and the newest variants**; this repo keeps
+  many duplicate/derived copies (unlocked/, ts-layout/, *.bak-*, _dup-archive/).

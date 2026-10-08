@@ -1,6 +1,15 @@
 # Working Context
 
-**Updated:** 2026-10-05 12:45 EDT
+**Updated:** 2026-10-07 13:10 EDT
+**State:** ACTIVE — Provider resolution worklist built (read-only)
+
+## NOW (2026-10-07 10:35) — Provider resolutions + pay-date tracker
+- Larry ran the 3 Reports on the 3060 Chrome; I pulled them read-only via CDP and built the worklist:
+  `PROVIDER/reports/RESOLUTION-WORKLIST-2026-10-07.md` (script: `PROVIDER/scripts/build_resolution_worklist.py`).
+- Window 09/27–10/06 (period closes Wed 10/14). 7 resolutions on file (all "Accepted with Strike", none float);
+  25 missed-visit lines needing attention; 14.5 h unbillable w/ no resolution on file (Christina Smith 3.2 h).
+- Rule validated: claim prefix M = no resolution; V/R = has one.
+- Open: confirm PHC's blocking-code set; offer a Wed payroll-close float check (cron).
 **State:** ACTIVE — CAROL skill gap fixed ✅ (cutover complete 10-03)
 
 ## NOW (2026-10-05 12:45) — CAROL skill gap found + fixed
@@ -117,3 +126,8 @@
 - DSN billing Wednesdays: CMS-1500 Submitted Batches = source of truth for worker days (esp. Bosworth).
 - NEVER hand-type narratives in Phoenix; NEVER run browser probe during a fill batch.
 - Vault write rule: apply_patch CANNOT touch vault/Desktop paths → always exec heredoc.
+
+## NOW (2026-10-07 04:00) — auto-save
+- Quiet overnight. ⏰ **11:00 AM reminder set** (cron 9b507f95): (1) Dorothy A Thomas (9792184) REV LOC approval from Acentra (scloc@acentra.com); (2) ACE-Step 1.5 LoRA training on our reference songs.
+- 🆕 Active project: **ACE-Step 1.5** on the 3060 (H:\ACE-Step-1.5, Gradio 127.0.0.1:7860, shortcut "ACE-Step (Suno).lnk") — music generation w/ LoRA. Tuning guide: ~/Desktop/ACE-Step-Tuning-Guide.md.
+- Open edge unchanged: tasksheet gap Jan 1–Jun 27 2026 (EX1882) blocked while Carol's SP fill uses the 3060 Chrome.
