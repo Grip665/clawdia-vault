@@ -62,3 +62,14 @@
 - **Done:** workspace + CAROL pipeline + Desktop docs ported; playwright installed + 121 scripts de-pathed; skill
   Windows section; HP carol agent/account/binding removed (archived); persona files filled.
 - **Consequences:** Clawdia can no longer `sessions_send` Carol (different gateway) — use `ssh 3060 "openclaw agent --agent carol"`.
+
+## 2026-10-09 — Model routing resilience: don't kill OpenRouter, add an independent lane
+- **Context:** OpenRouter credits hit ~-$0.19 → all-OR fallback chains died; also broke web_search (Perplexity routes via OR).
+- **Decision:** Keep OR funded as the failover + web-search + vision + memory-extraction provider. Do NOT strip it from fallback chains.
+- **Added an independent, non-OR lane:** Google Gemini (AI Studio key) as the 2nd fallback.
+  Final chain (all 3 gateways): deepseek direct → openrouter/deepseek-v4.1-flash → google/gemini-3-flash-preview → claude-cli (HP only).
+- **Why:** DeepSeek API outage ≠ OR outage (OR serves deepseek-v4.1-flash from ~19 hosts incl DeepInfra/Novita/Baidu/CoreWeave).
+  The real SPOF was OpenRouter; Gemini-direct fixes that while keeping tools.
+- **Model note:** use `gemini-3-flash-preview` — `gemini-2.5-flash` now 404s for new keys.
+- **Open items:** Larry to top up OR ~$10 + enable OR Auto Top-Up. Optional: decouple web_search from OR (Brave/DDG) later.
+- Ops: added `~/.openclaw/lane-watchdog.sh` + cron `Lane watchdog — DeepSeek↔OpenRouter failover` (15m, silent unless a leg is down).
