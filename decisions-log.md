@@ -73,3 +73,11 @@
 - **Model note:** use `gemini-3-flash-preview` — `gemini-2.5-flash` now 404s for new keys.
 - **Open items:** Larry to top up OR ~$10 + enable OR Auto Top-Up. Optional: decouple web_search from OR (Brave/DDG) later.
 - Ops: added `~/.openclaw/lane-watchdog.sh` + cron `Lane watchdog — DeepSeek↔OpenRouter failover` (15m, silent unless a leg is down).
+
+## 2026-10-11 — Memory architecture: declared source-of-truth hierarchy
+- Ran our memory setup past Claude (Sonnet). Diagnosis: the problem isn't recall quality — it's **ownership** (7 overlapping layers, no hierarchy) + **observability** (Hindsight died ~2 weeks on 10/9 when OpenRouter credits ran out and nothing noticed).
+- **Adopted (Larry approved, "only if it doesn't break anything"):**
+  - **#1** Memory-health watchdog — `~/.openclaw/memory-watchdog.sh` + cron `e35af2d2` (15-min, silent unless unhealthy; 6h cooldown). Checks daemon, /health, provider-error signatures, write-staleness.
+  - **#3** Store hierarchy — vault = CANON/source of truth; Hindsight + daily notes + MEMORY.md = derived/episodic. MEMORY.md becomes an index. Rule written into AGENTS.md ("Memory Map — SOURCE OF TRUTH").
+- **#2 (recall gating + reranker/latency)** deferred until we can measure — eval set created at `workspace/memory-eval/recall-eval.md` (18 items).
+- Also fixed today: Hindsight LLM repointed OpenRouter → DeepSeek direct (deepseek-chat) after the OR-credit outage.
