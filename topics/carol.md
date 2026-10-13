@@ -34,3 +34,8 @@ Larry's primary work tool — automates documentation on phoenix.scdhhs.gov
 - MC: `id_2` (val 2)
 
 See also: [[project-state]], [[decisions-log]]
+## 🗣️ CAROL narrative wording — Larry preferences (2026-10-13)
+- **A stated appointment AUTOMATICALLY overrides the standard "does not have any healthcare appointments scheduled for this month" clause** — hoist it into the greeting block. Do NOT ask for approval on this; just make the change.
+- **Apply stated health changes inline** (illness, diagnosis, upcoming visit) without making Larry approve each one. He does NOT want to review wording drafts line-by-line — "if I'm doing all of this I can write them myself."
+- **"No changes with daily routine" is OK even alongside a symptom** (e.g. Mattie Tollison: leg pain, routine unchanged) — a symptom alone does not require softening that line. Only soften when the *routine/plan* itself is contradicted (e.g. Pamela Fowler kidney failure + happy-with-plan).
+- Elbert Meredith (9857159) QV = **AR voice, Tracy Young** (he/his, AR she).

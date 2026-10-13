@@ -1,30 +1,30 @@
 # Working Context
 
-**Status:** Idle — end of day Sunday 2026-10-11 (22:00 EDT)
+**Status:** Idle — 2026-10-12 (Monday) 22:00 EDT auto-save. Full interactive day (10:38 AM–9:15 PM); nothing awaiting a reply right now.
 
-**Last activity (2026-10-11 evening):**
-- **Berrios payroll deep-dive + tracker reframed (resolution-centric).** Pulled provider-side reports read-only via CDP (3060 Chrome): Resolutions 8774879 + Provider Activity 8774878 (1:14 PM) → then Berrios-individual (8774943/44/46, 16:52). Rebuilt `PROVIDER/reports/RESOLUTION-TRACKER-2026-10-11.md` → Section 1 = AIDE MONEY AT RISK.
-  - At-risk: 2 DENIED (Jones/Smith Jimmie 10/07+10/08) · 3 accepted-but-$0 (Hardy: Grayson U85W, Benson K8OI, Hughes V5EH).
-  - **Berrios owed ≈ ~24 h from prior period (09/13–09/26)** — Medicaid paid the company but she was never credited (she didn't know the hours existed). This period: worked 64.1 h, paid 27.6 h; billable 61 h → only ~5 h actually missing this period. Should be credited **~84 h** total. Missing hours are on a **resolutions sheet at the office**. **Berrios will call.**
-  - 2 resolutions still pending CLTC (4FUZ Dawkins/Whitehead · YRKU Berrios/Wilson KY) → must clear by **Wed 10/14** or manual aide pay add.
-  - Next Medicaid RA **Fri 10/16** (≈dos 10/05–10/10).
-- **Memory architecture: #1 + #3 live** (Claude Sonnet review → Larry approved top 3, "only if it doesn't break anything").
-  - #1 memory-health watchdog: `~/.openclaw/memory-watchdog.sh` + cron `e35af2d2` (15-min, silent unless unhealthy).
-  - #3 store hierarchy: vault = CANON; Hindsight/daily/MEMORY.md = derived. AGENTS.md "Memory Map — SOURCE OF TRUTH" + MEMORY.md MAP header. Backups `.bak-memmap-20261011-2155`. Created `vault/_inbox.md`.
-  - #2 recall eval set created `workspace/memory-eval/recall-eval.md` (18 items).
-  - Hindsight LLM repointed **OpenRouter → DeepSeek direct** (`deepseek-chat`) — fixed the 2-wk silent death from the OR-credit outage.
-  - Decision logged in `vault/decisions-log.md`.
+**Last activity (2026-10-12, interactive 10:38 AM–9:15 PM):**
+- **Berrios pay + all-worker resolutions.** Berrios 09/27–10/10 = 66.0 payable h / $1,650; **all 6 resolutions accepted — last holdout V 261009-YRKU cleared 10/12 → nothing floats**. All-worker Resolutions 8777473: 21 acc+strike / 2 acc / **2 DENIED** / 0 pending. All-worker Provider Activity 8777517: 09/27–10/10 = **827.3 h / $20,308.70** (17 workers). Tracker: `PROVIDER/reports/RESOLUTION-TRACKER-2026-10-12.md`.
+  - New $0-billable: Horne (Garrison 10/09), Smith/Christina (Watson 09/30), Bullock (Johnson 09/30) + Hardy's 3 + Jones' 2.
+- **Roxie Johnson DSN sheets** 2/18/24–7/22/24 rebuilt v2 (black-pen slashes, aide Dollie Johnson, true Letter landscape) → printed 12 single-sided. Page-size fix baked into `scripts/ddsn_fill_roxie.py` (`to_letter_landscape`). Confirmed 2/18–3/02 week 2 blank (310 CMS-1500 batches checked).
+- **Therap call (1 PM)** cheat sheet → `~/Desktop/PHC-Therap-Reset/Therap_Call_Sheet.pdf`. ⚠️ **NPI in use = 1295369312 (Diane Martin, former owner)** — not Dinasti's 1831815539.
+- **Activities Tasksheet packet** 9/27–10/10 (report 8778179) → 84 pp / 30 participants, printed.
+- **Nurse compliance:** method = Phoenix Reports → Provider Activity incl **Service Type=SUPV**; report 8778715 (49 visits). Overdue: Terra Thomas, Jason Hoover, Manuela Cohen; DSN Sandra Smith + David Bosworth. 2nd nurse = **Carolyn Dorman**.
+- **Ops/misc:** EVV app support **800-441-4667** · SCDHHS (888) 289-0709 opt 4; car battery-light diagnosis (2010 Accord → alternator/regulator); 22 visit addresses → `~/Desktop/October_2026_visit_addresses.csv`; WellRyde TripLog pulled + printed; **reminder set Tue 10/13 9:00 AM — Shirley Renee Watson in hospital**; AI-video (NDI 1.0/Nace AI) reviewed → pass.
 
-**Waiting on Larry:**
-- Confirm the ~24 h Berrios catch-up (verify the resolutions sheet at the office) before crediting her.
-- Modivcare/TP admin change — confirm new admin (Dinasti vs Thomas/Pierre Dupree) before building the letter.
-- Therap Super Admin CHANGE letter (Dinasti Jones) — rendered, pending submission.
+**Carry-over (from 10-11), still open:**
+- **Berrios catch-up ~22 h (period 09/13–09/26)** — await the office resolutions sheet / Larry's confirmation of the "~44 h keyed" figure before crediting.
+- **Modivcare (TP portal) admin change — TABLED.** New admin = Dinasti or Thomas/Pierre Dupree? SCNetwork@modivcare.com / 866-779-5200.
+- **Therap Super Admin CHANGE** — signed letter + DL already exist (`Desktop/PHC-Therap-Reset/`); pending Larry's submission (Super Admin → Dinasti Jones).
+- **Dinasti Jones strike limit** — do NOT re-file her resolutions (Smith/Jimmie 10/07+10/08 DENIED) until strike clears.
+- **Hardy, April** — 3 accepted-but-$0 (U85W / K8OI / V5EH) → won't pay; chase.
 - Optional: enable OpenRouter Auto Top-Up.
 
-**Next up:** (1) Re-pull resolutions before the **10/14** close to catch CLTC accepts (or schedule a manual aide pay add). (2) Fix Berrios catch-up hours. (3) Re-run the full eval set when convenient (3/18 done, all HIT).
+**Memory architecture (live 10-11):** #1 memory-health watchdog (cron `e35af2d2`, 15-min); #3 store hierarchy (vault = CANON); #2 recall-eval set (18 items, 3/18 done all HIT). Hindsight LLM → DeepSeek direct.
+
+**Next up:** (1) **10/14 payroll** — Berrios 66 h should key; watch Hardy $0s + Jones strike. (2) Next Medicaid RA **Fri 10/16**. (3) Nurse follow-ups: Thomas / Hoover / Cohen (+ DSN Smith / Bosworth); refresh stale `PHC_Nurse_Visit_Matches_2026.xlsx` (~8/27). (4) Reminder fires **Tue 10/13 9 AM** (Shirley Watson). (5) Finish the recall eval set when convenient.
 
 ## ⏸️ Open / tabled
-- **Berrios catch-up (~24 h, period 09/13–09/26)** — awaiting the office resolutions sheet; she'll call.
-- **Modivcare (TP portal) admin change — TABLED 2026-10-09.** New admin = **Dinasti** or **Thomas/Pierre Dupree**? SCNetwork@modivcare.com / 866-779-5200.
-- **Therap Super Admin CHANGE** — letter rendered (Dinasti Jones), pending Larry's submission.
+- **Berrios catch-up (~22 h, period 09/13–09/26)** — awaiting the office resolutions sheet; she'll call.
+- **Modivcare (TP portal) admin change — TABLED 2026-10-09.** SCNetwork@modivcare.com / 866-779-5200.
+- **Therap Super Admin CHANGE** — signed docs ready, pending Larry's submission.
 - **Dinasti Jones strike limit** — do not re-file her resolutions until the strike clears.

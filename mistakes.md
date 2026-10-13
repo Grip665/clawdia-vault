@@ -291,3 +291,8 @@ all sections). Never a diff. Before applying, sanity-check the proposal's size �
 - I made a "more detailed" MC edit (he/she sentence leads). Larry: **"I always say 'the participant reported/stated'. I never use he or she — only in the close ('the participant reported he/she is happy with his/her service plan')."**
 - **REVERTED** templates.js to the trained original on HP + 3060 (md5 85fbb44e486be2568ea958ca5c09e745). Verified: Carol's MC output now == Larry's own 10/09 Sullivan MC, byte-for-byte shape.
 - LESSON: templates.js is TRAINED TEXT. Do NOT "improve" it. Only change on explicit "change the template" instruction, and if unsure, ask for an exemplar instead of proposing rewrites.
+
+## 2026-10-12 — Cited the wrong NPI for Prestigious
+- I told Larry the NPI "we used for Prestigious" = 1831815539 (Dinasti's). **Wrong.**
+- The NPI in use = **1295369312** (Diane Martin, former owner) — kept as-is. Dinasti's 1831815539 was only on draft fax docs.
+- Lesson: for PHC identifiers, the NPI ON FILE/IN USE ≠ the most recent person's NPI. Verify against the portal/remit, don't infer from drafts. Logged correct value in topics/home-health-admin.md.
