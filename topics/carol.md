@@ -39,3 +39,17 @@ See also: [[project-state]], [[decisions-log]]
 - **Apply stated health changes inline** (illness, diagnosis, upcoming visit) without making Larry approve each one. He does NOT want to review wording drafts line-by-line — "if I'm doing all of this I can write them myself."
 - **"No changes with daily routine" is OK even alongside a symptom** (e.g. Mattie Tollison: leg pain, routine unchanged) — a symptom alone does not require softening that line. Only soften when the *routine/plan* itself is contradicted (e.g. Pamela Fowler kidney failure + happy-with-plan).
 - Elbert Meredith (9857159) QV = **AR voice, Tracy Young** (he/his, AR she).
+
+## ⚠️ CAROL QV batch — contact date (2026-10-13)
+- **Confirm the date of contact BEFORE filling** — do not silently default to "today".
+- This batch (Fowler / Davis / Tollison / Meredith / Brown QVs): **contact date = 10/12/2026.**
+
+## 2026-10-13 QV batch — results (contact date 10/12/2026)
+- Fowler 9853029 (L5,E,L1,L4,M,L2,L6) · Davis 9798336 (L4,E,D,B,M) · Meredith 9857159 AR/Tracy Young (E,B) · Brown 9915087 (L5,G3,M,D,L6) — all filled + saved_draft on the 3060 lane.
+- Tollison 9825750 — NOT redone; saved earlier with the wrong date (10/13), Larry fixes the date by hand (no duplicate).
+- Invocation gotchas: run `auto` then `save` as SEPARATE commands (auto leaves the form open / process hangs); pass JSON opts via a `.cmd` with `\"` escaping (PowerShell mangles them).
+
+## Pamela G Fowler (9853029) — kidney failure wording (2026-10-13)
+- Correct phrasing: she was **DIAGNOSED** with kidney failure — NOT "being treated for".
+- Use: "The participant reported she was diagnosed with kidney failure."
+- Larry corrected my 10/12 QV draft manually (I had written "is currently being treated for kidney failure").

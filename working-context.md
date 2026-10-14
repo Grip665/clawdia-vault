@@ -1,30 +1,47 @@
 # Working Context
 
-**Status:** Idle — 2026-10-12 (Monday) 22:00 EDT auto-save. Full interactive day (10:38 AM–9:15 PM); nothing awaiting a reply right now.
+**Status:** Idle — 2026-10-13 (Tuesday) 22:00 EDT auto-save. Quiet since the 17:00 task-sheet audit rebuild; nothing awaiting a reply.
 
-**Last activity (2026-10-12, interactive 10:38 AM–9:15 PM):**
-- **Berrios pay + all-worker resolutions.** Berrios 09/27–10/10 = 66.0 payable h / $1,650; **all 6 resolutions accepted — last holdout V 261009-YRKU cleared 10/12 → nothing floats**. All-worker Resolutions 8777473: 21 acc+strike / 2 acc / **2 DENIED** / 0 pending. All-worker Provider Activity 8777517: 09/27–10/10 = **827.3 h / $20,308.70** (17 workers). Tracker: `PROVIDER/reports/RESOLUTION-TRACKER-2026-10-12.md`.
+**Last activity (2026-10-13, 13:50–17:00): Task-sheet MARK-UP audit v3 (iterated 3×)**
+- Built `PROVIDER/scripts/build_audit_v3.py` + `build_audit_sheet_docx.py` → `PHC_TaskSheet_Audit_Sheet.docx/.pdf` (97pp, 2026 active+recent+CPCA, 37 participants): 81 missing sheet-weeks · **314** MARK days · 279 documented blanks.
+- Added CPCA clients (Wilson 9892407, Hayes 9883954, Garrison 9905269) via per-visit path; extended grid through 2026-10-10 (Q4 chunk).
+- **Key bug found:** audit blank-detection is only as good as the tasksheet pull — the 10/05 pull was BROKEN for some weeks (e.g. Jimmie 04/27–04/30). Rebuilt off FRESH pulls (reports 8784004 + 8784006) → MARK 378→314 (−64 false positives). **Always pull tasksheets fresh per run.**
+- Killed an orphaned polling loop the runaway build sub-agent left on the 3060 (Session 0, ~58 CPU-min). ⚠️ Lesson logged in mistakes.md: ASK before background builds/portal pulls. Do NOT disable bgutil-pot-watchdog (it's the instrumental-pipeline PO-token self-heal, not the culprit).
+
+**Last activity (2026-10-13, 11:54): In-service sheets + Roxie 7/21–8/3**
+- Built **page 2** of the annual in-service video links (topics 11–20) → combined `PHC_InService_Video_Links_2page.pdf` (2pp) + page1/page2; Larry printed; all dropped into the InService Folder Kit (`~/Desktop/Home Care documents/Employee Files - Compliance/SCDHHS-Forms/InService-Folder-Kit/`).
+- Roxie Sheet C (07/21–08/03/24) intentionally partial (build capped ≤2024-07-22); Larry says a physical folder sheet already covers 7/23–8/1 → no rebuild.
+- Note: `scripts/ddsn_fill_roxie.py` hard-caps days at <=2024-07-22.
+
+**Last activity (2026-10-13, 00:14–00:50): CAROL QV batch (5 narratives), contact date 10/12/2026**
+- Filled via carol.js on the **3060 CAROL lane** (Chrome 18801), all `saved_draft` for Larry's review:
+  - Pamela G Fowler 9853029 — L5,E,L1,L4,M,L2,L6 — custom body (kidney failure hoisted)
+  - Christopher C Davis 9798336 — L4,E,D,B,M — custom body (appointment overrides "no appointments")
+  - Elbert Meredith 9857159 — E,B — AR voice (Tracy Young), template `auto`
+  - David Brown 9915087 — L5,G3,M,D,L6 — template `auto` + housing-search extra
+  - Mattie L Tollison 9825750 — NOT redone (earlier save had wrong date 10/13; Larry fixes date manually to avoid dup)
+- **Lessons:** (1) ALWAYS confirm date of contact before filling — defaulted to today and used 10/13. (2) `carol.js auto`/`narrative` leaves form open + process hangs → run `auto`, then `save` in a SEPARATE invocation. (3) JSON opts must go via a `.cmd` with `\"` escaping — PowerShell mangles quotes.
+
+**Prior activity (2026-10-12, 10:38 AM–9:15 PM):**
+- **Berrios pay + all-worker resolutions.** Berrios 09/27–10/10 = 66.0 payable h / $1,650; **all 6 resolutions accepted** — last holdout V 261009-YRKU cleared 10/12 → nothing floats. All-worker Resolutions 8777473: 21 acc+strike / 2 acc / **2 DENIED** / 0 pending. All-worker Provider Activity 8777517: 09/27–10/10 = **827.3 h / $20,308.70** (17 workers). Tracker: `PROVIDER/reports/RESOLUTION-TRACKER-2026-10-12.md`.
   - New $0-billable: Horne (Garrison 10/09), Smith/Christina (Watson 09/30), Bullock (Johnson 09/30) + Hardy's 3 + Jones' 2.
-- **Roxie Johnson DSN sheets** 2/18/24–7/22/24 rebuilt v2 (black-pen slashes, aide Dollie Johnson, true Letter landscape) → printed 12 single-sided. Page-size fix baked into `scripts/ddsn_fill_roxie.py` (`to_letter_landscape`). Confirmed 2/18–3/02 week 2 blank (310 CMS-1500 batches checked).
+- **Roxie Johnson DSN sheets** 2/18/24–7/22/24 rebuilt v2 → printed 12 single-sided. Page-size fix in `scripts/ddsn_fill_roxie.py` (`to_letter_landscape`). 2/18–3/02 week 2 confirmed blank (310 CMS-1500 batches checked).
 - **Therap call (1 PM)** cheat sheet → `~/Desktop/PHC-Therap-Reset/Therap_Call_Sheet.pdf`. ⚠️ **NPI in use = 1295369312 (Diane Martin, former owner)** — not Dinasti's 1831815539.
 - **Activities Tasksheet packet** 9/27–10/10 (report 8778179) → 84 pp / 30 participants, printed.
 - **Nurse compliance:** method = Phoenix Reports → Provider Activity incl **Service Type=SUPV**; report 8778715 (49 visits). Overdue: Terra Thomas, Jason Hoover, Manuela Cohen; DSN Sandra Smith + David Bosworth. 2nd nurse = **Carolyn Dorman**.
 - **Ops/misc:** EVV app support **800-441-4667** · SCDHHS (888) 289-0709 opt 4; car battery-light diagnosis (2010 Accord → alternator/regulator); 22 visit addresses → `~/Desktop/October_2026_visit_addresses.csv`; WellRyde TripLog pulled + printed; **reminder set Tue 10/13 9:00 AM — Shirley Renee Watson in hospital**; AI-video (NDI 1.0/Nace AI) reviewed → pass.
 
-**Carry-over (from 10-11), still open:**
+**Carry-over (still open):**
+- **10/14 payroll** — Berrios 66 h should key; watch Hardy $0s + Jones strike limit.
 - **Berrios catch-up ~22 h (period 09/13–09/26)** — await the office resolutions sheet / Larry's confirmation of the "~44 h keyed" figure before crediting.
+- **Next Medicaid RA Fri 10/16.**
+- **Nurse follow-ups:** Thomas / Hoover / Cohen (+ DSN Smith / Bosworth); refresh stale `PHC_Nurse_Visit_Matches_2026.xlsx` (~8/27).
+- **Reminder fires Tue 10/13 9 AM** (Shirley Watson).
 - **Modivcare (TP portal) admin change — TABLED.** New admin = Dinasti or Thomas/Pierre Dupree? SCNetwork@modivcare.com / 866-779-5200.
-- **Therap Super Admin CHANGE** — signed letter + DL already exist (`Desktop/PHC-Therap-Reset/`); pending Larry's submission (Super Admin → Dinasti Jones).
+- **Therap Super Admin CHANGE** — signed letter + DL ready (`Desktop/PHC-Therap-Reset/`); pending Larry's submission (Super Admin → Dinasti Jones).
 - **Dinasti Jones strike limit** — do NOT re-file her resolutions (Smith/Jimmie 10/07+10/08 DENIED) until strike clears.
 - **Hardy, April** — 3 accepted-but-$0 (U85W / K8OI / V5EH) → won't pay; chase.
 - Optional: enable OpenRouter Auto Top-Up.
+- Finish the recall eval set when convenient (18 items, 3/18 done all HIT).
 
-**Memory architecture (live 10-11):** #1 memory-health watchdog (cron `e35af2d2`, 15-min); #3 store hierarchy (vault = CANON); #2 recall-eval set (18 items, 3/18 done all HIT). Hindsight LLM → DeepSeek direct.
-
-**Next up:** (1) **10/14 payroll** — Berrios 66 h should key; watch Hardy $0s + Jones strike. (2) Next Medicaid RA **Fri 10/16**. (3) Nurse follow-ups: Thomas / Hoover / Cohen (+ DSN Smith / Bosworth); refresh stale `PHC_Nurse_Visit_Matches_2026.xlsx` (~8/27). (4) Reminder fires **Tue 10/13 9 AM** (Shirley Watson). (5) Finish the recall eval set when convenient.
-
-## ⏸️ Open / tabled
-- **Berrios catch-up (~22 h, period 09/13–09/26)** — awaiting the office resolutions sheet; she'll call.
-- **Modivcare (TP portal) admin change — TABLED 2026-10-09.** SCNetwork@modivcare.com / 866-779-5200.
-- **Therap Super Admin CHANGE** — signed docs ready, pending Larry's submission.
-- **Dinasti Jones strike limit** — do not re-file her resolutions until the strike clears.
+**Memory architecture (live 10-11):** #1 memory-health watchdog (cron `e35af2d2`, 15-min); #3 store hierarchy (vault = CANON); #2 recall-eval set. Hindsight LLM → DeepSeek direct.
