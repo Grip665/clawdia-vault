@@ -53,3 +53,14 @@ See also: [[project-state]], [[decisions-log]]
 - Correct phrasing: she was **DIAGNOSED** with kidney failure — NOT "being treated for".
 - Use: "The participant reported she was diagnosed with kidney failure."
 - Larry corrected my 10/12 QV draft manually (I had written "is currently being treated for kidney failure").
+
+## 🗣️ CAROL → Claude (how CAROL consults Claude) — 2026-10-14
+- CAROL runs on the **3060** with Claude Code CLI installed/authenticated: `C:\Users\User\.local\bin\claude.exe`
+  (OAuth token: `~/.claude/oauth-token`; `gateway.cmd` adds `.local\bin` to PATH + exports `CLAUDE_CODE_OAUTH_TOKEN`).
+- One-shot consult (her exec tool): `"C:\Users\User\.local\bin\claude.exe" -p "<question>"`
+  - `--model opus|sonnet` · `--allowedTools "Read Grep"` (keep read-only) · `-c` to continue · `--append-system-prompt`.
+  - **Advisory only** — never let Claude perform Phoenix actions or write production scripts (CAROL rule).
+  - Stateless per call unless `-c` / `--session-id`.
+- How-to doc lives in her workspace: `workspace-carol\TALK-TO-CLAUDE.md`. CAROL confirmed 2026-10-14.
+- To poke CAROL from outside, use `openclaw.cmd agent --agent carol --session-key <key> --message-file <f>`
+  on the 3060 — **always pass an explicit `--session-key`** (a keyless call attaches to CAROL's OWN live Telegram session — it echoed her in-flight chat with Larry).

@@ -1,6 +1,8 @@
 # Working Context
 
-**Status:** Idle — 2026-10-13 (Tuesday) 22:00 EDT auto-save. Quiet since the 17:00 task-sheet audit rebuild; nothing awaiting a reply.
+**Status:** Idle — 2026-10-14 (Wednesday) 22:00 EDT auto-save. Wed = payroll day (Berrios 66h to key); next Medicaid RA Fri 10/16. Evening: 8.5-min internet outage 17:52–18:01 (upstream); two silent watchdogs fixed (→ OpenRouter lane, timeout 180s, test ok 3.7s) after DeepSeek-direct stalls; 20:47 triage of Provider Activity #8788307 = 5 open clock-outs / 3 OVER. 21:00 freellmapi (free backup lane) + Scrapling isolated venv + memory-arch review sent to Claude Opus (memory-architecture-review-2026-10-14.md). Vault/daily synced; graphify 7250 nodes.
+
+⚠️ **ACTION (main session) — arm CAROL handoff reminders:** `hermes-share/_to-vance/CAROL-CLAWDIA_larry-telegram-reminders_2026-10-14.md` arrived 01:30 today. Create 3 Telegram reminders to Larry: (1) **Oct 15 9:00 AM** = BOQTraining@scdhhs.gov advance-questions heads-up, due COB Fri Oct 16; (2) Oct 19 9:00 AM = SCDHHS Waiver QA office hours tomorrow (Tue Oct 20, 10AM–12PM); (3) Oct 20 8:30 AM = office hours TODAY (topic: ADHC attendance logs + PCS task sheets/resolutions). Optional recurring (3rd Tue). The 8 AM auto-save run couldn't add jobs (cron-restricted isolated run).
 
 **Last activity (2026-10-13, 13:50–17:00): Task-sheet MARK-UP audit v3 (iterated 3×)**
 - Built `PROVIDER/scripts/build_audit_v3.py` + `build_audit_sheet_docx.py` → `PHC_TaskSheet_Audit_Sheet.docx/.pdf` (97pp, 2026 active+recent+CPCA, 37 participants): 81 missing sheet-weeks · **314** MARK days · 279 documented blanks.
