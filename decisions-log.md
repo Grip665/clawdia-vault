@@ -81,3 +81,14 @@
   - **#3** Store hierarchy — vault = CANON/source of truth; Hindsight + daily notes + MEMORY.md = derived/episodic. MEMORY.md becomes an index. Rule written into AGENTS.md ("Memory Map — SOURCE OF TRUTH").
 - **#2 (recall gating + reranker/latency)** deferred until we can measure — eval set created at `workspace/memory-eval/recall-eval.md` (18 items).
 - Also fixed today: Hindsight LLM repointed OpenRouter → DeepSeek direct (deepseek-chat) after the OR-credit outage.
+
+## 2026-10-15 — Hindsight spend cut: Tier 1 applied (config-only, reversible)
+- **Diagnosis (verified from daemon `llm-requests`, ~12.7h window):** consolidation = **84% of memory tokens** at avg **13,856 input tok/call**; retain = 16% at 1,419 tok/call. Consolidation fires ~**1× per retain**, not 5× — an earlier brief to Claude Opus had two swapped figures, so Opus's "consolidation misconfigured at 5×" headline rested on bad input. The real driver is **per-call size** (system prompt + **2,149 uncapped observations** re-sent each consolidation).
+- **Consulted Claude Opus** (Larry asked), then verified its claims against the DB. Opus's genuinely useful contributions: cap the observations corpus; consolidation is summarization (not reasoning) so a cheaper model is acceptable there.
+- **Applied (Tier 1):**
+  1. `openclaw.json` → plugin config: `retainEveryNTurns 1→3`, `retainOverlapTurns 1`, `retainToolCalls true→false`. Backup: `openclaw.json.bak-tier1-20261015-104048`.
+  2. Bank config `PATCH /v1/default/banks/<id>/config` → `max_observations_per_scope: -1 → 800`.
+  3. Guardrails: `lane-watchdog.sh` OR_MIN 2.00→6.00 (+ cron arg updated); `check-openrouter-spend.sh` gained a monthly-PACE projection (2nd arg = pace ceiling, $30/mo) (+ cron arg).
+- **Expected:** ~60–70% cut (retain + consolidation both /3).
+- **Held (Tier 2, Larry's call):** `enable_auto_consolidation: false` — kills the 84% but stops synthesizing observations.
+- **Note:** OpenRouter hard key budget is NOT settable via API (non-provisioning key) — dashboard only.

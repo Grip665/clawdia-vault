@@ -339,3 +339,32 @@ Separate file: `references/home-health-admin/task-backlog.md` (captured 2026-08-
 - Applied via **Docker-root nsenter** (no sudo pw needed): `docker run --rm --privileged --pid=host --net=host --uts=host --ipc=host alpine nsenter -t 1 -m -u -i -n -p -- /bin/sh /tmp/script.sh`  ⚑ `tools.elevated` is NOT available on Telegram.
 - Result: link up, 192.168.50.237, signal -39 dBm, 0 lps errors after reload. 8 AM 10/13 check-in cron set (`dcb03c84`).
 - Fallbacks if it still drops: update linux-firmware, or rtw88-dkms out-of-tree driver.
+
+---
+
+## ADMIN DOCS — DPH vs SCDHHS (2026-10-15)
+Built 3 docs to close SCDHHS/HCBS gaps → `~/Desktop/PHC_ADMIN_ADDON_2026-10-15/` (01_Organizational_Chart, 02_Policy_SCDHHS_Notification_of_Change, 03_Policy_Business_Hours_and_Office_Coverage). Source script: `/tmp/build_admin_docs.py`.
+- **Org chart:** DPH R.60-122 §401 does NOT require one (designated administrator only). **SCDHHS HCBS Provider Manual §F.2 DOES** — "must include an organizational chart including names of those currently in the positions." Keep it.
+- **3-working-day notice** (§F.1): notify SCDHHS within 3 working days of change in agency **administrator, address, phone number, or extended absence of the administrator**.
+- Org chart roles: Dinasti Jones = Administrator · Lawrence Griffin = Alternate/Designee · **Chanelle Allen = Nurse Supervisor (RN)** · ⚠️ Office Manager still `[fill in]`.
+
+## 🕒 OFFICE HOURS — what the regs actually require (research 2026-10-15)
+Larry asked: does DPH or SCDHHS dictate what hours someone must be at the office?
+
+**DPH — R.60-122 (Standards for Licensing In-Home Care Providers): NO business-hours requirement.**
+- Requires a **primary office** only in the structural sense: "The main office … where all records are kept, secured, and accessible, and from which a provider performs oversight, administrative, and coordination of services" (Definitions §102.S).
+- Primary office must be in-state, in a commercially zoned/unzoned area, with a county/municipal zoning permit (§103.D).
+- License must be **posted in a conspicuous place in a public area of the provider's business office or readily available to the public** (§103.C.1) — this is the closest thing to an "open to the public" duty.
+- Records "readily accessible … for inspections and investigations."
+- The ONLY "hours" references in R.60-122 are a 24-hour incident-reporting clock and business-day deadlines. **No clock hours, no minimum staffing hours.**
+- Source: `PROVIDER/dph/R60-122.txt`.
+
+**SCDHHS — HCBS Provider Manual: does NOT prescribe hours either.**
+- "SCDHHS reserves the right to perform onsite reviews **during normal business hours** to ensure compliance with policies and procedures." (§8 Billing Guidance)
+- The administrative compliance review simply ASKS the provider to **self-declare** hours and confirm staffing — it does not set them.
+  - Review #44601 admin Qs: "What are the provider's business hours?" → **Monday–Friday 10AM–4PM**; "Is provider's office open and staffed during listed business hours?" → **Yes**.
+  - Staff review: "Is nurse supervisor accessible by phone during hours services are being provided?" → Yes.
+  - Source: `PROVIDER/compliance-review-44601/admin.txt`.
+
+**Bottom line:** Hours are the **provider's choice**, but the agency must (a) state them, (b) actually be **open AND staffed** during them, (c) keep them **consistent** across the policy manual / Phoenix / signage / Welcome Packet, and (d) be available for SCDHHS/DPH onsite review during those hours.
+- Our new admin doc `03_Policy_Business_Hours_and_Office_Coverage` (M–F 10:00–4:00 open+staffed; 8:30–5:00 by phone; 24/7 emergency (864) 652-5100) matches the 10–4 M–F hours already reported to SCDHHS in review #44601. Keep them in lockstep.
