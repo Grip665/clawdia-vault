@@ -13,18 +13,21 @@ Tracker for Senator Transportation LLC (and related) bills Larry flags. Reminder
 | Item | Policy # | Amount | Due |
 |------|----------|--------|-----|
 | Biberk — Workers Comp (2nd policy) | N9WC080186 | $524.63 | 9/13/2026 |
-| Verizon Connect | — | $116.95 | 9/16/2026 (reminder 9/14) |
+| Verizon Connect | — | $116.95 | **11/14/2026** (Larry 10/16) |
 | Biberk — policy (paid 2/16/26) | N9PL497108 | $279.45 | 11/12/2026 |
 | USLI (billing ref UIA-489481-120525) | AH 1563617C | $902.00 each | **11/09/26 · 01/08/27 · 03/09/27** (3 payments) |
 | Now Insurance | — | monthly | Paid every 5th — **UP TO DATE** ✅ |
 | ~~USLI~~ (merged above) | — | — | — |
-| **Progressive — Auto** | 876601435 | TBD | verify due date (info logged 10/14) |
+| **Sardy's Insurance / Progressive — Auto** | 876601435 | TBD | **11/06/2026** (Larry 10/16) |
 
-## Progressive Auto — payment info (logged 2026-10-14)
-- **Carrier:** Progressive
-- **Auto policy #:** 876601435
+## Progressive Auto — payment info (logged 2026-10-14; provider added 2026-10-16)
+- **Carrier:** Progressive — **via Sardy's Insurance** (FL agent)
+- **Agent phone:** **305-485-0116** (provider number on the password doc)
+- **Auto policy #:** 876601435 ("Senator Trans FL Auto Insurance")
+- **Policy owner:** Pierre Dupree = Thomas Dupree (same person) — owner of Senator Transportation LLC (confirmed 2026-10-16). See `vault/topics/senator-transportation.md`.
 - **DOB:** 12/27/1986 · **ZIP:** 33127
-- These are the details needed to log in / pay the policy. Amount + due date not yet captured — update when Larry provides or when the bill shows up.
+- Source: password doc (`Desktop/Billing-Training/transcripts/password_doc.txt`, §5C) + insurance list. **No dedicated Progressive online login saved** (as of 10/16).
+- **Due: 11/06/2026** (Larry, 10/16). Amount still TBD — capture when the bill shows up.
 
 ## Account phone numbers
 - Biberk acct w/ N9WC080186: **864-479-0020**

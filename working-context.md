@@ -37,9 +37,9 @@
 - **10/14 payroll** — Berrios 66 h should key; watch Hardy $0s + Jones strike limit.
 - **Berrios catch-up ~22 h (period 09/13–09/26)** — await the office resolutions sheet / Larry's confirmation of the "~44 h keyed" figure before crediting.
 - **Next Medicaid RA Fri 10/16.**
-- **Nurse follow-ups:** Thomas / Hoover / Cohen (+ DSN Smith / Bosworth); refresh stale `PHC_Nurse_Visit_Matches_2026.xlsx` (~8/27).
+- **Nurse follow-ups:** 10/16 printable for Chanelle (`~/Desktop/PHC_Chanelle_Nurse_Visits_Oct-Nov_2026.pdf`) = overdue Terra Thomas + Nov (Nesbitt, Grove, White, Garrison, Kantor); the 6 others done by someone else; Hoover = discharged. Still: refresh stale `PHC_Nurse_Visit_Matches_2026.xlsx` (~8/27).
 - **Reminder fires Tue 10/13 9 AM** (Shirley Watson).
-- **Modivcare (TP portal) admin change — TABLED.** New admin = Dinasti or Thomas/Pierre Dupree? SCNetwork@modivcare.com / 866-779-5200.
+- **Modivcare (TP portal) admin change — TABLED.** New admin = Dinasti Jones or Pierre Dupree (**Pierre = Thomas Dupree, same person**, per Larry 10/16)? SCNetwork@modivcare.com / 866-779-5200. See `vault/topics/senator-transportation.md`.
 - **Therap Super Admin CHANGE** — signed letter + DL ready (`Desktop/PHC-Therap-Reset/`); pending Larry's submission (Super Admin → Dinasti Jones).
 - **Dinasti Jones strike limit** — do NOT re-file her resolutions (Smith/Jimmie 10/07+10/08 DENIED) until strike clears.
 - **Hardy, April** — 3 accepted-but-$0 (U85W / K8OI / V5EH) → won't pay; chase.
@@ -47,3 +47,9 @@
 - Finish the recall eval set when convenient (18 items, 3/18 done all HIT).
 
 **Memory architecture (live 10-11):** #1 memory-health watchdog (cron `e35af2d2`, 15-min); #3 store hierarchy (vault = CANON); #2 recall-eval set. Hindsight LLM → DeepSeek direct.
+
+---
+**2026-10-16 (Fri) 04:00 — auto-save:** No new live work since 10/15 22:00. Everything below stands; key watch-item is the **Medicaid RA dated 10/16** (check #6893199, $10,070.75, EX1882) + the **address-of-record flag** (Greer vs Duncan → §F.1 notice). Org-chart re-cut still HELD pending the Chanelle Allen call.
+**2026-10-16 (Fri) 08:00 — auto-save:** Still no new live work since 10/15 22:00 (8 AM cron mirrors 04:00). Watch-items unchanged: **Medicaid RA dated 10/16** (check #6893199, $10,070.75, EX1882) + **address-of-record flag** (Greer vs Duncan → §F.1 notice). Org-chart re-cut still HELD pending the Chanelle Allen call. Graphify 7435 nodes / 8251 edges.
+**2026-10-16 (Fri) 14:00 — auto-save:** Live work since 08:00: nurse printable for Chanelle (sent), Pierre=Thomas Dupree identity resolved, compliance Q&A + CM cheat sheet sent, shared (864) 325-4126 number confirmed = Mag's AR contact (stop flagging), Nurse Supervisory Assessment rebuilt w/ logo (blank + fillable). Watch-items unchanged: **Medicaid RA 10/16** (#6893199, $10,070.75, EX1882) + **address-of-record flag** (Greer vs Duncan → §F.1). Graphify 7445/8268.
+**2026-10-16 (Fri) 22:00 — auto-save:** Day's live work: Nurse Supervisory Assessment FINAL (2pp, 10q p1/5q p2, 58 fields) + swapped into binder #11 (master stays **rev10**, now **119 pp** — rev11 bump reverted per Larry); binder index #11 updated to Initial/30-Day/Quarterly; Saturday Night Audit packet (37 per-client PDFs from the 10/14 v4 build) built + pushed to 3060 `Desktop\Saturday_Night_Audit_2026-10-17\`; Therap recon as Jay (DSN clients ARE there — Bosworth clientId 10536725 / CM Kendra McLeod, Bright Start CMBRIT-SC — but PHC's account has **NO Health/Nursing/T-Log/ISP/EVV module** → DSN supv visits live with the CM/DDSN); iMac caffeinate re-enabled (pid 2499, LaunchAgent). Watch-items unchanged: **Medicaid RA 10/16** (#6893199, $10,070.75, EX1882) + **address-of-record flag** (Greer vs Duncan → §F.1). Graphify 7454/8277.
