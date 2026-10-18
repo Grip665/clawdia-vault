@@ -92,3 +92,19 @@
 - **Expected:** ~60–70% cut (retain + consolidation both /3).
 - **Held (Tier 2, Larry's call):** `enable_auto_consolidation: false` — kills the 84% but stops synthesizing observations.
 - **Note:** OpenRouter hard key budget is NOT settable via API (non-provisioning key) — dashboard only.
+
+## 2026-10-17 — Audit sheets now print DAYS OF SERVICE on every participant block
+- Larry: "moving forward put the days of service on the audit sheets so we have them readily available."
+- **Implemented in the build, not by hand:**
+  - `PROVIDER/scripts/build_audit_v3.py` now derives each participant's authorized weekday pattern
+    from the grid and writes **`SERVICE_DAYS.csv`** (service_days, auth_hours, auth_start, auth_end).
+    MISSING_SHEETS rows now carry the actual day names for that week (`auth_days`) plus a count (`n_days`).
+  - `PROVIDER/scripts/build_audit_sheet_docx.py` prints
+    `DAYS OF SERVICE: TUE & THU   (4.0 hrs/day · auth 07/02/2023 – open)` at the top of every
+    participant block AND at the top of each of the 3 sections, so every printed page shows it.
+    MISSING TASK SHEETS table column is now "Days of service" (not a count).
+  - `PROVIDER/scripts/split_audit_packet.py` (new) re-splits the master PDF into per-client files;
+    every per-client PDF therefore carries the service-days line.
+- **Why:** tells the auditor at a glance whether a blank day was even supposed to have service
+  (e.g. Pollard = TUE & THU; 5/12/25 was a Monday → not an auth day, no exposure).
+- Build of record: `~/Desktop/PHC-Audit-2024-2026/v5-20261017/` — 151 pp master + `packet/` (37 per-client PDFs).
