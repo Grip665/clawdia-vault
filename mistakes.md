@@ -308,3 +308,10 @@ all sections). Never a diff. Before applying, sanity-check the proposal's size �
 - Extra pain: the chat **"stop" does not cancel a background sub-agent** — it kept running ~10+ min, which reads as "went silent and started doing stuff."
 - **Rule reinforced: ASK FIRST before any background build / portal pull / multi-step action.** One-line scope+approach confirm. Don't delegate heavyweight work unasked. Silent background work is worse than asking twice.
 - Regression to fix: my grid-based v3 audit **dropped the 3 CPCA clients** (9892407 Wilson, 9883954 Hayes, 9905269 Garrison) that WERE present in the old `PHC-Run-Sheets_GAPS-REPAIRED-ALLFLAGS` workbook — because CPCA has no authorized weekdays so the grid skips them. They must be carried into the v3 audit.
+
+## 2026-10-19 — Claimed Vance had no Telegram / only lived in the Hermes window
+- **What I said:** "Vance has no Telegram, no OpenClaw agent on that box — he only lives inside the Hermes desktop app."
+- **Reality:** vault/daily/2026-09-20.md line 49 says Vance has his OWN Telegram bot, **@Vance_665bot** (bot ID 8730744193), `TELEGRAM_ALLOWED_USERS` = Larry (1301496318) only. Larry talks to him there daily and doesn't use the Hermes window.
+- **Root cause:** I checked `openclaw agents list` on the 3060 (shows only main + carol) and inferred from THAT, instead of reading the vault line I already have. Also saw Telegram reconnect lines in Vance's agent.log and didn't connect them.
+- **Rule going forward:** Vance ≠ OpenClaw agent on the 3060. Vance = the Hermes app + hermes-gateway, own Telegram bot. Before asserting "X can't be reached", read `vault/daily` for the comms topology.
+- **What IS true:** HP→Vance handoffs go through `hermes-share/` (file bridge, syncs every 20 min as of today). Vance's replies come back as files in `_from-vance/`. Larry→Vance = Telegram.

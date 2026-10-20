@@ -1,6 +1,36 @@
 # Working Context
 
-**LATEST (2026-10-18 Sunday, 22:00 — idle):** No live PHC work since Fri 10/17. Sunday's only task was the
+**LATEST (2026-10-19 Monday, 22:00 — auto-save):** Evening was **clothing lane, not PHC** — the **Orochimaru
+jacket DTF print kit** (14:00–19:11). Built **two complete size sets, 7 variants each**, in `media-out/orochimaru/`
+(157 MB): **SET A `jacket_15x15press_*` (recommended)** art 11.40×13.96" / canvas 11.95×14.51" → one-pass 15×15 press
+w/ ~0.5" margin; **SET B `jacket_14x14sheet_*`** art 10.80×13.20" / canvas 11.35×13.75"; plus `orochimaru_back_12in_*`
+and 2 zips. Variants: FULL / EYES-KNOCKOUT / EYES-SOCKET / NO-OUTLINE / OUTLINE-WHITE-ONLY / KEYLINE-ONLY /
+HAIR-FLOCK-MASK. Handoff doc = **`OROCHIMARU_JACKET_SPEC.txt`** (+ README_SPEC). Art is portrait 0.816 → at 14" wide
+it'd be 17.1" tall, hence the 14×14 split. **Eye holes: Larry's Illustrator read (19:09) wins** — right 0.50×0.50",
+left 0.60×0.50" (script was +0.03" from mask dilation); at 11.4" they're too small to weed in HTV → enlarge ~2.5× in
+art, or 0.75–0.8" GITD disc cover, or 3mm LED behind 0.75" dome. Disc variants added. Flock = color pass first, then
+white ring w/ 1/32"–1/16" overlap @ 285–300 °F. Graphify 7687/8499. Monday → no push; ⚠️ **decide whether 157 MB
+`media-out/orochimaru/` belongs in the repo before Sunday.** ⚠️ **Phase 2 (Vance) still unreviewed — reply owed**
+(iCalUID generation counter · transparency likely inverted · splitter min-task threshold product call).
+
+**PREV (2026-10-19 Monday, 14:00 — auto-save):** Scheduler build moved fast on the Vance lane. 04:58 Larry
+"Go and start phase 1" → Phase 1 delivered **87/87 tests, 13/13 mutation-guarded** → accepted (TickTick Premium dead;
+Morgen OAuth still NOT given and is not a dependency). 11:38 Larry decided Q1 — **"21 is best."** → horizon = 21 days
+as a **product-owner decision** (Q1 in OPEN_QUESTIONS.md says so) → Phase 2 GO. 13:23 **Phase 2 build complete**
+(`hermes-share/_from-vance/VANCE-CLAW_phase2-build_2026-10-19.md`): **153/153 tests, 32/32 testable rules guarded,
+1 declared equivalent mutant**, zero deps/no network. Deliverables: `src/split.js` (never emits a sub-floor runt;
+`SPLIT_DISABLED` as its own at-risk reason), `src/review.js` (pure reducer; committed/pinned never moved by re-plan;
+partial commit keeps successes; stale `input_hash` refuses silent recompute), `harness.html`, `src/google.js`
+(freebusy, events.list+syncToken, 410→full re-sync, iCalUID, If-Match/412, delete 410/404=deleted), `GOOGLE_ANSWERS.md`.
+Q9 = report **both** `free_minutes` and `accepting_minutes`. ⚠️ **Phase 2 not yet reviewed/accepted — reply to Vance
+still owed.** Three items needing a human: (a) **`iCalUidFor()` needs a generation counter** — deleted UIDs stay
+reserved → re-commit after deletion 409s forever (real bug, unpatched); (b) **transparency likely inverted** — Google
+`busy[]` cannot express transparency and FreeBusy is reported to count all-day "free" events as busy → treat freeBusy
+as a LOWER BOUND + subtract transparent intervals from `events.list`, needs one live call; (c) **splitter has no
+minimum-task threshold** (50 min → 25+25) — product call. Graphify 7677/8479. Monday → no git push. Desktop backup OK.
+6 watch-items unchanged.
+
+**PREV (2026-10-18 Sunday, 22:00):** No live PHC work since Fri 10/17. Sunday's only task was the
 **REA planner research pass** for Vance (task t_78f63900, 15:35) — deliverables in `planner/` + handoff at
 `hermes-share/_from-vance/VANCE-CLAW_rea-planner-live-pass_2026-10-18.md`. Verdict: TickTick = interaction
 reference only (API has no duration field); **Morgen planner is behind a login wall → 9/10 autoplan Qs unverified**.
@@ -65,3 +95,10 @@ reference only (API has no duration field); **Morgen planner is behind a login w
 **2026-10-17 (Sat) 14:00 — auto-save:** NEW live work since 08:00 → **audit "DAYS OF SERVICE" feature** (Larry's directive today): `task-sheet-audit-spec.md` + `build_audit_v3.py` / `build_audit_sheet_docx.py` / `split_audit_packet.py` updated 12:16–12:18 so every participant block prints the **derived** authorized weekday pattern (`DAYS OF SERVICE: TUE & THU (4.0 hrs/day · auth 07/02/2023 – open)`) — START banner + under every section header; `SERVICE_DAYS.csv` (35 participants) comes from the auth weekday distribution in `audit-grid-2024-2026.csv`; MISSING TASK SHEETS shows the week's actual authorized weekdays, not just a count. **v5 build**: `~/Desktop/PHC-Audit-2024-2026/v5-20261017/` → PDF **151 pp** + docx, 105 missing-sheet rows · 700 MARK · 816 blanks, `packet/` 38 files (README + 37 clients). ⚠️ **The Saturday Night Audit packet staged on the 3060 is the 10/14 v4 build — v5 supersedes it; re-stage before tonight.** Watch-items unchanged: Medicaid RA 10/16 (#6893199, $10,070.75, EX1882) · address-of-record Greer-vs-Duncan → §F.1 · org-chart re-cut HELD on the Chanelle Allen call · Therap DSN module gap (Kendra McLeod) · binder rev10 = 119 pp vs README 118. Graphify 7536/8357.
 **2026-10-17 (Sat) 22:00 — auto-save:** No new live work since 14:00 (no file changes after 14:05). Day's real output = **v5 audit build with DAYS OF SERVICE** → `~/Desktop/PHC-Audit-2024-2026/v5-20261017/` (PDF 151 pp + docx, 38-file packet, 105 missing-sheet rows · 700 MARK · 816 blanks, SERVICE_DAYS.csv 35 participants). ⚠️ **Saturday Night Audit packet on the 3060 is still the 10/14 v4 — re-stage v5 before tonight.** Watch-items unchanged: Medicaid RA 10/16 (#6893199, $10,070.75, EX1882) · address-of-record Greer-vs-Duncan → §F.1 · org-chart re-cut HELD on the Chanelle Allen call · Therap DSN module gap (Kendra McLeod) · binder rev10 = 119 pp vs README 118. Graphify 7537/8358. Desktop CAROL_FORM_MAP backup ✅.
 **2026-10-18 (Sun) 04:00 — auto-save:** No new live work since the 10/17 22:00 save (only the auto conversation digest + graphify outputs changed overnight). **Graphify** 7545 nodes / 8365 edges. **Sunday → git push done: `e547981 auto-save 2026-10-18`** (178 files, first push since 10/11 — carries the v5 audit DAYS-OF-SERVICE build, compliance-review-44601, Q4 pulls, TOOLS notes). Desktop CAROL_FORM_MAP backup ✅. **Watch-items unchanged:** Medicaid RA 10/16 (#6893199, $10,070.75, EX1882) · address-of-record Greer-vs-Duncan → §F.1 · org-chart re-cut HELD on the Chanelle Allen call · ⚠️ **3060 Saturday-audit packet is still the 10/14 v4 — v5 (10/17, DAYS OF SERVICE) supersedes it; confirm re-stage/audit** · Therap DSN module gap (Kendra McLeod) · binder rev10 = 119 pp vs README 118.
+
+## 2026-10-19 00:35 — Orochimaru jacket
+- Jacket: **light gray bomber**, Amazon. Press: 15x15 (tiles larger designs by repositioning).
+- Revised canvas: ~11.5W x 13.5H, 2.5-3" below collar seam, 3" above ribbed hem.
+- Light gray changes the plan: pale face needs a DARK outline/halo; glow HTV reads as a pale blob on light gray in daylight — verify against the shell before choosing it for the iris.
+- Larry may go LED eyes instead of HTV glow. He is sourcing a higher-res image.
+- Deadline Sat 2026-10-24.

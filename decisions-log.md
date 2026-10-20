@@ -108,3 +108,23 @@
 - **Why:** tells the auditor at a glance whether a blank day was even supposed to have service
   (e.g. Pollard = TUE & THU; 5/12/25 was a Monday → not an auth day, no exposure).
 - Build of record: `~/Desktop/PHC-Audit-2024-2026/v5-20261017/` — 151 pp master + `packet/` (37 per-client PDFs).
+
+## 2026-10-19 — hermes-sync scheduled task created (3060)
+- **Problem found:** no `hermes-sync` scheduled task existed on the 3060. The HP→3060 pull had never been automated, so Clawdia's `_to-vance` handoffs silently never arrived (Vance was working off task bodies Larry pasted).
+- **Fix:** registered task `hermes-sync` — every 20 min, hidden via `wscript.exe C:\Users\User\run-hermes-sync-hidden.vbs` → `run-hermes-sync.bat` → `hermes-sync.cmd`; log `C:\Users\User\hermes-sync.log` (rotates at 200 KB). Principal `DESKTOP-R96DQLM\user` (USERDOMAIN is WORKGROUP → must use COMPUTERNAME, not USERDOMAIN).
+- **Verified:** manual run + scheduled run both exit 0, ZeroTier path, ~1s.
+- **Gotcha:** `_to-vance/` syncs **as a subfolder** (`HermesWorkspace\_to-vance\`), not flattened to root. Vance must read that folder.
+
+## 2026-10-19 — iMac: caffeinate OFF, pmset restored
+- Larry asked to turn caffeinate off. `launchctl bootout gui/$(id -u)/com.phc.caffeinate`, killed both PIDs, plist renamed `~/Library/LaunchAgents/com.phc.caffeinate.plist.disabled` (won't return at login).
+- Then (his go) `sudo pmset -c sleep 20 displaysleep 10`. Verified: AC sleep=20, displaysleep=10.
+- Verified no sleep blockers: PreventSystemSleep 0 / PreventUserIdleSystemSleep 0; only transient UserIsActive assertions (bluetoothd, rcd, Magic Mouse) with ~10 min timeouts.
+- Re-enable: `mv ~/Library/LaunchAgents/com.phc.caffeinate.plist.disabled ~/Library/LaunchAgents/com.phc.caffeinate.plist && launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.phc.caffeinate.plist`
+
+## 2026-10-19 — REA planner: horizon decided = 21 days; Phase 2 authorized
+- Larry's call on spec-vs-architecture conflict Q1: **21 days** (not the 3-8 day architecture figure). Rationale: it's a planner, not daily triage.
+- Q2 splitting: spec wins — `allow_split` default false, 25-min chunks; splitter to be implemented in Phase 2 (was deliberately not half-built in Phase 1).
+- Q3 snap grid: 15 min accepted.
+- Phase 1 accepted: 87/87 tests, **13/13 rules mutation-guarded** (proves tests fail when a rule is removed).
+- Phase 2 brief delivered: `CLAW-VANCE_phase2-GO_2026-10-19.md` — splitter, preview/approve state machine + local HTML harness, Google adapter against injectable transport with fixtures (NO OAuth/live calls), Q9 capacity recommendation.
+- Repo: `C:\Users\User\HermesWorkspace\rea-scheduler\` on the 3060.
