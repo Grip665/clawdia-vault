@@ -1,6 +1,59 @@
 # Working Context
 
-**LATEST (2026-10-19 Monday, 22:00 — auto-save):** Evening was **clothing lane, not PHC** — the **Orochimaru
+**LATEST (2026-10-20 Tuesday, 22:00 — auto-save; the day's only real work was the Vance Phase 3 draft at 15:00):**
+Everything else today was housekeeping. **`drafts/CLAW-VANCE_phase3-GO_2026-10-20_DRAFT.md`** (4,897 B, 15:00) —
+*"draft — pending Larry's sign-off"* — formally **ACCEPTS Phase 2** (153/153, 32/32 guarded, **1 declared equivalent
+mutant** praised as the correct standard, not padded to 33/33) and closes the 3-day reply debt *on paper only*.
+Three decisions drafted, all attributed to Larry: **D1** `iCalUID` generation counter — **DO IT NOW**,
+`iCalUidFor(task_id, part_index, generation)` incrementing per commit attempt with `commit_attempt` **persisted on
+the block record** (a re-plan must not reset it to 0, §5.2) + mutation guard, implement regardless of Google's
+reservation behaviour and log it as unverified in `GOOGLE_ANSWERS.md` Q3; **D2** transparency/FreeBusy → lower bound
++ subtract transparent intervals via `events.list` + explicit degraded flag + 3 tests; **D3** splitter
+`min_task_minutes = 120` (chunk floor stays 25, both rules apply, update `OPEN_QUESTIONS.md` Q2). **Q9** accepted as
+written — both numbers, never collapsed. Phase 3 scope = those three only, **no live Google calls** (OAuth still
+blocked on Larry), fixtures only, keep `N/N guarded · M declared equivalent`. ⚠️ **Draft is NOT sent** —
+`hermes-share/_to-vance/` still holds only the 10/19 files; **Larry must sign off first.** Also re-asked for the one
+preview-harness command (missed in Phase 2). Housekeeping: Graphify **7723/8530** (prev 7711/8519); git tree **27 → 28**
+(11 modified / 17 untracked — the +1 is `?? drafts/`, visible only now that the draft exists); Tuesday so no push;
+`CAROL_FORM_MAP.txt` refreshed to `~/Desktop/SCDHHS/` (68,905 B, 22:02).
+⚠️ **Still needs Larry/human action:** (1) **sign off on the Phase 3 GO draft** so it can go to `_to-vance/`;
+(2) **keep-or-ignore before Sunday push** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) **REA toolFilter
+include-list** TODO — 207 MCP tools is heavy context surface; (4) **rewrite the 10 PM memory cron to append** (its
+anchor edits broke 10/19); (5) 6 compliance watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 ·
+org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
+
+**PREV (2026-10-20 Tuesday, 14:00 — auto-save; day has been QUIET since 08:00):** No live work since the
+04:00 carry-over block below. Nothing changed in the workspace all day except the memory note itself — no PHC,
+clothing, or Vance-lane activity. Housekeeping only: Graphify **7711/8519** (prev 7710/8518); git tree steady at
+**27 pending** (11 modified / 16 untracked), Tuesday so no push; `CAROL_FORM_MAP.txt` refreshed to
+`~/Desktop/SCDHHS/` (68,905 B, 14:03).
+⚠️ **Carry-overs that still need Larry/human action:** (1) **Vance Phase 2 reply is now 3+ days owed** — three
+flagged items: `iCalUidFor()` generation counter (deleted UIDs re-commit → 409 forever), transparency/FreeBusy
+lower-bound question, splitter minimum-task threshold; (2) **keep-or-ignore before Sunday push** on
+`media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) **REA toolFilter include-list** still TODO — 207 MCP tools
+is heavy context surface; (4) **rewrite the 10 PM memory cron to append** (its anchor edits broke 10/19);
+(5) 6 compliance watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on
+Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
+
+**PREV (2026-10-20 Tuesday, 08:00 — auto-save; quiet since 04:00):** Quiet overnight for PHC; the real work was **late Monday
+(22:45–23:11)** and is now documented — **REA is installed and live**: `tools/rea` (morluto/rea v6.7.0, MIT), global
+`rea` CLI 6.7.0, OpenClaw MCP server `mcp.servers.rea` → `rea mcp` (stdio), probe = **207 tools + prompts**. ⚠️ That
+is a lot of context surface — **apply a `toolFilter` include-list before real use.** (config.patch refused the
+protected path → edited `openclaw.json` directly; backup `.bak-rea-20261019-2251`.) **3060 infra finally fixed:**
+the **hermes-sync scheduled task had NEVER been scheduled** — that is why HP→3060 handoffs silently never arrived;
+now every 20 min via hidden VBS, principal `DESKTOP-R96DQLM\user`; **w32time was Stopped/Manual and ~57 min slow** →
+Running/Automatic synced to time.cloudflare.com; Desktop cleaned 57→30 files (manifest saved); nested
+`Home Care documents` flattened (68 items); Living Planner shortcut repointed. **iMac:** caffeinate DISABLED,
+pmset back to sleep 20 / display 10. New `scripts/session-save.sh` = curated USB tarball (excludes node_modules,
+.git, video, iso, zip, media_storage, tools/rea). Payroll: 10/11–10/17 tasksheets sorted (40 pp, 30 participants,
+A→Z, multi-worker groups adjacent) → `~/Desktop/Billing-Training/Activities_Tasksheets_SORTED_10-11_to_10-17.pdf`,
+printed single-sided. Jacket: files consolidated on the 3060, 960 px/79 DPI source upscaled 4× Real-ESRGAN anime
+to true 300 DPI. Graphify **7709/8517** (prev 7706/8515). Tuesday → no push; ⚠️ **157 MB `media-out/orochimaru/`
+still needs a decision before Sunday.** ⚠️ **Phase 2 reply to Vance still owed** (iCalUID generation counter ·
+transparency/FreeBusy lower-bound · splitter min-task threshold). ⚠️ **Rewrite the 10 PM memory cron to append** —
+its string-edit anchors broke on 10/19.
+
+**PREV (2026-10-19 Monday, 22:00 — auto-save):** Evening was **clothing lane, not PHC** — the **Orochimaru
 jacket DTF print kit** (14:00–19:11). Built **two complete size sets, 7 variants each**, in `media-out/orochimaru/`
 (157 MB): **SET A `jacket_15x15press_*` (recommended)** art 11.40×13.96" / canvas 11.95×14.51" → one-pass 15×15 press
 w/ ~0.5" margin; **SET B `jacket_14x14sheet_*`** art 10.80×13.20" / canvas 11.35×13.75"; plus `orochimaru_back_12in_*`

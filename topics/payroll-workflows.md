@@ -42,3 +42,13 @@ DSN clients' hours get written on the **Provider Summary** for the payroll call 
 - Copied batch 5235450 → drafts 18930083 (David $500) · 18930084 (Roxie $700) · 18930085 (Sandra $1,050); date-swapped +14.
 - Larry finished + submitted → new batch **5252922** @ 2026-10-14 14:29 · 3 claims · **$2,250.00** (BIG NUMBER printed).
 - Next DSN run: Wed **2026-10-28**.
+
+## ⚠️ AIDE PAY RATES — do NOT assume $25/hr (2026-10-20)
+- **Safiya High (18821662): $13.00/hr** (stated by Larry 2026-10-20).
+- Earlier notes said "billable aide hours paid at $25/h" — that is NOT a universal aide rate. Confirm the
+  individual's rate before computing any true-up or back-pay.
+- Case: Safiya High worked 6/28/2026 for Darlene Robinson (9-12 + 5-8 = 6.0 h). Claims R 260628-BR3P /
+  R 260628-9TKI, submitted 07/01/2026, **Medicaid paid $150.00 on 07/10/2026** (period 06/21–07/04).
+  She was never paid: **no task sheet exists for her at all**, and she is NOT on
+  `PHC_Employee_Start_Dates_2026-09-30.csv` (32 names) — never onboarded into payroll.
+  True-up due = **6.0 h × $13 = $78.00** (not $150).
