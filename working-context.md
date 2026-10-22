@@ -1,6 +1,58 @@
 # Working Context
 
-**LATEST (2026-10-20 Tuesday, 22:00 — auto-save; the day's only real work was the Vance Phase 3 draft at 15:00):**
+## LATEST — 2026-10-21 22:00 (idle)
+Quiet all evening — nothing new since the 14:00 entry. Only `memory/2026-10-21.md` itself was touched after 14:00;
+`hermes-share/_from-vance/` still newest at 12:26. **Graphify 7819 nodes / 8643 edges** (prev 7818/8642; 839/839 files).
+**Wednesday → no git push**; tree dirty at **36 entries**, unchanged all day. `CAROL_FORM_MAP.txt` re-backed up to
+`~/Desktop/SCDHHS/` (same 68,905 B content). The 22:00 daily-note marker is confirmed in both `memory/` and
+`vault/daily/` (append-only heredoc path — no anchor edits, no repeat of the 10/19 failure).
+Today's real work, already closed: **X-audit runbook live as a skill** + re-delivered to the 3060 after Vance's 12:26
+corrections (18,291 B @ 12:31, verified by size+mtime); **hermes-share return path corrected in TOOLS.md** (it IS
+bidirectional — my "no return path" claim was stale from 09-21); **Terra M. Thomas closed** (services on hold, Phoenix
+note placed, X codes are expected system output).
+⚠️ **Still waiting on a human:** (1) **keep-or-ignore before Sunday** — `media-out/orochimaru/` (157 MB) and
+`tools/rea/`; (2) **Larry's Google OAuth** — blocks all live verification of Vance's Phase 3; (3) **Vance owes the one
+preview-harness command**; (4) 6 compliance watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 ·
+org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
+Jacket thread open: DTF ordered, vinyl in, varsity **L** on chest, sleeve snake (keep small/abstract), near-black charcoal pants.
+Jacket deadline: **Sat 2026-10-24**.
+
+**PREV-1 (2026-10-21 Wednesday, 14:00 — auto-save; quiet hour):**
+Quiet hour — nothing new since the 13:02 entry. No inbound from Larry or Vance; `hermes-share/_from-vance/` untouched
+since 12:26. **Graphify 7818 nodes / 8642 edges** (prev 7761/8564; 839/839 files). **Wednesday → no git push**; tree
+dirty at **36 entries**. `CAROL_FORM_MAP.txt` re-backed up to `~/Desktop/SCDHHS/` (same 68,905 B content).
+Today's real work, already closed: the **X-audit runbook went live as a skill** and was **re-delivered to the 3060**
+after Vance's 12:26 corrections (18,291 B @ 12:31, verified by size+mtime); **hermes-share return path corrected in
+TOOLS.md** (it IS bidirectional — my earlier "no return path" claim was stale from 09-21); **Terra M. Thomas closed**
+(services on hold, Phoenix note placed, X codes are expected system output).
+⚠️ **Still waiting on a human:** (1) **keep-or-ignore before Sunday** — `media-out/orochimaru/` (157 MB) and
+`tools/rea/`; (2) **Larry's Google OAuth** — blocks all live verification of Vance's Phase 3; (3) **Vance owes the one
+preview-harness command**; (4) 6 compliance watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 ·
+org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
+Jacket thread open: DTF ordered, vinyl arriving today, sleeve snake pattern (keep small/abstract), near-black charcoal pants.
+
+**PREV-2 (2026-10-21 Wednesday, 08:00 — auto-save; quiet, no new work since 04:00):**
+Nothing has happened since the 04:00 save — the only files touched were the 04:00 daily note itself and
+`memory/carol20-push.log`. **Graphify unchanged at 7761 nodes / 8564 edges** (849/849 files, "no code-graph changes
+detected"). **Wednesday → no git push**; tree still **32 entries** (11 modified / 21 untracked). `CAROL_FORM_MAP.txt`
+re-backed up to `~/Desktop/SCDHHS/` at 08:02 (68,905 B). All 04:00 state below still stands: **Vance Phase 3 GO is
+sent and the 3-day debt is closed**; **Bitdefender-on-3060 mistake corrected and recorded**.
+
+**PREV-3 (2026-10-21 Wednesday, 04:00 — Vance Phase 3 debt CLOSED):**
+Overnight work after the 10/20 22:00 save — two things. **(a) `22:40` TOOLS.md antivirus correction:** I had wrongly
+told Larry the 3060 had no AV. **Bitdefender Antivirus IS installed, running and current** (VSSERV / BDProtSrv /
+UPDATESRV / bdredline / bdvpnservice / BDSafepaySrv; defs `auto.cvd` + `hs_qid.cvd` written 10/20 7:27 PM). **Windows
+Defender stopped is EXPECTED** (Bitdefender disables WinDefend/WdNisSvc so engines don't fight) — "Defender disabled"
+≠ "no antivirus". **(b) `01:25` Phase 3 GO FINALIZED + DELIVERED:** `drafts/CLAW-VANCE_phase3-GO_2026-10-21.md`
+(5,739 B) → `hermes-share/_to-vance/` — supersedes the 10/20 15:00 draft, header *"FINAL, Larry approved 'push go'"*.
+**Phase 2 ACCEPTED** incl. the 1 declared equivalent mutant. **D1** iCalUID generation counter — do it now
+(`iCalUidFor(task_id, part_index, generation)`, `commit_attempt` persisted, re-plan must not reset, mutation-guard
+strips `generation`); **D2** transparency/FreeBusy — lower bound + subtract via `events.list`, explicit degraded flag
++ 3 tests; **D3** splitter `min_task_minutes = 120`, chunk floor 25; **Q9** capacity basis accepted as written.
+Scope = those three only, **no live Google calls** (OAuth still blocked on Larry), fixtures only, keep
+`N/N guarded · M declared equivalent`. Still owed by Vance: the **one command to run the preview harness**.
+
+**PREV (2026-10-20 Tuesday, 22:00 — auto-save; the day's only real work was the Vance Phase 3 draft at 15:00):**
 Everything else today was housekeeping. **`drafts/CLAW-VANCE_phase3-GO_2026-10-20_DRAFT.md`** (4,897 B, 15:00) —
 *"draft — pending Larry's sign-off"* — formally **ACCEPTS Phase 2** (153/153, 32/32 guarded, **1 declared equivalent
 mutant** praised as the correct standard, not padded to 33/33) and closes the 3-day reply debt *on paper only*.
