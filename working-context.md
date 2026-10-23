@@ -1,6 +1,128 @@
 # Working Context
 
-## LATEST — 2026-10-21 22:00 (idle)
+## LATEST — 2026-10-22 22:00 (idle — quiet evening, one new CAROL batch runner)
+**Nothing live since the 14:00 save except one script.** The whole evening produced `CAROL/mc_group.sh` (624 B, 15:34):
+a **fail-fast batch runner** for CAROL MC notes. It loops `ID:opts` pairs, runs
+`carol.js auto <ID> MC 10/22/2026 <opts>` on **CDP_PORT 18802** with a 240 s timeout, **requires the literal
+`filled_ready_for_review` before it will save**, then requires `saved_draft` — exiting 2 on a fill failure and 3 on a
+save failure. That is the right shape: it stops at the first bad participant instead of half-writing a batch and
+letting me guess which ones landed.
+⚠️ **`DATE="10/22/2026"` is hardcoded** — re-date it before the next run or it will silently write October contact
+notes under a later date.
+**Roxie/DSN is unchanged and still locked** at 10 days/period · Mon–Thu 3.0 h (2:00–5:00 PM) · Fri 2.0 h (2:00–4:00 PM) ·
+112 units = 28.0 h = **$700/period**, matching filed claim 18930084. ⚠️ **The superseded 8-day / 34 h / $850 PDFs are
+still on disk under plain tags** — that is a live re-use hazard, not a cosmetic one. Move or delete them before the
+next DSN batch runs.
+**No Vance traffic all day** past the 02:28 phase-4 report; newest `_to-vance/` is still the 02:09 phase-4 GO. Nothing
+is waiting on him, nothing of his is waiting on me.
+**Scheduler lane is stalled on one human action, not on code — Larry's Google OAuth.** Phase 4 commit durability is
+done (214/214 tests, 48/48 testable rules guarded, zero new deps, no live Google), so what remains is *unverifiable*
+rather than *incomplete*. Three decisions still on my desk from his report: (a) a real `lookup` for the Google source
+(production can report ambiguity but not reconcile it); (b) wire `commitBlocks` into the review harness so the crash
+matrix is visible rather than test-only; (c) the Q16 double-generation-bump cleanup.
+**Still open on DSN, unanswered:** do all 3 DSN clients key to David Bosworth's account or keep their own IDs? And
+Roxie's handwritten In/Out has never been verified — **no original scans exist on disk, only my generated sheets**.
+⚠️ **Clock: jacket deadline is Sat 2026-10-24 — two days out.** Thread unchanged (DTF ordered, vinyl in, varsity **L**
+on chest, sleeve snake small/abstract, near-black charcoal pants).
+Housekeeping: **graphify 7876 nodes / 8714 edges** (prev 7875/8713 — the +1 is `mc_group.sh`; 848/848 files).
+**Thursday (u=4) → no commit, no push**; tree dirty at **46 entries** (45 at 14:00). `CAROL_FORM_MAP.txt` re-backed up
+to `~/Desktop/SCDHHS/` (68,905 B, 22:02). 22:00 marker confirmed once each in `memory/2026-10-22.md` and `vault/daily/`
+(append-only heredoc — no anchor edits).
+⚠️ **Still needs Larry/human:** (1) **Google OAuth** — unblocks live verification of Phases 3–4; (2) **keep-or-ignore
+before Sunday** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) the DSN account-keying question above;
+(4) 6 compliance watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on
+Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
+
+**PREV-1 (2026-10-22 Thursday, 14:00 — auto-save; Roxie DSN sheets locked and rebuilt):**
+**Roxie Johnson's DSN timesheets are LOCKED at the 10-day shape, after Larry overrode my 8-day build.**
+His words: "Monday thru friday, do those hours you said to match the actual real authorization." Final spec =
+**Mon–Fri ×2 = 10 days/period · Mon–Thu 12u = 3.0 h (2:00–5:00 PM) · Fri 8u = 2.0 h (2:00–4:00 PM) · 112 units =
+28.0 h = $700/period**, which matches the filed claim **18930084 $700.00** exactly. The earlier 8-day / 34 h / $850
+build **over-billed the payer by $150 on the wrong days** and is superseded — do not reuse those files.
+**How the argument actually got settled:** not by opinion — by the portal pull. `PROVIDER/dsn-david-history/roxie_days_all.md`
+(2026-10-01, 784 distinct days, 79 pay periods) shows 8-day in 69 periods **but the only recent periods are 10-day**
+(08/02, 08/16, 08/30, 09/13) and **all 10 lifetime Fridays post-date 2026-08-07**. Friday was added to her schedule in
+August 2026. Lesson worth keeping: when a client's schedule "changes," the weekday histogram over the whole history
+names the date it changed — that is faster and more defensible than re-reading any single sheet.
+**Built:** 6 periods + combined `DDSN_Roxie_Johnson_10day_ALL_2026-10-11_thru_2027-01-02.pdf`, script
+`scripts/ddsn_roxie_28h_2026.py`; all 6 PASS the blank-page differential (codes 20–23 on exactly cols 1,2,3,4,5,8,9,10,11,12).
+**Correction logged: DSN does NOT appear in Provider Activity.** That report is PCS/COMPA/CPCA only; DSN lives on the
+CMS-1500 claims side, keyed to **David Bosworth's** info. My "Roxie is missing from Provider Activity" alarm was a
+false alarm produced by reading the wrong report — second time this month I've raised a false alarm from a report
+that couldn't contain the answer.
+**Open on Roxie/DSN:** (1) do all 3 DSN clients key to David's account, or keep their own IDs? (asked Larry, not yet
+answered); (2) her handwritten In/Out was never verified — **no original scans exist on disk, only my generated
+sheets**. If her real times are 2:00–6:00 the hours stay 3.0/2.0 and only the two time strings change.
+**Scheduler lane is unchanged and still blocked on one human action — Larry's Google OAuth.** Phase 4 (commit
+durability) is done: 214/214 tests, 48/48 testable rules guarded, zero new deps, no live Google. The three decisions
+still sitting on my desk from Vance's report: (a) a real `lookup` for the Google source (production can *report*
+ambiguity but not *reconcile* it); (b) wire `commitBlocks` into the review harness so the crash matrix is visible
+rather than test-only; (c) the Q16 double-generation-bump cleanup.
+⚠️ **Clock: jacket deadline is Sat 2026-10-24 — two days out.** Thread unchanged (DTF ordered, vinyl in, varsity **L**
+on chest, sleeve snake small/abstract, near-black charcoal pants).
+Housekeeping: **graphify 7875 nodes / 8713 edges** (prev 7862/8682; 848/848 files). **Thursday (u=4) → no git push**;
+tree dirty at **45 entries** (up from 40 at 08:00 — +Roxie PDFs, +`PROVIDER/week-audit-2026-10-17/`, +`research/`).
+`CAROL_FORM_MAP.txt` re-backed up to `~/Desktop/SCDHHS/`. 14:00 marker confirmed once each in `memory/2026-10-22.md`
+and `vault/daily/` (append-only heredoc — no anchor edits).
+⚠️ **Still needs Larry/human:** (1) **Google OAuth** — unblocks live verification of Phases 3–4; (2) **keep-or-ignore
+before Sunday** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) the DSN account-keying question above;
+(4) 6 compliance watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on
+Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
+
+**PREV-2 (2026-10-22 Thursday, 08:00 — auto-save; quiet overnight):**
+**Quiet overnight since the 04:00 save.** No new Vance drop (`hermes-share/_from-vance/` newest is still the 02:28
+phase-4 build report), no new `_to-vance/` work, no portal work, no messages waiting. The only machine activity was
+the routine **05:10 CAROL-2.0 auto-push** (`✅ pushed CAROL-2.0 @ 9008c6c`) — housekeeping green, nothing to fix.
+**Where the scheduler lane actually stands:** Phase 4 (commit durability) is **done and accepted in substance** —
+214/214 tests, 48/48 testable rules guarded, 1 declared equivalent, zero new deps, no live Google. What is left is
+not code, it is **one human action**: Larry's **Google OAuth**, the single unblock for every *live* claim in
+Phases 3–4. Until that lands, the build can only be proven against fixtures.
+**The three items on the decision desk (all from Vance's phase-4 report, all mine to answer):** (a) a **real `lookup`**
+for the Google source — production can currently *report* ambiguity but cannot *reconcile* it, which is a safe
+failure rather than a useful one; (b) whether to **wire `commitBlocks` into the review harness** so the crash matrix
+is visible instead of test-only; (c) the **Q16 cleanup** — a 409 bumps the generation in *both* sink and pipeline, so
+it can advance twice per logical rejection; clean fix is the sink reporting the generation it used. (Q17, jitter
+applied after the cap → worst case 1.25× max, is cosmetic and needs no decision.)
+⚠️ **Clock: the jacket deadline is Sat 2026-10-24 — two days out.** Thread status unchanged (DTF ordered, vinyl in,
+varsity **L** on chest, sleeve snake small/abstract, near-black charcoal pants).
+Housekeeping: **graphify 7862 nodes / 8682 edges** (prev 7860/8680; 843/843 files). **Thursday → no git push**; tree
+dirty at **40 entries**, unchanged since 04:00. `CAROL_FORM_MAP.txt` re-backed up to `~/Desktop/SCDHHS/`. 08:00
+daily-note marker confirmed once each in `memory/2026-10-22.md` and `vault/daily/` (append-only heredoc, no anchor edits).
+⚠️ **Still needs Larry/human:** (1) **Google OAuth** — unblocks live verification of Phases 3–4; (2) **keep-or-ignore
+before Sunday** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) 6 compliance watch-items unchanged (Medicaid
+RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap ·
+binder rev10 119 pp vs README 118).
+
+**PREV-3 (2026-10-22 Thursday, 04:00 — auto-save):**
+**Vance closed Phase 4 in 18 minutes.** `hermes-share/_from-vance/VANCE-CLAW_phase4-build_2026-10-22.md`
+(5,919 B, 02:28) — **commit durability COMPLETE: 214/214 tests, 48/48 testable rules guarded · 1 declared
+equivalent, zero new deps, no live Google.** Delivered the Phase 4 GO brief at 02:09 (6,396 B, verified on the 3060)
+and he replied by scp at 02:28 — **the return path needs no human relay**, and his Hermes is polling, not waiting.
+**What he got right and why it is trustworthy:** the crash matrix went **green on the first run** and he treated that
+as a warning sign, not a win — so he wrote **9 mutation guards** (removing the ledger pre-write, letting an
+unreconcilable outcome assume absence, re-inserting a committed UID, unbounded retries) and caught all 9. Kill-point
+matrix = `before_adapter` / `after_adapter` / `after_ledger`, each asserting no duplicate · no silently lost block ·
+ambiguity surfaces. **`src/store.js`** atomic temp+rename, ledger in the same document; **`migrations/001_init.sql`**
+ships a partial unique index so a double-book is a DB error. **Retry** = bounded exponential + symmetric jitter,
+`Retry-After` honoured, transient retries / permanent 4xx does not / **409 belongs to D1**.
+**His three flagged judgement calls:** (1) `attempting` → `unknown` on reconciliation — "it describes a moment that
+has passed, not what we know now"; (2) **insert only on POSITIVE evidence of absence** — a lookup that THROWS leaves
+`unknown` + `AMBIGUOUS_OUTCOME`, never `absent`; (3) **409 bumps in BOTH sink and pipeline → generation can advance
+twice per logical rejection** — not incorrect but untidy → **Q16**, clean fix is the sink reporting the generation it
+used. Also **Q17**: jitter applied *after* the cap, worst case 1.25×max.
+⚠️ **Three decisions he wants next, and all three are mine to make:** (a) a **real `lookup`** for the Google source —
+production can currently *report* ambiguity but cannot *reconcile* it (safe failure, not the useful one); (b) whether
+to **wire `commitBlocks` into the review harness** so the crash matrix is visible instead of test-only; (c) the Q16
+double-bump cleanup. **Larry's Google OAuth still blocks all live verification** — Phase 4 needed none of it.
+Housekeeping: **graphify 7860 nodes / 8680 edges** (prev 7819/8643, 843/843 files). **Thursday → no git push**; tree
+dirty at **40 entries**. `CAROL_FORM_MAP.txt` re-backed up to `~/Desktop/SCDHHS/` (68,905 B, 04:02). 04:00 daily-note
+marker confirmed in both `memory/` and `vault/daily/` once each (append-only heredoc — no anchor edits).
+⚠️ **Still needs Larry/human:** (1) **Google OAuth** — the single unblock for live verification of Phases 3–4;
+(2) **keep-or-ignore before Sunday** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) 6 compliance
+watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit
+packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118). Jacket deadline **Sat 2026-10-24**.
+
+**PREV-4 (2026-10-21 Wednesday, 22:00 — auto-save; quiet evening):**
 Quiet all evening — nothing new since the 14:00 entry. Only `memory/2026-10-21.md` itself was touched after 14:00;
 `hermes-share/_from-vance/` still newest at 12:26. **Graphify 7819 nodes / 8643 edges** (prev 7818/8642; 839/839 files).
 **Wednesday → no git push**; tree dirty at **36 entries**, unchanged all day. `CAROL_FORM_MAP.txt` re-backed up to
@@ -17,28 +139,7 @@ org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN ga
 Jacket thread open: DTF ordered, vinyl in, varsity **L** on chest, sleeve snake (keep small/abstract), near-black charcoal pants.
 Jacket deadline: **Sat 2026-10-24**.
 
-**PREV-1 (2026-10-21 Wednesday, 14:00 — auto-save; quiet hour):**
-Quiet hour — nothing new since the 13:02 entry. No inbound from Larry or Vance; `hermes-share/_from-vance/` untouched
-since 12:26. **Graphify 7818 nodes / 8642 edges** (prev 7761/8564; 839/839 files). **Wednesday → no git push**; tree
-dirty at **36 entries**. `CAROL_FORM_MAP.txt` re-backed up to `~/Desktop/SCDHHS/` (same 68,905 B content).
-Today's real work, already closed: the **X-audit runbook went live as a skill** and was **re-delivered to the 3060**
-after Vance's 12:26 corrections (18,291 B @ 12:31, verified by size+mtime); **hermes-share return path corrected in
-TOOLS.md** (it IS bidirectional — my earlier "no return path" claim was stale from 09-21); **Terra M. Thomas closed**
-(services on hold, Phoenix note placed, X codes are expected system output).
-⚠️ **Still waiting on a human:** (1) **keep-or-ignore before Sunday** — `media-out/orochimaru/` (157 MB) and
-`tools/rea/`; (2) **Larry's Google OAuth** — blocks all live verification of Vance's Phase 3; (3) **Vance owes the one
-preview-harness command**; (4) 6 compliance watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 ·
-org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
-Jacket thread open: DTF ordered, vinyl arriving today, sleeve snake pattern (keep small/abstract), near-black charcoal pants.
-
-**PREV-2 (2026-10-21 Wednesday, 08:00 — auto-save; quiet, no new work since 04:00):**
-Nothing has happened since the 04:00 save — the only files touched were the 04:00 daily note itself and
-`memory/carol20-push.log`. **Graphify unchanged at 7761 nodes / 8564 edges** (849/849 files, "no code-graph changes
-detected"). **Wednesday → no git push**; tree still **32 entries** (11 modified / 21 untracked). `CAROL_FORM_MAP.txt`
-re-backed up to `~/Desktop/SCDHHS/` at 08:02 (68,905 B). All 04:00 state below still stands: **Vance Phase 3 GO is
-sent and the 3-day debt is closed**; **Bitdefender-on-3060 mistake corrected and recorded**.
-
-**PREV-3 (2026-10-21 Wednesday, 04:00 — Vance Phase 3 debt CLOSED):**
+**PREV (2026-10-21 Wednesday, 04:00 — Vance Phase 3 debt CLOSED):**
 Overnight work after the 10/20 22:00 save — two things. **(a) `22:40` TOOLS.md antivirus correction:** I had wrongly
 told Larry the 3060 had no AV. **Bitdefender Antivirus IS installed, running and current** (VSSERV / BDProtSrv /
 UPDATESRV / bdredline / bdvpnservice / BDSafepaySrv; defs `auto.cvd` + `hs_qid.cvd` written 10/20 7:27 PM). **Windows
