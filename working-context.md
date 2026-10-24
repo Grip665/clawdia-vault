@@ -1,6 +1,170 @@
 # Working Context
 
-## LATEST — 2026-10-22 22:00 (idle — quiet evening, one new CAROL batch runner)
+## LATEST — 2026-10-23 22:00 (idle)
+
+**Tonight was CAROL *voice*, not PHC paperwork — and it produced a new source of truth that removes a whole class of guessing.**
+`CAROL/data/voice-map.md` (+ `.json`, 18,578 B) was built at 22:00 by `CAROL/build_voice_map.js`: for every one of **59
+participants**, it reads their **most recent Phoenix narrative** and records whether that narrative was written in the
+**AR's voice or the participant's**, plus the AR's name and the participant's pronoun. Result: **22 narrate as the AR,
+37 as the participant.** The ARs are few and repeat — Magdalene Ratcliff (Pollard, Rhonda Green, Ronald Lyles, Shirley
+Watson, Willie M Johnson), Bertha Williams (McGirt, Bagwell, Evatt), Kim Richey (LC Richey, Lewis Richey, Melinda
+Pitts), Malti Patel (Kanubha / Maniben / Vimlabe Patel), Felicia Langley (Ronnie Davis), Debra Terrance (Ferguson),
+Tracy Young (Meredith), Marthena Sullivan (Fred Sullivan), Lillian Flemming (Gooseby), Carolyn Anderson (Tario
+Anderson), Elizabeth Adaire (Willie Bunkley), Shameka Bryson (James Garner).
+**The rule is now written into the file:** look the participant up before composing, **never guess the voice, never ask
+Larry what voice to use**; if the participant isn't in the table, **STOP** and ask — do not default to participant
+voice. And voice is not immutable: **Ronnie Davis flipped to AR on 2026-09-27**, so re-derive whenever Larry says a
+voice changed. This matters because a narrative written in the wrong voice is a compliance artifact error, not a style
+choice — it attributes the AR's words to the participant.
+**How it was produced (20:40–21:24, all read-only recon against Phoenix/CareCall):** `recon_carecall.js`, `recon2–4.js`,
+`recon_tonette.js`, `recon_narr.js`, `check_clockins_mc.js`, `check_narr_today.js`, `check_mc_month.js` — then
+`mc_ids.json` refreshed at 21:25 (backup `.bak-20261023`). No portal writes tonight.
+**2010 Accord battery replaced** (18:05, birthday-bottle run interrupted). Test #7279: **SoC 100% but Cranking Health
+FAIL at a rated 520 CCA** — a battery that accepts charge but can't deliver amps. **Alternator/regulator cleared** (100%
+SoC proves the charging system works), so the 10/12 alternator hunch was wrong. Group **24F AGM, $281**, **4-year
+nationwide** warranty (better than the 3-yr quoted) → runs to ~**Oct 2030**, reminder set for 2030-10 unless sold.
+⚠️ **Two live hazards on disk, unchanged.** (1) The **superseded 8-day / 34 h / $850 Roxie PDFs are still under plain
+tags** — they over-bill by $150 on the wrong days; locked version is 10-day / 28.0 h / $700 (claim 18930084). Move or
+delete before the next DSN batch. (2) `CAROL/mc_group.sh` **no longer hardcodes `DATE`** (fixed 14:41 during the batch
+sizing work — DATE now required, refuses >5 pairs per call), but it has **still never been run for real**: Carol is
+standing by on a contact date and a go. Open assumption to confirm with Larry: "the list" = `PHC_MCs_due_2026-10-09.md`
+(49 October MCs, Ronnie Davis among them).
+🧥 **Clock: jacket deadline is TOMORROW, Sat 2026-10-24 — the only hard date on the board.** Thread unchanged (DTF
+ordered, vinyl in, varsity **L** on chest, sleeve snake small/abstract, near-black charcoal pants). Small setup backlog
+also armed for **Sat 10:00 AM**: outbound voice calls (Twilio/voice-call plugin), CDP available to *all* agents, and
+actual email *sending*.
+**Scheduler lane unchanged and still stalled on one human action — Larry's Google OAuth.** Phase 4 commit durability is
+done (214/214 tests, 48/48 testable rules guarded), so what remains is *unverifiable, not incomplete*. Three decisions
+still on my desk: (a) a real `lookup` for the Google source; (b) wire `commitBlocks` into the review harness; (c) the
+Q16 double-generation-bump cleanup. DSN account-keying question still unanswered. Service plans are **28/28 current and
+all 28 authorize PCA**, but the **6 CLTCs with no notice email** remain "newest available," not verified current —
+**Johnny Smith 11/18/2025** and **Kay Smith 10/30/2025** sit nearest the 12-month re-eval line.
+Housekeeping: **graphify 7950 nodes / 8814 edges** (prev 7926/8798; 864/864 files). **Friday (u=5) → no commit, no
+push**; tree dirty at **67 entries** (51 at 14:00 — +8 CAROL recon/check scripts, +`voice-map.json/.md`, +`mc_ids.json`
+bak, +`_to-carol/`). `CAROL_FORM_MAP.txt` re-backed up to `~/Desktop/SCDHHS/` (**68,905 B**, 22:06). 22:00 marker
+confirmed once each in `memory/2026-10-23.md` and `vault/daily/2026-10-23.md` (append-only heredoc — no anchor edits,
+no `edit`/`write` on daily notes).
+⚠️ **Still needs Larry/human:** (1) **Google OAuth** — unblocks live verification of Phases 3–4; (2) **keep-or-ignore
+before Sunday** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) the DSN account-keying question; (4) move or
+delete the superseded Roxie 8-day PDFs; (5) verify the 2 near-12-month plans (Johnny Smith, Kay Smith) before their aide
+cards are issued; (6) the MC list + contact date so Carol can run a 5-batch; (7) 6 compliance watch-items unchanged
+(Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap
+DSN gap · binder rev10 119 pp vs README 118).
+
+**PREV-1 (2026-10-23 Friday, 14:00 — auto-save; service plans fixed, first aide card built):**
+
+**The service-plan pipeline went from a worrying finding to a clean one, and the first aide task card is built.**
+Two bugs were stacked on top of each other and both are now fixed. (1) The earlier "Mac Downloads is nearly empty"
+readings were **macOS TCC denial over SSH**, not an empty folder — Downloads actually held 3,539 items including 264
+`*.enc.pdf` service plans. (2) `parse_service_plans.py` compared plan dates **as strings**, so `03/18/2026` sorted
+*below* `03/20/2025` and the "newest plan" selection was landing on 2022–2023 documents. That string-compare bug is
+what produced the alarm worth remembering: the first clean run reported **12 of 28 participants with ZERO PCA
+interventions** — verified at raw-text level, zero `\bPCA\b` hits — which for PCS-authorized clients is a real
+deficiency shape (the paid aide is a PCA, so the plan would not match the work). **The alarm was false, and it was
+false because the documents were stale.** After the date fix: **28/28 participants have current plans and all 28
+authorize PCA.** White 0→28, Allen 0→19, Hardy 0→14, Benson 0→23, Johnson 0→15.
+**How the documents actually got current:** Mac `Mail.app` holds **199 "[Phoenix] Service Plan Notice" emails**; the
+body contains a `providers.phoenix.scdhhs.gov/assessment_service_plans/<id>` URL, and opening it in Safari
+**auto-downloads the `.enc.pdf`** with no clicking. One AppleScript pass matching all 28 CLTCs = ~34 seconds, 22 plans
+downloaded, all 2026 vintage. This is the refresh path now — do not rebuild from Downloads again.
+**Aide Task Card v1 shipped** — `PROVIDER/scripts/build_aide_card.py <cltc>` → one-page printable (weasyprint
+HTML→PDF) in `~/Desktop/Aide-Cards/`. First card = **Sherman Hobbs**, 40 PCA-authorized tasks across sections
+6.3/7.2/8.2/9.2/10.2 from his 10/09/2026 plan, authorized-services line auto-summarized from section 2, and an
+explicit NEVER box (EVV list after #34 / 35–41 skilled / pet care / other person's laundry-dishes / unused areas /
+anything not on the card). Footer carries the real rules: nurse signs+dates every 2 weeks, no backdating, file within
+30 days, participant does NOT sign, task sheet ≠ timesheet. 🐛 Built-in trap found and fixed: multi-line intervention
+descriptions were being **truncated at the first physical line** (pdftotext wraps long tasks) — the parser now
+accumulates lines until a date-terminated line. That bug affected every card, so it was fixed before scaling.
+⚠️ **Before running all 28 cards:** 6 CLTCs had no notice email (Kay Smith 0212988, Willie Johnson 9769968,
+Johnny Smith 9789216, Kamelle Watson 9849992, Tracy Waddell 9888523, Calvin Dawkins 9938031) and their newest
+available plan is 2025/2026 — Johnny Smith 11/18/2025 and Kay Smith 10/30/2025 sit near the 12-month re-eval line.
+"Newest available" is not the same as "current," and I have not verified those two.
+⚠️ **Two live re-use hazards on disk, unchanged:** (1) the **superseded 8-day / 34 h / $850 Roxie PDFs are still under
+plain tags** — they over-bill by $150 on the wrong days; locked version is 10-day / 28.0 h / $700 (claim 18930084).
+(2) `CAROL/mc_group.sh` still has **`DATE="10/22/2026"` hardcoded**.
+**Roxie stays LOCKED:** Mon–Fri ×2 = 10 days/period · Mon–Thu 3.0 h (2:00–5:00 PM) · Fri 2.0 h (2:00–4:00 PM) ·
+112 units = **28.0 h = $700/period**. Her handwritten In/Out was never verified — no original scans exist on disk.
+🧥 **Clock: jacket deadline is TOMORROW, Sat 2026-10-24 — the only hard date on the board.** Thread unchanged
+(DTF ordered, vinyl in, varsity **L** on chest, sleeve snake small/abstract, near-black charcoal pants).
+**Scheduler lane unchanged and still stalled on one human action — Larry's Google OAuth.** Phase 4 commit durability
+is done (214/214 tests, 48/48 testable rules guarded), so what remains is *unverifiable, not incomplete*. Three
+decisions still on my desk: (a) a real `lookup` for the Google source; (b) wire `commitBlocks` into the review
+harness; (c) the Q16 double-generation-bump cleanup. DSN account-keying question still unanswered.
+Housekeeping: **graphify 7926 nodes / 8798 edges** (prev 7889/8725; 853/853 files). **Friday (u=5) → no commit, no
+push**; tree dirty at **51 entries** (48 at 08:00 — +`build_aide_card.py`, +`identify_service_plans.py`,
++`parse_service_plans.py`, +`cdp_fetch_ro.py`/auth-week CSV already counted, +`drafts/`). `CAROL_FORM_MAP.txt`
+re-backed up to `~/Desktop/SCDHHS/` (**68,905 B**, 14:03). 14:00 marker confirmed once each in
+`memory/2026-10-23.md` and `vault/daily/2026-10-23.md` (append-only heredoc — no anchor edits, no `edit`/`write` on
+daily notes).
+⚠️ **Still needs Larry/human:** (1) **Google OAuth** — unblocks live verification of Phases 3–4; (2) **keep-or-ignore
+before Sunday** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) the DSN account-keying question; (4) move or
+delete the superseded Roxie 8-day PDFs; (5) verify the 2 near-12-month plans (Johnny Smith, Kay Smith) before their
+aide cards are issued; (6) 6 compliance watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 ·
+org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
+
+**PREV-2 (2026-10-23 Friday, 08:00 — auto-save; nothing new but a no-op push):**
+**Nothing moved in the four hours since the 04:00 save, and nothing is half-done.** The one artifact touched was
+`memory/carol20-push.log` at 05:10 — and it is the *same* line it has been for 20 straight days:
+`✅ pushed CAROL-2.0 @ 9008c6c`. The daily push job is healthy; the CAROL-2.0 repo simply has had zero new commits
+since 10-04. No new Vance drop (`_from-vance/` newest is still his 10-22 02:28 phase-4 build), no new `_to-vance/`
+work, no portal pulls, no messages waiting. Honest idle, not a stall I can fix.
+**Everything still sits on the same human actions.** Scheduler lane: Phase 4 commit durability is *done* (214/214
+tests, 48/48 testable rules guarded, zero new deps, no live Google) and every remaining live claim is
+**unverifiable, not incomplete** until Larry's **Google OAuth** lands. Decisions still unanswered on my desk:
+(a) a real `lookup` for the Google source (production can report ambiguity but not reconcile it); (b) wire
+`commitBlocks` into the review harness so the crash matrix is visible; (c) the Q16 double-generation-bump cleanup.
+On DSN: do all 3 clients key to David Bosworth's account or keep their own IDs?
+⚠️ **Two live re-use hazards on disk, unchanged and both one careless run from real damage:**
+(1) the **superseded 8-day / 34 h / $850 Roxie PDFs are still on disk under plain tags** — they over-bill by $150
+on the wrong days; the locked version is 10-day / 28.0 h / $700 (claim 18930084). Move or delete before the next
+DSN batch. (2) `CAROL/mc_group.sh` still has **`DATE="10/22/2026"` hardcoded** — re-date it or it writes October
+contact notes under a later date.
+**Roxie stays LOCKED:** Mon–Fri ×2 = 10 days/period · Mon–Thu 3.0 h (2:00–5:00 PM) · Fri 2.0 h (2:00–4:00 PM) ·
+112 units = **28.0 h = $700/period**. Her handwritten In/Out was never verified — no original scans exist on disk,
+only my generated sheets; if her real times are 2:00–6:00 the hours stay 3.0/2.0 and only the two strings change.
+🧥 **Clock: jacket deadline is TOMORROW, Sat 2026-10-24 — the only hard date on the board.** Thread unchanged
+(DTF ordered, vinyl in, varsity **L** on chest, sleeve snake small/abstract, near-black charcoal pants).
+Housekeeping: **Friday (u=5) → no commit, no push** (Sundays only); tree dirty at **48 entries**, flat since 04:00.
+`CAROL_FORM_MAP.txt` re-backed up to `~/Desktop/SCDHHS/`. 08:00 marker confirmed once each in `memory/2026-10-23.md`
+and `vault/daily/2026-10-23.md` (append-only heredoc — no anchor edits, no `edit`/`write` on daily notes).
+⚠️ **Still needs Larry/human:** (1) **Google OAuth** — unblocks live verification of Phases 3–4; (2) **keep-or-ignore
+before Sunday** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) the DSN account-keying question above;
+(4) move/delete the superseded Roxie 8-day PDFs; (5) 6 compliance watch-items unchanged (Medicaid RA 10/16 ·
+address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap ·
+binder rev10 119 pp vs README 118).
+**PREV-3 (2026-10-23 Friday, 04:00 — auto-save; dead quiet overnight, nothing moved):**
+**Nothing happened overnight and nothing is half-done.** The newest work artifact in the tree is still
+`CAROL/mc_group.sh` (10-22 15:34); the only activity after the 22:00 save was the midnight conversation-graph
+rebuild (00:02). No new Vance drop (`_from-vance/` newest is still the **02:28 phase-4 build** from 10/22),
+no new `_to-vance/` work, no portal pulls, no messages waiting. This is an honest idle state, not a stall I can fix.
+**Everything still sits on the same three human actions.** Scheduler lane: Phase 4 commit durability is *done*
+(214/214 tests, 48/48 testable rules guarded, zero new deps, no live Google) and every remaining live claim is
+**unverifiable, not incomplete** until Larry's **Google OAuth** lands. Decisions still unanswered on my desk:
+(a) a real `lookup` for the Google source (production can report ambiguity but not reconcile it); (b) wire
+`commitBlocks` into the review harness so the crash matrix is visible; (c) the Q16 double-generation-bump cleanup.
+On DSN: do all 3 clients key to David Bosworth's account or keep their own IDs?
+⚠️ **Two live re-use hazards on disk, both one careless run away from real damage:**
+(1) the **superseded 8-day / 34 h / $850 Roxie PDFs are still on disk under plain tags** — they over-bill by $150
+on the wrong days, and the locked version is 10-day / 28.0 h / $700 (claim 18930084). Move or delete them before
+the next DSN batch. (2) `CAROL/mc_group.sh` still has **`DATE="10/22/2026"` hardcoded** — re-date it or it writes
+October contact notes under a later date.
+**Roxie stays LOCKED:** Mon–Fri ×2 = 10 days/period · Mon–Thu 3.0 h (2:00–5:00 PM) · Fri 2.0 h (2:00–4:00 PM) ·
+112 units = **28.0 h = $700/period**. Her handwritten In/Out was never verified — no original scans exist on disk,
+only my generated sheets; if her real times are 2:00–6:00 the hours stay 3.0/2.0 and only the two strings change.
+🧥 **Clock: jacket deadline is TOMORROW, Sat 2026-10-24 — the only hard date on the board.** Thread unchanged
+(DTF ordered, vinyl in, varsity **L** on chest, sleeve snake small/abstract, near-black charcoal pants).
+Housekeeping: **graphify 7889 nodes / 8725 edges** (prev 7876/8714; 850/850 files). **Friday (u=5) → no commit,
+no push** (Sundays only); tree dirty at **48 entries** (46 at 22:00 — +`PROVIDER/scripts/cdp_fetch_ro.py`,
++`PROVIDER/reports-raw/auth-week-2026-10-11.csv`). `CAROL_FORM_MAP.txt` re-backed up to `~/Desktop/SCDHHS/`
+(68,905 B, 04:0x). 04:00 marker confirmed once each in `memory/2026-10-23.md` and `vault/daily/2026-10-23.md`
+(append-only heredoc — no anchor edits).
+⚠️ **Still needs Larry/human:** (1) **Google OAuth** — unblocks live verification of Phases 3–4; (2) **keep-or-ignore
+before Sunday** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) the DSN account-keying question above;
+(4) move/delete the superseded Roxie 8-day PDFs; (5) 6 compliance watch-items unchanged (Medicaid RA 10/16 ·
+address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap ·
+binder rev10 119 pp vs README 118).
+
+**PREV-4 (2026-10-22 Thursday, 22:00 — auto-save; quiet evening, one new CAROL batch runner):**
 **Nothing live since the 14:00 save except one script.** The whole evening produced `CAROL/mc_group.sh` (624 B, 15:34):
 a **fail-fast batch runner** for CAROL MC notes. It loops `ID:opts` pairs, runs
 `carol.js auto <ID> MC 10/22/2026 <opts>` on **CDP_PORT 18802** with a 240 s timeout, **requires the literal
@@ -33,7 +197,7 @@ before Sunday** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) the D
 (4) 6 compliance watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on
 Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
 
-**PREV-1 (2026-10-22 Thursday, 14:00 — auto-save; Roxie DSN sheets locked and rebuilt):**
+**PREV-5 (2026-10-22 Thursday, 14:00 — auto-save; Roxie DSN sheets locked and rebuilt):**
 **Roxie Johnson's DSN timesheets are LOCKED at the 10-day shape, after Larry overrode my 8-day build.**
 His words: "Monday thru friday, do those hours you said to match the actual real authorization." Final spec =
 **Mon–Fri ×2 = 10 days/period · Mon–Thu 12u = 3.0 h (2:00–5:00 PM) · Fri 8u = 2.0 h (2:00–4:00 PM) · 112 units =
@@ -69,7 +233,7 @@ before Sunday** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) the D
 (4) 6 compliance watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on
 Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
 
-**PREV-2 (2026-10-22 Thursday, 08:00 — auto-save; quiet overnight):**
+**PREV-6 (2026-10-22 Thursday, 08:00 — auto-save; quiet overnight):**
 **Quiet overnight since the 04:00 save.** No new Vance drop (`hermes-share/_from-vance/` newest is still the 02:28
 phase-4 build report), no new `_to-vance/` work, no portal work, no messages waiting. The only machine activity was
 the routine **05:10 CAROL-2.0 auto-push** (`✅ pushed CAROL-2.0 @ 9008c6c`) — housekeeping green, nothing to fix.
@@ -93,7 +257,7 @@ before Sunday** — `media-out/orochimaru/` (157 MB) and `tools/rea/`; (3) 6 com
 RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap ·
 binder rev10 119 pp vs README 118).
 
-**PREV-3 (2026-10-22 Thursday, 04:00 — auto-save):**
+**PREV-7 (2026-10-22 Thursday, 04:00 — auto-save):**
 **Vance closed Phase 4 in 18 minutes.** `hermes-share/_from-vance/VANCE-CLAW_phase4-build_2026-10-22.md`
 (5,919 B, 02:28) — **commit durability COMPLETE: 214/214 tests, 48/48 testable rules guarded · 1 declared
 equivalent, zero new deps, no live Google.** Delivered the Phase 4 GO brief at 02:09 (6,396 B, verified on the 3060)
@@ -122,7 +286,7 @@ marker confirmed in both `memory/` and `vault/daily/` once each (append-only her
 watch-items unchanged (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit
 packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118). Jacket deadline **Sat 2026-10-24**.
 
-**PREV-4 (2026-10-21 Wednesday, 22:00 — auto-save; quiet evening):**
+**PREV-8 (2026-10-21 Wednesday, 22:00 — auto-save; quiet evening):**
 Quiet all evening — nothing new since the 14:00 entry. Only `memory/2026-10-21.md` itself was touched after 14:00;
 `hermes-share/_from-vance/` still newest at 12:26. **Graphify 7819 nodes / 8643 edges** (prev 7818/8642; 839/839 files).
 **Wednesday → no git push**; tree dirty at **36 entries**, unchanged all day. `CAROL_FORM_MAP.txt` re-backed up to
