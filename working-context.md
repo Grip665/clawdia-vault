@@ -1,199 +1,59 @@
-## LATEST — 2026-10-26 22:00 (idle)
+## LATEST — 2026-10-27 22:00 (idle)
 
-**The account lock resolved without a phone call: Larry logged in himself at 14:05, so the provider lane is now an authenticated standing session. The afternoon shipped 28 Aide Task Cards v3; the evening went into iterations and Mail rules, and the box has been idle since 16:12.**
-🔓 **The Phoenix provider lock broke at 14:05 EDT — by login, not by reset.** Larry authenticated on the 3060 lane
-(`127.0.0.1:18811`, profile `C:\tmp\chrome-provider`, HP forward **18812**) as **(EX1882) Prestigious Home Care – PHC128**.
-The cookie persists in that profile, so the PROVIDER lane built at 00:14 is now a **standing authenticated session**, not a
-one-shot. ⚠️ The 11:00 Help Desk call (803-898-2760) therefore never had to happen — and it is **still unknown whether Larry
-made it**; do not assume the password was reset, only that a session exists. Session dies on Phoenix `autologout` timeout, and
-**only Larry can re-authenticate**.
-📋 **Portal state read at 14:06–14:07** (`tmp-contract/phx-{dashboard,notifications,authorizations,compliance-reviews,pendings,terminations}.png`):
-**2 cancelled authorizations** — (9838353) Sherman B Hobbs cancelled **10/14 08:57**, (9788651) Carolyn V Babb cancelled
-**10/12 13:19** — and **zero pendings**. Handoff written 14:08:
-`hermes-share/_to-vance/CLAW-VANCE_provider-lane-LOGGED-IN_2026-10-26.md`, carrying an explicit **"do NOT re-login, read-only
-use only"** warning — a few more failures re-lock the account and burn a day.
-🗂️ **Aide Task Cards v3 shipped — 28 cards, every one verified exactly 1 page.** Output `~/Desktop/Aide-Cards/` (61 files,
-html+pdf), index `PROVIDER/AIDE-CARDS-INDEX-2026-10-26.md`. v3 **dropped all five section headings** (AuthentiCare shows a
-flat list; the grouping invented a taxonomy the app does not have), one heading only, tasks **renumbered 1…N continuously**
-across two columns, type up to 20–23pt small / 13–14pt on the 39–41-task cards. New **auto-fit driver**
-`build_all_aide_cards.sh` renders, reads `pdfinfo`, and steps the font down until it fits — no card can silently spill. Two text
-bugs killed: case-manager names (`… Patricia Meredith, CM`) leaking into every task and inflating counts, and a stray leading `/`.
-🕓 **Then the day turned into iteration, and stopped at 16:12.** After v3: `build_aide_card_v4.py` plus ~12 render checks
-(14:58–15:33), then `parse_formal_supports.py` / `build_evv_crosswalk.py` / `evv_code_map.py` (15:23–15:48, `xw-1.png`), then
-two **Mail AppleScripts** (`mail-rule.applescript`, `mail-rules-multi.applescript`, 16:03–16:12) that build forwarding rules by
-sender. **Nothing has touched the workspace since 16:12 — roughly 6 h idle.** Whether the Mail rules were ever *loaded* into
-Mail.app is **unverified**; only the scripts exist on disk.
-🚨 **UNCHANGED AND STILL THE TOP HUMAN ITEM — 14 MCs on QV-due participants.** 12 open drafts + 2 completed (Hill, Evatt),
-contact date 10/23/2026. Phoenix has **no void / delete / discard** on a saved draft and **type is locked at creation**, so we
-cannot undo them. Larry's call alone: leave as-is, or correct bodies via `CAROL/edit_narrative.js` (`prep` → `apply` →
-`verify`, drafts only). The `requireType()` guard makes recurrence impossible.
-🧥 **The jacket is now 3 days past its Sat 10/24 deadline** (DTF ordered, vinyl in, varsity **L** on chest, sleeve snake
-small/abstract, near-black charcoal pants) — still the only hard date on the board, and still zero file evidence of progress
-at any checkpoint. No amount of agent time fixes it.
-**Still-live hazards, untouched:** superseded Roxie **8-day / 34 h / $850** PDFs under plain tags and over-billing $150 on the
-wrong days — locked truth is 10-day / 28.0 h / **$700** (claim 18930084); move before the next DSN batch. `mc_group.sh` is
-DATE-required and 5-pair-capped but **still never run for real**. Scheduler lane still one human action away (Larry's Google
-OAuth) — Phase 4 durability is done (214/214 tests, 48/48 testable rules guarded), so what remains is *unverifiable, not
-incomplete*. Service plans **28/28 current, all 28 authorize PCA**; the **6 CLTCs with no notice email** remain "newest
-available," not verified — **Johnny Smith 11/18/2025** and **Kay Smith 10/30/2025** nearest the 12-month re-eval line, and both
-now feed printed aide cards, so a stale plan becomes a wrong card in an aide's hands.
-🟡 **CAROL-2.0's 05:10 push is a false green for the 29th consecutive day** — `[2026-10-26 05:10] ✅ pushed CAROL-2.0 @ 9008c6c`,
-identical SHA on 10/24, 10/25, 10/26 and unchanged since 2026-09-30. Retire the job or diagnose the frozen repo; Larry's call.
-**No Vance traffic** — `_from-vance/` newest is still `VANCE-CLAW_phase4-build_2026-10-22.md` (10/22 02:28), now **5 days** quiet.
-**Conversation graph still lags by design:** the 00:00 cron never copies `memory/*.md` into `conversation-graph/`, so coverage
-trails a full run. Fix: add the copy step, `--backend deepseek`, copy `graph.json` first, never bare `graphify extract` unattended.
-Housekeeping: **Monday (u=1) → no commit, no push**; **23** dirty entries — the largest pile this week (new `PROVIDER/AIDE-CARDS-
-INDEX-2026-10-26.md`, `build_aide_card_v4.py`, `build_all_aide_cards.sh`, `build_evv_crosswalk.py`, `evv_code_map.py`,
-`parse_formal_supports.py`, the Vance note, plus untracked `biberk-policies/`, `phoenix-downloads/`, `tmp-contract/`, modified
-`TOOLS.md` + two SKILL.md copies + both unmapped gitlinks). Next window **Sun 11/01**. 22:00 marker confirmed exactly once in
-`memory/2026-10-26.md` and `vault/daily/2026-10-26.md` (append-only heredoc; no `edit`/`write` on dailies). `CAROL_FORM_MAP.txt`
-re-backed to `~/Desktop/SCDHHS/`.
-⚠️ **Still needs Larry/human:** (1) **decide the 14 Phoenix MCs** — highest priority; (2) **confirm whether the 803-898-2760
-Help Desk call happened** — the session works but the password state is unknown, and session timeout will force the question;
-(3) **find the password for `phoenix-downloads/service_providers_report.pdf`** — `phc128` plus five variants all fail, still
-unreadable; (4) **finish the jacket**; (5) **Google OAuth**; (6) move/delete the superseded Roxie 8-day PDFs; (7) the DSN
-account-keying question; (8) verify Johnny Smith + Kay Smith before more aide cards issue; (9) decide whether to retire the
-CAROL-2.0 daily push job; (10) confirm the Mail forwarding rules were actually installed; (11) 6 compliance watch-items
-(Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap ·
-binder rev10 119 pp vs README 118).
+**The five-day Vance silence broke, and the compliance calendar is now real: 76 timed events, verified off the live API. The three API rules that fell out of it change how `phc-cal.py` must be written — a 403 is not a permission error, and a deleted UID is never reusable.**
+🟢 **Vance came back at 14:47 — three inbound notes in 40 minutes, every 10/27 handoff answered.** `compliance-dates-live-plus-reminder-q` (14:47), `compliance-rebuilt-timed-plus-two-findings` (15:20), `step-log-compliance-rebuild` (15:25). Outbound: `reminders-answered` 14:49, `REMINDER-TEST-PASSED` 14:56, `reminder-test-addendum` 14:59. `_from-vance/` is no longer 5 days quiet — **check it before assuming a human relay is needed.**
+✅ **Compliance calendar rebuilt and verified by reading the calendar back, not by trusting the script:** **76 events · 76 timed · 0 all-day · 76 distinct `(type, worker)` · 0 duplicates**, all 12:00–12:30 `America/New_York`, all prefixed `Compliance: SLED due — …`, reminders `email 4320 / popup 1440 / popup 60`. 219/219 tests · 51/51 rules guarded · 1 declared equivalent. **Lane split held — he never called or edited `phc-cal.py`.**
+🧪 **My zero-minute reminder test is what drove the design.** `grab soda from fridge`, both methods, SA-created → Larry: *"it popped up, one didnt give a sound the other vibrated."* Delivery is now **observed, not theorised**. The addendum point mattered: the popup was the *silent* channel, so a popup-only compliance date fails silently — **email sits at the longest lead**.
+🔑 **Three live API truths — all three are hazards for `phc-cal.py`, and all three were paid for.**
+&nbsp;&nbsp;**1. A deleted iCalUID stays RESERVED.** Re-inserting the same UID returns **`409 Conflict` forever, with no event present**. Bumping is mandatory, *and bumping alone is not enough* — after `g0`→`g1`, `g1` 409'd too because a crashed attempt had already created it. The pipeline must **look the fresh uid up after bumping and ADOPT it** if it exists, or two generations bounce off each other forever while each assumes the identity is merely reserved.
+&nbsp;&nbsp;**2. Google reports throttling as `403`, not `429`.** Vance's classifier mapped all 4xx to permanent, so nothing retried and a bulk run died having **deleted 45 and created 10**. Rule: 403 + a throttle reason (`rateLimitExceeded`/`userRateLimitExceeded`/`quotaExceeded`) → transient; 403 otherwise → permanent. Batches of 10 at 1.2 s.
+&nbsp;&nbsp;**3. A PATCH that omits a nested field leaves it unchanged.** `useDefault:false` with no `overrides` "reverted" nothing and still reported `0 errors`; only `overrides: []` clears. Also: Windows **`EPERM` on rename** killed a temp-then-rename ledger write mid-flight — anything atomic on that box needs retry/backoff.
+🧠 **Vance's own failure is the reusable lesson:** the rebuild half-applied, then he **reconciled `PROVIDER/.phc-calendar-ledger.json` from the calendar rather than the other way round** — "reconciling from a stale ledger is how you delete the wrong thing." **First real observation: Tue 2026-11-03, Insurance due — Foster, Ladonna.** If noon passes with no alert on Larry's phone, that is a finding, not a design debate.
+✅ **Calendar foundation from the productive 11:40–13:40 stretch stands:** service-account access to `grip694@gmail.com` (key `C:\Users\User\.secrets\google-sa.json`, project `larrrys-planner`, SA `planner@larrrys-planner.iam.gserviceaccount.com` — deliberately **not** in hermes-share), full CRUD proved, 17 events seeded then moved 10:00 → **11:00 AM** with the 3-reminder stack (59 instances verified), and **`C:\Users\User\bin\phc-cal.py`** (`list/add/move/del`) tested end to end. Use it; don't rewrite it. **Architecture still stands:** A = his default calendar (everything, private), **B = `PHC Planner`** (the subset the robot writes, shareable with Dinasti, own alerts, handable to a cover person), **B displays inside A**. Only **ONE** new calendar left to create.
+💵 **Money answers stand: NOW Insurance PAID; biBERK $517.42 paid on Larry's own card.** Card **XXXX0450 is a locked Cash App card** that unlocks per transaction — a decline is normal operation, *not* a lapse — but **only a receipt proves payment**. In `vault/topics/bills.md`.
+🚨 **STILL THE TOP HUMAN ITEM — 14 MCs on QV-due participants.** 12 open drafts + 2 completed (Hill, Evatt), contact date 10/23/2026. Phoenix has **no void / delete / discard** on a saved draft and **type is locked at creation**, so these cannot be undone. Larry's call alone: leave as-is, or correct bodies via `CAROL/edit_narrative.js` (`prep` → `apply` → `verify`, drafts only). The `requireType()` guard makes recurrence impossible.
+🟡 **CAROL-2.0's false green, unchanged:** `[2026-10-27 05:10] ✅ pushed CAROL-2.0 @ 9008c6c` — the same SHA on **every** entry since **10/19**, frozen since 2026-09-30. A job reporting ✅ daily against one unchanged commit is not a backup. Retire it or diagnose the frozen repo — **Larry's call.**
+🧥 **Jacket: 3 days past the Sat 10/24 deadline** (elapsed = 10/25, 10/26, 10/27; earlier notes wrongly counted 10/24 as day one). Still the only hard date on the board (DTF ordered, vinyl in, varsity **L** on chest, sleeve snake small/abstract, near-black charcoal pants) and still **zero file evidence of progress at any checkpoint**. No agent time fixes it.
+📄 **Still locked away:** `phoenix-downloads/service_providers_report.pdf` (18 pages, 10/26 12:20) does **not** open with `phc128` — nor phc / PHC128 / pc128 / 128. ⚠️ Do not assume the TOOLS.md `phc128` rule covers every Phoenix PDF; that assumption is exactly what makes this look like a corrupt file. **Needs Larry.**
+**Still-live hazards, untouched:** superseded Roxie **8-day / 34 h / $850** PDFs under plain tags and over-billing $150 on the wrong days — locked truth is 10-day / 28.0 h / **$700** (claim 18930084); move before the next DSN batch. `mc_group.sh` is DATE-required and 5-pair-capped but **still never run for real**. Service plans **28/28 current, all 28 authorize PCA**; the **6 CLTCs with no notice email** remain "newest available," not verified — **Johnny Smith 11/18/2025** and **Kay Smith 10/30/2025** nearest the 12-month re-eval line, and both now feed printed aide cards, so a stale plan becomes a wrong card in an aide's hands.
+✅ **Sitting uncommitted since 10/26:** Aide Task Cards **v3 — 28 cards, each verified exactly 1 page** (`~/Desktop/Aide-Cards/`, 61 files, index `PROVIDER/AIDE-CARDS-INDEX-2026-10-26.md`, auto-fit driver `build_all_aide_cards.sh`), plus `build_aide_card_v4.py`, `build_evv_crosswalk.py`, `evv_code_map.py`, `parse_formal_supports.py`, and the SCDHHS **contract C 98177C** call script (`tmp-contract/DHHS-Call-Script-C98177C.pdf`, 41,223 B). Whether the Mail forwarding rules were ever *loaded* into Mail.app is **still unverified** — only the scripts exist.
+**Two local skills moved today:** `skills/phc-google-calendar/SKILL.md` and `skills/task-sheet-sorter/SKILL.md`. The three API rules above belong in the calendar skill — **not yet written there.**
+**Conversation graph still lags by design:** the 00:00 cron never copies `memory/*.md` into `conversation-graph/`, so coverage trails a full run. Fix: add the copy step, `--backend deepseek`, copy `graph.json` first, never bare `graphify extract` unattended.
+Housekeeping: **Tuesday (u=2) → no commit, no push**; **37** dirty entries, up from 29 at 14:00 (three `_from-vance/` notes, three `_to-vance/` notes incl. `reminders-answered`, both SKILL.md updates). Next window **Sun 11/01** — largest pile of the week and still growing. graphify re-parsed **893/893** files AST-only → **8,197 nodes / 9,077 edges** (+85/+76; the `Odd-length string` noise is the ELF/data parser on hex-dump lines, cosmetic, reproduces every run). 22:00 marker confirmed exactly once in `memory/2026-10-27.md` and `vault/daily/2026-10-27.md` via append-only heredoc — **no `edit`/`write` on dailies**.
+⚠️ **Still needs Larry/human:** (1) **decide the 14 Phoenix MCs** — highest priority; (2) **create the one `PHC Planner` calendar** so lane B can exist (A is live); (3) **find the password for `service_providers_report.pdf`**; (4) **finish the jacket** — 3 days late; (5) move/delete the superseded Roxie 8-day PDFs; (6) the DSN account-keying question; (7) verify Johnny Smith + Kay Smith before more aide cards issue; (8) decide whether to retire the CAROL-2.0 daily push job; (9) confirm the Mail forwarding rules were actually installed; (10) watch **Tue 2026-11-03** for the first Foster/Ladonna compliance alert; (11) 6 compliance watch-items (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
 
-## PREV-1 — 2026-10-26 14:00 (idle)
+## PREV-1 — 2026-10-27 14:00 (idle)
 
-**The network story closed itself: both CDP lanes are live again. The afternoon was document work — insurance policies, a contract call script — plus one new snag: a Phoenix report that arrived but will not open.**
-🟢 **Both lanes are UP, so the 08:00 "18811/18812 dark" state is over.** On the 3060, `127.0.0.1:18811` is **LISTENING pid 27312**;
-from the HP, forwarded **18812 → HTTP 200** (provider) and **18802 → HTTP 200** (CAROL); `10.192.166.148` pings **0% loss / ~25 ms**.
-The PROVIDER lane built at 00:14 survived the overnight outage and came back with the box — nothing needed rebuilding.
-📄 **Afternoon produced five artifacts and one is unreadable.** `biberk-policies/` took 3 policies at **12:19** (5.0 MB):
-`N9PL497108` Prestigious Home Health **Professional Liability**, `N9WC796997` Senator Transportation **Workers' Comp**,
-`N9WC080186` Prestigious Home Care **Workers' Comp**. At **12:20** a Phoenix **`service_providers_report.pdf`** landed —
-**18 pages, ENCRYPTED**, and ⚠️ **`phc128` does NOT open it** (also tried phc, PHC128, pc128, 128; stopped rather than guess
-further). ⚠️ **Do not assume the TOOLS.md `phc128` rule covers every Phoenix PDF** — that assumption is what makes this look
-like a corrupt file. The report is on disk and unreadable until the correct password is confirmed. **Open item, needs Larry.**
-📞 **A new lane opened that has nothing to do with the Phoenix lock: SCDHHS contract C 98177C.** `tmp-contract/` holds
-`call-script.html` + `mkpdf.js` → **`DHHS-Call-Script-C98177C.pdf` (41,223 B, 13:53)**, with contract screenshots
-`ctract-03.png` / `ctract-04.png` (13:33). Script fields: contract **C 98177C**, number **50841**, date **11/09/2026**,
-phone box **(864) 660-4200**. If a contract call is expected, this is the artifact to use — and it is *not* the 803-898-2760
-Phoenix Help Desk line.
-❓ **Whether the 11:00 Phoenix Help Desk call happened is still UNVERIFIED.** Reminder cron `a9c82f36` was set for 11:00
-(Help Desk **803-898-2760**, identity FEIN **84-3225251** / provider# **EX1882** / login **PHC128**). Circumstantial evidence
-only: a Phoenix report was downloaded at **12:20**, which implies *some* authenticated Phoenix session existed mid-day. Do not
-report the account as unlocked — or as still locked — without a fresh login test on the 18811 lane. The 4-field form trap
-(provider_number + provider_login + provider_password + math captcha, all collapsing to the same "locked" error) still stands.
-🟡 **CAROL-2.0's 05:10 push is a false green for the 29th consecutive day** — `[2026-10-26 05:10] ✅ pushed CAROL-2.0 @ 9008c6c`,
-identical SHA on 10/24, 10/25, 10/26 and unchanged since 2026-09-30. Retire the job or diagnose the frozen repo; Larry's call.
-**No Vance traffic** — `_from-vance/` newest is still `VANCE-CLAW_phase4-build_2026-10-22.md` (10/22 02:28), 4 days quiet.
-🚨 **UNCHANGED AND STILL THE TOP HUMAN ITEM — 14 MCs on QV-due participants.** 12 open drafts + 2 completed (Hill, Evatt),
-contact date 10/23/2026. Phoenix has **no void / delete / discard** on a saved draft and **type is locked at creation**, so we
-cannot undo them. Larry's call alone: leave as-is, or correct bodies via `CAROL/edit_narrative.js` (`prep` → `apply` →
-`verify`, drafts only). The `requireType()` guard makes recurrence impossible.
-🧥 **The jacket is now 3 days past its Sat 10/24 deadline** (DTF ordered, vinyl in, varsity **L** on chest, sleeve snake
-small/abstract, near-black charcoal pants) — still the only hard date on the board, and still zero file evidence of progress
-at any checkpoint. No amount of agent time fixes it.
-**Still-live hazards, untouched:** superseded Roxie **8-day / 34 h / $850** PDFs under plain tags and over-billing $150 on the
-wrong days — locked truth is 10-day / 28.0 h / **$700** (claim 18930084); move before the next DSN batch. `mc_group.sh` is
-DATE-required and 5-pair-capped but **still never run for real**. Scheduler lane still one human action away (Larry's Google
-OAuth) — Phase 4 durability is done (214/214 tests, 48/48 testable rules guarded), so what remains is *unverifiable, not
-incomplete*. Service plans **28/28 current, all 28 authorize PCA**; the **6 CLTCs with no notice email** remain "newest
-available," not verified — **Johnny Smith 11/18/2025** and **Kay Smith 10/30/2025** nearest the 12-month re-eval line.
-**Conversation graph still lags by design:** the 00:00 cron never copies `memory/*.md` into `conversation-graph/`, so coverage
-trails a full run. Fix: add the copy step, `--backend deepseek`, copy `graph.json` first, never bare `graphify extract` unattended.
-Housekeeping: graphify re-parsed **875/875** files AST-only → **8,065 nodes / 8,920 edges** (+6/+6 since 08:00, i.e. today's own
-note and new artifact dirs); the `Odd-length string` / "Skipping broken line" spam is the ELF/data parser eating hex-dump lines,
-cosmetic and reproduced on every run. **Monday (u=1) → no commit, no push**; **15** dirty entries (up from 12: new untracked
-`biberk-policies/`, `phoenix-downloads/`, `tmp-contract/`), next window **Sun 11/01**. 14:00 marker confirmed exactly once in
-`memory/2026-10-26.md` and `vault/daily/2026-10-26.md` (append-only heredoc; no `edit`/`write` on dailies). `CAROL_FORM_MAP.txt`
-re-backed to `~/Desktop/SCDHHS/`.
-⚠️ **Still needs Larry/human:** (1) **decide the 14 Phoenix MCs** — highest priority; (2) **confirm the Phoenix account state**
-by logging in once on the 18811 lane, and if still locked make the 803-898-2760 call (session cookie can't be automated);
-(3) **find the password for `phoenix-downloads/service_providers_report.pdf`** — `phc128` fails; (4) **finish the jacket**;
-(5) **Google OAuth**; (6) move/delete the superseded Roxie 8-day PDFs; (7) the DSN account-keying question; (8) verify Johnny
-Smith + Kay Smith before aide cards issue; (9) decide whether to retire the CAROL-2.0 daily push job; (10) 6 compliance
-watch-items (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 ·
-Therap DSN gap · binder rev10 119 pp vs README 118).
+**The 3060 came back on its own, and the day's real work turned out to be the calendar — which is now live, seeded, and driven by a real CLI instead of throwaway scripts. The money questions got answered too: both policies are paid.**
+🟢 **The 3060 is UP again after being dark at both 04:00 and 08:00.** `ping 10.192.166.148` is clean and **both CDP lanes answer HTTP 200** — `18812` (provider) *and* `18802` (CAROL). The standing authenticated Phoenix session in `C:\tmp\chrome-provider` therefore survived **~16 h unreachable** and came back with the box. Nothing needs rebuilding, and the first productive portal window of the day is unblocked. Retest order still stands if it flaps: 3060 `127.0.0.1:18811` LISTENING → HP `18802`/`18812` → read-only portal check.
+✅ **CALENDAR IS LIVE — this is the milestone of the day.** Larry's Google (`grip694@gmail.com`) is now readable/writable from the 3060 by a **service account** (`planner@larrrys-planner.iam.gserviceaccount.com`, project `larrrys-planner`, key `C:\Users\User\.secrets\google-sa.json` — deliberately **not** in hermes-share, which syncs and is git-tracked). Full CRUD proved: create 200 / read 200 / delete 204. **17 events seeded** (money dates, renewals, QV/MC cadence, Monday tasksheets), then all moved **10:00 → 11:00 AM** ("im at work and sitting down then") — 59 expanded instances verified at 11:00, each carrying the 3 reminders (email 3d / popup 1d / popup 1h). "Cancel Seek" 12:30 deliberately untouched.
+🔧 **`C:\Users\User\bin\phc-cal.py` now exists on the 3060** — `list / add / move / del` against that calendar, tested end to end (add temp → list → delete → confirm gone). This is the thing that makes conversational calendar editing real; before it, every request meant me writing a fresh one-off script. Use it, don't rewrite it.
+🧠 **The architecture decision that unblocks everything else, settled 12:21:** Larry **does not use a calendar at all** — to him calendar and planner are the same object, and the driver is cognitive load. So: **(A)** his Google default calendar = everything, personal + business, private. **(B)** `PHC Planner` = the subset the robot writes to, later shared with Dinasti, with its own alerts, to be handed to a cover person. **B displays inside A** → one screen, no double entry. Only **ONE** new calendar to create. Logged in `vault/decisions-log.md` so it doesn't get re-litigated.
+💵 **Money: both answers are "paid," and the card rule is now written down.** **NOW Insurance = PAID** (Larry confirmed). **biBERK $517.42 = paid today on Larry's own card.** Card **XXXX0450 is a Cash App card Pierre keeps LOCKED** and unlocks per transaction — a decline is normal operation, *not* distress, and Larry has been retroactively paying missed drafts. ⇒ **Rule: never infer coverage from "should have auto-drafted." Only a receipt counts.** In `vault/topics/bills.md`.
+📤 **Two Vance handoffs out today:** `CLAW-VANCE_phase5-GO_2026-10-27.md` (approved commitBlocks→review-harness wiring + the Q16 double-bump fix; real lookup is blocked on Larry's credential) and `CLAW-VANCE_google-credential-LIVE_2026-10-27.md` (credential paths, ownership split — **he owns scheduled blocks, I own ad-hoc/fixed dates** — the four API gotchas I paid for, the 3-part proof required, and "don't call my CLI"). Vance env checked: node 26.5.0 / npm 11.17.0 but **googleapis + google-auth-library NOT installed** — he runs `npm i`.
+🚨 **UNCHANGED AND STILL THE TOP HUMAN ITEM — 14 MCs on QV-due participants.** 12 open drafts + 2 completed (Hill, Evatt), contact date 10/23/2026. Phoenix has **no void / delete / discard** on a saved draft and **type is locked at creation**, so we cannot undo them. Larry's call alone: leave as-is, or correct bodies via `CAROL/edit_narrative.js` (`prep` → `apply` → `verify`, drafts only). The `requireType()` guard makes recurrence impossible.
+🟡 **CAROL-2.0's false green is day 30, tenth identical entry:** `[2026-10-27 05:10] ✅ pushed CAROL-2.0 @ 9008c6c` — `9008c6c` on **every** logged entry since **10/19**, frozen since 2026-09-30. A job reporting ✅ daily against one unchanged commit is not a backup. Retire it or diagnose the frozen repo — **Larry's call.**
+🧥 **Jacket: 3 days past the Sat 10/24 deadline, not 4** (elapsed days are 10/25, 10/26, 10/27 — earlier notes wrongly counted 10/24 as day one). Still the only hard date on the board (DTF ordered, vinyl in, varsity **L** on chest, sleeve snake small/abstract, near-black charcoal pants) and still **zero file evidence of progress at any checkpoint**. No amount of agent time fixes it.
+📄 **Still locked away:** `phoenix-downloads/service_providers_report.pdf` (18 pages, 10/26 12:20) does **not** open with `phc128` — nor phc / PHC128 / pc128 / 128. ⚠️ Do not assume the TOOLS.md `phc128` rule covers every Phoenix PDF; that assumption is exactly what makes this look like a corrupt file. **Needs Larry.**
+**Still-live hazards, untouched:** superseded Roxie **8-day / 34 h / $850** PDFs under plain tags and over-billing $150 on the wrong days — locked truth is 10-day / 28.0 h / **$700** (claim 18930084); move before the next DSN batch. `mc_group.sh` is DATE-required and 5-pair-capped but **still never run for real**. Service plans **28/28 current, all 28 authorize PCA**; the **6 CLTCs with no notice email** remain "newest available," not verified — **Johnny Smith 11/18/2025** and **Kay Smith 10/30/2025** nearest the 12-month re-eval line, and both now feed printed aide cards, so a stale plan becomes a wrong card in an aide's hands.
+✅ **Sitting uncommitted since 10/26:** Aide Task Cards **v3 — 28 cards, each verified exactly 1 page** (`~/Desktop/Aide-Cards/`, 61 files, index `PROVIDER/AIDE-CARDS-INDEX-2026-10-26.md`, auto-fit driver `build_all_aide_cards.sh`), plus `build_aide_card_v4.py`, `build_evv_crosswalk.py`, `evv_code_map.py`, `parse_formal_supports.py`, and the SCDHHS **contract C 98177C** call script (`tmp-contract/DHHS-Call-Script-C98177C.pdf`, 41,223 B). Whether the Mail forwarding rules were ever *loaded* into Mail.app is **still unverified** — only the scripts exist.
+**No Vance traffic inbound** — `_from-vance/` newest is still `VANCE-CLAW_phase4-build_2026-10-22.md` (10/22 02:28), now **5 days** quiet, so both of today's handoffs are unanswered.
+**Conversation graph still lags by design:** the 00:00 cron never copies `memory/*.md` into `conversation-graph/`, so coverage trails a full run. Fix: add the copy step, `--backend deepseek`, copy `graph.json` first, never bare `graphify extract` unattended.
+Housekeeping: **Tuesday (u=2) → no commit, no push**; **29** dirty entries, up from 25 at 08:00 (new `memory/2026-10-26.md`, `conversation-graph/2026-10-25.md`, both 10/27 Vance notes, modified `build_aide_card.py`, `TOOLS.md` and three SKILL.md/skill copies, plus the standing untracked `biberk-policies/`, `phoenix-downloads/`, `tmp-contract/`, `tmp-insurance/` and both unmapped gitlinks). Next window **Sun 11/01** — this is now the largest pile of the week. 14:00 marker confirmed exactly once in `memory/2026-10-27.md` and `vault/daily/2026-10-27.md` (append-only heredoc; **no `edit`/`write` on dailies** — a backtick-quoted `$BLOCK` got shell-expanded on the first attempt today and appended nothing, caught by verifying `grep -c` = 0 before retrying with a quoted heredoc).
+⚠️ **Still needs Larry/human:** (1) **decide the 14 Phoenix MCs** — highest priority; (2) **create the one `PHC Planner` calendar** so lane B can exist (A is already live); (3) **find the password for `service_providers_report.pdf`**; (4) **finish the jacket** — 3 days late; (5) move/delete the superseded Roxie 8-day PDFs; (6) the DSN account-keying question; (7) verify Johnny Smith + Kay Smith before more aide cards issue; (8) decide whether to retire the CAROL-2.0 daily push job — 30 days of false green; (9) confirm the Mail forwarding rules were actually installed; (10) 6 compliance watch-items (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
 
-## PREV-2 — 2026-10-26 08:00 (idle)
+## PREV-2 — 2026-10-27 08:00 (idle)
 
-**The 04:00 diagnosis was half wrong: the LOCAL ZeroTier daemon had died too, and that is now fixed. The 3060 is still genuinely off. Phoenix account still locked, reset call in 3 h.**
-🔧 **Found and fixed a real network fault at 08:00 — and it corrected the 04:00 note.** Local ZeroTier read `"online":false` with
-**all 6 peers `paths=0`** (`778cde7190`, `b9a18a606f`, `cafe04eba9`, `cafe80ed74`, `cafefd6717`, `62049358d1`), i.e. the documented
-dead-local-daemon trap — the failure mode that *presents* as "the other box is down." `systemctl is-active` still said `active`,
-which is exactly why it fools you. Applied the TOOLS.md recovery (`docker --privileged … nsenter -t 1 … systemctl restart
-zerotier-one`, exit 0) → **`online:true` within ~12 s, all 6 peers `paths=1`**. No sudo, no user action, ~20 s total.
-**Rule reaffirmed: check local ZT `online` FIRST, every time, before blaming a peer.**
-🚨 **With the mesh healthy, the 3060 is confirmed OFF, not mesh-blocked.** Post-recovery `ping 10.192.166.148` = **100% loss**,
-`ssh 3060` = **No route to host**. So there were two independent faults stacked: a dead local daemon (fixed) and a sleeping remote
-(unfixed, not ours to fix). Both CDP lanes **18811 / 18812 remain dark**. When it wakes, retest in this order: ZT peer `paths`,
-`18811` listener, then `ssh 3060 'schtasks /query /tn chrome_provider'`.
-⏰ **The Phoenix provider-account reset call is the day's one hard appointment — 11:00 EDT, 3 h out.** Cron `a9c82f36` fires then
-(Help Desk **803-898-2760**); it also carries the new-PCA SP for James Gooseby. Account has been locked since ~00:30 with zero
-successful logins since. Identity for the call, re-verified: FEIN **84-3225251**, provider# **EX1882**, login **PHC128**. Nothing
-provider-side can be done until that call happens — and the login form's **4 fields** (provider_number, provider_login,
-provider_password, math captcha) mean a blank/wrong captcha throws the *same* "locked" error, so don't re-litigate the password.
-🟡 **CAROL-2.0's 05:10 push is now a false green for the 29th consecutive day** — `[2026-10-26 05:10] ✅ pushed CAROL-2.0 @
-9008c6c`, the identical commit since 2026-09-30. Five days of "✅ pushed" against one unchanged SHA. Either retire the job or find
-out why the repo is frozen; that decision is still Larry's.
-**No Vance traffic** — `_from-vance/` newest is still `VANCE-CLAW_phase4-build_2026-10-22.md` (10/22 02:28), 4 days quiet.
-🚨 **UNCHANGED AND STILL THE TOP HUMAN ITEM — 14 MCs on QV-due participants.** 12 open drafts + 2 completed (Hill, Evatt), contact
-date 10/23/2026. Phoenix has **no void / delete / discard** on a saved draft and **type is locked at creation**, so we cannot undo
-them. Larry's call alone: leave as-is, or correct bodies via `CAROL/edit_narrative.js` (`prep` → `apply` → `verify`, drafts only).
-The `requireType()` guard makes recurrence impossible.
-🧥 **The jacket is now 3 days past its Sat 10/24 deadline** (DTF ordered, vinyl in, varsity **L** on chest, sleeve snake
-small/abstract, near-black charcoal pants) — still the only hard date on the board, and still zero file evidence of progress at
-any checkpoint. No agent time fixes it.
-**Still-live hazards, untouched:** superseded Roxie **8-day / 34 h / $850** PDFs under plain tags and over-billing $150 on the
-wrong days — locked truth is 10-day / 28.0 h / **$700** (claim 18930084); move before the next DSN batch. `mc_group.sh` is
-DATE-required and 5-pair-capped but **still never run for real**. Scheduler lane still one human action away (Larry's Google
-OAuth) — Phase 4 durability is done (214/214 tests, 48/48 testable rules guarded), so what remains is *unverifiable, not
-incomplete*. Service plans **28/28 current, all 28 authorize PCA**; the **6 CLTCs with no notice email** remain "newest
-available," not verified — **Johnny Smith 11/18/2025** and **Kay Smith 10/30/2025** nearest the 12-month re-eval line.
-**Conversation graph still lags by design:** the 00:00 cron never copies `memory/*.md` into `conversation-graph/`, so coverage
-trails a full run. Fix: add the copy step, `--backend deepseek`, copy `graph.json` first, never bare `graphify extract` unattended.
-Housekeeping: **Monday (u=1) → no commit, no push**; **12** dirty entries pending, next window Sun 11/01. Drift since 04:00 was
-only `graphify-out/*`, `memory/2026-10-26.md`, `memory/carol20-push.log`. 08:00 marker confirmed exactly once in
-`memory/2026-10-26.md` and `vault/daily/2026-10-26.md` (append-only heredoc; no `edit`/`write` on dailies). `CAROL_FORM_MAP.txt`
-re-backed to `~/Desktop/SCDHHS/`.
-⚠️ **Still needs Larry/human:** (1) **make the 11:00 Phoenix Help Desk call** — today's blocker; (2) **decide the 14 Phoenix
-MCs** — highest priority; (3) **finish the jacket**; (4) **Google OAuth**; (5) move/delete the superseded Roxie 8-day PDFs;
-(6) the DSN account-keying question; (7) verify Johnny Smith + Kay Smith before aide cards issue; (8) decide whether to retire the
-CAROL-2.0 daily push job; (9) 6 compliance watch-items (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on
-Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
-
-## PREV-3 — 2026-10-26 04:00 (idle)
-
-**A real build overnight, then a hard wall: Vance's PROVIDER CDP lane went live at 00:14, the Phoenix account turned out to be locked (not a bad password), and by 04:00 the 3060 itself is off the network. The board's human-owned items have not moved.**
-**The 00:07–00:14 build landed and is verified, not assumed.** The 10/23 plan for a second CDP lane had never actually been built — only the CAROL lane (18801) existed. Now: `C:\tmp\chrome-provider` profile, task `chrome_provider` on **18811** registered `Interactive` as `DESKTOP-R96DQLM\user`, `ensure-chrome-provider` VBS watchdog every 5 min, HP tunnel **18812** added to
-`~/.openclaw/cdp-tunnel-watchdog.sh` (loops both lanes; backup `.bak-20261026`). Verified LISTENING pid 27312 in **session 1**, CDP Chrome/155.0.8059.85, tab parked at `providers.phoenix.scdhhs.gov/sessions/new`. Provider SKILL.md synced to the 3060 (14,605 B); the hermes-share skill copies were 5 weeks stale (09-18 vs 10-24) and are refreshed.
-Also re-learned, in TOOLS.md: `schtasks /run` over SSH lands in **session 0** and GUI launches silently no-op — registration must use `Register-ScheduledTask -LogonType Interactive` with `$env:COMPUTERNAME\user` (`$env:USERDOMAIN` returns WORKGROUP over SSH and breaks `/ru`).
-🚨 **Phoenix provider portal = ACCOUNT LOCKED.** The login form has **four** fields — `provider_number`, `provider_login`,
-`provider_password`, and a plain **math captcha** — and a wrong or blank captcha / blank provider number returns the *same*
-generic "Login ID or password … not correct, or your account may be locked" message. That is what made a locked account look
-like a password problem for an hour. Re-verified identity: FEIN **84-3225251**, provider# **EX1882 (legacy)**, login **PHC128**.
-Tried EX1882 then the FEIN; both failed after Larry's own repeated attempts → **stopped guessing**. Reset via Phoenix Help Desk
-**803-898-2760**; reminder cron `a9c82f36` fires **Mon 10/26 11:00 EDT** and also carries the new-PCA SP for James Gooseby.
-⚠️ **That 04:00 note called the 3060 "the remote, not the dead-local-daemon trap" — the 08:00 pass proved the local daemon had ALSO died.** Corrected above; the local-ZT check stays first in the order.
-🚨 **UNCHANGED AND STILL THE TOP HUMAN ITEM — 14 MCs on QV-due participants.** 12 open drafts + 2 completed (Hill, Evatt),
-contact date 10/23/2026. Phoenix has **no void / delete / discard** on a saved draft and **type is locked at creation**, so we
-cannot undo them. Larry's call alone: leave as-is, or correct bodies via `CAROL/edit_narrative.js` (`prep` → `apply` →
-`verify`, drafts only). The `requireType()` guard makes recurrence impossible.
-🧥 **The jacket was 2 days past its Sat 10/24 deadline** at 04:00 (DTF ordered, vinyl in, varsity **L** on chest, sleeve snake
-small/abstract, near-black charcoal pants) — still the only hard date on the board, and still zero file evidence of progress
-at any checkpoint. No agent time fixes it.
-**Still-live hazards, untouched:** superseded Roxie **8-day / 34 h / $850** PDFs under plain tags and over-billing $150 on the
-wrong days — locked truth is 10-day / 28.0 h / **$700** (claim 18930084); move before the next DSN batch. `mc_group.sh` is
-DATE-required and 5-pair-capped but **still never run for real**. Scheduler lane still one human action away (Larry's Google
-OAuth) — Phase 4 durability is done (214/214 tests, 48/48 testable rules guarded), so what remains is *unverifiable, not
-incomplete*. Service plans **28/28 current, all 28 authorize PCA**; the **6 CLTCs with no notice email** remain "newest
-available," not verified — **Johnny Smith 11/18/2025** and **Kay Smith 10/30/2025** sit nearest the 12-month re-eval line.
-⚠️ **CAROL-2.0's 05:10 push was a false green for the 28th consecutive day**, identical commit `9008c6c` since 2026-09-30.
-**Conversation graph still lags by design:** the 00:00 cron never copies `memory/*.md` into `conversation-graph/`, so coverage
-trails a full run. Fix: add the copy step, `--backend deepseek`, copy `graph.json` first, never bare `graphify extract` unattended.
-Housekeeping: **Monday (u=1) → no commit, no push**; **12** dirty entries pending, next window Sun 11/01. graphify re-parsed
-**874/874** files AST-only → **8,059 nodes / 8,914 edges** (+5/+4). 04:00 marker confirmed exactly once in `memory/2026-10-26.md`
-and `vault/daily/2026-10-26.md` (append-only heredoc; no `edit`/`write` on dailies). `CAROL_FORM_MAP.txt` re-backed to
-`~/Desktop/SCDHHS/`.
-⚠️ **Still needs Larry/human:** (1) **decide the 14 Phoenix MCs** — highest priority; (2) **reset the Phoenix provider password**
-via 803-898-2760, then log in once on the 18811 lane (session cookie can't be automated); (3) **finish the jacket**; (4) **Google
-OAuth**; (5) move/delete the superseded Roxie 8-day PDFs; (6) the DSN account-keying question; (7) verify Johnny Smith + Kay
-Smith before aide cards issue; (8) 6 compliance watch-items (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD
-on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).
-
+**A second empty window: the 4 h since 04:00 produced nothing but clockwork, and the 3060 is dark for the third straight check — now with an airtight diagnosis instead of a suspicion.**
+🌙 **Nothing happened, and this time I can prove it rather than infer it.** Every disk write since the 04:00 note is accounted for: the `05:10` CAROL-2.0 push log line, the 04:0x graphify passes, and the daily note itself. No portal work, no new scripts, no `_to-vance/` writes, no human input. Two consecutive silent windows is now 16 h of idleness on the board.
+🚨 **3060 still dark — third consecutive check, diagnosis airtight.** Local ZeroTier reads **`online:true` on 1.16.2** with **all 6 peers holding paths** (`62049358d1`=3, `cafefd6717`=2, rest=1), so the mesh is healthy and the dead-local-daemon trap is **ruled out by evidence, not assumed** — that trap only shows `online:false` + every peer `paths=0`. Three independent confirmations: `ping 10.192.166.148` → **100% loss**, `ssh 3060` → **`No route to host`** (port 22), HP forwards **18812** and **18802** → **000**. **The new fact is the timeline:** that box was *up* at 10/26 14:00 (both lanes HTTP 200), so it went down between **16:12** and **04:00** — the standing authenticated Phoenix session has therefore been unreachable **~16 h**. It should survive in `C:\tmp\chrome-provider`; first retest when it wakes: 3060 `127.0.0.1:18811` LISTENING → HP `18802`/`18812` → read-only portal check. Nothing portal-side is possible until then.
+🟡 **CAROL-2.0's false green is day 30 — ninth identical entry.** New line: `[2026-10-27 05:10] ✅ pushed CAROL-2.0 @ 9008c6c`. `9008c6c` has been the SHA on **every** logged entry since **10/19** (frozen since 2026-09-30). A job that reports ✅ daily against one unchanged commit is not a backup. Retire it or diagnose the frozen repo — **Larry's call**, and it has now burned 30 days.
+🚨 **UNCHANGED AND STILL THE TOP HUMAN ITEM — 14 MCs on QV-due participants.** 12 open drafts + 2 completed (Hill, Evatt), contact date 10/23/2026. Phoenix has **no void / delete / discard** on a saved draft and **type is locked at creation**, so we cannot undo them. Options are Larry's alone: leave as-is, or correct bodies via `CAROL/edit_narrative.js` (`prep` → `apply` → `verify`, drafts only). The `requireType()` guard makes recurrence impossible.
+🧥 **Jacket — and a correction: it is 3 days past the Sat 10/24 deadline, not 4.** My earlier notes counted 10/24 itself as day one; the elapsed days are 10/25, 10/26, 10/27. Still the only hard date on the board (DTF ordered, vinyl in, varsity **L** on chest, sleeve snake small/abstract, near-black charcoal pants) and still **zero file evidence of progress at any checkpoint**. No amount of agent time fixes it.
+**Still-live hazards, untouched:** superseded Roxie **8-day / 34 h / $850** PDFs under plain tags and over-billing $150 on the wrong days — locked truth is 10-day / 28.0 h / **$700** (claim 18930084); move before the next DSN batch. `mc_group.sh` is DATE-required and 5-pair-capped but **still never run for real**. Scheduler lane still one human action away (Larry's Google OAuth) — Phase 4 durability is done (214/214 tests, 48/48 testable rules guarded), so what remains is *unverifiable, not incomplete*. Service plans **28/28 current, all 28 authorize PCA**; the **6 CLTCs with no notice email** remain "newest available," not verified — **Johnny Smith 11/18/2025** and **Kay Smith 10/30/2025** nearest the 12-month re-eval line, and both now feed printed aide cards, so a stale plan becomes a wrong card in an aide's hands.
+📄 **One artifact is still locked away from us:** `phoenix-downloads/service_providers_report.pdf` (18 pages, landed 10/26 12:20) does **not** open with `phc128` — nor phc / PHC128 / pc128 / 128. ⚠️ Do not assume the TOOLS.md `phc128` rule covers every Phoenix PDF; that assumption is exactly what makes this look like a corrupt file. **Needs Larry.**
+✅ **What shipped 10/26 and is sitting uncommitted:** Aide Task Cards **v3 — 28 cards, each verified exactly 1 page** (`~/Desktop/Aide-Cards/`, 61 files, index `PROVIDER/AIDE-CARDS-INDEX-2026-10-26.md`, auto-fit driver `build_all_aide_cards.sh`), plus `build_aide_card_v4.py`, `build_evv_crosswalk.py`, `evv_code_map.py`, `parse_formal_supports.py`, and the SCDHHS **contract C 98177C** call script (`tmp-contract/DHHS-Call-Script-C98177C.pdf`, 41,223 B). Whether the Mail rules were ever *loaded* into Mail.app is **still unverified** — only the scripts exist.
+**No Vance traffic** — `_from-vance/` newest is still `VANCE-CLAW_phase4-build_2026-10-22.md` (10/22 02:28), now **5 days** quiet; my 10/26 provider-lane "do NOT re-login" handoff in `_to-vance/` is unanswered.
+**Conversation graph still lags by design:** the 00:00 cron never copies `memory/*.md` into `conversation-graph/`, so coverage trails a full run. Fix: add the copy step, `--backend deepseek`, copy `graph.json` first, never bare `graphify extract` unattended.
+Housekeeping: **Tuesday (u=2) → no commit, no push**; **25** dirty entries, byte-for-byte the same set as 04:00 (new `memory/2026-10-27.md`, `conversation-graph/2026-10-26.md`, five PROVIDER scripts, `biberk-policies/`, `phoenix-downloads/`, `tmp-contract/`, the Vance note, modified `TOOLS.md` + SKILL.md copies, both unmapped gitlinks). Next window **Sun 11/01**. 08:00 marker confirmed exactly once in `memory/2026-10-27.md` and `vault/daily/2026-10-27.md` (append-only heredoc; no `edit`/`write` on dailies). `CAROL_FORM_MAP.txt` re-backed to `~/Desktop/SCDHHS/`.
+⚠️ **Still needs Larry/human:** (1) **decide the 14 Phoenix MCs** — highest priority; (2) **wake the 3060** — the authenticated Phoenix session is unreachable ~16 h and only that box can touch the portal; (3) **find the password for `service_providers_report.pdf`**; (4) **finish the jacket** — 3 days late; (5) **Google OAuth**; (6) move/delete the superseded Roxie 8-day PDFs; (7) the DSN account-keying question; (8) verify Johnny Smith + Kay Smith before more aide cards issue; (9) decide whether to retire the CAROL-2.0 daily push job — 30 days of false green; (10) confirm the Mail forwarding rules were actually installed; (11) 6 compliance watch-items (Medicaid RA 10/16 · address-of-record §F.1 · org-chart re-cut HELD on Chanelle · 3060 audit packet v4 vs v5 · Therap DSN gap · binder rev10 119 pp vs README 118).

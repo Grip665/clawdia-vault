@@ -6,7 +6,7 @@ Tracker for Senator Transportation LLC (and related) bills Larry flags. Reminder
 | Item | Policy # | Amount | Key Dates | Status |
 |------|----------|--------|-----------|--------|
 | ~~Biberk — Workers Comp~~ (Senator Transportation) | N9WC796997 | $517.42 | — | ✅ **PAID 8/18** |
-| **Biberk — Workers Comp** (recurring MONTHLY) | N9WC796997 (ends 96997) | $517.42 | **due before 9/24** (monthly) | 🔁 monthly |
+| **Biberk — Workers Comp** (recurring MONTHLY) | N9WC796997 (ends 96997) | $517.42 | monthly, before the 24th | ✅ **PAID 10/27** (the 10/24 installment; Larry confirmed) — recurring reminder REMOVED from cron |
 | ~~Spectrum Internet~~ | — | $361.90 (full) | — | ✅ **PAID 8/18** |
 
 ## Standard
@@ -34,6 +34,9 @@ Tracker for Senator Transportation LLC (and related) bills Larry flags. Reminder
 - Biberk acct w/ N9WC796997 (the cancel-risk one): **864-631-3537**
 
 ## Notes
+- ⚠️ **10/27: the `~$2,300/mo Berkshire Hathaway` figure in the cron reminder is UNVERIFIED.** None of the three
+  biBERK/BH policies on file comes to $2,300/mo: N9WC796997 $517.42 + N9WC080186 $632.27 + N9PL497108 $279.45 =
+  $1,429.14. Either a 4th policy exists or the figure is stale. Verify before trusting the draft-day nudge.
 - Biberk N9WC796997 = **$517.42 MONTHLY** (confirmed 8/25) — next due before 9/24. The 8/18 payment covered the 8/26 invoice; treat as recurring monthly. Cancel risk was 9/2 for the prior invoice — keep current one paid.
 - Spectrum: flag if service drops — office internet critical for dispatch/billing.
 - USLI AH 1563617C: three $902 payments (11/9/26, 1/8/27, 3/9/27).
@@ -150,3 +153,45 @@ Larry: *"its for the FL company has a Miami address, still keep it in the remind
 
 **Reminders kept per Larry's instruction** (all 10:00 ET, delete-after-run, now worded with this decision):
 `06ac0554` 11/05 · `3c8ead18` 11/28 · `49a4b20b` 12/04
+
+## 🔍 Insurance sweep — prestigioushomecare1306@gmail.com (2026-10-27, via Mail.app)
+Read from the live mailbox. 3 Gmail accounts hold policy mail: **prestigioushomecare1306** (in Mail.app),
+**senatortransportationllc**, and **prestigioushhfl** (both only in Safari Gmail tabs).
+
+| Carrier / policy | What | Amount | Status 10/27 |
+|---|---|---|---|
+| **USLI AH 1563617C** | PHC professional liability | **$907.20 due** (was $902.00 + fee) | Invoice 10/21/26 · **due 11/09/26** · pay at usli.com/ezpay |
+| **NOW UIA-489481-120525** | FL entity PL | ~$80.59/mo | ⚠️ **CARD DECLINED 10/05/26** — insufficient funds; "past due… policy will be terminated and prior acts lost." Renews 12/05. |
+| **biBERK N9WC080186** | PHC workers' comp | $524.63/mo, card XXXX0450 | Last receipt **9/14/26**. Next due 10/13/26. **No biBERK mail at all in October** — no autopay notice, no receipt, no failure notice. Payment status UNVERIFIED → check the biBERK portal. |
+| **biBERK N9WC796997** | Senator WC | $517.42/mo | Larry says paid 10/27 — but Senator Gmail had a "Credit Card Payment was not approved" email open. Date/policy not yet read. |
+
+### ⚠️ The pattern: ONE CARD IS FAILING
+Card **XXXX0450** declined on biBERK 8/13/26 and on NOW four times (6/5, 6/13, 6/15, **10/5**). NOW's 10/5
+notice is 22 days old and says coverage terminates without payment. This is the single highest-risk item
+in the insurance stack — ahead of any renewal date.
+
+### Dead / superseded (do not chase)
+- ACCINSCO WCV 0016870 (Prestigious Home Health) — 2022 receipts only.
+- biBERK **N9WC716780** — cancelled 7/2025. · biBERK **N9WC464416** — cancelled 6/2025.
+- Berkshire commercial auto **0061273-01-CA** — expired 04/17/2026.
+- Mail label "Insurance Receipts, invoices etc." holds only 5 stale 2022 messages — not a live folder.
+
+### ❓ Still unsourced: the "~$2,300/mo Berkshire Hathaway" figure
+No policy in the 1306 mailbox matches it. Sum of all live premiums found = ~$1,429/mo. Treat as **bogus
+until proven**; the reminder that fired 10/27 11:00 was built on it. Needs the real debit amount from the bank.
+
+### Not yet read (blocked)
+senatortransportationllc@gmail.com and prestigioushhfl@gmail.com live only in Safari. The iMac's Safari
+windows are not capturable (`screencapture -l` → "could not create image from window"; screen capture
+returns wallpaper with Safari as the active app). "Allow JavaScript from Apple Events" is **off**, and the
+pref domain is TCC-protected so it can't be written from the shell. **To unlock these two accounts: either
+enable that toggle in Safari → Settings → Developer, or have Larry forward the mail.**
+
+### 🔑 Card XXXX0450 = Cash App card, NOT a failing card (Larry, 2026-10-27)
+The declines are **by design, not distress.** Pierre keeps the Cash App card **locked** and unlocks it
+per-transaction; sometimes it's locked when a draft hits, sometimes there are no funds. Larry has been
+going back and paying the overdue/missed charges manually.
+**Consequence:** a decline email does NOT mean a lapse — but it also means **every carrier autopay can
+silently fail**, and the only signal is a "not approved" email. Never treat "mathematically paid" as true
+without a receipt. Paid 10/27: **NOW Insurance** (confirmed by Larry) and **biBERK $517.42** (paid on
+Larry's own card).

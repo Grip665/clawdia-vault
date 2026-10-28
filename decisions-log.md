@@ -128,3 +128,53 @@
 - Phase 1 accepted: 87/87 tests, **13/13 rules mutation-guarded** (proves tests fail when a rule is removed).
 - Phase 2 brief delivered: `CLAW-VANCE_phase2-GO_2026-10-19.md` — splitter, preview/approve state machine + local HTML harness, Google adapter against injectable transport with fixtures (NO OAuth/live calls), Q9 capacity recommendation.
 - Repo: `C:\Users\User\HermesWorkspace\rea-scheduler\` on the 3060.
+
+## 2026-10-27 — Calendar/planner architecture: TWO calendars, one visible view
+**Context:** Larry has never actually used a calendar; the planner project IS his calendar solution. He was
+conflating "calendar" and "planner" — they are the same project to him.
+
+**Decision:**
+- **A — his default Google calendar ("everything"):** personal, family, CM side, provider side, Senator +
+  Prestigious admin/insurance dates. Private, not shared with the robot, not shared with staff.
+- **B — `PHC Planner` (the "junior/vanilla" version):** ONLY Prestigious + Senator operational items —
+  the scheduled visits and what a cover person needs. The robot **writes only here**. Shared to Dinasti
+  later at "See all event details".
+- **The mechanic that resolves the confusion:** B is a *subset* that is **displayed inside A**. Larry adds B to
+  his own view (it auto-appears under "Other calendars" since he created it). One screen shows both; nothing
+  is copied or typed twice. A = what he looks at. B = what he hands off.
+- **Alerts are per-calendar, per-person.** B gets loud notifications (email/pop-up, 1 day + 1 hr) so a cover
+  person can't miss a visit; Larry can mute B on his own account if it's noisy; Dinasti sets hers on her phone.
+- **Only ONE new calendar to create.** A already exists (currently unused/empty).
+
+### 2026-10-27 (addendum) — calendar OWNERSHIP must be agency-side, not Larry's personal
+Larry asked the right question: "if I quit, how do I hand off the Prestigious/Senator calendar if it's tied to my
+personal master planner?"
+
+**Facts that shape the answer:**
+- Ticking calendar B inside A is a **view only**. It creates NO ownership dependency. A does not own B.
+  Deleting A leaves B untouched; sharing B never exposes A.
+- The real risk is **which Google account owns B.** If B is created under Larry's personal Google, then on his
+  last day he walks out with the work calendar.
+- Google Calendar supports **transferring ownership** of a secondary calendar (sharing settings, raise the other
+  person to "Make changes and manage sharing"), and an **ICS export/import** fallback for non-Google recipients.
+
+**Revised decision:**
+- **B (`PHC Planner`) is created under the AGENCY Google account** (prestigioushomecare1306), not Larry's personal.
+- Share B → robot service account ("Make changes to events"); share B → Larry's personal account
+  ("Make changes to events") so it still shows in his one-screen view; later share B → Dinasti ("See all event details").
+- **The Cloud project + service account should also live on the agency account** — otherwise the robot's ability to
+  run dies with Larry even though the calendar survives.
+- Quit test: Larry removes his own access, everything keeps working. Nothing to hand off, because he never owned it.
+
+### 2026-10-27 (sequencing — FINAL) — Larry's calendar FIRST, agency planner SECOND
+Larry's order: **finish HIS everything-calendar (A) and get it live/conversational first**, then build the
+agency's junior planner (B). "That way I'm up and running and have my shit together, then worry about them."
+
+**Consequence — corrects the "one Cloud project ever" answer:**
+- **Project 1 (now)** — under **Larry's personal Google account** → service account → shared access to **A**.
+  This is HIS personal automation; it should never be tied to the agency, and it must survive him leaving PHC.
+- **Project 2 (later)** — under the **agency account** → drives **B (`PHC Planner`)** for Dinasti/coverage.
+- Two projects is correct here because the two calendars have genuinely different owners and different
+  lifetimes. Each key lives with the calendar it serves.
+- ⚠️ The A key grants program access to his ENTIRE personal calendar → key file stays on the 3060 only,
+  never in hermes-share, never emailed, never pasted in chat.

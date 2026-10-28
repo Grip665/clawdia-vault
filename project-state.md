@@ -18,6 +18,16 @@ App built, needs Strong 8K wholesale source.
 ## Visual Therapy 👕
 Website skeleton. On hold.
 
+### 🧥 Orochimaru Jacket — ✅ COMPLETE (2026-10-27)
+Finished and worn — "it was a hit." First physical garment out of the clothing lane, start to finish.
+- **Build:** grey/light-grey zip jacket. **Back:** Orochimaru head DTF (SET A `jacket_15x15press_*`, art 11.40×13.96", cream outline halo).
+  **Front:** large plaid-purple **L** (Larry's initial) with **Orochimaru's trademark snake tongue running down it** — the "drip" is the tongue, not a generic paint drip. Plus Akatsuki cloud (red, lower left) and music-note patch (upper left, pearl/white).
+- **Material note:** final L is **plaid/checkered purple print, not chameleon HTV.** The 10/21 plan (chameleon HTV L + weed the scales + DTF tongue) was superseded at the press.
+- **Deadline:** Sat 2026-10-24 → landed 10/27, ~3 days late.
+- **Files:** `media-out/orochimaru/` — 28 files / 117 MB (post-cleanup), gitignored, **not** in backup allowlist.
+- **Lesson:** the print was the only real risk and it held. The front is **one idea, not a collage** — the L + tongue is the anchor; Akatsuki cloud supports it; the pearl music patch is the only extra voice.
+- **Design lesson for future builds:** the tongue's COLOR decides whether it reads as Orochimaru or as a generic caramel/paint drip. In brown it read as dessert to me until Larry said otherwise. A mauve/plum tongue would read instantly as the character.
+
 ## ComfyUI/ViewComfy 🟡
 Running on 3060. Workflow JSON saved, pending ViewComfy integration.
 
