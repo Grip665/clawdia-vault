@@ -1,5 +1,14 @@
 # Mistakes Log
 
+## 2026-10-28 — Put the WRONG NPI on the SCDHHS revalidation fax packet
+- Built the RH265500 fax cover sheet with **NPI 1831815539** (Dinasti's individual NPI, Home Health Aide taxonomy).
+- **Correct NPI of record for EX1882 is 1295369312** (Diane Martin, RN, taxonomy carries license IHCP-1157). PSC confirmed this to Dinasti on 9/23/2026; it's in `memory/2026-09-23.md` and `memory/2026-10-12.md`.
+- **How it happened:** I inherited the value from the August 2026 draft fax templates in `Desktop/SCDHHS/revalidation/*.html` — and those drafts **were never sent**. The 9/23 note explicitly says so. I copied a template instead of checking the enrollment record.
+- **Caught by Larry** asking "is that the correct NPI?" — not by me.
+- **Rule:** on any SCDHHS/PHC document, verify each identifier against the source-of-record (memory entry from the live PSC conversation, NPPES live lookup, the letter itself) — never inherit an ID from an old draft. Drafts are not evidence.
+- Fixed: cover sheet now reads `NPI of Record: 1295369312`, and the message block invites correction at 864-485-2079 before the file is returned.
+
+
 **Format:** `YYYY-MM-DD — What happened — What I learned`
 
 ## 2026-09-01 — False “missing disaster plan” flag
