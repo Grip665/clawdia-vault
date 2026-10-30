@@ -13,7 +13,7 @@ Created 2026-10-16 to give the recurring Senator questions (bills, insurance, Mo
 
 ## Insurance on file
 - **biBERK commercial auto** — policy **0061273-01-CA**, CSL $1,000,000, drivers Thomas Dupree + Anthony Pearson, garaged Duncan SC, period 04/17/2025–04/17/2026 → **EXPIRED**. Possible renewal: biBERK **N9PL497108** $279.45/mo (next due 11/12/26) — not confirmed to be the van.
-- **Progressive / Sardy's Insurance (FL)** — auto policy **876601435** ("Senator Trans FL Auto Insurance"), agent ph **305-485-0116**. Amount + due date still unknown (`NEED INFO`). See `vault/topics/bills.md`.
+- **Progressive / Sardy's Insurance (FL)** — auto policy **876601435** ("Senator Trans FL Auto Insurance"), agent ph **305-485-0116**. **CONFIRMED by Larry 10/29 23:16: this is Thomas's own vehicle (a van) — commercial auto, NOT Larry's personal policy.** 11/06/2026 is Thomas's due date; amount still unknown (`NEED INFO`). See `vault/topics/bills.md`.
 - **Convex GL** — GUAH-001094-00 (02/13/2026–02/13/2027).
 - **biBERK Workers' Comp** — N9WC796997 ($517.42/mo, cancel-risk) + N9WC080186 ($524.63).
 - **Greenhill NEMT app** (1 mini van, Duncan SC).

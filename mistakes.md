@@ -345,3 +345,20 @@ all sections). Never a diff. Before applying, sanity-check the proposal's size �
 - **Two violations:** (1) standing HARD RULE — never put Larry's name on PHC / Senator / DHHS documents or calls; sign as **Dinasti Jones, Owner & Administrator**. (2) Larry has a **conflict of interest and cannot call DHHS as himself** — he also said he did **not** want to involve Dinasti until it was absolutely necessary. My plan required BOTH of the things he can't do.
 - **Root cause:** I optimized for "get a human on the phone" and never checked the script against the identity rules already in MEMORY.md. A script is a document. Treat it like one.
 - **Correct default for PHC/DHHS correspondence:** email from the PHC address, signed Dinasti Jones, no mention of Larry as the actor. Escalate to Dinasti *personally handling it* only when email-only has actually failed.
+
+## 2026-10-29 — Declared Carol "not a live agent" after checking only the HP
+**What I said:** that Carol wasn't running, wasn't in `agents.list`, and had no session since Oct 3 — so the
+contingency doc couldn't be handed to her. Larry's reply: "The hell are you talking about CAROL is an agent now
+we moved her to the 3060 remember?"
+**The error:** Carol runs on her **own OpenClaw install on the 3060** (`C:\Users\User\.openclaw`, agent `carol`,
+workspace `C:\Users\User\.openclaw\workspace-carol`). I read the **HP's** `openclaw.json` → `agents.list` (which
+correctly contains only `main`) and treated that as the whole world. The `agents/carol/sessions` directory I
+found on the HP is a stale leftover from before the move — it is not Carol.
+**Why it stung:** it looked exactly like the memory loss he's worried about. It wasn't — the fact was in recall;
+I just queried the wrong machine and then stated a conclusion with confidence instead of checking the other host.
+**Fix:** verified on the 3060 (carol + main agents present, gateway listening on 18789, PID 5040). Delivered the
+doc to `workspace-carol\UPGRADE-ROLLBACK-CONTINGENCY.md`, appended a section to her existing
+`MUTUAL-REPAIR-RUNBOOK.md`, and messaged her on session key `clawdia-upgrade-contingency` (never a keyless call).
+**Rule going forward:** "is agent X alive?" is a **multi-host** question. Carol/Vance live on the 3060; only
+`main` lives on the HP. Check both before ever saying an agent is down. Stale session files are not evidence of
+an agent.

@@ -16,7 +16,7 @@
 - Recurring: NOW (mo/5th) · biBERK WC 080186 (mo/13th) · Senator WC (mo/24th) · CM contacts + QVs (mo/25th) · tasksheets (weekly Mon)
 
 ## Seeded set
-QV EOB 10/30 · weekly tasksheet pull (Mon) · NOW $80.59 (mo/5th) · Progressive auto 11/06 ·
+QV EOB 10/30 · weekly tasksheet pull (Mon) · NOW $80.59 (mo/5th) · Thomas/Senator Progressive commercial auto 11/06 (NOT Larry's) ·
 USLI $907.20 11/09 · biBERK PL $279.45 11/12 · biBERK WC $524.63 (mo/13th) · Verizon $116.95 11/14 ·
 Senator WC $517.42 (mo/24th) · CM monthly contacts + QVs (mo/25th) · NOW renewal 12/05 ·
 biBERK WC renewal 12/13 · Business license 12/31 · USLI $902 01/08/27 · DPH license 02/28/27 · USLI $902 03/09/27

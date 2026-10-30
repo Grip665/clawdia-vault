@@ -12,22 +12,25 @@ Tracker for Senator Transportation LLC (and related) bills Larry flags. Reminder
 ## Standard
 | Item | Policy # | Amount | Due |
 |------|----------|--------|-----|
-| Biberk — Workers Comp (2nd policy) | N9WC080186 | $524.63 | 9/13/2026 |
+| Biberk — Workers Comp (2nd policy) | N9WC080186 | $524.63 → **$791.22 from 12/13/2026** | 9/13/2026 |
 | Verizon Connect | — | $116.95 | **11/14/2026** (Larry 10/16) |
 | Biberk — policy (paid 2/16/26) | N9PL497108 | $279.45 | 11/12/2026 |
 | USLI (billing ref UIA-489481-120525) | AH 1563617C | $902.00 each | **11/09/26 · 01/08/27 · 03/09/27** (3 payments) |
 | Now Insurance | — | monthly | Paid every 5th — **UP TO DATE** ✅ |
 | ~~USLI~~ (merged above) | — | — | — |
-| **Sardy's Insurance / Progressive — Auto** | 876601435 | TBD | **11/06/2026** (Larry 10/16) |
+| ~~Sardy's Insurance / Progressive — Auto~~ **NOT LARRY'S** | 876601435 | — | **CONFIRMED 10/29 23:16** — Thomas's own vehicle (a van), commercial auto via Sardy's. Not a Larry bill. Tracked in `senator-transportation.md`. |
 
-## Progressive Auto — payment info (logged 2026-10-14; provider added 2026-10-16)
+## Progressive 876601435 — THOMAS / SENATOR TRANSPORTATION (not Larry's)
+> **CONFIRMED by Larry 2026-10-29 23:16:** "the progressive is Thomas policy for his vehicle, a van, I think — it's not mine."
+> Do **not** list this as a Larry bill, do **not** put it on his personal reminders. Any due date below belongs to Thomas's policy.
+
 - **Carrier:** Progressive — **via Sardy's Insurance** (FL agent)
 - **Agent phone:** **305-485-0116** (provider number on the password doc)
 - **Auto policy #:** 876601435 ("Senator Trans FL Auto Insurance")
 - **Policy owner:** Pierre Dupree = Thomas Dupree (same person) — owner of Senator Transportation LLC (confirmed 2026-10-16). See `vault/topics/senator-transportation.md`.
 - **DOB:** 12/27/1986 · **ZIP:** 33127
 - Source: password doc (`Desktop/Billing-Training/transcripts/password_doc.txt`, §5C) + insurance list. **No dedicated Progressive online login saved** (as of 10/16).
-- **Due: 11/06/2026** (Larry, 10/16). Amount still TBD — capture when the bill shows up.
+- **Due: 11/06/2026** (reported 10/16) — **Thomas's bill, not Larry's.** Amount still TBD.
 
 ## Account phone numbers
 - Biberk acct w/ N9WC080186: **864-479-0020**
@@ -35,8 +38,17 @@ Tracker for Senator Transportation LLC (and related) bills Larry flags. Reminder
 
 ## Notes
 - ⚠️ **10/27: the `~$2,300/mo Berkshire Hathaway` figure in the cron reminder is UNVERIFIED.** None of the three
-  biBERK/BH policies on file comes to $2,300/mo: N9WC796997 $517.42 + N9WC080186 $632.27 + N9PL497108 $279.45 =
-  $1,429.14. Either a 4th policy exists or the figure is stale. Verify before trusting the draft-day nudge.
+  biBERK/BH policies on file comes to $2,300/mo: N9WC796997 $517.42 + N9WC080186 $524.63 + N9PL497108 $279.45 =
+  $1,321.50. Either a 4th policy exists or the figure is stale. Verify before trusting the draft-day nudge.
+  (The `$632.27` carried in an earlier version of this note does not match the calendar's $524.63 — the calendar
+  tracks actual drafts, so treat **$524.63** as current.)
+- 🔁 **N9WC080186 RENEWS 12/13/2026 — premium INCREASE, and the auto-pay is on the card that keeps failing.**
+  Carrier's renewal notice (received 10/29): automatic payment of **$791.22 on 12/12/2026**, card **ending 0450**;
+  new rate **$791.22 × 9 monthly** (9-month term) vs current **$524.63 × 12**. Annual cost **$6,295.56 → $7,121.00
+  (+$825.44, +13%)**. Coverage term begins 12/13/2026; new COI issues only after successful payment.
+  ⚠️ Card XXXX0450 has a decline history (biBERK 8/13/26; NOW ×4 incl. 10/5/26). **If this draft fails, there is
+  no workers' comp for the policy year** — confirm the card is good or move it to a card that works *before* 12/12.
+  Calendar: `biBERK / WC AUTO-PAY - 791.22` on 12/12 (personal lane, 3 reminders).
 - Biberk N9WC796997 = **$517.42 MONTHLY** (confirmed 8/25) — next due before 9/24. The 8/18 payment covered the 8/26 invoice; treat as recurring monthly. Cancel risk was 9/2 for the prior invoice — keep current one paid.
 - Spectrum: flag if service drops — office internet critical for dispatch/billing.
 - USLI AH 1563617C: three $902 payments (11/9/26, 1/8/27, 3/9/27).
@@ -195,3 +207,11 @@ going back and paying the overdue/missed charges manually.
 silently fail**, and the only signal is a "not approved" email. Never treat "mathematically paid" as true
 without a receipt. Paid 10/27: **NOW Insurance** (confirmed by Larry) and **biBERK $517.42** (paid on
 Larry's own card).
+
+## ⚠️ Progressive 876601435 — NOT Larry's personal policy (corrected 2026-10-29)
+Recorded earlier as "Larry's personal auto, due 11/06/2026". **Wrong.** Larry's personal carrier is **State Farm**
+(homeowners 40-B3-J157-1, 509 Birnie St — used as his other insurance / residency proof).
+**RESOLVED 2026-10-29 23:16 — Larry confirmed:** this is **Thomas's policy for Thomas's own vehicle (a van)**, filed
+under **Sardy's Insurance**; it is **not Larry's**. Treat it as a Senator Transportation / Thomas item only.
+→ Never put it on Larry's personal bill list or reminders. No renewal nagging to Larry.
+→ If a 11/06 event still exists on Larry's calendar, it should be deleted or relabelled as Thomas's.

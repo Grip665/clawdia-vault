@@ -64,3 +64,23 @@ See also: [[project-state]], [[decisions-log]]
 - How-to doc lives in her workspace: `workspace-carol\TALK-TO-CLAUDE.md`. CAROL confirmed 2026-10-14.
 - To poke CAROL from outside, use `openclaw.cmd agent --agent carol --session-key <key> --message-file <f>`
   on the 3060 — **always pass an explicit `--session-key`** (a keyless call attaches to CAROL's OWN live Telegram session — it echoed her in-flight chat with Larry).
+
+## 🔏 Service Plan signature checker — LIVES ON THE 3060 (added 2026-10-29)
+**If Larry asks about "the system that checked if signatures were written in the participant signature box",
+this is it. Do not say it doesn't exist.**
+
+- Skill: `C:\Users\User\.openclaw\workspace-carol\skills\carol-sp-signature-status\SKILL.md`
+- Script: `C:\Users\User\.openclaw\workspace-carol\CAROL\sp_sign_status.js` (READ-ONLY, created 2026-10-05)
+- Run: `node CAROL/sp_sign_status.js <ID> ...` or `--roster [data/roster-parsed.csv]` (every participant).
+- Reports THREE signatures per client on their **current** (top-row) service plan:
+  1. **Assessor** (Larry, the CM) — `/service_plans/<SP_ID>/edit`
+  2. **Reviewer (LOC)** — same page; area office pre-~09/29, Acentra after; name is informational, not a gate
+  3. **Part. Signature** (participant) — `/service_plans/<SP_ID>/participant_signature/new`
+- Signed vs unsigned tell: signed page = read-only VIEW (`hasSignedOn:true`, **no canvases**).
+  Unsigned = live signing FORM (`PREVIEW ONLY`/`sign above` + **two 400×200 canvases**, empty
+  `service_plan[participant_signature_data]`).
+- **Compliance rule:** `Next QV Due` (dashboard col 8, `phoenix.scdhhs.gov/dashboard_active_applications`)
+  vs today. QV passed + participant unsigned = 🔴 out of compliance. QV not yet due = 🟡 pending.
+- **Never report a bare unsigned count.** Phoenix raises no alert, and the raw count (38 once) looked
+  alarming when true compliance exposure was far smaller. Always give the 🔴/🟡 split.
+- ⚠️ CM-side tooling lives on the 3060, NOT here. Anything Carol built is invisible unless you look there.
