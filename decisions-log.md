@@ -2,6 +2,10 @@
 
 **Format:** `YYYY-MM-DD — Decision — Context`
 
+## 2026-10-30
+- **PHC office hours — keep M–F 10:00–4:00, change nothing** — Larry's call after the DPH-vs-SCDHHS research. Reasoning filed in `topics/home-health-admin.md` → "OFFICE HOURS — DPH vs SCDHHS". Short version: **DPH licensing (R.60-122) sets no hours** (zero time-of-day references); **SCDHHS does** — PCS Scope item 8 requires open+staffed 10–4 M–F, phone 8:30–5, after-hours emergency number, **with sanctions**. Hours come from SCDHHS, not DPH. Never drop them.
+- **Reg-number correction** — R.61-122 is the **DHEC-era predecessor** of R.60-122 (same title, same statute), *not* a different license category. Prior note was wrong; fixed in vault.
+
 ## 2026-07-13
 - **Obsidian Vault Setup** — Created Clawdia-Vault as persistent memory layer, 4-tier memory architecture
 - **Hindsight Phase 1 Tuning** — Applied 8 config changes: enableKnowledgeTools, recallMaxTokens=4096, recallBudget=high, expanded recallTypes, missions for extraction/observation/bank

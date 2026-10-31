@@ -27,7 +27,12 @@ The scope enumerates **six** active-record contents, but several *additional* do
 11. **Backup-plan documentation** — effective written backup plan; use of the backup plan + any CM/CC telephone calls about missed services recorded **in the participant's file** (§E.9).
 12. Standard practice additions: **incident reports**, **medication list**, **consents** as applicable.
 
-**Retention:** active records ≥ **2 years** of documentation; ALL records retained at least **5 years** (Medicaid policy) (§E.7.e.v). Records kept at contract address, available for SCDHHS review (§E.8).
+**Retention (corrected 2026-10-30 — do not confuse the two clocks):**
+- **Content rule — 2 years.** PCS Scope §E.7.e.v: *"All active participant records must contain at least two (2) years of documentation to include task sheets, service plans, supervisory visit documentation, any complaints, etc."* → the **active file must HOLD 2 years of documents**. This is not a retention period and not permission to discard at 2 years.
+- **Retention rule — 5 years.** Same section: *"Per Medicaid policy all records must be retained for at least five (5) years."* **DPH R.60-122 §602.C** fixes the start point: *"maintained for at least five (5) years following the cessation of services to the client."* → clock starts when services STOP, so an active participant's records never age out.
+- **SCDHHS A&B Manual** adds a 4-year floor *after last payment* — shorter than DPH's 5, so **5 years post-cessation controls**.
+- **Audit/litigation override (all three):** if a claim, audit, or litigation is initiated before the period expires, retain until it is resolved or the period ends, whichever is later.
+- Records kept at contract address, available for SCDHHS review (§E.8).
 
 ---
 

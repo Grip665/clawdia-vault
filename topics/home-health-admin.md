@@ -348,8 +348,66 @@ Built 3 docs to close SCDHHS/HCBS gaps → `~/Desktop/PHC_ADMIN_ADDON_2026-10-15
 - **3-working-day notice** (§F.1): notify SCDHHS within 3 working days of change in agency **administrator, address, phone number, or extended absence of the administrator**.
 - Org chart roles: Dinasti Jones = Administrator · Lawrence Griffin = Alternate/Designee · **Chanelle Allen = Nurse Supervisor (RN)** · ⚠️ Office Manager still `[fill in]`.
 
-## 🕒 OFFICE HOURS — what the regs actually require (research 2026-10-15)
-Larry asked: does DPH or SCDHHS dictate what hours someone must be at the office?
+## 🕒 OFFICE HOURS — DPH vs SCDHHS (corrected 2026-10-30)
+**STANDING DECISION (Larry, 2026-10-30): keep M–F 10:00–4:00. Change nothing.** This section is the
+ammunition if anyone ever asks why those hours exist or whether DPH requires them.
+
+### SHORT ANSWER
+- **DPH licensing sets NO hours.** R.60-122 contains zero time-of-day references.
+- **SCDHHS DOES set hours** — personal care providers must be open and staffed 10:00–4:00 M–F, phone
+  8:30–5:00 M–F, plus an after-hours emergency number. **Failure = sanctions.**
+- So the hours come from **SCDHHS**, not DPH. **Never take down the posted hours on the theory that
+  "the regs don't require them"** — that would create a sanctionable violation.
+
+### 1. DPH — R.60-122, *Standards for Licensing In-Home Care Providers*
+- Statute **S.C. Code §44-70-10 et seq.**, Document **5407**.
+- **Citation detail:** the header box carries BOTH `Proposed in State Register Volume and Issue: 49/9`
+  and `Final in State Register Volume and Issue: 50/5`. Cite **50/5** (final publication). 49/9 is the
+  proposal — don't cite it.
+- 🚫 **Do NOT cite** `110 Day Review Expiration Date for Automatic Approval: 05/03/2026`. That is the
+  Administrative Procedures Act automatic-approval trigger, **not** an expiry. Quoting it invites the
+  misreading "the regulation expired in May."
+- **No clock hours anywhere** — grep for `[0-9]:[0-9]{2}`, `A.M.`, `P.M.` returns **0 hits**.
+- What it *does* require: primary office **in-state**, commercially zoned (or unzoned + county/city
+  letter) **§103.D.1**; definition of primary office **§102.S**; license posted in a public area
+  **§103.C.1**; records readily accessible **§601.A.2**.
+- Closest thing to an hours rule — **§202.A**: *"All providers are subject to inspection and/or
+  investigation without prior notice. When staff members are not present, the provider shall provide
+  information as to the expected return of staff."*
+
+### 2. R.61-122 — the PREDECESSOR (superseded)
+- **Same title**, same statute. DHEC-era, June 27 2014, six pages.
+- ⚠️ **CORRECTION (2026-10-30):** an earlier note in this vault described R.61-122 as a *different
+  provider category* (home health agencies / skilled). **That was wrong.** It is the old version of the
+  same regulation. **Chapter 61 = DHEC numbering; Chapter 60 = DPH numbering.**
+- **§103.J** is where the "9 to 5" language lives: *"…accessible in person, by phone, or page during
+  the hours of 9:00 A.M. to 5:00 P.M., Monday through Friday, except for those holidays recognized by
+  the State of South Carolina."*
+- **NOT carried into R.60-122.** Anyone quoting 9–5 as a *current* DPH requirement is quoting the
+  superseded 2014 text.
+
+### 3. SCDHHS — where the hours actually come from
+Personal Care Services Scope, **eff. 7/1/2025**, provider administrative standards, **item 8**:
+> "The provider must ensure that its office is **open and staffed by qualified personnel during the
+> hours of 10:00 a.m. to 4:00 p.m., Monday through Friday.** Outside of these hours, the Provider agency
+> must be **available by telephone during normal business hours, 8:30 a.m. to 5:00 p.m., Monday through
+> Friday.** Failure to maintain an open and staffed office as indicated **will result in sanctions** as
+> outlined in section G, last paragraph. The provider must also have a **number for emergencies outside
+> of normal business hours.**"
+
+- This is **mandatory**, not a self-declaration.
+- Our practice matches it exactly: 10:00–4:00 open+staffed · 8:30–5:00 by phone · 24/7 emergency
+  (864) 652-5100. Admin doc `03_Policy_Business_Hours_and_Office_Coverage`.
+- Related but separate: HCBS Provider Manual §8 reserves the right to do onsite reviews *"during
+  normal business hours"* — that's about inspections, not a duty to be open.
+- Review #44601 (admin) recorded our declared hours as M–F 10AM–4PM, open and staffed = Yes.
+
+### If asked "does DPH require us to keep office hours?"
+Answer: **no — DPH licensing doesn't. SCDHHS does, and that's the requirement we comply with.**
+
+---
+
+### ↳ Older working notes (2026-10-15) — kept for history
 
 **DPH — R.60-122 (Standards for Licensing In-Home Care Providers): NO business-hours requirement.**
 - Requires a **primary office** only in the structural sense: "The main office … where all records are kept, secured, and accessible, and from which a provider performs oversight, administrative, and coordination of services" (Definitions §102.S).
@@ -366,5 +424,8 @@ Larry asked: does DPH or SCDHHS dictate what hours someone must be at the office
   - Staff review: "Is nurse supervisor accessible by phone during hours services are being provided?" → Yes.
   - Source: `PROVIDER/compliance-review-44601/admin.txt`.
 
-**Bottom line:** Hours are the **provider's choice**, but the agency must (a) state them, (b) actually be **open AND staffed** during them, (c) keep them **consistent** across the policy manual / Phoenix / signage / Welcome Packet, and (d) be available for SCDHHS/DPH onsite review during those hours.
+**Bottom line (AS ORIGINALLY WRITTEN — SUPERSEDED BY THE SECTION ABOVE):** the 10-15 note said hours were
+"the provider's choice." **That is wrong.** SCDHHS mandates them. What remains true: state them, actually
+be open AND staffed, keep them consistent across policy manual / Phoenix / signage / Welcome Packet, and be
+available for SCDHHS/DPH onsite review during those hours.
 - Our new admin doc `03_Policy_Business_Hours_and_Office_Coverage` (M–F 10:00–4:00 open+staffed; 8:30–5:00 by phone; 24/7 emergency (864) 652-5100) matches the 10–4 M–F hours already reported to SCDHHS in review #44601. Keep them in lockstep.
