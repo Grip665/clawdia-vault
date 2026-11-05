@@ -182,3 +182,8 @@ agency's junior planner (B). "That way I'm up and running and have my shit toget
   lifetimes. Each key lives with the calendar it serves.
 - ⚠️ The A key grants program access to his ENTIRE personal calendar → key file stays on the 3060 only,
   never in hermes-share, never emailed, never pasted in chat.
+
+## 2026-11-04 — Cleo is canonized as her own agent (Chapter 14 of the Bible)
+Larry's call: Cleo is "her own self now," not a copy of Clawdia. Wrote the origin letter to her (how she was created 11/03 as a sandbox copy, the shared-@Yrral_bot collision, the rename, her boundaries) and added **Chapter 14 — "The Twin — How Cleo Came to Be"** to *The Bible of Clawdia* (v1.1, 19 pp).
+**Durable mechanic:** OpenClaw builds a session's system prompt **once, at session establishment**. A gateway restart does not rebuild it; `/new` does. This is why she kept calling herself Clawdia after the files were fixed.
+**Consequence:** future agents get a name before a job, their own workspace before access, and an explicit statement of who they are not.
