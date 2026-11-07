@@ -84,3 +84,19 @@ this is it. Do not say it doesn't exist.**
 - **Never report a bare unsigned count.** Phoenix raises no alert, and the raw count (38 once) looked
   alarming when true compliance exposure was far smaller. Always give the 🔴/🟡 split.
 - ⚠️ CM-side tooling lives on the 3060, NOT here. Anything Carol built is invisible unless you look there.
+
+## 🔨 NEXT BUILD — `carol_sp_lookup.js` (noted 2026-11-06 19:24)
+**Goal (Larry):** stop hand-typing the two assessment IDs for every service-plan fill.
+- **Read-only resolver:** given a participant (client id or name), walk their assessments in Phoenix and print:
+  - `NEW <assessment_id>  <open/not-started>  <created date>`
+  - `OLD <assessment_id>  <completed>  SP <sp_id>  <date>`
+- Then chain: lookup → existing argv-gated filler → "SP 89xxxx filled, waiting on your signature." Still stops before Complete/Sign.
+- **Hard limit:** the NEW assessment id only exists after the service plan is created in Phoenix (that click mints it). Larry creates the plan; the agent does everything after.
+- **Lanes:** primary on the 3060 (Carol's Chrome, logged-in CM session); fallback HP via tunnel 18802. Same file, md5-identical.
+- **Trigger idea:** let `plan-expiry-watch.sh` hand candidates in automatically so the list is drafted before he asks.
+- **Status:** NOT built yet. Prototype read-only first, verify against a known pair (e.g. Ronnie Davis 1823083 ← 1719019).
+
+## ⚰️ Caseload changes — 2026-11-06
+- **ANNIE J GRAY** (9766379) and **JAMES E NELSON** (9628613) — **deceased**. Larry closed both with RSP.
+- **Do not create narratives, MCs, QVs, SPs, or any Phoenix documentation for them** unless Larry says they are still on his board. As of today neither appears on the Events/MC list.
+- Removed from `CAROL/mc_ids.json` (roster 59 → 57); archived in `CAROL/mc_ids_closed.json` so the record isn't lost.

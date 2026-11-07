@@ -15,3 +15,9 @@
 ## Notes
 - Larry said both will be added to the Matt Wolfe planner once it's up (9/3/26) — this tracker is the backup until then
 - Both renewals = do BEFORE expiration, no grace assumption
+
+## 👤 Contacts — Town of Duncan (updated 2026-11-06)
+- **Melody Millwood — Town Administrator** for the Town of Duncan. Business-license contact. (Told to Larry directly 2026-11-06; no number confirmed for her specifically yet.)
+- Business license desk: **864-249-8013** · Town main line: **864-249-8022** · 230 School Street, Duncan SC 29334.
+- Zoning Administrator: **Barry Frost** (signs zoning verification letters; NBD letter for 128 E Main on file).
+- Open: Larry's license #1155 (Account #1728) expires 12/31/2026; renewal window opened 11/1. Call booked Mon 11/09 10:40 ET.

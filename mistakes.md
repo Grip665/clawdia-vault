@@ -406,3 +406,11 @@ composer now substitutes extras there. Legacy end-append remains only as a fallb
 **Verified:** `compose QT` for Alton is byte-identical (`diff` clean) to Larry's approved text.
 
 **Rule:** `extras` = case-specific facts. They render right after the greeting, never before the closing.
+
+## 2026-11-06 18:21 — Ran the STALE HP copy of carol_fill_sp_disciplines.js on a live record
+- **What:** Larry gave LC Richey new assessment 1823081 / old 1774656. I ran `node CAROL/carol_fill_sp_disciplines.js 1823081 1774656` from the HP workspace.
+- **Why it failed:** that HP copy is the Sep-9 build with **no argv support**. It ignored both IDs and used its hardcoded pair **1815718 / 1766885 (Genette Knuckles)**. It reported saving disc 1 and disc 2 on HER plan before I caught it and killed it.
+- **Root cause (mine):** I executed the skill's example command without checking WHICH copy it resolved to. The same skill's first banner says CAROL moved to the 3060 on 2026-10-03 and the HP copy is "kept for reference only." I also had my own note from 2026-10-05 documenting this exact trap and still hit it.
+- **What I skipped:** a 5-second check (`grep process.argv` on the file) that would have shown no argv support, and running on the 3060 where the sanctioned copy lives.
+- **Damage:** none to 1823081 (neveropened). Genette's 1815718 — unverified; her plan reportedly is not open, so likely nothing landed.
+- **Rule going forward:** never execute a CAROL write against a file I have not just verified on the machine that owns it. Print resolved IDs + client name + browser lane BEFORE any write.
