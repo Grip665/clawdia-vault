@@ -1,5 +1,13 @@
 # Mistakes Log
 
+## 2026-11-07 — Converted CLTC auth "units" as if they were 15-min DSN units (Cohen Wednesday hours)
+- Larry asked "what are Mrs. Cohen's hours on Wednesdays." I pulled `PROVIDER/reports/open_auth_2026-11-03.html` and read her rows as **2.0 COMA + 2.0 PCS units = 4 units = 1 hour** using the DSN 4-units-per-hour rule. **Wrong.**
+- **Larry: her Wednesday is 2 hrs COMA + 2 hrs PCS = 4 hours total.** ("She isn't DSN.")
+- **Proof I missed in my own files:** `hermes-share/PROVIDER/coverage-log.md` lists her Fri **9a–1p** (= 4 h) and Sat **8:30a–3p** (= 6.5 h) and Sun **8:30a–2p** (= 5.5 h). Those match the auth grid **numerically 1:1** — so in the Phoenix "Auth Units" column the number **IS hours** for CLTC/CDS authorizations. Only **DDSN/DSN** sheets use 15-minute units (Roxie 12u/8u = 3h/2h).
+- Second error in the same thread: I earlier told him Cohen was a "weekend client" because the Aug-17 coverage board only listed her weekend coverage gap. She is a **Mon–Fri + weekend** client.
+- **Roster locked by Larry 2026-11-07:** the ONLY three DSN clients are **Roxie Johnson, Sandra Smith, David Bosworth**. Mrs. Cohen is CLTC. Canon file: `vault/topics/client-roster-dsn-vs-cltc.md` — read it before any hours/schedule/units answer.
+- **Rule — do not repeat:** in `open_auth_*.html` / Phoenix authorization grids, read the per-day number as **HOURS**. Sanity check before answering: multiply the day number by the shift length in `coverage-log.md`; if it matches 1:1 it's hours. Never apply the DSN ÷4 conversion to a CLTC client, and never answer a schedule question from a coverage-board snapshot instead of the auth grid + known shift times.
+
 ## 2026-10-28 — Put the WRONG NPI on the SCDHHS revalidation fax packet
 - Built the RH265500 fax cover sheet with **NPI 1831815539** (Dinasti's individual NPI, Home Health Aide taxonomy).
 - **Correct NPI of record for EX1882 is 1295369312** (Diane Martin, RN, taxonomy carries license IHCP-1157). PSC confirmed this to Dinasti on 9/23/2026; it's in `memory/2026-09-23.md` and `memory/2026-10-12.md`.
