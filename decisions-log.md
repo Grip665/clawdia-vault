@@ -187,3 +187,24 @@ agency's junior planner (B). "That way I'm up and running and have my shit toget
 Larry's call: Cleo is "her own self now," not a copy of Clawdia. Wrote the origin letter to her (how she was created 11/03 as a sandbox copy, the shared-@Yrral_bot collision, the rename, her boundaries) and added **Chapter 14 — "The Twin — How Cleo Came to Be"** to *The Bible of Clawdia* (v1.1, 19 pp).
 **Durable mechanic:** OpenClaw builds a session's system prompt **once, at session establishment**. A gateway restart does not rebuild it; `/new` does. This is why she kept calling herself Clawdia after the files were fixed.
 **Consequence:** future agents get a name before a job, their own workspace before access, and an explicit statement of who they are not.
+
+## 2026-11-08 — HP: NEVER upgrade OpenClaw casually (Larry's standing rule, now written down)
+Larry: "We refused to update you on the HP because of this. I totally forgot and this happened."
+A 16:16 upgrade 2026.6.6 → 2026.11.2 took the gateway down ~1h45.
+Chain: binary upgraded, config + session migrations never ran → unit exit 78/CONFIG → stale June codex sidecar blocked session migration → gateway then sat in a "suspension" state refusing every node connection.
+Only CAROL (3060) could recover it: schema migration (agents.list → agents.entries, memory.search, tts to top level), moved 3 blocking stores aside, chmod go-w on the systemd dirs.
+**Rule going forward:**
+1. No OpenClaw version change on the HP without an explicit maintenance window agreed with Larry first.
+2. Back up config + state + session stores BEFORE touching the binary; verify the backup exists, not just that a command ran.
+3. Never trust openclaw doctor --fix on this box — it hangs at 0% CPU at the banner. Use config validate + named fixes.
+4. After any upgrade: set plugins.entries.voice-call.config.agentId, check for "gateway suspension" in the log, and re-approve the phone node (upgrade invalidates node approval).
+5. systemd drop-in restart-grace.conf now sets TimeoutStopSec=330 / KillMode=mixed; shutdown legitimately needs ~2 min for the hindsight daemon.
+**Why this was missed:** the no-upgrade rule existed only in Larry's head and in past conversation, never in the vault. It is recorded here now.
+
+## 2026-11-08 — Claude lane restored via claude-cli (no API key)
+Larry wanted the old "talk to Claude" lane back. cliBackends is gone in 2026.11.2; the bundled anthropic plugin now provides the harness, selected per model:
+agents.defaults.models["anthropic/claude-sonnet-5-5"].agentRuntime = { id: "claude-cli" }
+Fallbacks now: google/gemini-3-flash-preview -> anthropic/claude-sonnet-5-5 -> openrouter/deepseek-v4.1-flash
+Auth: Claude Pro account (grip694@gmail.com) via claude auth login (PTY, paste OAuth code). No Anthropic API key exists and none is needed.
+Proven: an in-gateway agent turn on that model logged [agent/cli-backend] provider=claude-cli and returned cli-lane-ok.
+Caveat: ~13.6s per trivial turn because the CLI is spawned each time. Fallback lane, not a daily driver.

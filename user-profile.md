@@ -39,3 +39,11 @@
 - Workspace: `~/.openclaw/workspace/`
 - 4 Sight app: `~/Desktop/4Sight/`
 - CAROL files: `~/Desktop/CAROL/` + `~/Desktop/Prime_prewrites/`
+
+## 📍 Addresses — READ BEFORE FILLING ANY FORM (corrected 2026-11-08)
+- **Larry's HOME: Greenville County, SC.** Not Duncan. Do not put Duncan in a residence field.
+- **Destiney (daughter): resides in Greenville County, SC** and does **not** live with Larry.
+- **128 E Main St, Suite A, Duncan SC 29334 = the Prestigious Home Care BUSINESS address.** It is a business
+  address only. It has been mistaken for a home address before and caused a false scholarship-eligibility flag.
+- **Rule:** when a form asks for residence, establish *whose* address it is first. Business address never goes
+  in a residence field.
